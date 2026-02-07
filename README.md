@@ -45,6 +45,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 	- Strictly speaking void is a room in 5A-2, however it fits more neatly into the map graphics in 5A-3, so that is where it's handled here
 	- 9A-8 (Reconciliation) is so wide that it had to be sliced; rows are traversed left to right, top to bottom
 	- end-golden is so far away in 9A-9 that it had to be adjusted to appear much closer than it actually is for the map to be useful
+- Only full res maps currently available which are large, be aware of a couple seconds of load time
 
 
 ## Thanks
