@@ -128,7 +128,7 @@
                         "strawberries_required",
                         "goal_area",
                         "require_cassettes",
-                        //"difficulty",
+                        "difficulty",
                         "lock_goal_area"
                     ],
                     [

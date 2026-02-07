@@ -64,39 +64,39 @@
         "img": "images/icons/cassettes.png",
         "codes": "require_cassettes"
     },
-^//    {
-^//        "name": "Difficulty",
-^//        "type": "progressive",
-^//        "allow_disabled": false,
-^//        "initial_stage_idx": 1,
-^//        "stages": [
-^//            {
-^//                "img": "images/icons/beginner.png",
-^//                "name": "Beginner",
-^//                "codes": "difficulty,difficulty_beginner"
-^//            },
-^//            {
-^//                "img": "images/icons/intermediate.png",
-^//                "name": "Intermediate",
-^//                "codes": "difficulty,difficulty_intermediate"
-^//            },
-^//            {
-^//                "img": "images/icons/advanced.png",
-^//                "name": "Advanced",
-^//                "codes": "difficulty,difficulty_advanced"
-^//            },
-^//            {
-^//                "img": "images/icons/expert.png",
-^//                "name": "Expert",
-^//                "codes": "difficulty,difficulty_expert"
-^//            },
-^//            {
-^//                "img": "images/icons/gm.png",
-^//                "name": "Grandmaster",
-^//                "codes": "difficulty,difficulty_gm"
-^//            }
-^//        ]
-^//    },
+    {
+        "name": "Difficulty",
+        "type": "progressive",
+        "allow_disabled": false,
+        "initial_stage_idx": 1,
+        "stages": [
+            {
+                "img": "images/icons/beginner.png",
+                "name": "Beginner",
+                "codes": "difficulty,difficulty_beginner"
+            },
+            {
+                "img": "images/icons/intermediate.png",
+                "name": "Intermediate",
+                "codes": "difficulty,difficulty_intermediate"
+            },
+            {
+                "img": "images/icons/advanced.png",
+                "name": "Advanced",
+                "codes": "difficulty,difficulty_advanced"
+            },
+            {
+                "img": "images/icons/expert.png",
+                "name": "Expert",
+                "codes": "difficulty,difficulty_expert"
+            },
+            {
+                "img": "images/icons/gm.png",
+                "name": "Grandmaster",
+                "codes": "difficulty,difficulty_gm"
+            }
+        ]
+    },
     {
         "name": "Lock Goal Area",
         "type": "toggle",
