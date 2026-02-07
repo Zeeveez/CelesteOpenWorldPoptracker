@@ -1,0 +1,16 @@
+{
+    "5c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "5C - Checkpoint 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5c-1"
+                    ]
+                }
+            }
+        ]
+    }
+}

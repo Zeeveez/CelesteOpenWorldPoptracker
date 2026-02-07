@@ -1,0 +1,70 @@
+{
+    "7b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "7B - Checkpoint 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7b-1"
+                    ]
+                }
+            },
+            {
+                "title": "7B - Checkpoint 2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7b-2"
+                    ]
+                }
+            },
+            {
+                "title": "7B - Checkpoint 3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7b-3"
+                    ]
+                }
+            },
+            {
+                "title": "7B - Checkpoint 4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7b-4"
+                    ]
+                }
+            },
+            {
+                "title": "7B - Checkpoint 5",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7b-5"
+                    ]
+                }
+            },
+            {
+                "title": "7B - Checkpoint 6",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7b-6"
+                    ]
+                }
+            },
+            {
+                "title": "7B - Checkpoint 7",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7b-7"
+                    ]
+                }
+            }
+        ]
+    }
+}

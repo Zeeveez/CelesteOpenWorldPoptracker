@@ -1,0 +1,912 @@
+[
+    {
+        "name": "Celestial Resort A - Room s0",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room s0" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 10,
+                "y": 506,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room s1",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room s1" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 330,
+                "y": 306,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room s2",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room s2" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 730,
+                "y": 306,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room s3",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room s3" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 1234,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 0x-a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 0x-a" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 1586,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 00-a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 00-a" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 1906,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 02-a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 02-a" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 2546,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 02-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 02-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 2546,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 01-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 01-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 2226,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 00-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 00-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 1906,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 00-c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 00-c" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 1906,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 0x-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 0x-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 1586,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 03-a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 03-a" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 2866,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 04-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 04-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 3186,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 05-a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 05-a" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 3506,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 06-a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 06-a" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 3826,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 07-a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 07-a" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 4146,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 07-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 07-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 4146,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 06-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 06-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 3826,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 06-c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 06-c" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 3826,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 05-c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 05-c" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 3506,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 08-c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 08-c" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 4466,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 08-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 08-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 4466,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 08-a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 08-a" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 10,
+                "y": 562,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 09-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 09-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 330,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-x",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 11-x" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 970,
+                "y": 746,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-y",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 11-y" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 970,
+                "y": 930,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-y",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 12-y" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1290,
+                "y": 930,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-z",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 11-z" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 970,
+                "y": 1114,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 10-z",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 10-z" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 650,
+                "y": 1114,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 10-y",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 10-y" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 650,
+                "y": 930,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 10-x",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 10-x" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 650,
+                "y": 746,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 10-c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 10-c" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 650,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 11-c" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 970,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 12-c" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1290,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-d",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 12-d" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1290,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-d",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 11-d" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 970,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 10-d",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 10-d" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 650,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 11-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 970,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 12-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1290,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 13-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 13-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1610,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 13-a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 13-a" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1610,
+                "y": 562,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 13-x",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 13-x" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1610,
+                "y": 746,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-x",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 12-x" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1290,
+                "y": 746,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 11-a" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 970,
+                "y": 562,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 08-x",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 08-x" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 10,
+                "y": 746,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 09-d",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 09-d" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 2570,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 08-d",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 08-d" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 2250,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 06-d",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 06-d" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 1610,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 04-d",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 04-d" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 970,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 04-c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 04-c" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 970,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 02-c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 02-c" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 330,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 03-b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 03-b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 650,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 01-c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 01-c" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 10,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 02-d",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 02-d" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 00-d",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 00-d" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 10,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof00",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof00" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof01",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof01" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 818,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof02",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof02" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 1234,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof03",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof03" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 1698,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof04",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof04" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 2674,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof05",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof05" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 3010,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof06b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof06b" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 3826,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof06",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof06" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 4434,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof07",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof07" ] } ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 6466,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    }
+]

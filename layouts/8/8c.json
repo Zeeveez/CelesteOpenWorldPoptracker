@@ -1,0 +1,16 @@
+{
+    "8c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "8C - Checkpoint 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "8c-1"
+                    ]
+                }
+            }
+        ]
+    }
+}

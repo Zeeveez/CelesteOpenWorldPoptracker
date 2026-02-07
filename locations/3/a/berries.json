@@ -1,0 +1,389 @@
+[
+    {
+        "name": "Celestial Resort A - Golden Strawberry",
+        "visibility_rules": [
+            "include_goldens"
+        ],
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof07" ]
+            }
+        ],
+        "map_locations": []
+    },
+    {
+        "name": "Celestial Resort A - Room s2 Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room s2" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 1088,
+                "y": 648
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room s2 Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room s2" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 808,
+                "y": 368
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room s3 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 0x-b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 1456,
+                "y": 240
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 00-a Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 00-a" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 2272,
+                "y": 488
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 00-b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 00-b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 1984,
+                "y": 256
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 04-b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "dashrefills,$CanAccessRoom|Celestial Resort A - Room 04-b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 3472,
+                "y": 312
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 06-a Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 06-a" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 4088,
+                "y": 448
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 07-b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 06-c" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 4408,
+                "y": 216
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 06-b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 06-b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 3936,
+                "y": 328
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 06-c Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 06-c" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 4040,
+                "y": 32
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 05-c Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 05-c" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 3672,
+                "y": 328
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-y Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 12-y" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1552,
+                "y": 960
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 10-y Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 10-y" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 752,
+                "y": 968
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-c Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 12-c" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1440,
+                "y": 336
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-d Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "dashrefills,$CanAccessRoom|Celestial Resort A - Room 11-d" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1248,
+                "y": 120
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 13-b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 13-b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1896,
+                "y": 508
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 13-x Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 13-x" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 1736,
+                "y": 872
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 08-x Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 08-x" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 160,
+                "y": 840
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 06-d Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 06-d" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 1896,
+                "y": 40
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 04-c Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 04-c" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 1248,
+                "y": 256
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 03-b Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 03-b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 696,
+                "y": 400
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 03-b Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 03-b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 832,
+                "y": 456
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof03 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof03" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 2272,
+                "y": 48
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof06 Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof06" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 4832,
+                "y": 44
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room roof06 Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof06" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-4",
+                "x": 5472,
+                "y": 144
+            }
+        ]
+    }
+]

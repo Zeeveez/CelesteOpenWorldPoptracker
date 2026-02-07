@@ -1,0 +1,534 @@
+[
+    {
+        "name": "Forsaken City A - Room 1",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 1" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 10,
+                "y": 1034,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 2",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 2" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 250,
+                "y": 850,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 3",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 3" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 506,
+                "y": 666,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 4",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 4" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 746,
+                "y": 482,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 3b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 3b" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 882,
+                "y": 298,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 5",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 5" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 1034,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 5z",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 5z" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 714,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 5a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 5a" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 1354,
+                "y": 210,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 6",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 6" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 650,
+                "y": 890,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 6z",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 6z" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 330,
+                "y": 890,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 6zb",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 6zb" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 10,
+                "y": 890,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 7zb",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 7zb" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 10,
+                "y": 706,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 6a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 6a" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 970,
+                "y": 882,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 6b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 6b" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 1362,
+                "y": 714,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room s0",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room s0" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 1042,
+                "y": 570,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room s1",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room s1" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 306,
+                "y": 434,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 6c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 6c" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 1682,
+                "y": 642,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 7",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 7" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 1890,
+                "y": 426,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 7z",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 7z" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 1362,
+                "y": 514,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 8z",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 8z" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 1410,
+                "y": 210,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 8zb",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 8zb" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 1730,
+                "y": 210,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 8",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 8" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 2050,
+                "y": 242,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 7a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 7a" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 2210,
+                "y": 426,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 9z",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 9z" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 2050,
+                "y": 50,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 8b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 8b" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 2370,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 9",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 9" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 2594,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 9b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 9b" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 858,
+                "y": 1026,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 9c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 9c" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 1178,
+                "y": 1026,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 10",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 10" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 650,
+                "y": 802,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 10z",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 10z" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 330,
+                "y": 842,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 10zb",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 10zb" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 10,
+                "y": 842,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 11",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 11" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 650,
+                "y": 538,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 11z",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 11z" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 330,
+                "y": 578,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 10a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 10a" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 970,
+                "y": 802,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 12",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 12" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 706,
+                "y": 306,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 12z",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 12z" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 386,
+                "y": 210,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 12a",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 12a" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 1122,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room end",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - Room end" ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 1138,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    }
+]

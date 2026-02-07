@@ -1,0 +1,16 @@
+{
+    "1c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "1C - Checkpoint 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1c-1"
+                    ]
+                }
+            }
+        ]
+    }
+}

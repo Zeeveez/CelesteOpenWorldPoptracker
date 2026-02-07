@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Strawberry",
+        "type": "consumable",
+        "img": "images/items/strawberry.png",
+        "codes": "strawberry",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Raspberry",
+        "type": "consumable",
+        "img": "images/items/raspberry.png",
+        "codes": "raspberry",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Badeline Booster",
+        "type": "toggle",
+        "img": "images/items/badelineboosters.png",
+        "codes": "badelineboosters"
+    },
+    {
+        "name": "Blue Booster",
+        "type": "toggle",
+        "img": "images/items/blueboosters.png",
+        "codes": "blueboosters"
+    },
+    {
+        "name": "Blue Cassette Block",
+        "type": "toggle",
+        "img": "images/items/bluecassetteblocks.png",
+        "codes": "bluecassetteblocks"
+    },
+    {
+        "name": "Blue Cloud",
+        "type": "toggle",
+        "img": "images/items/blueclouds.png",
+        "codes": "blueclouds"
+    },
+    {
+        "name": "Bumper",
+        "type": "toggle",
+        "img": "images/items/bumpers.png",
+        "codes": "bumpers"
+    },
+    {
+        "name": "Dash Refill",
+        "type": "toggle",
+        "img": "images/items/dashrefills.png",
+        "codes": "dashrefills"
+    },
+    {
+        "name": "Dash Switch",
+        "type": "toggle",
+        "img": "images/items/dashswitches.png",
+        "codes": "dashswitches"
+    },
+    {
+        "name": "Dream Block",
+        "type": "toggle",
+        "img": "images/items/dreamblocks.png",
+        "codes": "dreamblocks"
+    },
+    {
+        "name": "Sinking Platform",
+        "type": "toggle",
+        "img": "images/items/sinkingplatforms.png",
+        "codes": "sinkingplatforms"
+    },
+    {
+        "name": "Feather",
+        "type": "toggle",
+        "img": "images/items/feathers.png",
+        "codes": "feathers"
+    },
+    {
+        "name": "Kevin Block",
+        "type": "toggle",
+        "img": "images/items/kevins.png",
+        "codes": "kevins"
+    },
+    {
+        "name": "Move Block",
+        "type": "toggle",
+        "img": "images/items/moveblocks.png",
+        "codes": "moveblocks"
+    },
+    {
+        "name": "Moving Platform",
+        "type": "toggle",
+        "img": "images/items/movingplatforms.png",
+        "codes": "movingplatforms"
+    },
+    {
+        "name": "Pink Cassette Block",
+        "type": "toggle",
+        "img": "images/items/pinkcassetteblocks.png",
+        "codes": "pinkcassetteblocks"
+    },
+    {
+        "name": "Pink Cloud",
+        "type": "toggle",
+        "img": "images/items/pinkclouds.png",
+        "codes": "pinkclouds"
+    },
+    {
+        "name": "Red Booster",
+        "type": "toggle",
+        "img": "images/items/redboosters.png",
+        "codes": "redboosters"
+    },
+    {
+        "name": "Seeker",
+        "type": "toggle",
+        "img": "images/items/seekers.png",
+        "codes": "seekers"
+    },
+    {
+        "name": "Spring",
+        "type": "toggle",
+        "img": "images/items/springs.png",
+        "codes": "springs"
+    },
+    {
+        "name": "Strawberry Seed",
+        "type": "toggle",
+        "img": "images/items/strawberryseeds.png",
+        "codes": "strawberryseeds"
+    },
+    {
+        "name": "Swap Block",
+        "type": "toggle",
+        "img": "images/items/swapblocks.png",
+        "codes": "swapblocks"
+    },
+    {
+        "name": "Theo Crystal",
+        "type": "toggle",
+        "img": "images/items/theocrystal.png",
+        "codes": "theocrystal"
+    },
+    {
+        "name": "Torch",
+        "type": "toggle",
+        "img": "images/items/torches.png",
+        "codes": "torches"
+    },
+    {
+        "name": "Coin",
+        "type": "toggle",
+        "img": "images/items/coins.png",
+        "codes": "coins"
+    },
+    {
+        "name": "Traffic Block",
+        "type": "toggle",
+        "img": "images/items/trafficblocks.png",
+        "codes": "trafficblocks"
+    },
+    {
+        "name": "White Block",
+        "type": "toggle",
+        "img": "images/items/whiteblock.png",
+        "codes": "whiteblock"
+    }
+]

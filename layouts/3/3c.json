@@ -1,0 +1,16 @@
+{
+    "3c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "3C - Checkpoint 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3c-1"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Reflection B - Golden Strawberry",
+        "visibility_rules": [
+            "include_b_sides,include_goldens"
+        ],
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": []
+    }
+]

@@ -1,0 +1,653 @@
+[
+    {
+        "name": "Core A - Summary",
+        "children": [
+            {
+                "name": "Core A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 975,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Level Clear",
+                        "ref": "Core A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Core B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1015,
+                        "y": 380,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core B - Level Clear",
+                        "ref": "Core B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Core C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1015,
+                        "y": 465,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core C - Level Clear",
+                        "ref": "Core C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1015,
+                        "y": 150,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Golden Strawberry",
+                        "ref": "Core A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core B - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1015,
+                        "y": 350,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core B - Golden Strawberry",
+                        "ref": "Core B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1015,
+                        "y": 435,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core C - Golden Strawberry",
+                        "ref": "Core C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1015,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Cassette",
+                        "ref": "Core A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1055,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Crystal Heart",
+                        "ref": "Core A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1015,
+                        "y": 205,
+                        "size": 80
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room b-06 Strawberry",
+                        "ref": "Core A - Room b-06 Strawberry/"
+                    },
+                    {
+                        "name": "Core A - Room c-00b Strawberry",
+                        "ref": "Core A - Room c-00b Strawberry/"
+                    },
+                    {
+                        "name": "Core A - Room c-02 Strawberry",
+                        "ref": "Core A - Room c-02 Strawberry/"
+                    },
+                    {
+                        "name": "Core A - Room c-03b Strawberry",
+                        "ref": "Core A - Room c-03b Strawberry/"
+                    },
+                    {
+                        "name": "Core A - Room d-06 Strawberry",
+                        "ref": "Core A - Room d-06 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Checkpoint 1 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 993,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Core A - Checkpoint 2 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1008,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room b-06 Strawberry",
+                        "ref": "Core A - Room b-06 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Checkpoint 3 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1023,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room c-00b Strawberry",
+                        "ref": "Core A - Room c-00b Strawberry/"
+                    },
+                    {
+                        "name": "Core A - Room c-02 Strawberry",
+                        "ref": "Core A - Room c-02 Strawberry/"
+                    },
+                    {
+                        "name": "Core A - Room c-03b Strawberry",
+                        "ref": "Core A - Room c-03b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Checkpoint 4 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1038,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room d-06 Strawberry",
+                        "ref": "Core A - Room d-06 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 993,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room 0x",
+                        "ref": "Core A - Room 0x/"
+                    },
+                    {
+                        "name": "Core A - Room 00",
+                        "ref": "Core A - Room 00/"
+                    },
+                    {
+                        "name": "Core A - Room 01",
+                        "ref": "Core A - Room 01/"
+                    },
+                    {
+                        "name": "Core A - Room 02",
+                        "ref": "Core A - Room 02/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1008,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room a-00",
+                        "ref": "Core A - Room a-00/"
+                    },
+                    {
+                        "name": "Core A - Room a-01",
+                        "ref": "Core A - Room a-01/"
+                    },
+                    {
+                        "name": "Core A - Room a-02",
+                        "ref": "Core A - Room a-02/"
+                    },
+                    {
+                        "name": "Core A - Room a-03",
+                        "ref": "Core A - Room a-03/"
+                    },
+                    {
+                        "name": "Core A - Room b-00",
+                        "ref": "Core A - Room b-00/"
+                    },
+                    {
+                        "name": "Core A - Room b-01",
+                        "ref": "Core A - Room b-01/"
+                    },
+                    {
+                        "name": "Core A - Room b-02",
+                        "ref": "Core A - Room b-02/"
+                    },
+                    {
+                        "name": "Core A - Room b-03",
+                        "ref": "Core A - Room b-03/"
+                    },
+                    {
+                        "name": "Core A - Room b-04",
+                        "ref": "Core A - Room b-04/"
+                    },
+                    {
+                        "name": "Core A - Room b-05",
+                        "ref": "Core A - Room b-05/"
+                    },
+                    {
+                        "name": "Core A - Room b-06",
+                        "ref": "Core A - Room b-06/"
+                    },
+                    {
+                        "name": "Core A - Room b-07b",
+                        "ref": "Core A - Room b-07b/"
+                    },
+                    {
+                        "name": "Core A - Room b-07",
+                        "ref": "Core A - Room b-07/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1023,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room c-00",
+                        "ref": "Core A - Room c-00/"
+                    },
+                    {
+                        "name": "Core A - Room c-00b",
+                        "ref": "Core A - Room c-00b/"
+                    },
+                    {
+                        "name": "Core A - Room c-01",
+                        "ref": "Core A - Room c-01/"
+                    },
+                    {
+                        "name": "Core A - Room c-02",
+                        "ref": "Core A - Room c-02/"
+                    },
+                    {
+                        "name": "Core A - Room c-03",
+                        "ref": "Core A - Room c-03/"
+                    },
+                    {
+                        "name": "Core A - Room c-03b",
+                        "ref": "Core A - Room c-03b/"
+                    },
+                    {
+                        "name": "Core A - Room c-04",
+                        "ref": "Core A - Room c-04/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1038,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room d-00",
+                        "ref": "Core A - Room d-00/"
+                    },
+                    {
+                        "name": "Core A - Room d-01",
+                        "ref": "Core A - Room d-01/"
+                    },
+                    {
+                        "name": "Core A - Room d-02",
+                        "ref": "Core A - Room d-02/"
+                    },
+                    {
+                        "name": "Core A - Room d-03",
+                        "ref": "Core A - Room d-03/"
+                    },
+                    {
+                        "name": "Core A - Room d-04",
+                        "ref": "Core A - Room d-04/"
+                    },
+                    {
+                        "name": "Core A - Room d-05",
+                        "ref": "Core A - Room d-05/"
+                    },
+                    {
+                        "name": "Core A - Room d-06",
+                        "ref": "Core A - Room d-06/"
+                    },
+                    {
+                        "name": "Core A - Room d-07",
+                        "ref": "Core A - Room d-07/"
+                    },
+                    {
+                        "name": "Core A - Room d-08",
+                        "ref": "Core A - Room d-08/"
+                    },
+                    {
+                        "name": "Core A - Room d-09",
+                        "ref": "Core A - Room d-09/"
+                    },
+                    {
+                        "name": "Core A - Room d-10",
+                        "ref": "Core A - Room d-10/"
+                    },
+                    {
+                        "name": "Core A - Room d-10b",
+                        "ref": "Core A - Room d-10b/"
+                    },
+                    {
+                        "name": "Core A - Room d-10c",
+                        "ref": "Core A - Room d-10c/"
+                    },
+                    {
+                        "name": "Core A - Room d-11",
+                        "ref": "Core A - Room d-11/"
+                    },
+                    {
+                        "name": "Core A - Room space",
+                        "ref": "Core A - Room space/"
+                    }
+                ]
+            },
+            {
+                "name": "Core B - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 993,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core B - Room 00",
+                        "ref": "Core B - Room 00/"
+                    },
+                    {
+                        "name": "Core B - Room 01",
+                        "ref": "Core B - Room 01/"
+                    }
+                ]
+            },
+            {
+                "name": "Core B - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1008,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core B - Room a-00",
+                        "ref": "Core B - Room a-00/"
+                    },
+                    {
+                        "name": "Core B - Room a-01",
+                        "ref": "Core B - Room a-01/"
+                    },
+                    {
+                        "name": "Core B - Room a-02",
+                        "ref": "Core B - Room a-02/"
+                    },
+                    {
+                        "name": "Core B - Room a-03",
+                        "ref": "Core B - Room a-03/"
+                    },
+                    {
+                        "name": "Core B - Room a-04",
+                        "ref": "Core B - Room a-04/"
+                    },
+                    {
+                        "name": "Core B - Room a-05",
+                        "ref": "Core B - Room a-05/"
+                    }
+                ]
+            },
+            {
+                "name": "Core B - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1023,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core B - Room b-00",
+                        "ref": "Core B - Room b-00/"
+                    },
+                    {
+                        "name": "Core B - Room b-01",
+                        "ref": "Core B - Room b-01/"
+                    },
+                    {
+                        "name": "Core B - Room b-02",
+                        "ref": "Core B - Room b-02/"
+                    },
+                    {
+                        "name": "Core B - Room b-03",
+                        "ref": "Core B - Room b-03/"
+                    },
+                    {
+                        "name": "Core B - Room b-04",
+                        "ref": "Core B - Room b-04/"
+                    },
+                    {
+                        "name": "Core B - Room b-05",
+                        "ref": "Core B - Room b-05/"
+                    }
+                ]
+            },
+            {
+                "name": "Core B - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1038,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core B - Room c-01",
+                        "ref": "Core B - Room c-01/"
+                    },
+                    {
+                        "name": "Core B - Room c-02",
+                        "ref": "Core B - Room c-02/"
+                    },
+                    {
+                        "name": "Core B - Room c-03",
+                        "ref": "Core B - Room c-03/"
+                    },
+                    {
+                        "name": "Core B - Room c-04",
+                        "ref": "Core B - Room c-04/"
+                    },
+                    {
+                        "name": "Core B - Room c-05",
+                        "ref": "Core B - Room c-05/"
+                    },
+                    {
+                        "name": "Core B - Room c-06",
+                        "ref": "Core B - Room c-06/"
+                    },
+                    {
+                        "name": "Core B - Room c-08",
+                        "ref": "Core B - Room c-08/"
+                    },
+                    {
+                        "name": "Core B - Room c-07",
+                        "ref": "Core B - Room c-07/"
+                    },
+                    {
+                        "name": "Core B - Room space",
+                        "ref": "Core B - Room space/"
+                    }
+                ]
+            },
+            {
+                "name": "Core C - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1015,
+                        "y": 495,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core C - Room intro",
+                        "ref": "Core C - Room intro/"
+                    },
+                    {
+                        "name": "Core C - Room 00",
+                        "ref": "Core C - Room 00/"
+                    },
+                    {
+                        "name": "Core C - Room 01",
+                        "ref": "Core C - Room 01/"
+                    },
+                    {
+                        "name": "Core C - Room 02",
+                        "ref": "Core C - Room 02/"
+                    }
+                ]
+            }
+        ]
+    }
+]

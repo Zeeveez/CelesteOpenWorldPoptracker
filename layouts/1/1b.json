@@ -1,0 +1,34 @@
+{
+    "1b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "1B - Checkpoint 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1b-1"
+                    ]
+                }
+            },
+            {
+                "title": "1B - Checkpoint 2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1b-2"
+                    ]
+                }
+            },
+            {
+                "title": "1B - Checkpoint 3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1b-3"
+                    ]
+                }
+            }
+        ]
+    }
+}

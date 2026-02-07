@@ -1,0 +1,16 @@
+{
+    "7c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "7C - Checkpoint 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7c-1"
+                    ]
+                }
+            }
+        ]
+    }
+}

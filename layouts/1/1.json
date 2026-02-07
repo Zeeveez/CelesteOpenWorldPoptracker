@@ -1,0 +1,46 @@
+{
+    "1": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "A",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "1a"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "B",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "1b"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "C",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "1c"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

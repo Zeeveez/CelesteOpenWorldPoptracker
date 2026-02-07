@@ -1,0 +1,764 @@
+[
+    {
+        "name": "Farewell - Summary",
+        "children": [
+            {
+                "name": "Farewell - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1110,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Level Clear",
+                        "ref": "Farewell - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1150,
+                        "y": 150,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Golden Strawberry",
+                        "ref": "Farewell - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Crystal Heart?",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1190,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Crystal Heart?",
+                        "ref": "Farewell - Crystal Heart?/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1150,
+                        "y": 205,
+                        "size": 80
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Moon Berry",
+                        "ref": "Farewell - Moon Berry/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Checkpoint 1 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1090,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 2 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1105,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 3 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1120,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 4 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1135,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 5 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1150,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 6 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1165,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 7 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1180,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 8 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1195,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 9 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1210,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1090,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room intro-00-past",
+                        "ref": "Farewell - Room intro-00-past/"
+                    },
+                    {
+                        "name": "Farewell - Room intro-01-future",
+                        "ref": "Farewell - Room intro-01-future/"
+                    },
+                    {
+                        "name": "Farewell - Room intro-02-launch",
+                        "ref": "Farewell - Room intro-02-launch/"
+                    },
+                    {
+                        "name": "Farewell - Room intro-03-space",
+                        "ref": "Farewell - Room intro-03-space/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1105,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room a-00",
+                        "ref": "Farewell - Room a-00/"
+                    },
+                    {
+                        "name": "Farewell - Room a-01",
+                        "ref": "Farewell - Room a-01/"
+                    },
+                    {
+                        "name": "Farewell - Room a-02",
+                        "ref": "Farewell - Room a-02/"
+                    },
+                    {
+                        "name": "Farewell - Room a-03",
+                        "ref": "Farewell - Room a-03/"
+                    },
+                    {
+                        "name": "Farewell - Room a-04",
+                        "ref": "Farewell - Room a-04/"
+                    },
+                    {
+                        "name": "Farewell - Room a-05",
+                        "ref": "Farewell - Room a-05/"
+                    },
+                    {
+                        "name": "Farewell - Room b-00",
+                        "ref": "Farewell - Room b-00/"
+                    },
+                    {
+                        "name": "Farewell - Room b-01",
+                        "ref": "Farewell - Room b-01/"
+                    },
+                    {
+                        "name": "Farewell - Room b-02",
+                        "ref": "Farewell - Room b-02/"
+                    },
+                    {
+                        "name": "Farewell - Room b-03",
+                        "ref": "Farewell - Room b-03/"
+                    },
+                    {
+                        "name": "Farewell - Room b-04",
+                        "ref": "Farewell - Room b-04/"
+                    },
+                    {
+                        "name": "Farewell - Room b-05",
+                        "ref": "Farewell - Room b-05/"
+                    },
+                    {
+                        "name": "Farewell - Room b-06",
+                        "ref": "Farewell - Room b-06/"
+                    },
+                    {
+                        "name": "Farewell - Room b-07",
+                        "ref": "Farewell - Room b-07/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1120,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room c-00",
+                        "ref": "Farewell - Room c-00/"
+                    },
+                    {
+                        "name": "Farewell - Room c-alt-00",
+                        "ref": "Farewell - Room c-alt-00/"
+                    },
+                    {
+                        "name": "Farewell - Room c-alt-01",
+                        "ref": "Farewell - Room c-alt-01/"
+                    },
+                    {
+                        "name": "Farewell - Room c-00b",
+                        "ref": "Farewell - Room c-00b/"
+                    },
+                    {
+                        "name": "Farewell - Room c-01",
+                        "ref": "Farewell - Room c-01/"
+                    },
+                    {
+                        "name": "Farewell - Room c-02",
+                        "ref": "Farewell - Room c-02/"
+                    },
+                    {
+                        "name": "Farewell - Room c-03",
+                        "ref": "Farewell - Room c-03/"
+                    },
+                    {
+                        "name": "Farewell - Room d-00",
+                        "ref": "Farewell - Room d-00/"
+                    },
+                    {
+                        "name": "Farewell - Room d-01",
+                        "ref": "Farewell - Room d-01/"
+                    },
+                    {
+                        "name": "Farewell - Room d-02",
+                        "ref": "Farewell - Room d-02/"
+                    },
+                    {
+                        "name": "Farewell - Room d-03",
+                        "ref": "Farewell - Room d-03/"
+                    },
+                    {
+                        "name": "Farewell - Room d-04",
+                        "ref": "Farewell - Room d-04/"
+                    },
+                    {
+                        "name": "Farewell - Room d-05",
+                        "ref": "Farewell - Room d-05/"
+                    },
+                    {
+                        "name": "Farewell - Room e-00y",
+                        "ref": "Farewell - Room e-00y/"
+                    },
+                    {
+                        "name": "Farewell - Room e-00yb",
+                        "ref": "Farewell - Room e-00yb/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1135,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room e-00z",
+                        "ref": "Farewell - Room e-00z/"
+                    },
+                    {
+                        "name": "Farewell - Room e-00",
+                        "ref": "Farewell - Room e-00/"
+                    },
+                    {
+                        "name": "Farewell - Room e-00b",
+                        "ref": "Farewell - Room e-00b/"
+                    },
+                    {
+                        "name": "Farewell - Room e-01",
+                        "ref": "Farewell - Room e-01/"
+                    },
+                    {
+                        "name": "Farewell - Room e-02",
+                        "ref": "Farewell - Room e-02/"
+                    },
+                    {
+                        "name": "Farewell - Room e-03",
+                        "ref": "Farewell - Room e-03/"
+                    },
+                    {
+                        "name": "Farewell - Room e-04",
+                        "ref": "Farewell - Room e-04/"
+                    },
+                    {
+                        "name": "Farewell - Room e-05",
+                        "ref": "Farewell - Room e-05/"
+                    },
+                    {
+                        "name": "Farewell - Room e-05b",
+                        "ref": "Farewell - Room e-05b/"
+                    },
+                    {
+                        "name": "Farewell - Room e-05c",
+                        "ref": "Farewell - Room e-05c/"
+                    },
+                    {
+                        "name": "Farewell - Room e-06",
+                        "ref": "Farewell - Room e-06/"
+                    },
+                    {
+                        "name": "Farewell - Room e-07",
+                        "ref": "Farewell - Room e-07/"
+                    },
+                    {
+                        "name": "Farewell - Room e-08",
+                        "ref": "Farewell - Room e-08/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Checkpoint 5 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1150,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room f-door",
+                        "ref": "Farewell - Room f-door/"
+                    },
+                    {
+                        "name": "Farewell - Room f-00",
+                        "ref": "Farewell - Room f-00/"
+                    },
+                    {
+                        "name": "Farewell - Room f-01",
+                        "ref": "Farewell - Room f-01/"
+                    },
+                    {
+                        "name": "Farewell - Room f-02",
+                        "ref": "Farewell - Room f-02/"
+                    },
+                    {
+                        "name": "Farewell - Room f-03",
+                        "ref": "Farewell - Room f-03/"
+                    },
+                    {
+                        "name": "Farewell - Room f-04",
+                        "ref": "Farewell - Room f-04/"
+                    },
+                    {
+                        "name": "Farewell - Room f-05",
+                        "ref": "Farewell - Room f-05/"
+                    },
+                    {
+                        "name": "Farewell - Room f-06",
+                        "ref": "Farewell - Room f-06/"
+                    },
+                    {
+                        "name": "Farewell - Room f-07",
+                        "ref": "Farewell - Room f-07/"
+                    },
+                    {
+                        "name": "Farewell - Room f-08",
+                        "ref": "Farewell - Room f-08/"
+                    },
+                    {
+                        "name": "Farewell - Room f-09",
+                        "ref": "Farewell - Room f-09/"
+                    },
+                    {
+                        "name": "Farewell - Room g-00",
+                        "ref": "Farewell - Room g-00/"
+                    },
+                    {
+                        "name": "Farewell - Room g-01",
+                        "ref": "Farewell - Room g-01/"
+                    },
+                    {
+                        "name": "Farewell - Room g-03",
+                        "ref": "Farewell - Room g-03/"
+                    },
+                    {
+                        "name": "Farewell - Room g-02",
+                        "ref": "Farewell - Room g-02/"
+                    },
+                    {
+                        "name": "Farewell - Room g-04",
+                        "ref": "Farewell - Room g-04/"
+                    },
+                    {
+                        "name": "Farewell - Room g-05",
+                        "ref": "Farewell - Room g-05/"
+                    },
+                    {
+                        "name": "Farewell - Room g-06",
+                        "ref": "Farewell - Room g-06/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Checkpoint 6 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1165,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-00b",
+                        "ref": "Farewell - Room h-00b/"
+                    },
+                    {
+                        "name": "Farewell - Room h-00",
+                        "ref": "Farewell - Room h-00/"
+                    },
+                    {
+                        "name": "Farewell - Room h-01",
+                        "ref": "Farewell - Room h-01/"
+                    },
+                    {
+                        "name": "Farewell - Room h-02",
+                        "ref": "Farewell - Room h-02/"
+                    },
+                    {
+                        "name": "Farewell - Room h-03",
+                        "ref": "Farewell - Room h-03/"
+                    },
+                    {
+                        "name": "Farewell - Room h-03b",
+                        "ref": "Farewell - Room h-03b/"
+                    },
+                    {
+                        "name": "Farewell - Room h-04",
+                        "ref": "Farewell - Room h-04/"
+                    },
+                    {
+                        "name": "Farewell - Room h-04b",
+                        "ref": "Farewell - Room h-04b/"
+                    },
+                    {
+                        "name": "Farewell - Room h-05",
+                        "ref": "Farewell - Room h-05/"
+                    },
+                    {
+                        "name": "Farewell - Room h-06",
+                        "ref": "Farewell - Room h-06/"
+                    },
+                    {
+                        "name": "Farewell - Room h-06b",
+                        "ref": "Farewell - Room h-06b/"
+                    },
+                    {
+                        "name": "Farewell - Room h-07",
+                        "ref": "Farewell - Room h-07/"
+                    },
+                    {
+                        "name": "Farewell - Room h-08",
+                        "ref": "Farewell - Room h-08/"
+                    },
+                    {
+                        "name": "Farewell - Room h-09",
+                        "ref": "Farewell - Room h-09/"
+                    },
+                    {
+                        "name": "Farewell - Room h-10",
+                        "ref": "Farewell - Room h-10/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Checkpoint 7 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1180,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room i-00",
+                        "ref": "Farewell - Room i-00/"
+                    },
+                    {
+                        "name": "Farewell - Room i-00b",
+                        "ref": "Farewell - Room i-00b/"
+                    },
+                    {
+                        "name": "Farewell - Room i-01",
+                        "ref": "Farewell - Room i-01/"
+                    },
+                    {
+                        "name": "Farewell - Room i-02",
+                        "ref": "Farewell - Room i-02/"
+                    },
+                    {
+                        "name": "Farewell - Room i-03",
+                        "ref": "Farewell - Room i-03/"
+                    },
+                    {
+                        "name": "Farewell - Room i-04",
+                        "ref": "Farewell - Room i-04/"
+                    },
+                    {
+                        "name": "Farewell - Room i-05",
+                        "ref": "Farewell - Room i-05/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Checkpoint 8 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1195,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room j-00",
+                        "ref": "Farewell - Room j-00/"
+                    },
+                    {
+                        "name": "Farewell - Room j-00b",
+                        "ref": "Farewell - Room j-00b/"
+                    },
+                    {
+                        "name": "Farewell - Room j-01",
+                        "ref": "Farewell - Room j-01/"
+                    },
+                    {
+                        "name": "Farewell - Room j-02",
+                        "ref": "Farewell - Room j-02/"
+                    },
+                    {
+                        "name": "Farewell - Room j-03",
+                        "ref": "Farewell - Room j-03/"
+                    },
+                    {
+                        "name": "Farewell - Room j-04",
+                        "ref": "Farewell - Room j-04/"
+                    },
+                    {
+                        "name": "Farewell - Room j-05",
+                        "ref": "Farewell - Room j-05/"
+                    },
+                    {
+                        "name": "Farewell - Room j-06",
+                        "ref": "Farewell - Room j-06/"
+                    },
+                    {
+                        "name": "Farewell - Room j-07",
+                        "ref": "Farewell - Room j-07/"
+                    },
+                    {
+                        "name": "Farewell - Room j-08",
+                        "ref": "Farewell - Room j-08/"
+                    },
+                    {
+                        "name": "Farewell - Room j-09",
+                        "ref": "Farewell - Room j-09/"
+                    },
+                    {
+                        "name": "Farewell - Room j-10",
+                        "ref": "Farewell - Room j-10/"
+                    },
+                    {
+                        "name": "Farewell - Room j-11",
+                        "ref": "Farewell - Room j-11/"
+                    },
+                    {
+                        "name": "Farewell - Room j-12",
+                        "ref": "Farewell - Room j-12/"
+                    },
+                    {
+                        "name": "Farewell - Room j-13",
+                        "ref": "Farewell - Room j-13/"
+                    },
+                    {
+                        "name": "Farewell - Room j-14",
+                        "ref": "Farewell - Room j-14/"
+                    },
+                    {
+                        "name": "Farewell - Room j-14b",
+                        "ref": "Farewell - Room j-14b/"
+                    },
+                    {
+                        "name": "Farewell - Room j-15",
+                        "ref": "Farewell - Room j-15/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Checkpoint 9 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1210,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room j-16",
+                        "ref": "Farewell - Room j-16/"
+                    },
+                    {
+                        "name": "Farewell - Room j-17",
+                        "ref": "Farewell - Room j-17/"
+                    },
+                    {
+                        "name": "Farewell - Room j-18",
+                        "ref": "Farewell - Room j-18/"
+                    },
+                    {
+                        "name": "Farewell - Room j-19",
+                        "ref": "Farewell - Room j-19/"
+                    },
+                    {
+                        "name": "Farewell - Room end-golden",
+                        "ref": "Farewell - Room end-golden/"
+                    }
+                ]
+            }
+        ]
+    }
+]

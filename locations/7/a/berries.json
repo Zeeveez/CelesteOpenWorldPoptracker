@@ -1,0 +1,719 @@
+[
+    {
+        "name": "The Summit A - Golden Strawberry",
+        "visibility_rules": [
+            "include_goldens"
+        ],
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": []
+    },
+    {
+        "name": "The Summit A - Room a-02b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room a-02b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-1",
+                "x": 1096,
+                "y": 928
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room a-04b Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room a-04b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-1",
+                "x": 2072,
+                "y": 640
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room a-04b Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room a-04b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-1",
+                "x": 2264,
+                "y": 688
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room a-05 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room a-05" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-1",
+                "x": 2736,
+                "y": 680
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room b-02 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room b-02" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-2",
+                "x": 768,
+                "y": 2080
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room b-02b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room b-02b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-2",
+                "x": 592,
+                "y": 1480
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room b-02e Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room b-02e" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-2",
+                "x": 32,
+                "y": 1504
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room b-04 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room b-04" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-2",
+                "x": 1472,
+                "y": 1832
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room b-08 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room b-08" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-2",
+                "x": 2564,
+                "y": 1128
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room b-09 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room b-09" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-2",
+                "x": 3192,
+                "y": 632
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room c-03b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room c-03b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 576,
+                "y": 1848
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room c-05 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room c-05" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 2784,
+                "y": 1576
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room c-06b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room c-06b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 2360,
+                "y": 1520
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room c-07b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room c-07b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 2016,
+                "y": 920
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room c-08 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room c-08" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 3416,
+                "y": 912
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room c-09 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room c-09" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 4304,
+                "y": 568
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room d-00 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room d-00" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-4",
+                "x": 280,
+                "y": 1072
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room d-01c Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room d-01c" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-4",
+                "x": 792,
+                "y": 1152
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room d-01d Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room d-01d" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-4",
+                "x": 1028,
+                "y": 1288
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room d-03 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room d-03" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-4",
+                "x": 1784,
+                "y": 1000
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room d-04 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room d-04" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-4",
+                "x": 2568,
+                "y": 920
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room d-07 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room d-07" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-4",
+                "x": 3248,
+                "y": 792
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room d-08 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room d-08" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-4",
+                "x": 4192,
+                "y": 992
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room d-10b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room d-10b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-4",
+                "x": 4616,
+                "y": 816
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room e-02 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room e-02" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-5",
+                "x": 1408,
+                "y": 2536
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room e-05 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room e-05" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-5",
+                "x": 3240,
+                "y": 2520
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room e-07 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room e-07" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-5",
+                "x": 4364,
+                "y": 1828
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room e-09 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room e-09" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-5",
+                "x": 4016,
+                "y": 1496
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room e-11 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room e-11" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-5",
+                "x": 4712,
+                "y": 1368
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room e-12 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room e-12" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-5",
+                "x": 4408,
+                "y": 1064
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room e-10 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room e-10" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-5",
+                "x": 5240,
+                "y": 1548
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room e-13 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room e-13" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-5",
+                "x": 6552,
+                "y": 664
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room f-00 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room f-00" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-6",
+                "x": 1136,
+                "y": 1968
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room f-01 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room f-01" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-6",
+                "x": 40,
+                "y": 1752
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room f-07 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room f-07" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-6",
+                "x": 3264,
+                "y": 1624
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room f-08b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room f-08b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-6",
+                "x": 3880,
+                "y": 1648
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room f-08c Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room f-08c" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-6",
+                "x": 5032,
+                "y": 1704
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room f-11 Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room f-11" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-6",
+                "x": 5960,
+                "y": 1216
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room f-11 Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room f-11" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-6",
+                "x": 5808,
+                "y": 720
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room f-11 Strawberry 3",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room f-11" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-6",
+                "x": 6048,
+                "y": 720
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room g-00b Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room g-00b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-7",
+                "x": 568,
+                "y": 10152
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room g-00b Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room g-00b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-7",
+                "x": 584,
+                "y": 9688
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room g-00b Strawberry 3",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room g-00b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-7",
+                "x": 664,
+                "y": 8960
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room g-01 Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room g-01" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-7",
+                "x": 72,
+                "y": 7048
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room g-01 Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room g-01" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-7",
+                "x": 1120,
+                "y": 6888
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room g-01 Strawberry 3",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room g-01" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-7",
+                "x": 824,
+                "y": 6720
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room g-03 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|The Summit A - Room g-03" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-7",
+                "x": 1576,
+                "y": 2688
+            }
+        ]
+    }
+]

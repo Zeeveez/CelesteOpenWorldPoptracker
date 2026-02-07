@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Old Site C - Room 00",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site C - Room 00" ] } ],
+        "map_locations": [
+            {
+                "map": "2c-1",
+                "x": 10,
+                "y": 90,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site C - Room 01",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site C - Room 01" ] } ],
+        "map_locations": [
+            {
+                "map": "2c-1",
+                "x": 330,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site C - Room 02",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site C - Room 02" ] } ],
+        "map_locations": [
+            {
+                "map": "2c-1",
+                "x": 746,
+                "y": 66,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    }
+]

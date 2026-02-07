@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Celestial Resort C - Room 00",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort C - Room 00" ] } ],
+        "map_locations": [
+            {
+                "map": "3c-1",
+                "x": 10,
+                "y": 298,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort C - Room 01",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort C - Room 01" ] } ],
+        "map_locations": [
+            {
+                "map": "3c-1",
+                "x": 242,
+                "y": 114,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort C - Room 02",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort C - Room 02" ] } ],
+        "map_locations": [
+            {
+                "map": "3c-1",
+                "x": 586,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    }
+]

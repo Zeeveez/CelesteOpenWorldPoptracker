@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Celestial Resort B - Level Clear",
+        "visibility_rules": [
+            "include_b_sides"
+        ],
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": []
+    }
+]

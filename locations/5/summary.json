@@ -1,0 +1,1079 @@
+[
+    {
+        "name": "Mirror Temple A - Summary",
+        "children": [
+            {
+                "name": "Mirror Temple A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 570,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Level Clear",
+                        "ref": "Mirror Temple A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 610,
+                        "y": 380,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple B - Level Clear",
+                        "ref": "Mirror Temple B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 610,
+                        "y": 465,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple C - Level Clear",
+                        "ref": "Mirror Temple C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 610,
+                        "y": 150,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Golden Strawberry",
+                        "ref": "Mirror Temple A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple B - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 610,
+                        "y": 350,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple B - Golden Strawberry",
+                        "ref": "Mirror Temple B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 610,
+                        "y": 435,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple C - Golden Strawberry",
+                        "ref": "Mirror Temple C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 610,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Cassette",
+                        "ref": "Mirror Temple A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 650,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Crystal Heart",
+                        "ref": "Mirror Temple A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 610,
+                        "y": 205,
+                        "size": 80
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-00x Strawberry",
+                        "ref": "Mirror Temple A - Room a-00x Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-01 Strawberry 1",
+                        "ref": "Mirror Temple A - Room a-01 Strawberry 1/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-01 Strawberry 2",
+                        "ref": "Mirror Temple A - Room a-01 Strawberry 2/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-02 Strawberry",
+                        "ref": "Mirror Temple A - Room a-02 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-03 Strawberry",
+                        "ref": "Mirror Temple A - Room a-03 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-04 Strawberry",
+                        "ref": "Mirror Temple A - Room a-04 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-05 Strawberry",
+                        "ref": "Mirror Temple A - Room a-05 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-06 Strawberry",
+                        "ref": "Mirror Temple A - Room a-06 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-07 Strawberry",
+                        "ref": "Mirror Temple A - Room a-07 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-11 Strawberry",
+                        "ref": "Mirror Temple A - Room a-11 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-15 Strawberry",
+                        "ref": "Mirror Temple A - Room a-15 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-14 Strawberry",
+                        "ref": "Mirror Temple A - Room a-14 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-18 Strawberry",
+                        "ref": "Mirror Temple A - Room b-18 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-01c Strawberry",
+                        "ref": "Mirror Temple A - Room b-01c Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-20 Strawberry 1",
+                        "ref": "Mirror Temple A - Room b-20 Strawberry 1/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-20 Strawberry 2",
+                        "ref": "Mirror Temple A - Room b-20 Strawberry 2/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-21 Strawberry",
+                        "ref": "Mirror Temple A - Room b-21 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-03 Strawberry",
+                        "ref": "Mirror Temple A - Room b-03 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-05 Strawberry",
+                        "ref": "Mirror Temple A - Room b-05 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-10 Strawberry",
+                        "ref": "Mirror Temple A - Room b-10 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-12 Strawberry",
+                        "ref": "Mirror Temple A - Room b-12 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-17 Strawberry 2",
+                        "ref": "Mirror Temple A - Room b-17 Strawberry 2/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-17 Strawberry 1",
+                        "ref": "Mirror Temple A - Room b-17 Strawberry 1/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-08 Strawberry",
+                        "ref": "Mirror Temple A - Room c-08 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-04 Strawberry 2",
+                        "ref": "Mirror Temple A - Room d-04 Strawberry 2/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-04 Strawberry 1",
+                        "ref": "Mirror Temple A - Room d-04 Strawberry 1/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-15 Strawberry 2",
+                        "ref": "Mirror Temple A - Room d-15 Strawberry 2/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-15 Strawberry 1",
+                        "ref": "Mirror Temple A - Room d-15 Strawberry 1/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-13 Strawberry",
+                        "ref": "Mirror Temple A - Room d-13 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-19 Strawberry",
+                        "ref": "Mirror Temple A - Room d-19 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-06 Strawberry",
+                        "ref": "Mirror Temple A - Room e-06 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 1 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 580,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-00x Strawberry",
+                        "ref": "Mirror Temple A - Room a-00x Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-01 Strawberry 1",
+                        "ref": "Mirror Temple A - Room a-01 Strawberry 1/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-01 Strawberry 2",
+                        "ref": "Mirror Temple A - Room a-01 Strawberry 2/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-02 Strawberry",
+                        "ref": "Mirror Temple A - Room a-02 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-03 Strawberry",
+                        "ref": "Mirror Temple A - Room a-03 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-04 Strawberry",
+                        "ref": "Mirror Temple A - Room a-04 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-05 Strawberry",
+                        "ref": "Mirror Temple A - Room a-05 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-06 Strawberry",
+                        "ref": "Mirror Temple A - Room a-06 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-07 Strawberry",
+                        "ref": "Mirror Temple A - Room a-07 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-11 Strawberry",
+                        "ref": "Mirror Temple A - Room a-11 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-15 Strawberry",
+                        "ref": "Mirror Temple A - Room a-15 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-14 Strawberry",
+                        "ref": "Mirror Temple A - Room a-14 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 2 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 595,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-18 Strawberry",
+                        "ref": "Mirror Temple A - Room b-18 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-01c Strawberry",
+                        "ref": "Mirror Temple A - Room b-01c Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-20 Strawberry 1",
+                        "ref": "Mirror Temple A - Room b-20 Strawberry 1/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-20 Strawberry 2",
+                        "ref": "Mirror Temple A - Room b-20 Strawberry 2/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-21 Strawberry",
+                        "ref": "Mirror Temple A - Room b-21 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-03 Strawberry",
+                        "ref": "Mirror Temple A - Room b-03 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-05 Strawberry",
+                        "ref": "Mirror Temple A - Room b-05 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-10 Strawberry",
+                        "ref": "Mirror Temple A - Room b-10 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-12 Strawberry",
+                        "ref": "Mirror Temple A - Room b-12 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-17 Strawberry 2",
+                        "ref": "Mirror Temple A - Room b-17 Strawberry 2/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-17 Strawberry 1",
+                        "ref": "Mirror Temple A - Room b-17 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 3 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 610,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room c-08 Strawberry",
+                        "ref": "Mirror Temple A - Room c-08 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 4 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 625,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room d-04 Strawberry 2",
+                        "ref": "Mirror Temple A - Room d-04 Strawberry 2/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-04 Strawberry 1",
+                        "ref": "Mirror Temple A - Room d-04 Strawberry 1/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-15 Strawberry 2",
+                        "ref": "Mirror Temple A - Room d-15 Strawberry 2/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-15 Strawberry 1",
+                        "ref": "Mirror Temple A - Room d-15 Strawberry 1/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-13 Strawberry",
+                        "ref": "Mirror Temple A - Room d-13 Strawberry/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-19 Strawberry",
+                        "ref": "Mirror Temple A - Room d-19 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 5 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 640,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room e-06 Strawberry",
+                        "ref": "Mirror Temple A - Room e-06 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 580,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-00x",
+                        "ref": "Mirror Temple A - Room a-00x/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-00b",
+                        "ref": "Mirror Temple A - Room a-00b/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-00d",
+                        "ref": "Mirror Temple A - Room a-00d/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-00c",
+                        "ref": "Mirror Temple A - Room a-00c/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-00",
+                        "ref": "Mirror Temple A - Room a-00/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-01",
+                        "ref": "Mirror Temple A - Room a-01/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-02",
+                        "ref": "Mirror Temple A - Room a-02/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-03",
+                        "ref": "Mirror Temple A - Room a-03/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-04",
+                        "ref": "Mirror Temple A - Room a-04/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-05",
+                        "ref": "Mirror Temple A - Room a-05/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-06",
+                        "ref": "Mirror Temple A - Room a-06/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-07",
+                        "ref": "Mirror Temple A - Room a-07/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-08",
+                        "ref": "Mirror Temple A - Room a-08/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-10",
+                        "ref": "Mirror Temple A - Room a-10/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-09",
+                        "ref": "Mirror Temple A - Room a-09/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-11",
+                        "ref": "Mirror Temple A - Room a-11/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-12",
+                        "ref": "Mirror Temple A - Room a-12/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-15",
+                        "ref": "Mirror Temple A - Room a-15/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-14",
+                        "ref": "Mirror Temple A - Room a-14/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room a-13",
+                        "ref": "Mirror Temple A - Room a-13/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 595,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-00",
+                        "ref": "Mirror Temple A - Room b-00/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-18",
+                        "ref": "Mirror Temple A - Room b-18/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-01",
+                        "ref": "Mirror Temple A - Room b-01/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-01c",
+                        "ref": "Mirror Temple A - Room b-01c/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-20",
+                        "ref": "Mirror Temple A - Room b-20/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-21",
+                        "ref": "Mirror Temple A - Room b-21/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-01b",
+                        "ref": "Mirror Temple A - Room b-01b/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-02",
+                        "ref": "Mirror Temple A - Room b-02/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-03",
+                        "ref": "Mirror Temple A - Room b-03/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-05",
+                        "ref": "Mirror Temple A - Room b-05/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-04",
+                        "ref": "Mirror Temple A - Room b-04/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-07",
+                        "ref": "Mirror Temple A - Room b-07/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-08",
+                        "ref": "Mirror Temple A - Room b-08/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-09",
+                        "ref": "Mirror Temple A - Room b-09/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-10",
+                        "ref": "Mirror Temple A - Room b-10/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-11",
+                        "ref": "Mirror Temple A - Room b-11/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-12",
+                        "ref": "Mirror Temple A - Room b-12/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-13",
+                        "ref": "Mirror Temple A - Room b-13/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-17",
+                        "ref": "Mirror Temple A - Room b-17/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-22",
+                        "ref": "Mirror Temple A - Room b-22/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-06",
+                        "ref": "Mirror Temple A - Room b-06/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-19",
+                        "ref": "Mirror Temple A - Room b-19/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-14",
+                        "ref": "Mirror Temple A - Room b-14/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-15",
+                        "ref": "Mirror Temple A - Room b-15/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room b-16",
+                        "ref": "Mirror Temple A - Room b-16/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 610,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room void",
+                        "ref": "Mirror Temple A - Room void/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-00",
+                        "ref": "Mirror Temple A - Room c-00/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-01",
+                        "ref": "Mirror Temple A - Room c-01/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-01b",
+                        "ref": "Mirror Temple A - Room c-01b/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-01c",
+                        "ref": "Mirror Temple A - Room c-01c/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-08b",
+                        "ref": "Mirror Temple A - Room c-08b/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-08",
+                        "ref": "Mirror Temple A - Room c-08/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-10",
+                        "ref": "Mirror Temple A - Room c-10/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-12",
+                        "ref": "Mirror Temple A - Room c-12/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-07",
+                        "ref": "Mirror Temple A - Room c-07/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-11",
+                        "ref": "Mirror Temple A - Room c-11/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-09",
+                        "ref": "Mirror Temple A - Room c-09/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room c-13",
+                        "ref": "Mirror Temple A - Room c-13/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 625,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room d-00",
+                        "ref": "Mirror Temple A - Room d-00/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-01",
+                        "ref": "Mirror Temple A - Room d-01/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-09",
+                        "ref": "Mirror Temple A - Room d-09/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-04",
+                        "ref": "Mirror Temple A - Room d-04/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-05",
+                        "ref": "Mirror Temple A - Room d-05/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-06",
+                        "ref": "Mirror Temple A - Room d-06/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-07",
+                        "ref": "Mirror Temple A - Room d-07/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-02",
+                        "ref": "Mirror Temple A - Room d-02/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-03",
+                        "ref": "Mirror Temple A - Room d-03/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-15",
+                        "ref": "Mirror Temple A - Room d-15/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-13",
+                        "ref": "Mirror Temple A - Room d-13/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-19",
+                        "ref": "Mirror Temple A - Room d-19/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-19b",
+                        "ref": "Mirror Temple A - Room d-19b/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-10",
+                        "ref": "Mirror Temple A - Room d-10/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room d-20",
+                        "ref": "Mirror Temple A - Room d-20/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 5 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 640,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room e-00",
+                        "ref": "Mirror Temple A - Room e-00/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-01",
+                        "ref": "Mirror Temple A - Room e-01/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-02",
+                        "ref": "Mirror Temple A - Room e-02/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-03",
+                        "ref": "Mirror Temple A - Room e-03/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-04",
+                        "ref": "Mirror Temple A - Room e-04/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-06",
+                        "ref": "Mirror Temple A - Room e-06/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-05",
+                        "ref": "Mirror Temple A - Room e-05/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-07",
+                        "ref": "Mirror Temple A - Room e-07/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-08",
+                        "ref": "Mirror Temple A - Room e-08/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-09",
+                        "ref": "Mirror Temple A - Room e-09/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-10",
+                        "ref": "Mirror Temple A - Room e-10/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Room e-11",
+                        "ref": "Mirror Temple A - Room e-11/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple B - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 588,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple B - Room start",
+                        "ref": "Mirror Temple B - Room start/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room a-00",
+                        "ref": "Mirror Temple B - Room a-00/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room a-01",
+                        "ref": "Mirror Temple B - Room a-01/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room a-02",
+                        "ref": "Mirror Temple B - Room a-02/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple B - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 603,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple B - Room b-00",
+                        "ref": "Mirror Temple B - Room b-00/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room b-01",
+                        "ref": "Mirror Temple B - Room b-01/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room b-04",
+                        "ref": "Mirror Temple B - Room b-04/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room b-02",
+                        "ref": "Mirror Temple B - Room b-02/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room b-05",
+                        "ref": "Mirror Temple B - Room b-05/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room b-06",
+                        "ref": "Mirror Temple B - Room b-06/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room b-07",
+                        "ref": "Mirror Temple B - Room b-07/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room b-03",
+                        "ref": "Mirror Temple B - Room b-03/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room b-08",
+                        "ref": "Mirror Temple B - Room b-08/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room b-09",
+                        "ref": "Mirror Temple B - Room b-09/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple B - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 618,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple B - Room c-00",
+                        "ref": "Mirror Temple B - Room c-00/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room c-01",
+                        "ref": "Mirror Temple B - Room c-01/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room c-02",
+                        "ref": "Mirror Temple B - Room c-02/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room c-03",
+                        "ref": "Mirror Temple B - Room c-03/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room c-04",
+                        "ref": "Mirror Temple B - Room c-04/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple B - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 633,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple B - Room d-00",
+                        "ref": "Mirror Temple B - Room d-00/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room d-01",
+                        "ref": "Mirror Temple B - Room d-01/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room d-02",
+                        "ref": "Mirror Temple B - Room d-02/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room d-03",
+                        "ref": "Mirror Temple B - Room d-03/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room d-04",
+                        "ref": "Mirror Temple B - Room d-04/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Room d-05",
+                        "ref": "Mirror Temple B - Room d-05/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple C - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 610,
+                        "y": 495,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple C - Room 00",
+                        "ref": "Mirror Temple C - Room 00/"
+                    },
+                    {
+                        "name": "Mirror Temple C - Room 01",
+                        "ref": "Mirror Temple C - Room 01/"
+                    },
+                    {
+                        "name": "Mirror Temple C - Room 02",
+                        "ref": "Mirror Temple C - Room 02/"
+                    }
+                ]
+            }
+        ]
+    }
+]

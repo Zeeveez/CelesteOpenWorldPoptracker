@@ -1,0 +1,133 @@
+{
+    "tabbed_maps": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Summary",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "summary"
+                    ]
+                }
+            },
+            {
+                "title": "Forsaken City",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "1"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Old Site",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "2"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Celestial Resort",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "3"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Golden Ridge",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "4"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Mirror Temple",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "5"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Reflection",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "6"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "The Summit",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "7"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Core",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "8"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Farewell",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "9a"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

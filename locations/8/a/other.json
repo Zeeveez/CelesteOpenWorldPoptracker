@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Core A - Level Clear",
+        "visibility_rules": [
+            "include_core"
+        ],
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Core A - Room space" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "8a-4",
+                "x": 9215,
+                "y": 161
+            }
+        ]
+    },
+    {
+        "name": "Core A - Cassette",
+        "visibility_rules": [
+            "include_core"
+        ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$CanAccessRoom|Core A - Room d-11"
+                ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "8a-4",
+                "x": 6663,
+                "y": 111
+            }
+        ]
+    },
+    {
+        "name": "Core A - Crystal Heart",
+        "visibility_rules": [
+            "include_core"
+        ],
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Core A - Room space" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "8a-4",
+                "x": 9215,
+                "y": 161
+            }
+        ]
+    }
+]

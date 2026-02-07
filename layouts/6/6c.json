@@ -1,0 +1,16 @@
+{
+    "6c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "6C - Checkpoint 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6c-1"
+                    ]
+                }
+            }
+        ]
+    }
+}

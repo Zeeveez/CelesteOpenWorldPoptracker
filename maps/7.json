@@ -1,0 +1,98 @@
+﻿[
+    {
+        "name": "7a-1",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7a-1.png"
+    },
+    {
+        "name": "7a-2",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7a-2.png"
+    },
+    {
+        "name": "7a-3",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7a-3.png"
+    },
+    {
+        "name": "7a-4",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7a-4.png"
+    },
+    {
+        "name": "7a-5",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7a-5.png"
+    },
+    {
+        "name": "7a-6",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7a-6.png"
+    },
+    {
+        "name": "7a-7",
+        "location_size": 50,
+        "location_border_thickness": 8,
+        "img": "images/maps/7/7a-7.png"
+    },
+
+
+
+    {
+        "name": "7b-1",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7b-1.png"
+    },
+    {
+        "name": "7b-2",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7b-2.png"
+    },
+    {
+        "name": "7b-3",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7b-3.png"
+    },
+    {
+        "name": "7b-4",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7b-4.png"
+    },
+    {
+        "name": "7b-5",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7b-5.png"
+    },
+    {
+        "name": "7b-6",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7b-6.png"
+    },
+    {
+        "name": "7b-7",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7b-7.png"
+    },
+
+
+
+    {
+        "name": "7c-1",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7c-1.png"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Reflection C - Room 00",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection C - Room 00" ] } ],
+        "map_locations": [
+            {
+                "map": "6c-1",
+                "x": 10,
+                "y": 18,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Reflection C - Room 01",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection C - Room 01" ] } ],
+        "map_locations": [
+            {
+                "map": "6c-1",
+                "x": 634,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Reflection C - Room 02",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection C - Room 02" ] } ],
+        "map_locations": [
+            {
+                "map": "6c-1",
+                "x": 954,
+                "y": 682,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    }
+]

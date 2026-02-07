@@ -1,0 +1,1528 @@
+[
+    {
+        "name": "Farewell - Room intro-00-past",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room intro-00-past" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-1",
+                "x": 10,
+                "y": 1266,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room intro-01-future",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room intro-01-future" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-1",
+                "x": 1298,
+                "y": 1266,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room intro-02-launch",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room intro-02-launch" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-1",
+                "x": 2082,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room intro-03-space",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room intro-03-space" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-1",
+                "x": 1698,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room a-00",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room a-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 10,
+                "y": 274,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room a-01",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room a-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 330,
+                "y": 218,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room a-02",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room a-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 762,
+                "y": 218,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room a-03",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room a-03" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 1082,
+                "y": 154,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room a-04",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room a-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 1538,
+                "y": 186,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room a-05",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room a-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 2330,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room b-00",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room b-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 3034,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room b-01",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room b-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 3474,
+                "y": 162,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room b-02",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room b-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 3914,
+                "y": 122,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room b-03",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room b-03" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 4234,
+                "y": 146,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room b-04",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room b-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 4938,
+                "y": 170,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room b-05",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room b-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 5258,
+                "y": 74,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room b-06",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room b-06" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 5874,
+                "y": 90,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room b-07",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room b-07" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 6626,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room c-00",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room c-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 10,
+                "y": 1890,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room c-alt-00",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room c-alt-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 818,
+                "y": 1890,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room c-alt-01",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room c-alt-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2642,
+                "y": 1890,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room c-00b",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room c-00b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 818,
+                "y": 2146,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room c-01",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room c-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 1802,
+                "y": 2154,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room c-02",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room c-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2322,
+                "y": 2202,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room c-03",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room c-03" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2962,
+                "y": 1810,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-00",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2594,
+                "y": 1178,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-01",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 1066,
+                "y": 1522,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-02",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2474,
+                "y": 234,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-03",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-03" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 3674,
+                "y": 1626,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-04",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 3674,
+                "y": 1250,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-05",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2834,
+                "y": 994,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-00y",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-00y" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2962,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-00yb",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-00yb" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 3282,
+                "y": 162,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-00z",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-00z" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 10,
+                "y": 1738,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-00",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 162,
+                "y": 1314,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-00b",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-00b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 282,
+                "y": 914,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-01",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 282,
+                "y": 306,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-02",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 362,
+                "y": 122,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-03",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-03" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 1106,
+                "y": 42,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-04",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 1426,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-05",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 2226,
+                "y": 114,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-05b",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-05b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 2618,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-05c",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-05c" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 2938,
+                "y": 106,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-06",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-06" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 3418,
+                "y": 66,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-07",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-07" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 4290,
+                "y": 82,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-08",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-08" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 5042,
+                "y": 90,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-door",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-door" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 10,
+                "y": 1970,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-00",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 1010,
+                "y": 1914,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-01",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 1986,
+                "y": 1746,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-02",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 2426,
+                "y": 1730,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-03",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-03" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 3042,
+                "y": 1746,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-04",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 3506,
+                "y": 1730,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-05",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 4130,
+                "y": 1474,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-06",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-06" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 4754,
+                "y": 1482,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-07",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-07" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 5506,
+                "y": 1490,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-08",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-08" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 6570,
+                "y": 1522,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-09",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-09" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 7098,
+                "y": 1346,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room g-00",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room g-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 7114,
+                "y": 874,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room g-01",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room g-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 7114,
+                "y": 562,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room g-03",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room g-03" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 7306,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room g-02",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room g-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 7298,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room g-04",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room g-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 8106,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room g-05",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room g-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 8978,
+                "y": 50,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room g-06",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room g-06" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 9298,
+                "y": 146,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-00b",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-00b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 10,
+                "y": 1898,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-00",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 1058,
+                "y": 2082,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-01",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 1658,
+                "y": 1562,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-02",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 1866,
+                "y": 1378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-03",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-03" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 3122,
+                "y": 1322,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-03b",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-03b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 3442,
+                "y": 1226,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-04",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 4242,
+                "y": 1242,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-04b",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-04b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 4562,
+                "y": 1890,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-05",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 4562,
+                "y": 2074,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-06",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-06" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 5386,
+                "y": 2090,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-06b",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-06b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 6210,
+                "y": 1354,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-07",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-07" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 6466,
+                "y": 1170,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-08",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-08" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 8378,
+                "y": 1098,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-09",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-09" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 9018,
+                "y": 1154,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-10",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-10" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 10434,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room i-00",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room i-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-7",
+                "x": 10,
+                "y": 306,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room i-00b",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room i-00b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-7",
+                "x": 1394,
+                "y": 258,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room i-01",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room i-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-7",
+                "x": 1986,
+                "y": 178,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room i-02",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room i-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-7",
+                "x": 2546,
+                "y": 130,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room i-03",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room i-03" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-7",
+                "x": 3274,
+                "y": 58,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room i-04",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room i-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-7",
+                "x": 3826,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room i-05",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room i-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-7",
+                "x": 4434,
+                "y": 42,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-00",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 10,
+                "y": 252,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-00b",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-00b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 1162,
+                "y": 252,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-01",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 2770,
+                "y": 196,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-02",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 4018,
+                "y": 196,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-03",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-03" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 10,
+                "y": 696,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-04",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 1626,
+                "y": 712,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-05",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 2466,
+                "y": 712,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-06",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-06" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 3722,
+                "y": 656,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-07",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-07" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 10,
+                "y": 1116,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-08",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-08" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 1762,
+                "y": 1108,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-09",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-09" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 3506,
+                "y": 1124,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-10",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-10" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 10,
+                "y": 1664,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-11",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-11" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 1754,
+                "y": 1664,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-12",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-12" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 3202,
+                "y": 1688,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-13",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-13" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 10,
+                "y": 2148,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-14",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-14" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 2682,
+                "y": 2148,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-14b",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-14b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 4138,
+                "y": 2084,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-15",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-15" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-8",
+                "x": 5226,
+                "y": 2108,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-16",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-16" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-9",
+                "x": 10,
+                "y": 4730,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-17",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-17" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-9",
+                "x": 4634,
+                "y": 4546,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-18",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-18" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-9",
+                "x": 4634,
+                "y": 4362,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-19",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-19" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-9",
+                "x": 4954,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room end-golden",
+        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room end-golden" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-9",
+                "x": 6933,
+                "y": 5490,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    }
+]

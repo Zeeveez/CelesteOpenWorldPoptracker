@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Farewell - Golden Strawberry",
+        "visibility_rules": [
+            "include_farewell,include_goldens"
+        ],
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Farewell - Room end-golden" ]
+            }
+        ],
+        "map_locations": []
+    },
+    {
+        "name": "Farewell - Moon Berry",
+        "visibility_rules": [
+            "include_farewell"
+        ],
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Farewell - Room j-19" ]
+            }
+        ],
+        "map_locations": []
+    }
+]

@@ -1,0 +1,159 @@
+{
+    "tracker_collectables": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "5",
+                "rows": [
+                    [
+                        "strawberry"
+                    ],
+                    [
+                        "raspberry"
+                    ]
+                ]
+            }
+        ]
+    },
+    "tracker_unlocks": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "5",
+                "rows": [
+                    [
+                        "springs",
+                        "trafficblocks",
+                        "dashrefills",
+                        "pinkcassetteblocks",
+                        "bluecassetteblocks",
+                        "dreamblocks",
+                        "coins",
+                        "strawberryseeds"
+                    ],
+                    [
+                        "sinkingplatforms",
+                        "movingplatforms",
+                        "blueclouds",
+                        "pinkclouds",
+                        "blueboosters",
+                        "moveblocks",
+                        "whiteblock"
+                    ],
+                    [
+                        "swapblocks",
+                        "redboosters",
+                        "dashswitches",
+                        "seekers",
+                        "theocrystal",
+                        "torches"
+                    ],
+                    [
+                        "feathers",
+                        "bumpers",
+                        "kevins",
+                        "badelineboosters"
+                    ]
+                ]
+            }
+        ]
+    },
+    "tracker_keys_gems": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "4",
+                "rows": [
+                    [
+                        "celestialresorta-frontdoorkey",
+                        "celestialresorta-hallwaykey1",
+                        "celestialresorta-hallwaykey2",
+                        "celestialresorta-hugemesskey",
+                        "celestialresorta-presidentialsuitekey"
+                    ],
+                    [
+                        "mirrortemplea-entrancekey",
+                        "mirrortemplea-depthskey",
+                        "mirrortemplea-searchkey1",
+                        "mirrortemplea-searchkey2",
+                        "mirrortemplea-searchkey3",
+                        "mirrortempleb-centralchamberkey1",
+                        "mirrortempleb-centralchamberkey2"
+                    ],
+                    [
+                        "thesummita-2500mkey"
+                    ],
+                    [
+                        "farewell-powersourcekey1",
+                        "farewell-powersourcekey2",
+                        "farewell-powersourcekey3",
+                        "farewell-powersourcekey4",
+                        "farewell-powersourcekey5"
+                    ],
+                    [
+                        "thesummita-gem1",
+                        "thesummita-gem2",
+                        "thesummita-gem3",
+                        "thesummita-gem4",
+                        "thesummita-gem5",
+                        "thesummita-gem6"
+                    ]
+                ]
+            }
+        ]
+    },
+    "tracker_settings": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "5",
+                "rows": [
+                    [
+                        "strawberries_required",
+                        "goal_area",
+                        "require_cassettes",
+                        //"difficulty",
+                        "lock_goal_area"
+                    ],
+                    [
+                        "include_b_sides",
+                        "include_c_sides",
+                        "include_core",
+                        "include_farewell",
+                        "include_goldens"
+                    ],
+                    [
+                        "roomsanity",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "9a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "9A - Checkpoint 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9a-1"
+                    ]
+                }
+            },
+            {
+                "title": "9A - Checkpoint 2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9a-2"
+                    ]
+                }
+            },
+            {
+                "title": "9A - Checkpoint 3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9a-3"
+                    ]
+                }
+            },
+            {
+                "title": "9A - Checkpoint 4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9a-4"
+                    ]
+                }
+            },
+            {
+                "title": "9A - Checkpoint 5",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9a-5"
+                    ]
+                }
+            },
+            {
+                "title": "9A - Checkpoint 6",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9a-6"
+                    ]
+                }
+            },
+            {
+                "title": "9A - Checkpoint 7",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9a-7"
+                    ]
+                }
+            },
+            {
+                "title": "9A - Checkpoint 8",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9a-8"
+                    ]
+                }
+            },
+            {
+                "title": "9A - Checkpoint 9",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9a-9"
+                    ]
+                }
+            }
+        ]
+    }
+}

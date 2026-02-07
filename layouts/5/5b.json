@@ -1,0 +1,43 @@
+{
+    "5b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "5B - Checkpoint 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5b-1"
+                    ]
+                }
+            },
+            {
+                "title": "5B - Checkpoint 2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5b-2"
+                    ]
+                }
+            },
+            {
+                "title": "5B - Checkpoint 3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5b-3"
+                    ]
+                }
+            },
+            {
+                "title": "5B - Checkpoint 4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5b-4"
+                    ]
+                }
+            }
+        ]
+    }
+}

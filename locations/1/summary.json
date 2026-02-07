@@ -1,0 +1,694 @@
+[
+    {
+        "name": "Forsaken City A - Summary",
+        "children": [
+            {
+                "name": "Forsaken City A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 30,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Level Clear",
+                        "ref": "Forsaken City A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 380,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City B - Level Clear",
+                        "ref": "Forsaken City B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 465,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City C - Level Clear",
+                        "ref": "Forsaken City C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 150,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Golden Strawberry",
+                        "ref": "Forsaken City A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City B - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 350,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City B - Golden Strawberry",
+                        "ref": "Forsaken City B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 435,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City C - Golden Strawberry",
+                        "ref": "Forsaken City C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Cassette",
+                        "ref": "Forsaken City A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 110,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Crystal Heart",
+                        "ref": "Forsaken City A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 205,
+                        "size": 80
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 2 Strawberry",
+                        "ref": "Forsaken City A - Room 2 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 3 Strawberry",
+                        "ref": "Forsaken City A - Room 3 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 3b Strawberry",
+                        "ref": "Forsaken City A - Room 3b Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 5 Strawberry",
+                        "ref": "Forsaken City A - Room 5 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 5z Strawberry",
+                        "ref": "Forsaken City A - Room 5z Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 5a Strawberry",
+                        "ref": "Forsaken City A - Room 5a Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 6 Strawberry",
+                        "ref": "Forsaken City A - Room 6 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 7zb Strawberry",
+                        "ref": "Forsaken City A - Room 7zb Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room s1 Strawberry",
+                        "ref": "Forsaken City A - Room s1 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 7z Strawberry",
+                        "ref": "Forsaken City A - Room 7z Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 8zb Strawberry",
+                        "ref": "Forsaken City A - Room 8zb Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 7a Strawberry",
+                        "ref": "Forsaken City A - Room 7a Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 9z Strawberry",
+                        "ref": "Forsaken City A - Room 9z Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 8b Strawberry",
+                        "ref": "Forsaken City A - Room 8b Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 9 Strawberry",
+                        "ref": "Forsaken City A - Room 9 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 9b Strawberry",
+                        "ref": "Forsaken City A - Room 9b Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 9c Strawberry",
+                        "ref": "Forsaken City A - Room 9c Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 10zb Strawberry",
+                        "ref": "Forsaken City A - Room 10zb Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 11 Strawberry",
+                        "ref": "Forsaken City A - Room 11 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 12z Strawberry",
+                        "ref": "Forsaken City A - Room 12z Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Checkpoint 1 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 55,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 2 Strawberry",
+                        "ref": "Forsaken City A - Room 2 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 3 Strawberry",
+                        "ref": "Forsaken City A - Room 3 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 3b Strawberry",
+                        "ref": "Forsaken City A - Room 3b Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 5 Strawberry",
+                        "ref": "Forsaken City A - Room 5 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 5z Strawberry",
+                        "ref": "Forsaken City A - Room 5z Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 5a Strawberry",
+                        "ref": "Forsaken City A - Room 5a Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Checkpoint 2 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 6 Strawberry",
+                        "ref": "Forsaken City A - Room 6 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 7zb Strawberry",
+                        "ref": "Forsaken City A - Room 7zb Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room s1 Strawberry",
+                        "ref": "Forsaken City A - Room s1 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 7z Strawberry",
+                        "ref": "Forsaken City A - Room 7z Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 8zb Strawberry",
+                        "ref": "Forsaken City A - Room 8zb Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 7a Strawberry",
+                        "ref": "Forsaken City A - Room 7a Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 9z Strawberry",
+                        "ref": "Forsaken City A - Room 9z Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 8b Strawberry",
+                        "ref": "Forsaken City A - Room 8b Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 9 Strawberry",
+                        "ref": "Forsaken City A - Room 9 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Checkpoint 3 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 85,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 9b Strawberry",
+                        "ref": "Forsaken City A - Room 9b Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 9c Strawberry",
+                        "ref": "Forsaken City A - Room 9c Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 10zb Strawberry",
+                        "ref": "Forsaken City A - Room 10zb Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 11 Strawberry",
+                        "ref": "Forsaken City A - Room 11 Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 12z Strawberry",
+                        "ref": "Forsaken City A - Room 12z Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 55,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 1",
+                        "ref": "Forsaken City A - Room 1/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 2",
+                        "ref": "Forsaken City A - Room 2/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 3",
+                        "ref": "Forsaken City A - Room 3/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 4",
+                        "ref": "Forsaken City A - Room 4/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 3b",
+                        "ref": "Forsaken City A - Room 3b/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 5",
+                        "ref": "Forsaken City A - Room 5/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 5z",
+                        "ref": "Forsaken City A - Room 5z/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 5a",
+                        "ref": "Forsaken City A - Room 5a/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 6",
+                        "ref": "Forsaken City A - Room 6/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 6z",
+                        "ref": "Forsaken City A - Room 6z/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 6zb",
+                        "ref": "Forsaken City A - Room 6zb/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 7zb",
+                        "ref": "Forsaken City A - Room 7zb/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 6a",
+                        "ref": "Forsaken City A - Room 6a/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 6b",
+                        "ref": "Forsaken City A - Room 6b/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room s0",
+                        "ref": "Forsaken City A - Room s0/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room s1",
+                        "ref": "Forsaken City A - Room s1/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 6c",
+                        "ref": "Forsaken City A - Room 6c/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 7",
+                        "ref": "Forsaken City A - Room 7/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 7z",
+                        "ref": "Forsaken City A - Room 7z/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 8z",
+                        "ref": "Forsaken City A - Room 8z/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 8zb",
+                        "ref": "Forsaken City A - Room 8zb/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 8",
+                        "ref": "Forsaken City A - Room 8/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 7a",
+                        "ref": "Forsaken City A - Room 7a/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 9z",
+                        "ref": "Forsaken City A - Room 9z/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 8b",
+                        "ref": "Forsaken City A - Room 8b/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 9",
+                        "ref": "Forsaken City A - Room 9/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 85,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 9b",
+                        "ref": "Forsaken City A - Room 9b/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 9c",
+                        "ref": "Forsaken City A - Room 9c/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 10",
+                        "ref": "Forsaken City A - Room 10/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 10z",
+                        "ref": "Forsaken City A - Room 10z/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 10zb",
+                        "ref": "Forsaken City A - Room 10zb/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 11",
+                        "ref": "Forsaken City A - Room 11/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 11z",
+                        "ref": "Forsaken City A - Room 11z/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 10a",
+                        "ref": "Forsaken City A - Room 10a/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 12",
+                        "ref": "Forsaken City A - Room 12/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 12z",
+                        "ref": "Forsaken City A - Room 12z/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room 12a",
+                        "ref": "Forsaken City A - Room 12a/"
+                    },
+                    {
+                        "name": "Forsaken City A - Room end",
+                        "ref": "Forsaken City A - Room end/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City B - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 55,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City B - Room 00",
+                        "ref": "Forsaken City B - Room 00/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 01",
+                        "ref": "Forsaken City B - Room 01/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 02",
+                        "ref": "Forsaken City B - Room 02/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 02b",
+                        "ref": "Forsaken City B - Room 02b/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 03",
+                        "ref": "Forsaken City B - Room 03/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City B - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City B - Room 04",
+                        "ref": "Forsaken City B - Room 04/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 05",
+                        "ref": "Forsaken City B - Room 05/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 05b",
+                        "ref": "Forsaken City B - Room 05b/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 06",
+                        "ref": "Forsaken City B - Room 06/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 07",
+                        "ref": "Forsaken City B - Room 07/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City B - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 85,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City B - Room 08",
+                        "ref": "Forsaken City B - Room 08/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 08b",
+                        "ref": "Forsaken City B - Room 08b/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 09",
+                        "ref": "Forsaken City B - Room 09/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 10",
+                        "ref": "Forsaken City B - Room 10/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room 11",
+                        "ref": "Forsaken City B - Room 11/"
+                    },
+                    {
+                        "name": "Forsaken City B - Room end",
+                        "ref": "Forsaken City B - Room end/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City C - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 495,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City C - Room 00",
+                        "ref": "Forsaken City C - Room 00/"
+                    },
+                    {
+                        "name": "Forsaken City C - Room 01",
+                        "ref": "Forsaken City C - Room 01/"
+                    },
+                    {
+                        "name": "Forsaken City C - Room 02",
+                        "ref": "Forsaken City C - Room 02/"
+                    }
+                ]
+            }
+        ]
+    }
+]

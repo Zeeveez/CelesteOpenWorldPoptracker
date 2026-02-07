@@ -1,0 +1,632 @@
+[
+    {
+        "name": "Old Site A - Room start",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room start" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 10,
+                "y": 562,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room s0",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room s0" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 10,
+                "y": 378,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room s1",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room s1" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 10,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room s2",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room s2" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 0",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 0" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 330,
+                "y": 474,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 1",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 1" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 690,
+                "y": 514,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room d0",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room d0" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 690,
+                "y": 810,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room d7",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room d7" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 1010,
+                "y": 1178,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room d8",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room d8" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 1330,
+                "y": 1178,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room d3",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room d3" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 1650,
+                "y": 994,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room d2",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room d2" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 1010,
+                "y": 994,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room d9",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room d9" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 818,
+                "y": 1482,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room d1",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room d1" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 370,
+                "y": 810,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room d6",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room d6" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 370,
+                "y": 1178,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room d4",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room d4" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 1010,
+                "y": 810,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room d5",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room d5" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 1330,
+                "y": 810,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 3x",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 3x" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 370,
+                "y": 290,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 3",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 3" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 42,
+                "y": 1394,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 4",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 4" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 82,
+                "y": 1210,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 5",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 5" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 82,
+                "y": 1026,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 6",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 6" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 82,
+                "y": 842,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 7",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 7" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 82,
+                "y": 658,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 8",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 8" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 10,
+                "y": 338,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 9",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 9" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 402,
+                "y": 338,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 9b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 9b" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 186,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 10",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 10" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 658,
+                "y": 658,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 2",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 2" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 722,
+                "y": 1618,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 11",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 11" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 1106,
+                "y": 1914,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 12b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 12b" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 1538,
+                "y": 1914,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 12c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 12c" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 1778,
+                "y": 1554,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 12d",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 12d" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 1874,
+                "y": 2098,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 12",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 12" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 2130,
+                "y": 1906,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room 13",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room 13" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-2",
+                "x": 2594,
+                "y": 1914,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_0",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_0" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 10,
+                "y": 554,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_s0",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_s0" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 10,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_s1",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_s1" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_1",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_1" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 330,
+                "y": 554,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_2",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_2" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 690,
+                "y": 554,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_3",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_3" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 1010,
+                "y": 554,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_4",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_4" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 1394,
+                "y": 714,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_3b",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_3b" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 1826,
+                "y": 714,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_3cb",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_3cb" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 2066,
+                "y": 530,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_3c",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_3c" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 2066,
+                "y": 346,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_5",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_5" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 2418,
+                "y": 706,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Room end_6",
+        "visibility_rules": [ "roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Old Site A - Room end_6" ] } ],
+        "map_locations": [
+            {
+                "map": "2a-3",
+                "x": 2882,
+                "y": 714,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    }
+]

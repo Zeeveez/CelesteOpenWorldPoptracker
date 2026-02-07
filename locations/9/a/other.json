@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Farewell - Level Clear",
+        "visibility_rules": [
+            "include_farewell"
+        ],
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Farewell - Room j-16" ]
+            }
+        ],
+        "map_locations": []
+    },
+    {
+        "name": "Farewell - Crystal Heart?",
+        "visibility_rules": [
+            "include_farewell"
+        ],
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Farewell - Room e-08" ]
+            }
+        ],
+        "map_locations": []
+    }
+]

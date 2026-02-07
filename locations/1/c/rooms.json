@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Forsaken City C - Room 00",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City C - Room 00" ] } ],
+        "map_locations": [
+            {
+                "map": "1c-1",
+                "x": 10,
+                "y": 34,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City C - Room 01",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City C - Room 01" ] } ],
+        "map_locations": [
+            {
+                "map": "1c-1",
+                "x": 698,
+                "y": 34,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City C - Room 02",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City C - Room 02" ] } ],
+        "map_locations": [
+            {
+                "map": "1c-1",
+                "x": 1642,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    }
+]

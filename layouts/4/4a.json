@@ -1,0 +1,43 @@
+{
+    "4a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "4A - Checkpoint 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "4a-1"
+                    ]
+                }
+            },
+            {
+                "title": "4A - Checkpoint 2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "4a-2"
+                    ]
+                }
+            },
+            {
+                "title": "4A - Checkpoint 3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "4a-3"
+                    ]
+                }
+            },
+            {
+                "title": "4A - Checkpoint 4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "4a-4"
+                    ]
+                }
+            }
+        ]
+    }
+}

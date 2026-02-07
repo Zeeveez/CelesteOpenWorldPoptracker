@@ -1,0 +1,710 @@
+[
+    {
+        "name": "Old Site A - Summary",
+        "children": [
+            {
+                "name": "Old Site A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 165,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Level Clear",
+                        "ref": "Old Site A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 380,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site B - Level Clear",
+                        "ref": "Old Site B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 465,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site C - Level Clear",
+                        "ref": "Old Site C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 150,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Golden Strawberry",
+                        "ref": "Old Site A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site B - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 350,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site B - Golden Strawberry",
+                        "ref": "Old Site B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 435,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site C - Golden Strawberry",
+                        "ref": "Old Site C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Cassette",
+                        "ref": "Old Site A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 245,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Crystal Heart",
+                        "ref": "Old Site A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 205,
+                        "size": 80
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 1 Strawberry",
+                        "ref": "Old Site A - Room 1 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d0 Strawberry",
+                        "ref": "Old Site A - Room d0 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d3 Strawberry",
+                        "ref": "Old Site A - Room d3 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d2 Strawberry 2",
+                        "ref": "Old Site A - Room d2 Strawberry 2/"
+                    },
+                    {
+                        "name": "Old Site A - Room d2 Strawberry 1",
+                        "ref": "Old Site A - Room d2 Strawberry 1/"
+                    },
+                    {
+                        "name": "Old Site A - Room d1 Strawberry",
+                        "ref": "Old Site A - Room d1 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d6 Strawberry",
+                        "ref": "Old Site A - Room d6 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d4 Strawberry",
+                        "ref": "Old Site A - Room d4 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d5 Strawberry",
+                        "ref": "Old Site A - Room d5 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 4 Strawberry",
+                        "ref": "Old Site A - Room 4 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 5 Strawberry",
+                        "ref": "Old Site A - Room 5 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 8 Strawberry",
+                        "ref": "Old Site A - Room 8 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 9 Strawberry",
+                        "ref": "Old Site A - Room 9 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 9b Strawberry",
+                        "ref": "Old Site A - Room 9b Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 10 Strawberry",
+                        "ref": "Old Site A - Room 10 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 12c Strawberry",
+                        "ref": "Old Site A - Room 12c Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 12d Strawberry",
+                        "ref": "Old Site A - Room 12d Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_3c Strawberry",
+                        "ref": "Old Site A - Room end_3c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Checkpoint 1 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 190,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 1 Strawberry",
+                        "ref": "Old Site A - Room 1 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d0 Strawberry",
+                        "ref": "Old Site A - Room d0 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d3 Strawberry",
+                        "ref": "Old Site A - Room d3 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d2 Strawberry 2",
+                        "ref": "Old Site A - Room d2 Strawberry 2/"
+                    },
+                    {
+                        "name": "Old Site A - Room d2 Strawberry 1",
+                        "ref": "Old Site A - Room d2 Strawberry 1/"
+                    },
+                    {
+                        "name": "Old Site A - Room d1 Strawberry",
+                        "ref": "Old Site A - Room d1 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d6 Strawberry",
+                        "ref": "Old Site A - Room d6 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d4 Strawberry",
+                        "ref": "Old Site A - Room d4 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room d5 Strawberry",
+                        "ref": "Old Site A - Room d5 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Checkpoint 2 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 4 Strawberry",
+                        "ref": "Old Site A - Room 4 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 5 Strawberry",
+                        "ref": "Old Site A - Room 5 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 8 Strawberry",
+                        "ref": "Old Site A - Room 8 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 9 Strawberry",
+                        "ref": "Old Site A - Room 9 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 9b Strawberry",
+                        "ref": "Old Site A - Room 9b Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 10 Strawberry",
+                        "ref": "Old Site A - Room 10 Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 12c Strawberry",
+                        "ref": "Old Site A - Room 12c Strawberry/"
+                    },
+                    {
+                        "name": "Old Site A - Room 12d Strawberry",
+                        "ref": "Old Site A - Room 12d Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Checkpoint 3 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 220,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room end_3c Strawberry",
+                        "ref": "Old Site A - Room end_3c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 190,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room start",
+                        "ref": "Old Site A - Room start/"
+                    },
+                    {
+                        "name": "Old Site A - Room s0",
+                        "ref": "Old Site A - Room s0/"
+                    },
+                    {
+                        "name": "Old Site A - Room s1",
+                        "ref": "Old Site A - Room s1/"
+                    },
+                    {
+                        "name": "Old Site A - Room s2",
+                        "ref": "Old Site A - Room s2/"
+                    },
+                    {
+                        "name": "Old Site A - Room 0",
+                        "ref": "Old Site A - Room 0/"
+                    },
+                    {
+                        "name": "Old Site A - Room 1",
+                        "ref": "Old Site A - Room 1/"
+                    },
+                    {
+                        "name": "Old Site A - Room d0",
+                        "ref": "Old Site A - Room d0/"
+                    },
+                    {
+                        "name": "Old Site A - Room d7",
+                        "ref": "Old Site A - Room d7/"
+                    },
+                    {
+                        "name": "Old Site A - Room d8",
+                        "ref": "Old Site A - Room d8/"
+                    },
+                    {
+                        "name": "Old Site A - Room d3",
+                        "ref": "Old Site A - Room d3/"
+                    },
+                    {
+                        "name": "Old Site A - Room d2",
+                        "ref": "Old Site A - Room d2/"
+                    },
+                    {
+                        "name": "Old Site A - Room d9",
+                        "ref": "Old Site A - Room d9/"
+                    },
+                    {
+                        "name": "Old Site A - Room d1",
+                        "ref": "Old Site A - Room d1/"
+                    },
+                    {
+                        "name": "Old Site A - Room d6",
+                        "ref": "Old Site A - Room d6/"
+                    },
+                    {
+                        "name": "Old Site A - Room d4",
+                        "ref": "Old Site A - Room d4/"
+                    },
+                    {
+                        "name": "Old Site A - Room d5",
+                        "ref": "Old Site A - Room d5/"
+                    },
+                    {
+                        "name": "Old Site A - Room 3x",
+                        "ref": "Old Site A - Room 3x/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 3",
+                        "ref": "Old Site A - Room 3/"
+                    },
+                    {
+                        "name": "Old Site A - Room 4",
+                        "ref": "Old Site A - Room 4/"
+                    },
+                    {
+                        "name": "Old Site A - Room 5",
+                        "ref": "Old Site A - Room 5/"
+                    },
+                    {
+                        "name": "Old Site A - Room 6",
+                        "ref": "Old Site A - Room 6/"
+                    },
+                    {
+                        "name": "Old Site A - Room 7",
+                        "ref": "Old Site A - Room 7/"
+                    },
+                    {
+                        "name": "Old Site A - Room 8",
+                        "ref": "Old Site A - Room 8/"
+                    },
+                    {
+                        "name": "Old Site A - Room 9",
+                        "ref": "Old Site A - Room 9/"
+                    },
+                    {
+                        "name": "Old Site A - Room 9b",
+                        "ref": "Old Site A - Room 9b/"
+                    },
+                    {
+                        "name": "Old Site A - Room 10",
+                        "ref": "Old Site A - Room 10/"
+                    },
+                    {
+                        "name": "Old Site A - Room 2",
+                        "ref": "Old Site A - Room 2/"
+                    },
+                    {
+                        "name": "Old Site A - Room 11",
+                        "ref": "Old Site A - Room 11/"
+                    },
+                    {
+                        "name": "Old Site A - Room 12b",
+                        "ref": "Old Site A - Room 12b/"
+                    },
+                    {
+                        "name": "Old Site A - Room 12c",
+                        "ref": "Old Site A - Room 12c/"
+                    },
+                    {
+                        "name": "Old Site A - Room 12d",
+                        "ref": "Old Site A - Room 12d/"
+                    },
+                    {
+                        "name": "Old Site A - Room 12",
+                        "ref": "Old Site A - Room 12/"
+                    },
+                    {
+                        "name": "Old Site A - Room 13",
+                        "ref": "Old Site A - Room 13/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 220,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room end_0",
+                        "ref": "Old Site A - Room end_0/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_s0",
+                        "ref": "Old Site A - Room end_s0/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_s1",
+                        "ref": "Old Site A - Room end_s1/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_1",
+                        "ref": "Old Site A - Room end_1/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_2",
+                        "ref": "Old Site A - Room end_2/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_3",
+                        "ref": "Old Site A - Room end_3/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_4",
+                        "ref": "Old Site A - Room end_4/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_3b",
+                        "ref": "Old Site A - Room end_3b/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_3cb",
+                        "ref": "Old Site A - Room end_3cb/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_3c",
+                        "ref": "Old Site A - Room end_3c/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_5",
+                        "ref": "Old Site A - Room end_5/"
+                    },
+                    {
+                        "name": "Old Site A - Room end_6",
+                        "ref": "Old Site A - Room end_6/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site B - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 190,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site B - Room start",
+                        "ref": "Old Site B - Room start/"
+                    },
+                    {
+                        "name": "Old Site B - Room 00",
+                        "ref": "Old Site B - Room 00/"
+                    },
+                    {
+                        "name": "Old Site B - Room 01",
+                        "ref": "Old Site B - Room 01/"
+                    },
+                    {
+                        "name": "Old Site B - Room 01b",
+                        "ref": "Old Site B - Room 01b/"
+                    },
+                    {
+                        "name": "Old Site B - Room 02b",
+                        "ref": "Old Site B - Room 02b/"
+                    },
+                    {
+                        "name": "Old Site B - Room 02",
+                        "ref": "Old Site B - Room 02/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site B - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site B - Room 03",
+                        "ref": "Old Site B - Room 03/"
+                    },
+                    {
+                        "name": "Old Site B - Room 04",
+                        "ref": "Old Site B - Room 04/"
+                    },
+                    {
+                        "name": "Old Site B - Room 05",
+                        "ref": "Old Site B - Room 05/"
+                    },
+                    {
+                        "name": "Old Site B - Room 06",
+                        "ref": "Old Site B - Room 06/"
+                    },
+                    {
+                        "name": "Old Site B - Room 07",
+                        "ref": "Old Site B - Room 07/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site B - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 220,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site B - Room 08b",
+                        "ref": "Old Site B - Room 08b/"
+                    },
+                    {
+                        "name": "Old Site B - Room 08",
+                        "ref": "Old Site B - Room 08/"
+                    },
+                    {
+                        "name": "Old Site B - Room 09",
+                        "ref": "Old Site B - Room 09/"
+                    },
+                    {
+                        "name": "Old Site B - Room 10",
+                        "ref": "Old Site B - Room 10/"
+                    },
+                    {
+                        "name": "Old Site B - Room 11",
+                        "ref": "Old Site B - Room 11/"
+                    },
+                    {
+                        "name": "Old Site B - Room end",
+                        "ref": "Old Site B - Room end/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site C - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 495,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site C - Room 00",
+                        "ref": "Old Site C - Room 00/"
+                    },
+                    {
+                        "name": "Old Site C - Room 01",
+                        "ref": "Old Site C - Room 01/"
+                    },
+                    {
+                        "name": "Old Site C - Room 02",
+                        "ref": "Old Site C - Room 02/"
+                    }
+                ]
+            }
+        ]
+    }
+]

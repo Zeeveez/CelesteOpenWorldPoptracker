@@ -1,0 +1,1362 @@
+[
+    {
+        "name": "The Summit A - Summary",
+        "children": [
+            {
+                "name": "The Summit A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 840,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Level Clear",
+                        "ref": "The Summit A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 380,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Level Clear",
+                        "ref": "The Summit B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 465,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit C - Level Clear",
+                        "ref": "The Summit C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 150,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Golden Strawberry",
+                        "ref": "The Summit A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 350,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Golden Strawberry",
+                        "ref": "The Summit B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 435,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit C - Golden Strawberry",
+                        "ref": "The Summit C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Cassette",
+                        "ref": "The Summit A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 920,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Crystal Heart",
+                        "ref": "The Summit A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 205,
+                        "size": 80
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room a-02b Strawberry",
+                        "ref": "The Summit A - Room a-02b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-04b Strawberry 1",
+                        "ref": "The Summit A - Room a-04b Strawberry 1/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-04b Strawberry 2",
+                        "ref": "The Summit A - Room a-04b Strawberry 2/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-05 Strawberry",
+                        "ref": "The Summit A - Room a-05 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02 Strawberry",
+                        "ref": "The Summit A - Room b-02 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02b Strawberry",
+                        "ref": "The Summit A - Room b-02b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02e Strawberry",
+                        "ref": "The Summit A - Room b-02e Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-04 Strawberry",
+                        "ref": "The Summit A - Room b-04 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-08 Strawberry",
+                        "ref": "The Summit A - Room b-08 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-09 Strawberry",
+                        "ref": "The Summit A - Room b-09 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-03b Strawberry",
+                        "ref": "The Summit A - Room c-03b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-05 Strawberry",
+                        "ref": "The Summit A - Room c-05 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-06b Strawberry",
+                        "ref": "The Summit A - Room c-06b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-07b Strawberry",
+                        "ref": "The Summit A - Room c-07b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-08 Strawberry",
+                        "ref": "The Summit A - Room c-08 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-09 Strawberry",
+                        "ref": "The Summit A - Room c-09 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-00 Strawberry",
+                        "ref": "The Summit A - Room d-00 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-01c Strawberry",
+                        "ref": "The Summit A - Room d-01c Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-01d Strawberry",
+                        "ref": "The Summit A - Room d-01d Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-03 Strawberry",
+                        "ref": "The Summit A - Room d-03 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-04 Strawberry",
+                        "ref": "The Summit A - Room d-04 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-07 Strawberry",
+                        "ref": "The Summit A - Room d-07 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-08 Strawberry",
+                        "ref": "The Summit A - Room d-08 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-10b Strawberry",
+                        "ref": "The Summit A - Room d-10b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-02 Strawberry",
+                        "ref": "The Summit A - Room e-02 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-05 Strawberry",
+                        "ref": "The Summit A - Room e-05 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-07 Strawberry",
+                        "ref": "The Summit A - Room e-07 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-09 Strawberry",
+                        "ref": "The Summit A - Room e-09 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-11 Strawberry",
+                        "ref": "The Summit A - Room e-11 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-12 Strawberry",
+                        "ref": "The Summit A - Room e-12 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-10 Strawberry",
+                        "ref": "The Summit A - Room e-10 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-13 Strawberry",
+                        "ref": "The Summit A - Room e-13 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-00 Strawberry",
+                        "ref": "The Summit A - Room f-00 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-01 Strawberry",
+                        "ref": "The Summit A - Room f-01 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-07 Strawberry",
+                        "ref": "The Summit A - Room f-07 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-08b Strawberry",
+                        "ref": "The Summit A - Room f-08b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-08c Strawberry",
+                        "ref": "The Summit A - Room f-08c Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-11 Strawberry 1",
+                        "ref": "The Summit A - Room f-11 Strawberry 1/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-11 Strawberry 2",
+                        "ref": "The Summit A - Room f-11 Strawberry 2/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-11 Strawberry 3",
+                        "ref": "The Summit A - Room f-11 Strawberry 3/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-00b Strawberry 1",
+                        "ref": "The Summit A - Room g-00b Strawberry 1/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-00b Strawberry 2",
+                        "ref": "The Summit A - Room g-00b Strawberry 2/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-00b Strawberry 3",
+                        "ref": "The Summit A - Room g-00b Strawberry 3/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-01 Strawberry 1",
+                        "ref": "The Summit A - Room g-01 Strawberry 1/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-01 Strawberry 2",
+                        "ref": "The Summit A - Room g-01 Strawberry 2/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-01 Strawberry 3",
+                        "ref": "The Summit A - Room g-01 Strawberry 3/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-03 Strawberry",
+                        "ref": "The Summit A - Room g-03 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 1 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 835,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room a-02b Strawberry",
+                        "ref": "The Summit A - Room a-02b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-04b Strawberry 1",
+                        "ref": "The Summit A - Room a-04b Strawberry 1/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-04b Strawberry 2",
+                        "ref": "The Summit A - Room a-04b Strawberry 2/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-05 Strawberry",
+                        "ref": "The Summit A - Room a-05 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 2 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 850,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-02 Strawberry",
+                        "ref": "The Summit A - Room b-02 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02b Strawberry",
+                        "ref": "The Summit A - Room b-02b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02e Strawberry",
+                        "ref": "The Summit A - Room b-02e Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-04 Strawberry",
+                        "ref": "The Summit A - Room b-04 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-08 Strawberry",
+                        "ref": "The Summit A - Room b-08 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-09 Strawberry",
+                        "ref": "The Summit A - Room b-09 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 3 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 865,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-03b Strawberry",
+                        "ref": "The Summit A - Room c-03b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-05 Strawberry",
+                        "ref": "The Summit A - Room c-05 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-06b Strawberry",
+                        "ref": "The Summit A - Room c-06b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-07b Strawberry",
+                        "ref": "The Summit A - Room c-07b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-08 Strawberry",
+                        "ref": "The Summit A - Room c-08 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-09 Strawberry",
+                        "ref": "The Summit A - Room c-09 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 4 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room d-00 Strawberry",
+                        "ref": "The Summit A - Room d-00 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-01c Strawberry",
+                        "ref": "The Summit A - Room d-01c Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-01d Strawberry",
+                        "ref": "The Summit A - Room d-01d Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-03 Strawberry",
+                        "ref": "The Summit A - Room d-03 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-04 Strawberry",
+                        "ref": "The Summit A - Room d-04 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-07 Strawberry",
+                        "ref": "The Summit A - Room d-07 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-08 Strawberry",
+                        "ref": "The Summit A - Room d-08 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-10b Strawberry",
+                        "ref": "The Summit A - Room d-10b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 5 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 895,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room e-02 Strawberry",
+                        "ref": "The Summit A - Room e-02 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-05 Strawberry",
+                        "ref": "The Summit A - Room e-05 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-07 Strawberry",
+                        "ref": "The Summit A - Room e-07 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-09 Strawberry",
+                        "ref": "The Summit A - Room e-09 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-11 Strawberry",
+                        "ref": "The Summit A - Room e-11 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-12 Strawberry",
+                        "ref": "The Summit A - Room e-12 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-10 Strawberry",
+                        "ref": "The Summit A - Room e-10 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-13 Strawberry",
+                        "ref": "The Summit A - Room e-13 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 6 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 910,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room f-00 Strawberry",
+                        "ref": "The Summit A - Room f-00 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-01 Strawberry",
+                        "ref": "The Summit A - Room f-01 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-07 Strawberry",
+                        "ref": "The Summit A - Room f-07 Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-08b Strawberry",
+                        "ref": "The Summit A - Room f-08b Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-08c Strawberry",
+                        "ref": "The Summit A - Room f-08c Strawberry/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-11 Strawberry 1",
+                        "ref": "The Summit A - Room f-11 Strawberry 1/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-11 Strawberry 2",
+                        "ref": "The Summit A - Room f-11 Strawberry 2/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-11 Strawberry 3",
+                        "ref": "The Summit A - Room f-11 Strawberry 3/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 7 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 925,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room g-00b Strawberry 1",
+                        "ref": "The Summit A - Room g-00b Strawberry 1/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-00b Strawberry 2",
+                        "ref": "The Summit A - Room g-00b Strawberry 2/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-00b Strawberry 3",
+                        "ref": "The Summit A - Room g-00b Strawberry 3/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-01 Strawberry 1",
+                        "ref": "The Summit A - Room g-01 Strawberry 1/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-01 Strawberry 2",
+                        "ref": "The Summit A - Room g-01 Strawberry 2/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-01 Strawberry 3",
+                        "ref": "The Summit A - Room g-01 Strawberry 3/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-03 Strawberry",
+                        "ref": "The Summit A - Room g-03 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 835,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room a-00",
+                        "ref": "The Summit A - Room a-00/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-01",
+                        "ref": "The Summit A - Room a-01/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-02",
+                        "ref": "The Summit A - Room a-02/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-02b",
+                        "ref": "The Summit A - Room a-02b/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-03",
+                        "ref": "The Summit A - Room a-03/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-04",
+                        "ref": "The Summit A - Room a-04/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-04b",
+                        "ref": "The Summit A - Room a-04b/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-05",
+                        "ref": "The Summit A - Room a-05/"
+                    },
+                    {
+                        "name": "The Summit A - Room a-06",
+                        "ref": "The Summit A - Room a-06/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 850,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-00",
+                        "ref": "The Summit A - Room b-00/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-01",
+                        "ref": "The Summit A - Room b-01/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02",
+                        "ref": "The Summit A - Room b-02/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02b",
+                        "ref": "The Summit A - Room b-02b/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02e",
+                        "ref": "The Summit A - Room b-02e/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02c",
+                        "ref": "The Summit A - Room b-02c/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02d",
+                        "ref": "The Summit A - Room b-02d/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-03",
+                        "ref": "The Summit A - Room b-03/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-04",
+                        "ref": "The Summit A - Room b-04/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-05",
+                        "ref": "The Summit A - Room b-05/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-06",
+                        "ref": "The Summit A - Room b-06/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-07",
+                        "ref": "The Summit A - Room b-07/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-08",
+                        "ref": "The Summit A - Room b-08/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-09",
+                        "ref": "The Summit A - Room b-09/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 865,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-00",
+                        "ref": "The Summit A - Room c-00/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-01",
+                        "ref": "The Summit A - Room c-01/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-02",
+                        "ref": "The Summit A - Room c-02/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-03",
+                        "ref": "The Summit A - Room c-03/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-03b",
+                        "ref": "The Summit A - Room c-03b/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-04",
+                        "ref": "The Summit A - Room c-04/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-05",
+                        "ref": "The Summit A - Room c-05/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-06",
+                        "ref": "The Summit A - Room c-06/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-06b",
+                        "ref": "The Summit A - Room c-06b/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-06c",
+                        "ref": "The Summit A - Room c-06c/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-07",
+                        "ref": "The Summit A - Room c-07/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-07b",
+                        "ref": "The Summit A - Room c-07b/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-08",
+                        "ref": "The Summit A - Room c-08/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-09",
+                        "ref": "The Summit A - Room c-09/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room d-00",
+                        "ref": "The Summit A - Room d-00/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-01",
+                        "ref": "The Summit A - Room d-01/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-01b",
+                        "ref": "The Summit A - Room d-01b/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-01c",
+                        "ref": "The Summit A - Room d-01c/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-01d",
+                        "ref": "The Summit A - Room d-01d/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-02",
+                        "ref": "The Summit A - Room d-02/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-03",
+                        "ref": "The Summit A - Room d-03/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-03b",
+                        "ref": "The Summit A - Room d-03b/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-04",
+                        "ref": "The Summit A - Room d-04/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-05",
+                        "ref": "The Summit A - Room d-05/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-05b",
+                        "ref": "The Summit A - Room d-05b/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-06",
+                        "ref": "The Summit A - Room d-06/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-07",
+                        "ref": "The Summit A - Room d-07/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-08",
+                        "ref": "The Summit A - Room d-08/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-09",
+                        "ref": "The Summit A - Room d-09/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-10",
+                        "ref": "The Summit A - Room d-10/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-10b",
+                        "ref": "The Summit A - Room d-10b/"
+                    },
+                    {
+                        "name": "The Summit A - Room d-11",
+                        "ref": "The Summit A - Room d-11/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 5 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 895,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room e-00b",
+                        "ref": "The Summit A - Room e-00b/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-00",
+                        "ref": "The Summit A - Room e-00/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-01",
+                        "ref": "The Summit A - Room e-01/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-01b",
+                        "ref": "The Summit A - Room e-01b/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-01c",
+                        "ref": "The Summit A - Room e-01c/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-02",
+                        "ref": "The Summit A - Room e-02/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-03",
+                        "ref": "The Summit A - Room e-03/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-04",
+                        "ref": "The Summit A - Room e-04/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-05",
+                        "ref": "The Summit A - Room e-05/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-06",
+                        "ref": "The Summit A - Room e-06/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-07",
+                        "ref": "The Summit A - Room e-07/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-08",
+                        "ref": "The Summit A - Room e-08/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-09",
+                        "ref": "The Summit A - Room e-09/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-11",
+                        "ref": "The Summit A - Room e-11/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-12",
+                        "ref": "The Summit A - Room e-12/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-10",
+                        "ref": "The Summit A - Room e-10/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-10b",
+                        "ref": "The Summit A - Room e-10b/"
+                    },
+                    {
+                        "name": "The Summit A - Room e-13",
+                        "ref": "The Summit A - Room e-13/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 6 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 910,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room f-00",
+                        "ref": "The Summit A - Room f-00/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-01",
+                        "ref": "The Summit A - Room f-01/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-02",
+                        "ref": "The Summit A - Room f-02/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-02b",
+                        "ref": "The Summit A - Room f-02b/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-04",
+                        "ref": "The Summit A - Room f-04/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-03",
+                        "ref": "The Summit A - Room f-03/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-05",
+                        "ref": "The Summit A - Room f-05/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-06",
+                        "ref": "The Summit A - Room f-06/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-07",
+                        "ref": "The Summit A - Room f-07/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-08",
+                        "ref": "The Summit A - Room f-08/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-08b",
+                        "ref": "The Summit A - Room f-08b/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-08d",
+                        "ref": "The Summit A - Room f-08d/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-08c",
+                        "ref": "The Summit A - Room f-08c/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-09",
+                        "ref": "The Summit A - Room f-09/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-10",
+                        "ref": "The Summit A - Room f-10/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-10b",
+                        "ref": "The Summit A - Room f-10b/"
+                    },
+                    {
+                        "name": "The Summit A - Room f-11",
+                        "ref": "The Summit A - Room f-11/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 7 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 925,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room g-00",
+                        "ref": "The Summit A - Room g-00/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-00b",
+                        "ref": "The Summit A - Room g-00b/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-01",
+                        "ref": "The Summit A - Room g-01/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-02",
+                        "ref": "The Summit A - Room g-02/"
+                    },
+                    {
+                        "name": "The Summit A - Room g-03",
+                        "ref": "The Summit A - Room g-03/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 835,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Room a-00",
+                        "ref": "The Summit B - Room a-00/"
+                    },
+                    {
+                        "name": "The Summit B - Room a-01",
+                        "ref": "The Summit B - Room a-01/"
+                    },
+                    {
+                        "name": "The Summit B - Room a-02",
+                        "ref": "The Summit B - Room a-02/"
+                    },
+                    {
+                        "name": "The Summit B - Room a-03",
+                        "ref": "The Summit B - Room a-03/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 850,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Room b-00",
+                        "ref": "The Summit B - Room b-00/"
+                    },
+                    {
+                        "name": "The Summit B - Room b-01",
+                        "ref": "The Summit B - Room b-01/"
+                    },
+                    {
+                        "name": "The Summit B - Room b-02",
+                        "ref": "The Summit B - Room b-02/"
+                    },
+                    {
+                        "name": "The Summit B - Room b-03",
+                        "ref": "The Summit B - Room b-03/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 865,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Room c-01",
+                        "ref": "The Summit B - Room c-01/"
+                    },
+                    {
+                        "name": "The Summit B - Room c-00",
+                        "ref": "The Summit B - Room c-00/"
+                    },
+                    {
+                        "name": "The Summit B - Room c-02",
+                        "ref": "The Summit B - Room c-02/"
+                    },
+                    {
+                        "name": "The Summit B - Room c-03",
+                        "ref": "The Summit B - Room c-03/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Room d-00",
+                        "ref": "The Summit B - Room d-00/"
+                    },
+                    {
+                        "name": "The Summit B - Room d-01",
+                        "ref": "The Summit B - Room d-01/"
+                    },
+                    {
+                        "name": "The Summit B - Room d-02",
+                        "ref": "The Summit B - Room d-02/"
+                    },
+                    {
+                        "name": "The Summit B - Room d-03",
+                        "ref": "The Summit B - Room d-03/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Checkpoint 5 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 895,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Room e-00",
+                        "ref": "The Summit B - Room e-00/"
+                    },
+                    {
+                        "name": "The Summit B - Room e-01",
+                        "ref": "The Summit B - Room e-01/"
+                    },
+                    {
+                        "name": "The Summit B - Room e-02",
+                        "ref": "The Summit B - Room e-02/"
+                    },
+                    {
+                        "name": "The Summit B - Room e-03",
+                        "ref": "The Summit B - Room e-03/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Checkpoint 6 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 910,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Room f-00",
+                        "ref": "The Summit B - Room f-00/"
+                    },
+                    {
+                        "name": "The Summit B - Room f-01",
+                        "ref": "The Summit B - Room f-01/"
+                    },
+                    {
+                        "name": "The Summit B - Room f-02",
+                        "ref": "The Summit B - Room f-02/"
+                    },
+                    {
+                        "name": "The Summit B - Room f-03",
+                        "ref": "The Summit B - Room f-03/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Checkpoint 7 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 925,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Room g-00",
+                        "ref": "The Summit B - Room g-00/"
+                    },
+                    {
+                        "name": "The Summit B - Room g-01",
+                        "ref": "The Summit B - Room g-01/"
+                    },
+                    {
+                        "name": "The Summit B - Room g-02",
+                        "ref": "The Summit B - Room g-02/"
+                    },
+                    {
+                        "name": "The Summit B - Room g-03",
+                        "ref": "The Summit B - Room g-03/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit C - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 495,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit C - Room 01",
+                        "ref": "The Summit C - Room 01/"
+                    },
+                    {
+                        "name": "The Summit C - Room 02",
+                        "ref": "The Summit C - Room 02/"
+                    },
+                    {
+                        "name": "The Summit C - Room 03",
+                        "ref": "The Summit C - Room 03/"
+                    }
+                ]
+            }
+        ]
+    }
+]

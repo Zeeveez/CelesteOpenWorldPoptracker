@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Forsaken City A - Golden Strawberry",
+        "visibility_rules": [
+            "include_goldens"
+        ],
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room end" ]
+            }
+        ],
+        "map_locations": []
+    },
+    {
+        "name": "Forsaken City A - Room 2 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 2" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 336,
+                "y": 880
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 3 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 3" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 784,
+                "y": 784
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 3b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 3b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 992,
+                "y": 352
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 5 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 5" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 1056,
+                "y": 32
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 5z Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 5z" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 848,
+                "y": 248
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 5a Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 5a" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-1",
+                "x": 1584,
+                "y": 248
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 6 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 6" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 920,
+                "y": 984
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 7zb Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 7zb" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 40,
+                "y": 736
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room s1 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room s1" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 536,
+                "y": 520
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 7z Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 7z" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 1416,
+                "y": 600
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 8zb Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 8zb" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 1896,
+                "y": 272
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 7a Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 7a" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 2536,
+                "y": 512
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 9z Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 9z" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 2144,
+                "y": 192
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 8b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 8b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 2552,
+                "y": 208
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 9 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 9" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 2832,
+                "y": 104
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 9b Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 9b" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 1144,
+                "y": 1096
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 9c Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 9c" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 1368,
+                "y": 1064
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 10zb Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 10zb" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 272,
+                "y": 976
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 11 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 11 Lower" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 904,
+                "y": 744
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Room 12z Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 12z" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 440,
+                "y": 304
+            }
+        ]
+    }
+]

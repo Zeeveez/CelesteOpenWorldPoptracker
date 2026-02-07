@@ -1,0 +1,1031 @@
+[
+    {
+        "name": "Celestial Resort A - Summary",
+        "children": [
+            {
+                "name": "Celestial Resort A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 300,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Level Clear",
+                        "ref": "Celestial Resort A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 340,
+                        "y": 380,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Level Clear",
+                        "ref": "Celestial Resort B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 340,
+                        "y": 465,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort C - Level Clear",
+                        "ref": "Celestial Resort C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 340,
+                        "y": 150,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Golden Strawberry",
+                        "ref": "Celestial Resort A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort B - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 340,
+                        "y": 350,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Golden Strawberry",
+                        "ref": "Celestial Resort B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 340,
+                        "y": 435,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort C - Golden Strawberry",
+                        "ref": "Celestial Resort C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 340,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Cassette",
+                        "ref": "Celestial Resort A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 380,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Crystal Heart",
+                        "ref": "Celestial Resort A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 340,
+                        "y": 205,
+                        "size": 80
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room s2 Strawberry 1",
+                        "ref": "Celestial Resort A - Room s2 Strawberry 1/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room s2 Strawberry 2",
+                        "ref": "Celestial Resort A - Room s2 Strawberry 2/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room s3 Strawberry",
+                        "ref": "Celestial Resort A - Room s3 Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 00-a Strawberry",
+                        "ref": "Celestial Resort A - Room 00-a Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 00-b Strawberry",
+                        "ref": "Celestial Resort A - Room 00-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 04-b Strawberry",
+                        "ref": "Celestial Resort A - Room 04-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-a Strawberry",
+                        "ref": "Celestial Resort A - Room 06-a Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 07-b Strawberry",
+                        "ref": "Celestial Resort A - Room 07-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-b Strawberry",
+                        "ref": "Celestial Resort A - Room 06-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-c Strawberry",
+                        "ref": "Celestial Resort A - Room 06-c Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 05-c Strawberry",
+                        "ref": "Celestial Resort A - Room 05-c Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 12-y Strawberry",
+                        "ref": "Celestial Resort A - Room 12-y Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 10-y Strawberry",
+                        "ref": "Celestial Resort A - Room 10-y Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 12-c Strawberry",
+                        "ref": "Celestial Resort A - Room 12-c Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 11-d Strawberry",
+                        "ref": "Celestial Resort A - Room 11-d Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 13-b Strawberry",
+                        "ref": "Celestial Resort A - Room 13-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 13-x Strawberry",
+                        "ref": "Celestial Resort A - Room 13-x Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 08-x Strawberry",
+                        "ref": "Celestial Resort A - Room 08-x Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-d Strawberry",
+                        "ref": "Celestial Resort A - Room 06-d Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 04-c Strawberry",
+                        "ref": "Celestial Resort A - Room 04-c Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 03-b Strawberry 1",
+                        "ref": "Celestial Resort A - Room 03-b Strawberry 1/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 03-b Strawberry 2",
+                        "ref": "Celestial Resort A - Room 03-b Strawberry 2/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof03 Strawberry",
+                        "ref": "Celestial Resort A - Room roof03 Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof06 Strawberry 1",
+                        "ref": "Celestial Resort A - Room roof06 Strawberry 1/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof06 Strawberry 2",
+                        "ref": "Celestial Resort A - Room roof06 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 1 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 318,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room s2 Strawberry 1",
+                        "ref": "Celestial Resort A - Room s2 Strawberry 1/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room s2 Strawberry 2",
+                        "ref": "Celestial Resort A - Room s2 Strawberry 2/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room s3 Strawberry",
+                        "ref": "Celestial Resort A - Room s3 Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 00-a Strawberry",
+                        "ref": "Celestial Resort A - Room 00-a Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 00-b Strawberry",
+                        "ref": "Celestial Resort A - Room 00-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 04-b Strawberry",
+                        "ref": "Celestial Resort A - Room 04-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-a Strawberry",
+                        "ref": "Celestial Resort A - Room 06-a Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 07-b Strawberry",
+                        "ref": "Celestial Resort A - Room 07-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-b Strawberry",
+                        "ref": "Celestial Resort A - Room 06-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-c Strawberry",
+                        "ref": "Celestial Resort A - Room 06-c Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 05-c Strawberry",
+                        "ref": "Celestial Resort A - Room 05-c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 2 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 333,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 12-y Strawberry",
+                        "ref": "Celestial Resort A - Room 12-y Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 10-y Strawberry",
+                        "ref": "Celestial Resort A - Room 10-y Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 12-c Strawberry",
+                        "ref": "Celestial Resort A - Room 12-c Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 11-d Strawberry",
+                        "ref": "Celestial Resort A - Room 11-d Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 13-b Strawberry",
+                        "ref": "Celestial Resort A - Room 13-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 13-x Strawberry",
+                        "ref": "Celestial Resort A - Room 13-x Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 08-x Strawberry",
+                        "ref": "Celestial Resort A - Room 08-x Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 3 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 348,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 06-d Strawberry",
+                        "ref": "Celestial Resort A - Room 06-d Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 04-c Strawberry",
+                        "ref": "Celestial Resort A - Room 04-c Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 03-b Strawberry 1",
+                        "ref": "Celestial Resort A - Room 03-b Strawberry 1/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 03-b Strawberry 2",
+                        "ref": "Celestial Resort A - Room 03-b Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 4 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 363,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room roof03 Strawberry",
+                        "ref": "Celestial Resort A - Room roof03 Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof06 Strawberry 1",
+                        "ref": "Celestial Resort A - Room roof06 Strawberry 1/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof06 Strawberry 2",
+                        "ref": "Celestial Resort A - Room roof06 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 340,
+                        "y": 205,
+                        "size": 80
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room s2 Strawberry 1",
+                        "ref": "Celestial Resort A - Room s2 Strawberry 1/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room s2 Strawberry 2",
+                        "ref": "Celestial Resort A - Room s2 Strawberry 2/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room s3 Strawberry",
+                        "ref": "Celestial Resort A - Room s3 Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 00-a Strawberry",
+                        "ref": "Celestial Resort A - Room 00-a Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 00-b Strawberry",
+                        "ref": "Celestial Resort A - Room 00-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 04-b Strawberry",
+                        "ref": "Celestial Resort A - Room 04-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-a Strawberry",
+                        "ref": "Celestial Resort A - Room 06-a Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 07-b Strawberry",
+                        "ref": "Celestial Resort A - Room 07-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-b Strawberry",
+                        "ref": "Celestial Resort A - Room 06-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-c Strawberry",
+                        "ref": "Celestial Resort A - Room 06-c Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 05-c Strawberry",
+                        "ref": "Celestial Resort A - Room 05-c Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 12-y Strawberry",
+                        "ref": "Celestial Resort A - Room 12-y Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 10-y Strawberry",
+                        "ref": "Celestial Resort A - Room 10-y Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 12-c Strawberry",
+                        "ref": "Celestial Resort A - Room 12-c Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 11-d Strawberry",
+                        "ref": "Celestial Resort A - Room 11-d Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 13-b Strawberry",
+                        "ref": "Celestial Resort A - Room 13-b Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 13-x Strawberry",
+                        "ref": "Celestial Resort A - Room 13-x Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 08-x Strawberry",
+                        "ref": "Celestial Resort A - Room 08-x Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-d Strawberry",
+                        "ref": "Celestial Resort A - Room 06-d Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 04-c Strawberry",
+                        "ref": "Celestial Resort A - Room 04-c Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 03-b Strawberry 1",
+                        "ref": "Celestial Resort A - Room 03-b Strawberry 1/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 03-b Strawberry 2",
+                        "ref": "Celestial Resort A - Room 03-b Strawberry 2/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof03 Strawberry",
+                        "ref": "Celestial Resort A - Room roof03 Strawberry/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof06 Strawberry 1",
+                        "ref": "Celestial Resort A - Room roof06 Strawberry 1/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof06 Strawberry 2",
+                        "ref": "Celestial Resort A - Room roof06 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 318,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room s0",
+                        "ref": "Celestial Resort A - Room s0/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room s1",
+                        "ref": "Celestial Resort A - Room s1/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room s2",
+                        "ref": "Celestial Resort A - Room s2/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room s3",
+                        "ref": "Celestial Resort A - Room s3/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 0x-a",
+                        "ref": "Celestial Resort A - Room 0x-a/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 00-a",
+                        "ref": "Celestial Resort A - Room 00-a/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 02-a",
+                        "ref": "Celestial Resort A - Room 02-a/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 02-b",
+                        "ref": "Celestial Resort A - Room 02-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 01-b",
+                        "ref": "Celestial Resort A - Room 01-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 00-b",
+                        "ref": "Celestial Resort A - Room 00-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 00-c",
+                        "ref": "Celestial Resort A - Room 00-c/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 0x-b",
+                        "ref": "Celestial Resort A - Room 0x-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 03-a",
+                        "ref": "Celestial Resort A - Room 03-a/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 04-b",
+                        "ref": "Celestial Resort A - Room 04-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 05-a",
+                        "ref": "Celestial Resort A - Room 05-a/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-a",
+                        "ref": "Celestial Resort A - Room 06-a/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 07-a",
+                        "ref": "Celestial Resort A - Room 07-a/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 07-b",
+                        "ref": "Celestial Resort A - Room 07-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-b",
+                        "ref": "Celestial Resort A - Room 06-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-c",
+                        "ref": "Celestial Resort A - Room 06-c/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 05-c",
+                        "ref": "Celestial Resort A - Room 05-c/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 08-c",
+                        "ref": "Celestial Resort A - Room 08-c/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 08-b",
+                        "ref": "Celestial Resort A - Room 08-b/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 333,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 08-a",
+                        "ref": "Celestial Resort A - Room 08-a/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 09-b",
+                        "ref": "Celestial Resort A - Room 09-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 11-x",
+                        "ref": "Celestial Resort A - Room 11-x/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 11-y",
+                        "ref": "Celestial Resort A - Room 11-y/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 12-y",
+                        "ref": "Celestial Resort A - Room 12-y/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 11-z",
+                        "ref": "Celestial Resort A - Room 11-z/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 10-z",
+                        "ref": "Celestial Resort A - Room 10-z/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 10-y",
+                        "ref": "Celestial Resort A - Room 10-y/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 10-x",
+                        "ref": "Celestial Resort A - Room 10-x/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 10-c",
+                        "ref": "Celestial Resort A - Room 10-c/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 11-c",
+                        "ref": "Celestial Resort A - Room 11-c/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 12-c",
+                        "ref": "Celestial Resort A - Room 12-c/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 12-d",
+                        "ref": "Celestial Resort A - Room 12-d/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 11-d",
+                        "ref": "Celestial Resort A - Room 11-d/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 10-d",
+                        "ref": "Celestial Resort A - Room 10-d/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 11-b",
+                        "ref": "Celestial Resort A - Room 11-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 12-b",
+                        "ref": "Celestial Resort A - Room 12-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 13-b",
+                        "ref": "Celestial Resort A - Room 13-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 13-a",
+                        "ref": "Celestial Resort A - Room 13-a/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 13-x",
+                        "ref": "Celestial Resort A - Room 13-x/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 12-x",
+                        "ref": "Celestial Resort A - Room 12-x/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 11-a",
+                        "ref": "Celestial Resort A - Room 11-a/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 08-x",
+                        "ref": "Celestial Resort A - Room 08-x/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 348,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 09-d",
+                        "ref": "Celestial Resort A - Room 09-d/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 08-d",
+                        "ref": "Celestial Resort A - Room 08-d/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 06-d",
+                        "ref": "Celestial Resort A - Room 06-d/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 04-d",
+                        "ref": "Celestial Resort A - Room 04-d/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 04-c",
+                        "ref": "Celestial Resort A - Room 04-c/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 02-c",
+                        "ref": "Celestial Resort A - Room 02-c/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 03-b",
+                        "ref": "Celestial Resort A - Room 03-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 01-c",
+                        "ref": "Celestial Resort A - Room 01-c/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 02-d",
+                        "ref": "Celestial Resort A - Room 02-d/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 363,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 00-d",
+                        "ref": "Celestial Resort A - Room 00-d/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof00",
+                        "ref": "Celestial Resort A - Room roof00/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof01",
+                        "ref": "Celestial Resort A - Room roof01/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof02",
+                        "ref": "Celestial Resort A - Room roof02/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof03",
+                        "ref": "Celestial Resort A - Room roof03/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof04",
+                        "ref": "Celestial Resort A - Room roof04/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof05",
+                        "ref": "Celestial Resort A - Room roof05/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof06b",
+                        "ref": "Celestial Resort A - Room roof06b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof06",
+                        "ref": "Celestial Resort A - Room roof06/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room roof07",
+                        "ref": "Celestial Resort A - Room roof07/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort B - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 318,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Room 00",
+                        "ref": "Celestial Resort B - Room 00/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room back",
+                        "ref": "Celestial Resort B - Room back/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 01",
+                        "ref": "Celestial Resort B - Room 01/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 02",
+                        "ref": "Celestial Resort B - Room 02/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 03",
+                        "ref": "Celestial Resort B - Room 03/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 04",
+                        "ref": "Celestial Resort B - Room 04/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 05",
+                        "ref": "Celestial Resort B - Room 05/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort B - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 333,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Room 06",
+                        "ref": "Celestial Resort B - Room 06/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 07",
+                        "ref": "Celestial Resort B - Room 07/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 08",
+                        "ref": "Celestial Resort B - Room 08/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 09",
+                        "ref": "Celestial Resort B - Room 09/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 10",
+                        "ref": "Celestial Resort B - Room 10/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort B - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 348,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Room 11",
+                        "ref": "Celestial Resort B - Room 11/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 13",
+                        "ref": "Celestial Resort B - Room 13/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 14",
+                        "ref": "Celestial Resort B - Room 14/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 15",
+                        "ref": "Celestial Resort B - Room 15/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 12",
+                        "ref": "Celestial Resort B - Room 12/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort B - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 363,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Room 16",
+                        "ref": "Celestial Resort B - Room 16/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 17",
+                        "ref": "Celestial Resort B - Room 17/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 18",
+                        "ref": "Celestial Resort B - Room 18/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 19",
+                        "ref": "Celestial Resort B - Room 19/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 21",
+                        "ref": "Celestial Resort B - Room 21/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room 20",
+                        "ref": "Celestial Resort B - Room 20/"
+                    },
+                    {
+                        "name": "Celestial Resort B - Room end",
+                        "ref": "Celestial Resort B - Room end/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort C - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 340,
+                        "y": 495,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort C - Room 00",
+                        "ref": "Celestial Resort C - Room 00/"
+                    },
+                    {
+                        "name": "Celestial Resort C - Room 01",
+                        "ref": "Celestial Resort C - Room 01/"
+                    },
+                    {
+                        "name": "Celestial Resort C - Room 02",
+                        "ref": "Celestial Resort C - Room 02/"
+                    }
+                ]
+            }
+        ]
+    }
+]

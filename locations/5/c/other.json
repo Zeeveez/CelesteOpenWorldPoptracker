@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Mirror Temple C - Level Clear",
+        "visibility_rules": [
+            "include_c_sides"
+        ],
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": []
+    }
+]

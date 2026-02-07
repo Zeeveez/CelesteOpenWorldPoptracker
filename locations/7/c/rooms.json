@@ -1,0 +1,44 @@
+[
+    {
+        "name": "The Summit C - Room 01",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit C - Room 01" ] } ],
+        "map_locations": [
+            {
+                "map": "7c-1",
+                "x": 10,
+                "y": 458,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "The Summit C - Room 02",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit C - Room 02" ] } ],
+        "map_locations": [
+            {
+                "map": "7c-1",
+                "x": 618,
+                "y": 210,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "The Summit C - Room 03",
+        "visibility_rules": [ "include_c_sides,roomsanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit C - Room 03" ] } ],
+        "map_locations": [
+            {
+                "map": "7c-1",
+                "x": 1258,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    }
+]

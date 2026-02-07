@@ -1,0 +1,672 @@
+[
+    {
+        "name": "Reflection A - Summary",
+        "children": [
+            {
+                "name": "Reflection A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 705,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Level Clear",
+                        "ref": "Reflection A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 745,
+                        "y": 380,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection B - Level Clear",
+                        "ref": "Reflection B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 745,
+                        "y": 465,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection C - Level Clear",
+                        "ref": "Reflection C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 745,
+                        "y": 150,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Golden Strawberry",
+                        "ref": "Reflection A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection B - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 745,
+                        "y": 350,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection B - Golden Strawberry",
+                        "ref": "Reflection B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 745,
+                        "y": 435,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection C - Golden Strawberry",
+                        "ref": "Reflection C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 745,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Cassette",
+                        "ref": "Reflection A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 785,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Crystal Heart",
+                        "ref": "Reflection A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 723,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Room 00",
+                        "ref": "Reflection A - Room 00/"
+                    },
+                    {
+                        "name": "Reflection A - Room 01",
+                        "ref": "Reflection A - Room 01/"
+                    },
+                    {
+                        "name": "Reflection A - Room 02",
+                        "ref": "Reflection A - Room 02/"
+                    },
+                    {
+                        "name": "Reflection A - Room 03",
+                        "ref": "Reflection A - Room 03/"
+                    },
+                    {
+                        "name": "Reflection A - Room 02b",
+                        "ref": "Reflection A - Room 02b/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 738,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Room 04",
+                        "ref": "Reflection A - Room 04/"
+                    },
+                    {
+                        "name": "Reflection A - Room 04b",
+                        "ref": "Reflection A - Room 04b/"
+                    },
+                    {
+                        "name": "Reflection A - Room 04c",
+                        "ref": "Reflection A - Room 04c/"
+                    },
+                    {
+                        "name": "Reflection A - Room 04d",
+                        "ref": "Reflection A - Room 04d/"
+                    },
+                    {
+                        "name": "Reflection A - Room 04e",
+                        "ref": "Reflection A - Room 04e/"
+                    },
+                    {
+                        "name": "Reflection A - Room 05",
+                        "ref": "Reflection A - Room 05/"
+                    },
+                    {
+                        "name": "Reflection A - Room 06",
+                        "ref": "Reflection A - Room 06/"
+                    },
+                    {
+                        "name": "Reflection A - Room 07",
+                        "ref": "Reflection A - Room 07/"
+                    },
+                    {
+                        "name": "Reflection A - Room 08a",
+                        "ref": "Reflection A - Room 08a/"
+                    },
+                    {
+                        "name": "Reflection A - Room 08b",
+                        "ref": "Reflection A - Room 08b/"
+                    },
+                    {
+                        "name": "Reflection A - Room 09",
+                        "ref": "Reflection A - Room 09/"
+                    },
+                    {
+                        "name": "Reflection A - Room 10a",
+                        "ref": "Reflection A - Room 10a/"
+                    },
+                    {
+                        "name": "Reflection A - Room 10b",
+                        "ref": "Reflection A - Room 10b/"
+                    },
+                    {
+                        "name": "Reflection A - Room 11",
+                        "ref": "Reflection A - Room 11/"
+                    },
+                    {
+                        "name": "Reflection A - Room 12a",
+                        "ref": "Reflection A - Room 12a/"
+                    },
+                    {
+                        "name": "Reflection A - Room 12b",
+                        "ref": "Reflection A - Room 12b/"
+                    },
+                    {
+                        "name": "Reflection A - Room 13",
+                        "ref": "Reflection A - Room 13/"
+                    },
+                    {
+                        "name": "Reflection A - Room 14a",
+                        "ref": "Reflection A - Room 14a/"
+                    },
+                    {
+                        "name": "Reflection A - Room 14b",
+                        "ref": "Reflection A - Room 14b/"
+                    },
+                    {
+                        "name": "Reflection A - Room 15",
+                        "ref": "Reflection A - Room 15/"
+                    },
+                    {
+                        "name": "Reflection A - Room 16a",
+                        "ref": "Reflection A - Room 16a/"
+                    },
+                    {
+                        "name": "Reflection A - Room 16b",
+                        "ref": "Reflection A - Room 16b/"
+                    },
+                    {
+                        "name": "Reflection A - Room 17",
+                        "ref": "Reflection A - Room 17/"
+                    },
+                    {
+                        "name": "Reflection A - Room 18a",
+                        "ref": "Reflection A - Room 18a/"
+                    },
+                    {
+                        "name": "Reflection A - Room 18b",
+                        "ref": "Reflection A - Room 18b/"
+                    },
+                    {
+                        "name": "Reflection A - Room 19",
+                        "ref": "Reflection A - Room 19/"
+                    },
+                    {
+                        "name": "Reflection A - Room 20",
+                        "ref": "Reflection A - Room 20/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 753,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Room b-00",
+                        "ref": "Reflection A - Room b-00/"
+                    },
+                    {
+                        "name": "Reflection A - Room b-00b",
+                        "ref": "Reflection A - Room b-00b/"
+                    },
+                    {
+                        "name": "Reflection A - Room b-00c",
+                        "ref": "Reflection A - Room b-00c/"
+                    },
+                    {
+                        "name": "Reflection A - Room b-01",
+                        "ref": "Reflection A - Room b-01/"
+                    },
+                    {
+                        "name": "Reflection A - Room b-02",
+                        "ref": "Reflection A - Room b-02/"
+                    },
+                    {
+                        "name": "Reflection A - Room b-02b",
+                        "ref": "Reflection A - Room b-02b/"
+                    },
+                    {
+                        "name": "Reflection A - Room b-03",
+                        "ref": "Reflection A - Room b-03/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Checkpoint 5 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 768,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Room boss-00",
+                        "ref": "Reflection A - Room boss-00/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-01",
+                        "ref": "Reflection A - Room boss-01/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-02",
+                        "ref": "Reflection A - Room boss-02/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-03",
+                        "ref": "Reflection A - Room boss-03/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-04",
+                        "ref": "Reflection A - Room boss-04/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-05",
+                        "ref": "Reflection A - Room boss-05/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-06",
+                        "ref": "Reflection A - Room boss-06/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-07",
+                        "ref": "Reflection A - Room boss-07/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-08",
+                        "ref": "Reflection A - Room boss-08/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-09",
+                        "ref": "Reflection A - Room boss-09/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-10",
+                        "ref": "Reflection A - Room boss-10/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-11",
+                        "ref": "Reflection A - Room boss-11/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-12",
+                        "ref": "Reflection A - Room boss-12/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-13",
+                        "ref": "Reflection A - Room boss-13/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-14",
+                        "ref": "Reflection A - Room boss-14/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-15",
+                        "ref": "Reflection A - Room boss-15/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-16",
+                        "ref": "Reflection A - Room boss-16/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-17",
+                        "ref": "Reflection A - Room boss-17/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-18",
+                        "ref": "Reflection A - Room boss-18/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-19",
+                        "ref": "Reflection A - Room boss-19/"
+                    },
+                    {
+                        "name": "Reflection A - Room boss-20",
+                        "ref": "Reflection A - Room boss-20/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Checkpoint 6 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 783,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Room after-00",
+                        "ref": "Reflection A - Room after-00/"
+                    },
+                    {
+                        "name": "Reflection A - Room after-01",
+                        "ref": "Reflection A - Room after-01/"
+                    },
+                    {
+                        "name": "Reflection A - Room after-02",
+                        "ref": "Reflection A - Room after-02/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection B - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 723,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection B - Room a-00",
+                        "ref": "Reflection B - Room a-00/"
+                    },
+                    {
+                        "name": "Reflection B - Room a-01",
+                        "ref": "Reflection B - Room a-01/"
+                    },
+                    {
+                        "name": "Reflection B - Room a-02",
+                        "ref": "Reflection B - Room a-02/"
+                    },
+                    {
+                        "name": "Reflection B - Room a-03",
+                        "ref": "Reflection B - Room a-03/"
+                    },
+                    {
+                        "name": "Reflection B - Room a-04",
+                        "ref": "Reflection B - Room a-04/"
+                    },
+                    {
+                        "name": "Reflection B - Room a-05",
+                        "ref": "Reflection B - Room a-05/"
+                    },
+                    {
+                        "name": "Reflection B - Room a-06",
+                        "ref": "Reflection B - Room a-06/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection B - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 738,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection B - Room b-00",
+                        "ref": "Reflection B - Room b-00/"
+                    },
+                    {
+                        "name": "Reflection B - Room b-01",
+                        "ref": "Reflection B - Room b-01/"
+                    },
+                    {
+                        "name": "Reflection B - Room b-02",
+                        "ref": "Reflection B - Room b-02/"
+                    },
+                    {
+                        "name": "Reflection B - Room b-03",
+                        "ref": "Reflection B - Room b-03/"
+                    },
+                    {
+                        "name": "Reflection B - Room b-04",
+                        "ref": "Reflection B - Room b-04/"
+                    },
+                    {
+                        "name": "Reflection B - Room b-05",
+                        "ref": "Reflection B - Room b-05/"
+                    },
+                    {
+                        "name": "Reflection B - Room b-06",
+                        "ref": "Reflection B - Room b-06/"
+                    },
+                    {
+                        "name": "Reflection B - Room b-07",
+                        "ref": "Reflection B - Room b-07/"
+                    },
+                    {
+                        "name": "Reflection B - Room b-08",
+                        "ref": "Reflection B - Room b-08/"
+                    },
+                    {
+                        "name": "Reflection B - Room b-10",
+                        "ref": "Reflection B - Room b-10/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection B - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 753,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection B - Room c-00",
+                        "ref": "Reflection B - Room c-00/"
+                    },
+                    {
+                        "name": "Reflection B - Room c-01",
+                        "ref": "Reflection B - Room c-01/"
+                    },
+                    {
+                        "name": "Reflection B - Room c-02",
+                        "ref": "Reflection B - Room c-02/"
+                    },
+                    {
+                        "name": "Reflection B - Room c-03",
+                        "ref": "Reflection B - Room c-03/"
+                    },
+                    {
+                        "name": "Reflection B - Room c-04",
+                        "ref": "Reflection B - Room c-04/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection B - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 768,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection B - Room d-00",
+                        "ref": "Reflection B - Room d-00/"
+                    },
+                    {
+                        "name": "Reflection B - Room d-01",
+                        "ref": "Reflection B - Room d-01/"
+                    },
+                    {
+                        "name": "Reflection B - Room d-02",
+                        "ref": "Reflection B - Room d-02/"
+                    },
+                    {
+                        "name": "Reflection B - Room d-03",
+                        "ref": "Reflection B - Room d-03/"
+                    },
+                    {
+                        "name": "Reflection B - Room d-04",
+                        "ref": "Reflection B - Room d-04/"
+                    },
+                    {
+                        "name": "Reflection B - Room d-05",
+                        "ref": "Reflection B - Room d-05/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection C - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 745,
+                        "y": 495,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection C - Room 00",
+                        "ref": "Reflection C - Room 00/"
+                    },
+                    {
+                        "name": "Reflection C - Room 01",
+                        "ref": "Reflection C - Room 01/"
+                    },
+                    {
+                        "name": "Reflection C - Room 02",
+                        "ref": "Reflection C - Room 02/"
+                    }
+                ]
+            }
+        ]
+    }
+]

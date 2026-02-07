@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Strawberries Required",
+        "type": "consumable",
+        "img": "images/items/strawberry.png",
+        "codes": "strawberries_required",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Goal",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/7a.png",
+                "name": "Goal - 7A",
+                "codes": "goal_area"
+            },
+            {
+                "img": "images/icons/7b.png",
+                "name": "Goal - 7B",
+                "codes": "goal_area"
+            },
+            {
+                "img": "images/icons/7c.png",
+                "name": "Goal - 7C",
+                "codes": "goal_area"
+            },
+            {
+                "img": "images/icons/8a.png",
+                "name": "Goal - 8A",
+                "codes": "goal_area"
+            },
+            {
+                "img": "images/icons/8b.png",
+                "name": "Goal - 8B",
+                "codes": "goal_area"
+            },
+            {
+                "img": "images/icons/8c.png",
+                "name": "Goal - 8C",
+                "codes": "goal_area"
+            },
+            {
+                "img": "images/icons/empty-space.png",
+                "name": "Goal - Empty Space",
+                "codes": "goal_area"
+            },
+            {
+                "img": "images/icons/9.png",
+                "name": "Goal - Farewell",
+                "codes": "goal_area"
+            },
+            {
+                "img": "images/icons/9-golden.png",
+                "name": "Goal - Farewell Golden",
+                "codes": "goal_area"
+            }
+        ]
+    },
+    {
+        "name": "Require Cassettes",
+        "type": "toggle",
+        "img": "images/icons/cassettes.png",
+        "codes": "require_cassettes"
+    },
+^//    {
+^//        "name": "Difficulty",
+^//        "type": "progressive",
+^//        "allow_disabled": false,
+^//        "initial_stage_idx": 1,
+^//        "stages": [
+^//            {
+^//                "img": "images/icons/beginner.png",
+^//                "name": "Beginner",
+^//                "codes": "difficulty,difficulty_beginner"
+^//            },
+^//            {
+^//                "img": "images/icons/intermediate.png",
+^//                "name": "Intermediate",
+^//                "codes": "difficulty,difficulty_intermediate"
+^//            },
+^//            {
+^//                "img": "images/icons/advanced.png",
+^//                "name": "Advanced",
+^//                "codes": "difficulty,difficulty_advanced"
+^//            },
+^//            {
+^//                "img": "images/icons/expert.png",
+^//                "name": "Expert",
+^//                "codes": "difficulty,difficulty_expert"
+^//            },
+^//            {
+^//                "img": "images/icons/gm.png",
+^//                "name": "Grandmaster",
+^//                "codes": "difficulty,difficulty_gm"
+^//            }
+^//        ]
+^//    },
+    {
+        "name": "Lock Goal Area",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "lock_goal_area"
+    },
+
+
+    {
+        "name": "Include B-Sides",
+        "type": "toggle",
+        "img": "images/icons/b-sides.png",
+        "codes": "include_b_sides"
+    },
+    {
+        "name": "Include C-Sides",
+        "type": "toggle",
+        "img": "images/icons/c-sides.png",
+        "codes": "include_c_sides"
+    },
+    {
+        "name": "Include Core",
+        "type": "toggle",
+        "img": "images/icons/8a.png",
+        "codes": "include_core"
+    },
+    {
+        "name": "Include Farewell",
+        "type": "toggle",
+        "img": "images/icons/9.png",
+        "codes": "include_farewell"
+    },
+    {
+        "name": "Include Goldens",
+        "type": "toggle",
+        "img": "images/items/golden_strawberry.png",
+        "codes": "include_goldens"
+    },
+
+
+    {
+        "name": "Roomsanity",
+        "type": "toggle",
+        "img": "images/icons/roomsanity.png",
+        "codes": "roomsanity"
+    }
+]

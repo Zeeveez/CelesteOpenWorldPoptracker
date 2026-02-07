@@ -1,0 +1,485 @@
+[
+    {
+        "name": "Mirror Temple A - Golden Strawberry",
+        "visibility_rules": [
+            "include_goldens"
+        ],
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room e-11,theocrystal" ]
+            }
+        ],
+        "map_locations": []
+    },
+    {
+        "name": "Mirror Temple A - Room a-00x Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room a-00x" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 664,
+                "y": 1104
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room a-01 Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [ "redboosters,$CanAccessRoom|Mirror Temple A - Room a-01" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 2608,
+                "y": 592
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room a-01 Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room a-01" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 2792,
+                "y": 896
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room a-02 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room a-02" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 3264,
+                "y": 1256
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room a-03 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "redboosters,$CanAccessRoom|Mirror Temple A - Room a-03" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 2808,
+                "y": 1200
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room a-04 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room a-04" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 2368,
+                "y": 1296
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room a-05 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "swapblocks,$CanAccessRoom|Mirror Temple A - Room a-05" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 2808,
+                "y": 1424
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room a-06 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "swapblocks,$CanAccessRoom|Mirror Temple A - Room a-06" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 3224,
+                "y": 1560
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room a-07 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room a-07" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 2296,
+                "y": 1532
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room a-11 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "swapblocks,$CanAccessRoom|Mirror Temple A - Room a-11" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 1944,
+                "y": 344
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room a-15 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "coins,$CanAccessRoom|Mirror Temple A - Room a-15" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 3696,
+                "y": 232
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room a-14 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room a-14" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 3176,
+                "y": 32
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room b-18 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "redboosters,$CanAccessRoom|Mirror Temple A - Room b-18" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 280,
+                "y": 1176
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room b-01c Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room b-01c" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 1056,
+                "y": 1528
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room b-20 Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room b-20 Middle" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 808,
+                "y": 1008
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room b-20 Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [ "swapblocks,$CanAccessRoom|Mirror Temple A - Room b-20 Right" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 1072,
+                "y": 1008
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room b-21 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "redboosters,$CanAccessRoom|Mirror Temple A - Room b-21" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 336,
+                "y": 920
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room b-03 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "redboosters,$CanAccessRoom|Mirror Temple A - Room b-03" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 1384,
+                "y": 784
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room b-05 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "dashrefills,redboosters,$CanAccessRoom|Mirror Temple A - Room b-05" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 2192,
+                "y": 864
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room b-10 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "swapblocks,$CanAccessRoom|Mirror Temple A - Room b-10" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 1424,
+                "y": 1640
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room b-12 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room b-12" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 2064,
+                "y": 1680
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room b-17 Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [ "springs,strawberry_seeds,$CanAccessRoom|Mirror Temple A - Room b-17 Lower" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 2816,
+                "y": 1528
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room b-17 Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room b-17 Upper" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 2696,
+                "y": 1352
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room c-08 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "seekers,$CanAccessRoom|Mirror Temple A - Room c-08" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-3",
+                "x": 2304,
+                "y": 1096
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room d-04 Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [
+                    "redboosters,$CanAccessRoom|Mirror Temple A - Room d-04",
+                    "swapblocks,$CanAccessRoom|Mirror Temple A - Room d-04"
+                ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-4",
+                "x": 712,
+                "y": 584
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room d-04 Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [
+                    "dashrefills,$CanAccessRoom|Mirror Temple A - Room d-09",
+                    "swapblocks,redboosters,$CanAccessRoom|Mirror Temple A - Room d-09"
+                ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-4",
+                "x": 688,
+                "y": 400
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room d-15 Strawberry 2",
+        "sections": [
+            {
+                "access_rules": [ "dashrefills,$CanAccessRoom|Mirror Temple A - Room d-15" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-4",
+                "x": 2016,
+                "y": 512
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room d-15 Strawberry 1",
+        "sections": [
+            {
+                "access_rules": [ "redboosters,$CanAccessRoom|Mirror Temple A - Room d-15" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-4",
+                "x": 1672,
+                "y": 536
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room d-13 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room d-13" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-4",
+                "x": 2008,
+                "y": 856
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room d-19 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room d-19" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-4",
+                "x": 184,
+                "y": 624
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Room e-06 Strawberry",
+        "sections": [
+            {
+                "access_rules": [ "theocrystal,$CanAccessRoom|Mirror Temple A - Room e-06" ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-5",
+                "x": 2704,
+                "y": 152
+            }
+        ]
+    }
+]

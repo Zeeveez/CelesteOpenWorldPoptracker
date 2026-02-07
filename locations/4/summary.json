@@ -1,0 +1,866 @@
+[
+    {
+        "name": "Golden Ridge A - Summary",
+        "children": [
+            {
+                "name": "Golden Ridge A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 435,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Level Clear",
+                        "ref": "Golden Ridge A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 475,
+                        "y": 380,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Level Clear",
+                        "ref": "Golden Ridge B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 475,
+                        "y": 465,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge C - Level Clear",
+                        "ref": "Golden Ridge C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 475,
+                        "y": 150,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Golden Strawberry",
+                        "ref": "Golden Ridge A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge B - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 475,
+                        "y": 350,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Golden Strawberry",
+                        "ref": "Golden Ridge B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 475,
+                        "y": 435,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge C - Golden Strawberry",
+                        "ref": "Golden Ridge C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 475,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Cassette",
+                        "ref": "Golden Ridge A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 515,
+                        "y": 305,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Crystal Heart",
+                        "ref": "Golden Ridge A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 475,
+                        "y": 205,
+                        "size": 80
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-01x Strawberry",
+                        "ref": "Golden Ridge A - Room a-01x Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-02 Strawberry",
+                        "ref": "Golden Ridge A - Room a-02 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-03 Strawberry",
+                        "ref": "Golden Ridge A - Room a-03 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-04 Strawberry",
+                        "ref": "Golden Ridge A - Room a-04 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-06 Strawberry",
+                        "ref": "Golden Ridge A - Room a-06 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-07 Strawberry",
+                        "ref": "Golden Ridge A - Room a-07 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-10 Strawberry",
+                        "ref": "Golden Ridge A - Room a-10 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-09 Strawberry",
+                        "ref": "Golden Ridge A - Room a-09 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-01 Strawberry 1",
+                        "ref": "Golden Ridge A - Room b-01 Strawberry 1/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-01 Strawberry 2",
+                        "ref": "Golden Ridge A - Room b-01 Strawberry 2/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-04 Strawberry",
+                        "ref": "Golden Ridge A - Room b-04 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-07 Strawberry",
+                        "ref": "Golden Ridge A - Room b-07 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-03 Strawberry",
+                        "ref": "Golden Ridge A - Room b-03 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-02 Strawberry 1",
+                        "ref": "Golden Ridge A - Room b-02 Strawberry 1/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-02 Strawberry 2",
+                        "ref": "Golden Ridge A - Room b-02 Strawberry 2/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-secb Strawberry",
+                        "ref": "Golden Ridge A - Room b-secb Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-08 Strawberry",
+                        "ref": "Golden Ridge A - Room b-08 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-00 Strawberry",
+                        "ref": "Golden Ridge A - Room c-00 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-01 Strawberry",
+                        "ref": "Golden Ridge A - Room c-01 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-05 Strawberry",
+                        "ref": "Golden Ridge A - Room c-05 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-06 Strawberry",
+                        "ref": "Golden Ridge A - Room c-06 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-06b Strawberry",
+                        "ref": "Golden Ridge A - Room c-06b Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-08 Strawberry",
+                        "ref": "Golden Ridge A - Room c-08 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-10 Strawberry",
+                        "ref": "Golden Ridge A - Room c-10 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-00b Strawberry",
+                        "ref": "Golden Ridge A - Room d-00b Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-01 Strawberry",
+                        "ref": "Golden Ridge A - Room d-01 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-04 Strawberry",
+                        "ref": "Golden Ridge A - Room d-04 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-07 Strawberry",
+                        "ref": "Golden Ridge A - Room d-07 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-09 Strawberry",
+                        "ref": "Golden Ridge A - Room d-09 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Checkpoint 1 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 453,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-01x Strawberry",
+                        "ref": "Golden Ridge A - Room a-01x Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-02 Strawberry",
+                        "ref": "Golden Ridge A - Room a-02 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-03 Strawberry",
+                        "ref": "Golden Ridge A - Room a-03 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-04 Strawberry",
+                        "ref": "Golden Ridge A - Room a-04 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-06 Strawberry",
+                        "ref": "Golden Ridge A - Room a-06 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-07 Strawberry",
+                        "ref": "Golden Ridge A - Room a-07 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-10 Strawberry",
+                        "ref": "Golden Ridge A - Room a-10 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-09 Strawberry",
+                        "ref": "Golden Ridge A - Room a-09 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Checkpoint 2 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 468,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-01 Strawberry 1",
+                        "ref": "Golden Ridge A - Room b-01 Strawberry 1/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-01 Strawberry 2",
+                        "ref": "Golden Ridge A - Room b-01 Strawberry 2/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-04 Strawberry",
+                        "ref": "Golden Ridge A - Room b-04 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-07 Strawberry",
+                        "ref": "Golden Ridge A - Room b-07 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-03 Strawberry",
+                        "ref": "Golden Ridge A - Room b-03 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-02 Strawberry 1",
+                        "ref": "Golden Ridge A - Room b-02 Strawberry 1/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-02 Strawberry 2",
+                        "ref": "Golden Ridge A - Room b-02 Strawberry 2/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-secb Strawberry",
+                        "ref": "Golden Ridge A - Room b-secb Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-08 Strawberry",
+                        "ref": "Golden Ridge A - Room b-08 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Checkpoint 3 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 483,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room c-00 Strawberry",
+                        "ref": "Golden Ridge A - Room c-00 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-01 Strawberry",
+                        "ref": "Golden Ridge A - Room c-01 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-05 Strawberry",
+                        "ref": "Golden Ridge A - Room c-05 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-06 Strawberry",
+                        "ref": "Golden Ridge A - Room c-06 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-06b Strawberry",
+                        "ref": "Golden Ridge A - Room c-06b Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-08 Strawberry",
+                        "ref": "Golden Ridge A - Room c-08 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-10 Strawberry",
+                        "ref": "Golden Ridge A - Room c-10 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Checkpoint 4 Strawberries",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 498,
+                        "y": 265,
+                        "size": 10,
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room d-00b Strawberry",
+                        "ref": "Golden Ridge A - Room d-00b Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-01 Strawberry",
+                        "ref": "Golden Ridge A - Room d-01 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-04 Strawberry",
+                        "ref": "Golden Ridge A - Room d-04 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-07 Strawberry",
+                        "ref": "Golden Ridge A - Room d-07 Strawberry/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-09 Strawberry",
+                        "ref": "Golden Ridge A - Room d-09 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 453,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-00",
+                        "ref": "Golden Ridge A - Room a-00/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-01",
+                        "ref": "Golden Ridge A - Room a-01/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-01x",
+                        "ref": "Golden Ridge A - Room a-01x/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-02",
+                        "ref": "Golden Ridge A - Room a-02/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-03",
+                        "ref": "Golden Ridge A - Room a-03/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-04",
+                        "ref": "Golden Ridge A - Room a-04/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-05",
+                        "ref": "Golden Ridge A - Room a-05/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-06",
+                        "ref": "Golden Ridge A - Room a-06/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-07",
+                        "ref": "Golden Ridge A - Room a-07/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-08",
+                        "ref": "Golden Ridge A - Room a-08/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-10",
+                        "ref": "Golden Ridge A - Room a-10/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-11",
+                        "ref": "Golden Ridge A - Room a-11/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room a-09",
+                        "ref": "Golden Ridge A - Room a-09/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 468,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-00",
+                        "ref": "Golden Ridge A - Room b-00/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-01",
+                        "ref": "Golden Ridge A - Room b-01/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-04",
+                        "ref": "Golden Ridge A - Room b-04/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-06",
+                        "ref": "Golden Ridge A - Room b-06/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-07",
+                        "ref": "Golden Ridge A - Room b-07/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-03",
+                        "ref": "Golden Ridge A - Room b-03/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-02",
+                        "ref": "Golden Ridge A - Room b-02/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-sec",
+                        "ref": "Golden Ridge A - Room b-sec/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-secb",
+                        "ref": "Golden Ridge A - Room b-secb/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-05",
+                        "ref": "Golden Ridge A - Room b-05/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-08b",
+                        "ref": "Golden Ridge A - Room b-08b/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room b-08",
+                        "ref": "Golden Ridge A - Room b-08/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 483,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room c-00",
+                        "ref": "Golden Ridge A - Room c-00/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-01",
+                        "ref": "Golden Ridge A - Room c-01/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-02",
+                        "ref": "Golden Ridge A - Room c-02/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-04",
+                        "ref": "Golden Ridge A - Room c-04/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-05",
+                        "ref": "Golden Ridge A - Room c-05/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-06",
+                        "ref": "Golden Ridge A - Room c-06/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-06b",
+                        "ref": "Golden Ridge A - Room c-06b/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-09",
+                        "ref": "Golden Ridge A - Room c-09/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-07",
+                        "ref": "Golden Ridge A - Room c-07/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-08",
+                        "ref": "Golden Ridge A - Room c-08/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room c-10",
+                        "ref": "Golden Ridge A - Room c-10/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 498,
+                        "y": 280,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room d-00",
+                        "ref": "Golden Ridge A - Room d-00/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-00b",
+                        "ref": "Golden Ridge A - Room d-00b/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-01",
+                        "ref": "Golden Ridge A - Room d-01/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-02",
+                        "ref": "Golden Ridge A - Room d-02/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-03",
+                        "ref": "Golden Ridge A - Room d-03/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-04",
+                        "ref": "Golden Ridge A - Room d-04/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-05",
+                        "ref": "Golden Ridge A - Room d-05/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-06",
+                        "ref": "Golden Ridge A - Room d-06/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-07",
+                        "ref": "Golden Ridge A - Room d-07/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-08",
+                        "ref": "Golden Ridge A - Room d-08/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-09",
+                        "ref": "Golden Ridge A - Room d-09/"
+                    },
+                    {
+                        "name": "Golden Ridge A - Room d-10",
+                        "ref": "Golden Ridge A - Room d-10/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge B - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 453,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Room a-00",
+                        "ref": "Golden Ridge B - Room a-00/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room a-01",
+                        "ref": "Golden Ridge B - Room a-01/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room a-02",
+                        "ref": "Golden Ridge B - Room a-02/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room a-03",
+                        "ref": "Golden Ridge B - Room a-03/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room a-04",
+                        "ref": "Golden Ridge B - Room a-04/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge B - Checkpoint 2 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 468,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Room b-00",
+                        "ref": "Golden Ridge B - Room b-00/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room b-01",
+                        "ref": "Golden Ridge B - Room b-01/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room b-02",
+                        "ref": "Golden Ridge B - Room b-02/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room b-03",
+                        "ref": "Golden Ridge B - Room b-03/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room b-04",
+                        "ref": "Golden Ridge B - Room b-04/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge B - Checkpoint 3 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 483,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Room c-00",
+                        "ref": "Golden Ridge B - Room c-00/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room c-01",
+                        "ref": "Golden Ridge B - Room c-01/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room c-02",
+                        "ref": "Golden Ridge B - Room c-02/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room c-03",
+                        "ref": "Golden Ridge B - Room c-03/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room c-04",
+                        "ref": "Golden Ridge B - Room c-04/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge B - Checkpoint 4 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 498,
+                        "y": 410,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Room d-00",
+                        "ref": "Golden Ridge B - Room d-00/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room d-01",
+                        "ref": "Golden Ridge B - Room d-01/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room d-02",
+                        "ref": "Golden Ridge B - Room d-02/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room d-03",
+                        "ref": "Golden Ridge B - Room d-03/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room end",
+                        "ref": "Golden Ridge B - Room end/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge C - Checkpoint 1 Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 475,
+                        "y": 495,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge C - Room 00",
+                        "ref": "Golden Ridge C - Room 00/"
+                    },
+                    {
+                        "name": "Golden Ridge C - Room 01",
+                        "ref": "Golden Ridge C - Room 01/"
+                    },
+                    {
+                        "name": "Golden Ridge C - Room 02",
+                        "ref": "Golden Ridge C - Room 02/"
+                    }
+                ]
+            }
+        ]
+    }
+]
