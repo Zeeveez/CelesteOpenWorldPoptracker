@@ -18,6 +18,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 	- Rooms (roomsanity)
 	- Keys
 	- Gems
+	- Cars
 
 
 ## TODO
