@@ -1,0 +1,108 @@
+[
+    {
+        "name": "The Summit A - 2500 M Key",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-6",
+                "x": 3503,
+                "y": 1623
+            }
+        ]
+    },
+
+    {
+        "name": "The Summit A - Gem 1",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-1",
+                "x": 3511,
+                "y": 312
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Gem 2",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-2",
+                "x": 919,
+                "y": 1784
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Gem 3",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 2695,
+                "y": 1375
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Gem 4",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-4",
+                "x": 3735,
+                "y": 1120
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Gem 5",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-5",
+                "x": 294,
+                "y": 2583
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Gem 6",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7a-6",
+                "x": 3135,
+                "y": 1664
+            }
+        ]
+    }
+]

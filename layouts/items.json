@@ -93,7 +93,13 @@
                         "mirrortempleb-centralchamberkey2"
                     ],
                     [
-                        "thesummita-2500mkey"
+                        "thesummita-2500mkey",
+                        "thesummita-gem1",
+                        "thesummita-gem2",
+                        "thesummita-gem3",
+                        "thesummita-gem4",
+                        "thesummita-gem5",
+                        "thesummita-gem6"
                     ],
                     [
                         "farewell-powersourcekey1",
@@ -101,14 +107,6 @@
                         "farewell-powersourcekey3",
                         "farewell-powersourcekey4",
                         "farewell-powersourcekey5"
-                    ],
-                    [
-                        "thesummita-gem1",
-                        "thesummita-gem2",
-                        "thesummita-gem3",
-                        "thesummita-gem4",
-                        "thesummita-gem5",
-                        "thesummita-gem6"
                     ]
                 ]
             }
@@ -139,10 +137,10 @@
                         "include_goldens"
                     ],
                     [
+                        "",
                         "roomsanity",
-                        "",
-                        "",
-                        "",
+                        "keysanity",
+                        "gemsanity",
                         ""
                     ],
                     [

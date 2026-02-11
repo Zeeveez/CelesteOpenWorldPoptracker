@@ -198,8 +198,8 @@ ITEM_MAPPING = {
 def_settings = {       
 	["carsanity"] = 0,
 	--["roomsanity"] = 0,
-	["keysanity"] = 0,
-	["gemsanity"] = 0,
+	--["keysanity"] = 0,
+	--["gemsanity"] = 0,
 	["binosanity"] = 0,
 	["checkpointsanity"] = 0,
 

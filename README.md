@@ -11,18 +11,18 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 ## Features
 
 - Archipelago Autotracking Support:
-	- All berries (normal, golden, and moon) for all levels
-	- All cassettes
-	- All crystal hearts
-	- All level clears
-	- All rooms (roomsanity)
+	- Berries (normal, golden, and moon) for all levels
+	- Cassettes
+	- Crystal hearts
+	- Level clears
+	- Rooms (roomsanity)
+	- Keys
+	- Gems
 
 
 ## TODO
 
 - Tracking:
-	- Keys
-	- Gems
 	- Binos
 	- Cars
 	- Checkpoints

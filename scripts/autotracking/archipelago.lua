@@ -325,6 +325,20 @@ function onClear(slot_data)
                 obj.Active = active
             end
         end
+        if slot_data['keysanity'] then
+            local obj = Tracker:FindObjectForCode("keysanity")
+            local active = slot_data['keysanity'] == 1
+            if obj then
+                obj.Active = active
+            end
+        end
+        if slot_data['gemsanity'] then
+            local obj = Tracker:FindObjectForCode("gemsanity")
+            local active = slot_data['gemsanity'] == 1
+            if obj then
+                obj.Active = active
+            end
+        end
     end
 
     MANUAL_CHECKED = true

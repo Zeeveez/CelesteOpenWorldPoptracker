@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Celestial Resort A - Front Door Key",
+        "sections": [
+            {
+                "access_rules": [ ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 1327,
+                "y": 423
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Hallway Key 1",
+        "sections": [
+            {
+                "access_rules": [ ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 2739,
+                "y": 323
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Hallway Key 2",
+        "sections": [
+            {
+                "access_rules": [ ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-1",
+                "x": 4367,
+                "y": 319
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Huge Mess Key",
+        "sections": [
+            {
+                "access_rules": [ ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-2",
+                "x": 639,
+                "y": 551
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Presidential Suite Key",
+        "sections": [
+            {
+                "access_rules": [ ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "3a-3",
+                "x": 383,
+                "y": 302
+            }
+        ]
+    }
+]

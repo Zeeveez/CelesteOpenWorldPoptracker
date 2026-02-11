@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Farewell - Power Source Key 1",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 1967,
+                "y": 1607
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Power Source Key 2",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2623,
+                "y": 615
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Power Source Key 3",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 4367,
+                "y": 1711
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Power Source Key 4",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 4271,
+                "y": 1335
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Power Source Key 5",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 3775,
+                "y": 1023
+            }
+        ]
+    }
+]

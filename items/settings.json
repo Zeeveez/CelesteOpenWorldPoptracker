@@ -142,5 +142,17 @@
         "type": "toggle",
         "img": "images/icons/roomsanity.png",
         "codes": "roomsanity"
+    },
+    {
+        "name": "Keysanity",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "keysanity"
+    },
+    {
+        "name": "Gemsanity",
+        "type": "toggle",
+        "img": "images/items/gem-1.png",
+        "codes": "gemsanity"
     }
 ]

@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Mirror Temple A - Entrance Key",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-1",
+                "x": 3119,
+                "y": 454
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Depths Key",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 1742,
+                "y": 719
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Search Key 1",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-4",
+                "x": 599,
+                "y": 519
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Search Key 2",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-4",
+                "x": 519,
+                "y": 519
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Search Key 3",
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "5a-4",
+                "x": 2015,
+                "y": 447
+            }
+        ]
+    }
+]
