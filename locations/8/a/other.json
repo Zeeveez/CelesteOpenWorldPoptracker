@@ -54,5 +54,23 @@
                 "y": 161
             }
         ]
+    },
+    {
+        "name": "Core A - Car",
+        "visibility_rules": [
+            "carsanity"
+        ],
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "8a-1",
+                "x": 186,
+                "y": 350
+            }
+        ]
     }
 ]

@@ -224,10 +224,10 @@ LOCATION_MAPPING = {
 	[CELESTE_BASE + CASSETTE_BASE + 0x006] = { "@The Summit A - Cassette/" },
 	[CELESTE_BASE + CASSETTE_BASE + 0x007] = { "@Core A - Cassette/" },
 
---[CELESTE_BASE + CAR_BASE + 0x000] = { "@Prologue - Car/" },
---[CELESTE_BASE + CAR_BASE + 0x001] = { "@Core A - Car/" },
---[CELESTE_BASE + CAR_BASE + 0x002] = { "@Farewell - Secret Car/" },
---[CELESTE_BASE + CAR_BASE + 0x003] = { "@Farewell - Internet Car/" },
+	[CELESTE_BASE + CAR_BASE + 0x000] = { "@Prologue - Car/" },
+	[CELESTE_BASE + CAR_BASE + 0x001] = { "@Core A - Car/" },
+	[CELESTE_BASE + CAR_BASE + 0x002] = { "@Farewell - Secret Car/" },
+	[CELESTE_BASE + CAR_BASE + 0x003] = { "@Farewell - Internet Car/" },
 
 	[CELESTE_BASE + HEART_BASE + 0x000] = { "@Forsaken City A - Crystal Heart/" },
 	[CELESTE_BASE + HEART_BASE + 0x001] = { "@Old Site A - Crystal Heart/" },

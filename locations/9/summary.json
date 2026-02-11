@@ -758,6 +758,27 @@
                         "ref": "Farewell - Room end-golden/"
                     }
                 ]
+            },
+            {
+                "name": "Farewell - Cars",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 0,
+                        "y": 0,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Secret Car",
+                        "ref": "Farewell - Secret Car/"
+                    },
+                    {
+                        "name": "Farewell - Internet Car",
+                        "ref": "Farewell - Internet Car/"
+                    }
+                ]
             }
         ]
     }

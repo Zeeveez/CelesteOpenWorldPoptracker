@@ -196,7 +196,7 @@ ITEM_MAPPING = {
 }
 
 def_settings = {       
-	["carsanity"] = 0,
+	--["carsanity"] = 0,
 	--["roomsanity"] = 0,
 	--["keysanity"] = 0,
 	--["gemsanity"] = 0,

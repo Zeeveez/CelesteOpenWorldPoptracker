@@ -138,6 +138,12 @@
 
 
     {
+        "name": "Carsanity",
+        "type": "toggle",
+        "img": "images/icons/carsanity.png",
+        "codes": "carsanity"
+    },
+    {
         "name": "Roomsanity",
         "type": "toggle",
         "img": "images/icons/roomsanity.png",

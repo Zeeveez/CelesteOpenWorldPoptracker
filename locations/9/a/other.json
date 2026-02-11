@@ -22,5 +22,41 @@
             }
         ],
         "map_locations": []
+    },
+    {
+        "name": "Farewell - Secret Car",
+        "visibility_rules": [
+            "carsanity"
+        ],
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 562,
+                "y": 333
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Internet Car",
+        "visibility_rules": [
+            "carsanity"
+        ],
+        "sections": [
+            {
+                "access_rules": []
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 1082,
+                "y": 2022
+            }
+        ]
     }
 ]

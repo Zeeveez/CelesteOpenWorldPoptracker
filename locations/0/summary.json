@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Prologue - Summary",
+        "children": [
+            {
+                "name": "Prologue - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 0,
+                        "y": 0,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Prologue - Level Clear",
+                        "ref": "Prologue - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Prologue - Cars",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 0,
+                        "y": 0,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Prologue - Car",
+                        "ref": "Prologue - Car/"
+                    }
+                ]
+            }
+        ]
+    }
+]

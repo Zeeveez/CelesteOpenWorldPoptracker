@@ -647,6 +647,23 @@
                         "ref": "Core C - Room 02/"
                     }
                 ]
+            },
+            {
+                "name": "Core A - Cars",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 0,
+                        "y": 0,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Car",
+                        "ref": "Core A - Car/"
+                    }
+                ]
             }
         ]
     }
