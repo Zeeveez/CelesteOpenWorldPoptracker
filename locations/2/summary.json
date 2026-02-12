@@ -733,7 +733,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Old Site A - Room d3 Binoculars",
+                        "ref": "Old Site A - Room d3 Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Old Site A - Checkpoint 2 Other",

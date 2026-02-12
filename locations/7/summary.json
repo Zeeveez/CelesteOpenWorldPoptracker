@@ -1431,7 +1431,20 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-01 Binoculars",
+                        "ref": "The Summit A - Room b-01 Binoculars/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02 Binoculars",
+                        "ref": "The Summit A - Room b-02 Binoculars/"
+                    },
+                    {
+                        "name": "The Summit A - Room b-02b Binoculars",
+                        "ref": "The Summit A - Room b-02b Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "The Summit A - Checkpoint 3 Other",
@@ -1445,7 +1458,24 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-03b Binoculars",
+                        "ref": "The Summit A - Room c-03b Binoculars/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-05 Binoculars",
+                        "ref": "The Summit A - Room c-05 Binoculars/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-06c Binoculars",
+                        "ref": "The Summit A - Room c-06c Binoculars/"
+                    },
+                    {
+                        "name": "The Summit A - Room c-07b Binoculars",
+                        "ref": "The Summit A - Room c-07b Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "The Summit A - Checkpoint 4 Other",
@@ -1501,7 +1531,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "The Summit A - Room g-03 Binoculars",
+                        "ref": "The Summit A - Room g-03 Binoculars/"
+                    }
+                ]
             }
         ]
     }

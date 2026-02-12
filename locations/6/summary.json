@@ -721,7 +721,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Reflection A - Room 04e Binoculars",
+                        "ref": "Reflection A - Room 04e Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Reflection A - Checkpoint 4 Other",

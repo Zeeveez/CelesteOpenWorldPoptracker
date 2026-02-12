@@ -1128,7 +1128,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-22 Binoculars",
+                        "ref": "Mirror Temple A - Room b-22 Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Mirror Temple A - Checkpoint 3 Other",

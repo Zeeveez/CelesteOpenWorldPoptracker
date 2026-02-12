@@ -822,7 +822,16 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Farewell - Room a-04 Binoculars",
+                        "ref": "Farewell - Room a-04 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room b-06 Binoculars",
+                        "ref": "Farewell - Room b-06 Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Farewell - Checkpoint 3 Other",
@@ -836,7 +845,36 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Farewell - Room d-00 Binoculars",
+                        "ref": "Farewell - Room d-00 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room d-04 Binoculars",
+                        "ref": "Farewell - Room d-04 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room d-03 Binoculars",
+                        "ref": "Farewell - Room d-03 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room d-01 Binoculars",
+                        "ref": "Farewell - Room d-01 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room d-02 Binoculars",
+                        "ref": "Farewell - Room d-02 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room d-05 Binoculars",
+                        "ref": "Farewell - Room d-05 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room e-00yb Binoculars",
+                        "ref": "Farewell - Room e-00yb Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Farewell - Checkpoint 4 Other",
@@ -854,6 +892,26 @@
                     {
                         "name": "Farewell - Secret Car",
                         "ref": "Farewell - Secret Car/"
+                    },
+                    {
+                        "name": "Farewell - Room e-00b Binoculars",
+                        "ref": "Farewell - Room e-00b Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room e-01 Binoculars",
+                        "ref": "Farewell - Room e-01 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room e-02 Binoculars",
+                        "ref": "Farewell - Room e-02 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room e-04 Binoculars",
+                        "ref": "Farewell - Room e-04 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room e-08 Binoculars",
+                        "ref": "Farewell - Room e-08 Binoculars/"
                     }
                 ]
             },
@@ -873,6 +931,34 @@
                     {
                         "name": "Farewell - Internet Car",
                         "ref": "Farewell - Internet Car/"
+                    },
+                    {
+                        "name": "Farewell - Room f-06 Binoculars",
+                        "ref": "Farewell - Room f-06 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room f-07 Binoculars",
+                        "ref": "Farewell - Room f-07 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room f-08 Binoculars",
+                        "ref": "Farewell - Room f-08 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room f-09 Binoculars",
+                        "ref": "Farewell - Room f-09 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room g-00 Binoculars",
+                        "ref": "Farewell - Room g-00 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room g-04 Binoculars",
+                        "ref": "Farewell - Room g-04 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room g-06 Binoculars",
+                        "ref": "Farewell - Room g-06 Binoculars/"
                     }
                 ]
             },
@@ -888,7 +974,48 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-01 Binoculars",
+                        "ref": "Farewell - Room h-01 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room h-02 Binoculars",
+                        "ref": "Farewell - Room h-02 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room h-03b Binoculars",
+                        "ref": "Farewell - Room h-03b Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room h-04 Binoculars",
+                        "ref": "Farewell - Room h-04 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room h-05 Binoculars",
+                        "ref": "Farewell - Room h-05 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room h-06b Binoculars",
+                        "ref": "Farewell - Room h-06b Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room h-07 Binoculars 1",
+                        "ref": "Farewell - Room h-07 Binoculars 1/"
+                    },
+                    {
+                        "name": "Farewell - Room h-07 Binoculars 2",
+                        "ref": "Farewell - Room h-07 Binoculars 2/"
+                    },
+                    {
+                        "name": "Farewell - Room h-08 Binoculars",
+                        "ref": "Farewell - Room h-08 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room h-09 Binoculars",
+                        "ref": "Farewell - Room h-09 Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Farewell - Checkpoint 7 Other",
@@ -902,7 +1029,23 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Farewell - Room i-00b Binoculars",
+                        "ref": "Farewell - Room i-00b Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room i-02 Binoculars",
+                        "ref": "Farewell - Room i-02 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room i-04 Binoculars",
+                        "ref": "Farewell - Room i-04 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room i-05 Binoculars",
+                        "ref": "Farewell - Room i-05 Binoculars/"
+                    }]
             },
             {
                 "name": "Farewell - Checkpoint 8 Other",
@@ -930,7 +1073,28 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Farewell - Room j-16 Binoculars",
+                        "ref": "Farewell - Room j-16 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room j-19 Binoculars",
+                        "ref": "Farewell - Room j-19 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Room end-golden Binoculars 1",
+                        "ref": "Farewell - Room end-golden Binoculars 1/"
+                    },
+                    {
+                        "name": "Farewell - Room end-golden Binoculars 2",
+                        "ref": "Farewell - Room end-golden Binoculars 2/"
+                    },
+                    {
+                        "name": "Farewell - Room end-golden Binoculars 3",
+                        "ref": "Farewell - Room end-golden Binoculars 3/"
+                    }
+                ]
             }
         ]
     }
