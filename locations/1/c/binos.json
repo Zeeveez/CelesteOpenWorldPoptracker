@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Forsaken City C - Room 01 Binoculars",
+        "visibility_rules": [ "include_c_sides,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City C - Room 01" ] } ],
+        "map_locations": [
+            {
+                "map": "1c-1",
+                "x": 743,
+                "y": 167
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City C - Room 02 Binoculars",
+        "visibility_rules": [ "include_c_sides,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City C - Room 02" ] } ],
+        "map_locations": [
+            {
+                "map": "1c-1",
+                "x": 1655,
+                "y": 55
+            }
+        ]
+    }
+]

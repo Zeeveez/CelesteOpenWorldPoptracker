@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Reflection B - Room a-02 Binoculars",
+        "visibility_rules": [ "include_b_sides,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection B - Room a-02" ] } ],
+        "map_locations": [
+            {
+                "map": "6b-1",
+                "x": 423,
+                "y": 503
+            }
+        ]
+    },
+    {
+        "name": "Reflection B - Room a-06 Binoculars",
+        "visibility_rules": [ "include_b_sides,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection B - Room a-06" ] } ],
+        "map_locations": [
+            {
+                "map": "6b-1",
+                "x": 2783,
+                "y": 55
+            }
+        ]
+    }
+]

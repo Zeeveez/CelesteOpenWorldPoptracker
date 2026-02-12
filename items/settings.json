@@ -160,5 +160,11 @@
         "type": "toggle",
         "img": "images/items/gem-1.png",
         "codes": "gemsanity"
+    },
+    {
+        "name": "Binosanity",
+        "type": "toggle",
+        "img": "images/icons/binos.png",
+        "codes": "binosanity"
     }
 ]

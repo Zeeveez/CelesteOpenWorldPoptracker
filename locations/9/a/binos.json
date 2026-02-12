@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Farewell - Room a-04 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room a-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 1559,
+                "y": 247
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room b-06 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room b-06" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-2",
+                "x": 5887,
+                "y": 135
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-00 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2967,
+                "y": 1735
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-04 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 3703,
+                "y": 1303
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-03 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-03" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 3759,
+                "y": 1775
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-01 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2535,
+                "y": 1543
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-02 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2735,
+                "y": 1127
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room d-05 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room d-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 2887,
+                "y": 1111
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-00yb Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-00yb" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-3",
+                "x": 3295,
+                "y": 903
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-00b Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-00b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 495,
+                "y": 1270
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-01 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 399,
+                "y": 878
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-02 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 415,
+                "y": 222
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-04 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 1447,
+                "y": 142
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room e-08 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room e-08" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 5151,
+                "y": 206
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-06 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-06" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 4927,
+                "y": 1511
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-07 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-07" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 5519,
+                "y": 1607
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-08 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-08" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 6615,
+                "y": 1615
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room f-09 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room f-09" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 7119,
+                "y": 1503
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room g-00 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room g-00" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 7359,
+                "y": 1311
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room g-04 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room g-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 8127,
+                "y": 71
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room g-06 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room g-06" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-5",
+                "x": 9695,
+                "y": 607
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-01 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-01" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 1710,
+                "y": 2159
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-02 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 1894,
+                "y": 1431
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-03b Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-03b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 3454,
+                "y": 1335
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-04 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 4326,
+                "y": 1263
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-05 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 4638,
+                "y": 2111
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-06b Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-06b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 6278,
+                "y": 2055
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-07 Binoculars 1",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-07" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 6470,
+                "y": 1247
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-07 Binoculars 2",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-07" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 7038,
+                "y": 1263
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-08 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-08" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 8414,
+                "y": 1319
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room h-09 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room h-09" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-6",
+                "x": 9158,
+                "y": 1207
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room i-00b Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room i-00b" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-7",
+                "x": 1438,
+                "y": 327
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room i-02 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room i-02" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-7",
+                "x": 2574,
+                "y": 175
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room i-04 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room i-04" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-7",
+                "x": 3862,
+                "y": 103
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room i-05 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room i-05" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-7",
+                "x": 4482,
+                "y": 151
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-16 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-16" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-9",
+                "x": 111,
+                "y": 7415
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room j-19 Binoculars",
+        "visibility_rules": [ "include_farewell,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room j-19" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-9",
+                "x": 5183,
+                "y": 4591
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room end-golden Binoculars 1",
+        "visibility_rules": [ "include_farewell,include_goldens,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room end-golden" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-9",
+                "x": 7090,
+                "y": 7407
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room end-golden Binoculars 2",
+        "visibility_rules": [ "include_farewell,include_goldens,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room end-golden" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-9",
+                "x": 7114,
+                "y": 7247
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Room end-golden Binoculars 3",
+        "visibility_rules": [ "include_farewell,include_goldens,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - Room end-golden" ] } ],
+        "map_locations": [
+            {
+                "map": "9a-9",
+                "x": 7042,
+                "y": 6743
+            }
+        ]
+    }
+]

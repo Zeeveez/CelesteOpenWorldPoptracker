@@ -200,7 +200,7 @@ def_settings = {
 	--["roomsanity"] = 0,
 	--["keysanity"] = 0,
 	--["gemsanity"] = 0,
-	["binosanity"] = 0,
+	--["binosanity"] = 0,
 	["checkpointsanity"] = 0,
 
 	--["strawberries_required"] = 40,

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Mirror Temple B - Room b-09 Binoculars",
+        "visibility_rules": [ "include_b_sides,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Mirror Temple B - Room b-09" ] } ],
+        "map_locations": [
+            {
+                "map": "5b-2",
+                "x": 807,
+                "y": 1007
+            }
+        ]
+    }
+]

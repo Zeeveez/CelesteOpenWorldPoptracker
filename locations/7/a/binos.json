@@ -1,0 +1,98 @@
+[
+    {
+        "name": "The Summit A - Room b-01 Binoculars",
+        "visibility_rules": [ "binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-01" ] } ],
+        "map_locations": [
+            {
+                "map": "7a-2",
+                "x": 47,
+                "y": 2287
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room b-02 Binoculars",
+        "visibility_rules": [ "binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-02" ] } ],
+        "map_locations": [
+            {
+                "map": "7a-2",
+                "x": 663,
+                "y": 2215
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room b-02b Binoculars",
+        "visibility_rules": [ "binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-02b" ] } ],
+        "map_locations": [
+            {
+                "map": "7a-2",
+                "x": 607,
+                "y": 1839
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room c-03b Binoculars",
+        "visibility_rules": [ "binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-03b" ] } ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 943,
+                "y": 1990
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room c-05 Binoculars",
+        "visibility_rules": [ "binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-05" ] } ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 2655,
+                "y": 1846
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room c-06c Binoculars",
+        "visibility_rules": [ "binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-06c" ] } ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 2687,
+                "y": 1318
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room c-07b Binoculars",
+        "visibility_rules": [ "binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-07b" ] } ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 1991,
+                "y": 1046
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Room g-03 Binoculars",
+        "visibility_rules": [ "binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room g-03" ] } ],
+        "map_locations": [
+            {
+                "map": "7a-7",
+                "x": 1407,
+                "y": 3023
+            }
+        ]
+    }
+]

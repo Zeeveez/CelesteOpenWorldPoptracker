@@ -19,6 +19,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 	- Keys
 	- Gems
 	- Cars
+	- Binos
 
 
 ## TODO
@@ -28,7 +29,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 		- Keys
 		- Gems
 		- Cars
-	- Binos
+		- Binos
 	- Checkpoints
 	- Go-Mode
 - Logic:

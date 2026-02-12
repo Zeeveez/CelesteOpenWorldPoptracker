@@ -1,0 +1,26 @@
+[
+    {
+        "name": "The Summit B - Room b-01 Binoculars",
+        "visibility_rules": [ "include_b_sides,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - Room b-01" ] } ],
+        "map_locations": [
+            {
+                "map": "7b-2",
+                "x": 279,
+                "y": 2207
+            }
+        ]
+    },
+    {
+        "name": "The Summit B - Room b-02 Binoculars",
+        "visibility_rules": [ "include_b_sides,binosanity" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - Room b-02" ] } ],
+        "map_locations": [
+            {
+                "map": "7b-2",
+                "x": 919,
+                "y": 1423
+            }
+        ]
+    }
+]
