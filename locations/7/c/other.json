@@ -1,9 +1,7 @@
 [
     {
         "name": "The Summit C - Level Clear",
-        "visibility_rules": [
-            "include_c_sides"
-        ],
+        "visibility_rules": [ "include_c_sides" ],
         "sections": [
             {
                 "access_rules": []

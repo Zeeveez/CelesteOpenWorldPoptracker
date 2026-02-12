@@ -1,9 +1,7 @@
 [
     {
         "name": "Core B - Level Clear",
-        "visibility_rules": [
-            "include_core,include_b_sides"
-        ],
+        "visibility_rules": [ "include_core,include_b_sides" ],
         "sections": [
             {
                 "access_rules": []

@@ -1,9 +1,7 @@
 [
     {
         "name": "Core A - Golden Strawberry",
-        "visibility_rules": [
-            "include_core,include_goldens"
-        ],
+        "visibility_rules": [ "include_core,include_goldens" ],
         "sections": [
             {
                 "access_rules": [ "$CanAccessRoom|Core A - Room space" ]
@@ -13,9 +11,7 @@
     },
     {
         "name": "Core A - Room b-06 Strawberry",
-        "visibility_rules": [
-            "include_core"
-        ],
+        "visibility_rules": [ "include_core" ],
         "sections": [
             {
                 "access_rules": [ "$CanAccessRoom|Core A - Room b-06" ]
@@ -31,9 +27,7 @@
     },
     {
         "name": "Core A - Room c-00b Strawberry",
-        "visibility_rules": [
-            "include_core"
-        ],
+        "visibility_rules": [ "include_core" ],
         "sections": [
             {
                 "access_rules": [ "$CanAccessRoom|Core A - Room c-00b" ]
@@ -49,9 +43,7 @@
     },
     {
         "name": "Core A - Room c-02 Strawberry",
-        "visibility_rules": [
-            "include_core"
-        ],
+        "visibility_rules": [ "include_core" ],
         "sections": [
             {
                 "access_rules": [ "$CanAccessRoom|Core A - Room c-02" ]
@@ -67,9 +59,7 @@
     },
     {
         "name": "Core A - Room c-03b Strawberry",
-        "visibility_rules": [
-            "include_core"
-        ],
+        "visibility_rules": [ "include_core" ],
         "sections": [
             {
                 "access_rules": [ "$CanAccessRoom|Core A - Room c-03b" ]
@@ -85,9 +75,7 @@
     },
     {
         "name": "Core A - Room d-06 Strawberry",
-        "visibility_rules": [
-            "include_core"
-        ],
+        "visibility_rules": [ "include_core" ],
         "sections": [
             {
                 "access_rules": [ "$CanAccessRoom|Core A - Room d-06" ]

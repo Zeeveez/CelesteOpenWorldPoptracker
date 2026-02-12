@@ -1,9 +1,7 @@
 [
     {
         "name": "Farewell - Power Source Key 1",
-        "visibility_rules": [
-            "include_farewell"
-        ],
+        "visibility_rules": [ "include_farewell" ],
         "sections": [
             {
                 "access_rules": []
@@ -20,9 +18,7 @@
     },
     {
         "name": "Farewell - Power Source Key 2",
-        "visibility_rules": [
-            "include_farewell"
-        ],
+        "visibility_rules": [ "include_farewell" ],
         "sections": [
             {
                 "access_rules": []
@@ -39,9 +35,7 @@
     },
     {
         "name": "Farewell - Power Source Key 3",
-        "visibility_rules": [
-            "include_farewell"
-        ],
+        "visibility_rules": [ "include_farewell" ],
         "sections": [
             {
                 "access_rules": []
@@ -58,9 +52,7 @@
     },
     {
         "name": "Farewell - Power Source Key 4",
-        "visibility_rules": [
-            "include_farewell"
-        ],
+        "visibility_rules": [ "include_farewell" ],
         "sections": [
             {
                 "access_rules": []
@@ -77,9 +69,7 @@
     },
     {
         "name": "Farewell - Power Source Key 5",
-        "visibility_rules": [
-            "include_farewell"
-        ],
+        "visibility_rules": [ "include_farewell" ],
         "sections": [
             {
                 "access_rules": []

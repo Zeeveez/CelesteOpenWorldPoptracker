@@ -1,9 +1,7 @@
 [
     {
         "name": "Mirror Temple B - Central Chamber Key 1",
-        "visibility_rules": [
-            "include_b_sides"
-        ],
+        "visibility_rules": [ "include_b_sides" ],
         "sections": [
             {
                 "access_rules": []
@@ -20,9 +18,7 @@
     },
     {
         "name": "Mirror Temple B - Central Chamber Key 2",
-        "visibility_rules": [
-            "include_b_sides"
-        ],
+        "visibility_rules": [ "include_b_sides" ],
         "sections": [
             {
                 "access_rules": []

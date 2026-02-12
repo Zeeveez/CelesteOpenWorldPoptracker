@@ -1,9 +1,7 @@
 [
     {
         "name": "Core A - Level Clear",
-        "visibility_rules": [
-            "include_core"
-        ],
+        "visibility_rules": [ "include_core" ],
         "sections": [
             {
                 "access_rules": [ "$CanAccessRoom|Core A - Room space" ]
@@ -19,9 +17,7 @@
     },
     {
         "name": "Core A - Cassette",
-        "visibility_rules": [
-            "include_core"
-        ],
+        "visibility_rules": [ "include_core" ],
         "sections": [
             {
                 "access_rules": [
@@ -39,9 +35,7 @@
     },
     {
         "name": "Core A - Crystal Heart",
-        "visibility_rules": [
-            "include_core"
-        ],
+        "visibility_rules": [ "include_core" ],
         "sections": [
             {
                 "access_rules": [ "$CanAccessRoom|Core A - Room space" ]
@@ -57,9 +51,7 @@
     },
     {
         "name": "Core A - Car",
-        "visibility_rules": [
-            "include_core,carsanity"
-        ],
+        "visibility_rules": [ "include_core,carsanity" ],
         "sections": [
             {
                 "access_rules": []

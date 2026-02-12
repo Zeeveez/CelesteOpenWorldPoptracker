@@ -1,9 +1,7 @@
 [
     {
         "name": "Golden Ridge B - Level Clear",
-        "visibility_rules": [
-            "include_b_sides"
-        ],
+        "visibility_rules": [ "include_b_sides" ],
         "sections": [
             {
                 "access_rules": []

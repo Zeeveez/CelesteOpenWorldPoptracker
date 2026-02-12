@@ -10,9 +10,7 @@
     },
     {
         "name": "Prologue - Car",
-        "visibility_rules": [
-            "carsanity"
-        ],
+        "visibility_rules": [ "carsanity" ],
         "sections": [
             {
                 "access_rules": []
