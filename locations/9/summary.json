@@ -8,7 +8,7 @@
                     {
                         "map": "summary",
                         "x": 1110,
-                        "y": 305,
+                        "y": 320,
                         "size": 25
                     }
                 ],
@@ -43,7 +43,7 @@
                     {
                         "map": "summary",
                         "x": 1190,
-                        "y": 305,
+                        "y": 320,
                         "size": 25
                     }
                 ],
@@ -186,7 +186,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Farewell - Moon Berry",
+                        "ref": "Farewell - Moon Berry/"
+                    }
+                ]
             },
             {
                 "name": "Farewell - Checkpoint 1 Rooms",

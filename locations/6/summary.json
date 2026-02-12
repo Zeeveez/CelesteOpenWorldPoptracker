@@ -8,7 +8,7 @@
                     {
                         "map": "summary",
                         "x": 705,
-                        "y": 305,
+                        "y": 320,
                         "size": 25
                     }
                 ],
@@ -25,7 +25,7 @@
                     {
                         "map": "summary",
                         "x": 745,
-                        "y": 380,
+                        "y": 395,
                         "size": 25
                     }
                 ],
@@ -42,7 +42,7 @@
                     {
                         "map": "summary",
                         "x": 745,
-                        "y": 465,
+                        "y": 480,
                         "size": 25
                     }
                 ],
@@ -77,7 +77,7 @@
                     {
                         "map": "summary",
                         "x": 745,
-                        "y": 350,
+                        "y": 365,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -95,7 +95,7 @@
                     {
                         "map": "summary",
                         "x": 745,
-                        "y": 435,
+                        "y": 450,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -113,7 +113,7 @@
                     {
                         "map": "summary",
                         "x": 745,
-                        "y": 305,
+                        "y": 320,
                         "size": 25
                     }
                 ],
@@ -130,7 +130,7 @@
                     {
                         "map": "summary",
                         "x": 785,
-                        "y": 305,
+                        "y": 320,
                         "size": 25
                     }
                 ],
@@ -490,7 +490,7 @@
                     {
                         "map": "summary",
                         "x": 723,
-                        "y": 410,
+                        "y": 425,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -533,7 +533,7 @@
                     {
                         "map": "summary",
                         "x": 738,
-                        "y": 410,
+                        "y": 425,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -592,7 +592,7 @@
                     {
                         "map": "summary",
                         "x": 753,
-                        "y": 410,
+                        "y": 425,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -631,7 +631,7 @@
                     {
                         "map": "summary",
                         "x": 768,
-                        "y": 410,
+                        "y": 425,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -674,7 +674,7 @@
                     {
                         "map": "summary",
                         "x": 745,
-                        "y": 495,
+                        "y": 510,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
