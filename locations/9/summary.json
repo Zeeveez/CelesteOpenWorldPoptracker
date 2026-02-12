@@ -797,25 +797,140 @@
                 ]
             },
             {
-                "name": "Farewell - Cars",
+                "name": "Farewell - Checkpoint 1 Other",
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 0,
-                        "y": 0,
-                        "size": 25
+                        "x": 1090,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 2 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1105,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 3 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1120,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 4 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1135,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
                     }
                 ],
                 "sections": [
                     {
                         "name": "Farewell - Secret Car",
                         "ref": "Farewell - Secret Car/"
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Checkpoint 5 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1150,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
                     {
                         "name": "Farewell - Internet Car",
                         "ref": "Farewell - Internet Car/"
                     }
                 ]
+            },
+            {
+                "name": "Farewell - Checkpoint 6 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1165,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 7 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1180,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 8 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1195,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Farewell - Checkpoint 9 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1210,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
             }
         ]
     }

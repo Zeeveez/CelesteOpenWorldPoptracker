@@ -1049,6 +1049,62 @@
                         "ref": "Celestial Resort C - Room 02/"
                     }
                 ]
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 1 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 318,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 2 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 333,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 3 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 348,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Celestial Resort A - Checkpoint 4 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 363,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
             }
         ]
     }

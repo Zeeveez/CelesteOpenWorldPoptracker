@@ -1404,6 +1404,104 @@
                         "ref": "The Summit C - Room 03/"
                     }
                 ]
+            },
+            {
+                "name": "The Summit A - Checkpoint 1 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 835,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "The Summit A - Checkpoint 2 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 850,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "The Summit A - Checkpoint 3 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 865,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "The Summit A - Checkpoint 4 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 880,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "The Summit A - Checkpoint 5 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 895,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "The Summit A - Checkpoint 6 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 910,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "The Summit A - Checkpoint 7 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 925,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
             }
         ]
     }

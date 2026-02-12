@@ -694,6 +694,76 @@
                         "ref": "Reflection C - Room 02/"
                     }
                 ]
+            },
+            {
+                "name": "Reflection A - Checkpoint 2 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 723,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Reflection A - Checkpoint 3 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 738,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Reflection A - Checkpoint 4 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 753,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Reflection A - Checkpoint 5 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 768,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Reflection A - Checkpoint 6 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 783,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
             }
         ]
     }

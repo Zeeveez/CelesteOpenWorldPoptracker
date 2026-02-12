@@ -720,6 +720,48 @@
                         "ref": "Old Site C - Room 02/"
                     }
                 ]
+            },
+            {
+                "name": "Old Site A - Checkpoint 1 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 190,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Old Site A - Checkpoint 2 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Old Site A - Checkpoint 3 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 220,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
             }
         ]
     }

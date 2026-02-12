@@ -1101,6 +1101,76 @@
                         "ref": "Mirror Temple C - Room 02/"
                     }
                 ]
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 1 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 580,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 2 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 595,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 3 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 610,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 4 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 625,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Mirror Temple A - Checkpoint 5 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 640,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
             }
         ]
     }

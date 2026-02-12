@@ -673,13 +673,15 @@
                 ]
             },
             {
-                "name": "Core A - Cars",
+                "name": "Core A - Checkpoint 1 Other",
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 0,
-                        "y": 0,
-                        "size": 25
+                        "x": 993,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
                     }
                 ],
                 "sections": [
@@ -688,6 +690,48 @@
                         "ref": "Core A - Car/"
                     }
                 ]
+            },
+            {
+                "name": "Core A - Checkpoint 2 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1008,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Core A - Checkpoint 3 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1023,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Core A - Checkpoint 4 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1038,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
             }
         ]
     }
