@@ -847,6 +847,26 @@
                 ],
                 "sections": [
                     {
+                        "name": "Farewell - Power Source Key 1",
+                        "ref": "Farewell - Power Source Key 1/"
+                    },
+                    {
+                        "name": "Farewell - Power Source Key 2",
+                        "ref": "Farewell - Power Source Key 2/"
+                    },
+                    {
+                        "name": "Farewell - Power Source Key 3",
+                        "ref": "Farewell - Power Source Key 3/"
+                    },
+                    {
+                        "name": "Farewell - Power Source Key 4",
+                        "ref": "Farewell - Power Source Key 4/"
+                    },
+                    {
+                        "name": "Farewell - Power Source Key 5",
+                        "ref": "Farewell - Power Source Key 5/"
+                    },
+                    {
                         "name": "Farewell - Room d-00 Binoculars",
                         "ref": "Farewell - Room d-00 Binoculars/"
                     },

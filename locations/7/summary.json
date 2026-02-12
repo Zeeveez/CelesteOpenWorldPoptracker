@@ -1417,7 +1417,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "The Summit A - Gem 1",
+                        "ref": "The Summit A - Gem 1/"
+                    }
+                ]
             },
             {
                 "name": "The Summit A - Checkpoint 2 Other",
@@ -1432,6 +1437,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "The Summit A - Gem 2",
+                        "ref": "The Summit A - Gem 2/"
+                    },
                     {
                         "name": "The Summit A - Room b-01 Binoculars",
                         "ref": "The Summit A - Room b-01 Binoculars/"
@@ -1459,6 +1468,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "The Summit A - Gem 3",
+                        "ref": "The Summit A - Gem 3/"
+                    },
                     {
                         "name": "The Summit A - Room c-03b Binoculars",
                         "ref": "The Summit A - Room c-03b Binoculars/"
@@ -1489,7 +1502,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "The Summit A - Gem 4",
+                        "ref": "The Summit A - Gem 4/"
+                    }
+                ]
             },
             {
                 "name": "The Summit A - Checkpoint 5 Other",
@@ -1503,7 +1521,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "The Summit A - Gem 5",
+                        "ref": "The Summit A - Gem 5/"
+                    }
+                ]
             },
             {
                 "name": "The Summit A - Checkpoint 6 Other",
@@ -1517,7 +1540,16 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "The Summit A - 2500 M Key",
+                        "ref": "The Summit A - 2500 M Key/"
+                    },
+                    {
+                        "name": "The Summit A - Gem 6",
+                        "ref": "The Summit A - Gem 6/"
+                    }
+                ]
             },
             {
                 "name": "The Summit A - Checkpoint 7 Other",

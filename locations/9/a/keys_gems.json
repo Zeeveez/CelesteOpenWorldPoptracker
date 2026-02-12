@@ -1,6 +1,9 @@
 [
     {
         "name": "Farewell - Power Source Key 1",
+        "visibility_rules": [
+            "include_farewell"
+        ],
         "sections": [
             {
                 "access_rules": []
@@ -10,12 +13,16 @@
             {
                 "map": "9a-3",
                 "x": 1967,
-                "y": 1607
+                "y": 1607,
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Farewell - Power Source Key 2",
+        "visibility_rules": [
+            "include_farewell"
+        ],
         "sections": [
             {
                 "access_rules": []
@@ -25,12 +32,16 @@
             {
                 "map": "9a-3",
                 "x": 2623,
-                "y": 615
+                "y": 615,
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Farewell - Power Source Key 3",
+        "visibility_rules": [
+            "include_farewell"
+        ],
         "sections": [
             {
                 "access_rules": []
@@ -40,12 +51,16 @@
             {
                 "map": "9a-3",
                 "x": 4367,
-                "y": 1711
+                "y": 1711,
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Farewell - Power Source Key 4",
+        "visibility_rules": [
+            "include_farewell"
+        ],
         "sections": [
             {
                 "access_rules": []
@@ -55,12 +70,16 @@
             {
                 "map": "9a-3",
                 "x": 4271,
-                "y": 1335
+                "y": 1335,
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Farewell - Power Source Key 5",
+        "visibility_rules": [
+            "include_farewell"
+        ],
         "sections": [
             {
                 "access_rules": []
@@ -70,7 +89,8 @@
             {
                 "map": "9a-3",
                 "x": 3775,
-                "y": 1023
+                "y": 1023,
+                "shape": "trapezoid"
             }
         ]
     }

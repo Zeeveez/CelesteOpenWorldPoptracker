@@ -1062,7 +1062,20 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Front Door Key",
+                        "ref": "Celestial Resort A - Front Door Key/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Hallway Key 1",
+                        "ref": "Celestial Resort A - Hallway Key 1/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Hallway Key 2",
+                        "ref": "Celestial Resort A - Hallway Key 2/"
+                    }
+                ]
             },
             {
                 "name": "Celestial Resort A - Checkpoint 2 Other",
@@ -1076,7 +1089,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Huge Mess Key",
+                        "ref": "Celestial Resort A - Huge Mess Key/"
+                    }
+                ]
             },
             {
                 "name": "Celestial Resort A - Checkpoint 3 Other",
@@ -1090,7 +1108,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Presidential Suite Key",
+                        "ref": "Celestial Resort A - Presidential Suite Key/"
+                    }
+                ]
             },
             {
                 "name": "Celestial Resort A - Checkpoint 4 Other",

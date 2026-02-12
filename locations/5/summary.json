@@ -1114,7 +1114,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Entrance Key",
+                        "ref": "Mirror Temple A - Entrance Key/"
+                    }
+                ]
             },
             {
                 "name": "Mirror Temple A - Checkpoint 2 Other",
@@ -1129,6 +1134,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Mirror Temple A - Depths Key",
+                        "ref": "Mirror Temple A - Depths Key/"
+                    },
                     {
                         "name": "Mirror Temple A - Room b-22 Binoculars",
                         "ref": "Mirror Temple A - Room b-22 Binoculars/"
@@ -1161,7 +1170,20 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Search Key 1",
+                        "ref": "Mirror Temple A - Search Key 1/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Search Key 2",
+                        "ref": "Mirror Temple A - Search Key 2/"
+                    },
+                    {
+                        "name": "Mirror Temple A - Search Key 3",
+                        "ref": "Mirror Temple A - Search Key 3/"
+                    }
+                ]
             },
             {
                 "name": "Mirror Temple A - Checkpoint 5 Other",
@@ -1204,6 +1226,14 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Mirror Temple B - Central Chamber Key 1",
+                        "ref": "Mirror Temple B - Central Chamber Key 1/"
+                    },
+                    {
+                        "name": "Mirror Temple B - Central Chamber Key 2",
+                        "ref": "Mirror Temple B - Central Chamber Key 2/"
+                    },
                     {
                         "name": "Mirror Temple B - Room b-09 Binoculars",
                         "ref": "Mirror Temple B - Room b-09 Binoculars/"

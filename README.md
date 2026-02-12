@@ -26,9 +26,6 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 ## TODO
 
 - Tracking:
-	- Summaries:
-		- Keys
-		- Gems
 	- Go-Mode
 - Logic:
 	- Checkpoint Room Access

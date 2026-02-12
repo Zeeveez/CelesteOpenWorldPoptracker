@@ -1,6 +1,9 @@
 [
     {
         "name": "Mirror Temple B - Central Chamber Key 1",
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "sections": [
             {
                 "access_rules": []
@@ -10,12 +13,16 @@
             {
                 "map": "5b-2",
                 "x": 967,
-                "y": 1495
+                "y": 1495,
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Mirror Temple B - Central Chamber Key 2",
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "sections": [
             {
                 "access_rules": []
@@ -25,7 +32,8 @@
             {
                 "map": "5b-2",
                 "x": 791,
-                "y": 1495
+                "y": 1495,
+                "shape": "trapezoid"
             }
         ]
     }
