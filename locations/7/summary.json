@@ -693,6 +693,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "The Summit A - 500 M",
+                        "ref": "The Summit A - 500 M/"
+                    },
+                    {
                         "name": "The Summit A - Room b-00",
                         "ref": "The Summit A - Room b-00/"
                     },
@@ -764,6 +768,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "The Summit A - 1000 M",
+                        "ref": "The Summit A - 1000 M/"
+                    },
+                    {
                         "name": "The Summit A - Room c-00",
                         "ref": "The Summit A - Room c-00/"
                     },
@@ -834,6 +842,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "The Summit A - 1500 M",
+                        "ref": "The Summit A - 1500 M/"
+                    },
                     {
                         "name": "The Summit A - Room d-00",
                         "ref": "The Summit A - Room d-00/"
@@ -922,6 +934,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "The Summit A - 2000 M",
+                        "ref": "The Summit A - 2000 M/"
+                    },
+                    {
                         "name": "The Summit A - Room e-00b",
                         "ref": "The Summit A - Room e-00b/"
                     },
@@ -1009,6 +1025,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "The Summit A - 2500 M",
+                        "ref": "The Summit A - 2500 M/"
+                    },
+                    {
                         "name": "The Summit A - Room f-00",
                         "ref": "The Summit A - Room f-00/"
                     },
@@ -1092,6 +1112,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "The Summit A - 3000 M",
+                        "ref": "The Summit A - 3000 M/"
+                    },
+                    {
                         "name": "The Summit A - Room g-00",
                         "ref": "The Summit A - Room g-00/"
                     },
@@ -1158,6 +1182,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "The Summit B - 500 M",
+                        "ref": "The Summit B - 500 M/"
+                    },
+                    {
                         "name": "The Summit B - Room b-00",
                         "ref": "The Summit B - Room b-00/"
                     },
@@ -1188,6 +1216,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "The Summit B - 1000 M",
+                        "ref": "The Summit B - 1000 M/"
+                    },
                     {
                         "name": "The Summit B - Room c-01",
                         "ref": "The Summit B - Room c-01/"
@@ -1220,6 +1252,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "The Summit B - 1500 M",
+                        "ref": "The Summit B - 1500 M/"
+                    },
+                    {
                         "name": "The Summit B - Room d-00",
                         "ref": "The Summit B - Room d-00/"
                     },
@@ -1250,6 +1286,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "The Summit B - 2000 M",
+                        "ref": "The Summit B - 2000 M/"
+                    },
                     {
                         "name": "The Summit B - Room e-00",
                         "ref": "The Summit B - Room e-00/"
@@ -1282,6 +1322,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "The Summit B - 2500 M",
+                        "ref": "The Summit B - 2500 M/"
+                    },
+                    {
                         "name": "The Summit B - Room f-00",
                         "ref": "The Summit B - Room f-00/"
                     },
@@ -1312,6 +1356,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "The Summit B - 3000 M",
+                        "ref": "The Summit B - 3000 M/"
+                    },
                     {
                         "name": "The Summit B - Room g-00",
                         "ref": "The Summit B - Room g-00/"

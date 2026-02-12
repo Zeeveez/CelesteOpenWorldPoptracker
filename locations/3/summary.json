@@ -644,6 +644,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Celestial Resort A - Huge Mess",
+                        "ref": "Celestial Resort A - Huge Mess/"
+                    },
+                    {
                         "name": "Celestial Resort A - Room 08-a",
                         "ref": "Celestial Resort A - Room 08-a/"
                     },
@@ -751,6 +755,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Celestial Resort A - Elevator Shaft",
+                        "ref": "Celestial Resort A - Elevator Shaft/"
+                    },
+                    {
                         "name": "Celestial Resort A - Room 09-d",
                         "ref": "Celestial Resort A - Room 09-d/"
                     },
@@ -801,6 +809,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Celestial Resort A - Presidential Suite",
+                        "ref": "Celestial Resort A - Presidential Suite/"
+                    },
                     {
                         "name": "Celestial Resort A - Room 00-d",
                         "ref": "Celestial Resort A - Room 00-d/"
@@ -900,6 +912,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Celestial Resort B - Staff Quarters",
+                        "ref": "Celestial Resort B - Staff Quarters/"
+                    },
+                    {
                         "name": "Celestial Resort B - Room 06",
                         "ref": "Celestial Resort B - Room 06/"
                     },
@@ -935,6 +951,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Celestial Resort B - Library",
+                        "ref": "Celestial Resort B - Library/"
+                    },
+                    {
                         "name": "Celestial Resort B - Room 11",
                         "ref": "Celestial Resort B - Room 11/"
                     },
@@ -969,6 +989,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Celestial Resort B - Rooftop",
+                        "ref": "Celestial Resort B - Rooftop/"
+                    },
                     {
                         "name": "Celestial Resort B - Room 16",
                         "ref": "Celestial Resort B - Room 16/"

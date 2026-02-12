@@ -233,6 +233,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Farewell - Singular",
+                        "ref": "Farewell - Singular/"
+                    },
+                    {
                         "name": "Farewell - Room a-00",
                         "ref": "Farewell - Room a-00/"
                     },
@@ -303,6 +307,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Farewell - Power Source",
+                        "ref": "Farewell - Power Source/"
+                    },
                     {
                         "name": "Farewell - Room c-00",
                         "ref": "Farewell - Room c-00/"
@@ -379,6 +387,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Farewell - Remembered",
+                        "ref": "Farewell - Remembered/"
+                    },
+                    {
                         "name": "Farewell - Room e-00z",
                         "ref": "Farewell - Room e-00z/"
                     },
@@ -445,6 +457,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Farewell - Event Horizon",
+                        "ref": "Farewell - Event Horizon/"
+                    },
                     {
                         "name": "Farewell - Room f-door",
                         "ref": "Farewell - Room f-door/"
@@ -533,6 +549,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Farewell - Determination",
+                        "ref": "Farewell - Determination/"
+                    },
+                    {
                         "name": "Farewell - Room h-00b",
                         "ref": "Farewell - Room h-00b/"
                     },
@@ -608,6 +628,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Farewell - Stubbornness",
+                        "ref": "Farewell - Stubbornness/"
+                    },
+                    {
                         "name": "Farewell - Room i-00",
                         "ref": "Farewell - Room i-00/"
                     },
@@ -650,6 +674,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Farewell - Reconciliation",
+                        "ref": "Farewell - Reconciliation/"
+                    },
                     {
                         "name": "Farewell - Room j-00",
                         "ref": "Farewell - Room j-00/"
@@ -737,6 +765,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Farewell - Farewell",
+                        "ref": "Farewell - Farewell/"
+                    },
                     {
                         "name": "Farewell - Room j-16",
                         "ref": "Farewell - Room j-16/"

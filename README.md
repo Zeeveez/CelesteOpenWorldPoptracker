@@ -31,7 +31,6 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 		- Gems
 		- Cars
 		- Binos
-		- Checkpoints
 	- Go-Mode
 - Logic:
 	- Lots to do here, there is a form of logic for:

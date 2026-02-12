@@ -294,6 +294,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Core A - Into the Core",
+                        "ref": "Core A - Into the Core/"
+                    },
+                    {
                         "name": "Core A - Room a-00",
                         "ref": "Core A - Room a-00/"
                     },
@@ -361,6 +365,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Core A - Hot and Cold",
+                        "ref": "Core A - Hot and Cold/"
+                    },
+                    {
                         "name": "Core A - Room c-00",
                         "ref": "Core A - Room c-00/"
                     },
@@ -403,6 +411,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Core A - Heart of the Mountain",
+                        "ref": "Core A - Heart of the Mountain/"
+                    },
                     {
                         "name": "Core A - Room d-00",
                         "ref": "Core A - Room d-00/"
@@ -502,6 +514,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Core B - Into the Core",
+                        "ref": "Core B - Into the Core/"
+                    },
+                    {
                         "name": "Core B - Room a-00",
                         "ref": "Core B - Room a-00/"
                     },
@@ -541,6 +557,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Core B - Burning or Freezing",
+                        "ref": "Core B - Burning or Freezing/"
+                    },
+                    {
                         "name": "Core B - Room b-00",
                         "ref": "Core B - Room b-00/"
                     },
@@ -579,6 +599,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Core B - Heartbeat",
+                        "ref": "Core B - Heartbeat/"
+                    },
                     {
                         "name": "Core B - Room c-01",
                         "ref": "Core B - Room c-01/"

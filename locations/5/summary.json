@@ -581,6 +581,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Mirror Temple A - Depths",
+                        "ref": "Mirror Temple A - Depths/"
+                    },
+                    {
                         "name": "Mirror Temple A - Room b-00",
                         "ref": "Mirror Temple A - Room b-00/"
                     },
@@ -696,6 +700,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Mirror Temple A - Unravelling",
+                        "ref": "Mirror Temple A - Unravelling/"
+                    },
+                    {
                         "name": "Mirror Temple A - Room void",
                         "ref": "Mirror Temple A - Room void/"
                     },
@@ -762,6 +770,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Mirror Temple A - Search",
+                        "ref": "Mirror Temple A - Search/"
+                    },
                     {
                         "name": "Mirror Temple A - Room d-00",
                         "ref": "Mirror Temple A - Room d-00/"
@@ -837,6 +849,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Mirror Temple A - Rescue",
+                        "ref": "Mirror Temple A - Rescue/"
+                    },
                     {
                         "name": "Mirror Temple A - Room e-00",
                         "ref": "Mirror Temple A - Room e-00/"
@@ -932,6 +948,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Mirror Temple B - Central Chamber",
+                        "ref": "Mirror Temple B - Central Chamber/"
+                    },
+                    {
                         "name": "Mirror Temple B - Room b-00",
                         "ref": "Mirror Temple B - Room b-00/"
                     },
@@ -987,6 +1007,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Mirror Temple B - Through the Mirror",
+                        "ref": "Mirror Temple B - Through the Mirror/"
+                    },
+                    {
                         "name": "Mirror Temple B - Room c-00",
                         "ref": "Mirror Temple B - Room c-00/"
                     },
@@ -1021,6 +1045,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Mirror Temple B - Mix Master",
+                        "ref": "Mirror Temple B - Mix Master/"
+                    },
                     {
                         "name": "Mirror Temple B - Room d-00",
                         "ref": "Mirror Temple B - Room d-00/"

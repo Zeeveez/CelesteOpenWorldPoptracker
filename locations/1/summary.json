@@ -417,6 +417,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Forsaken City A - Crossing",
+                        "ref": "Forsaken City A - Crossing/"
+                    },
+                    {
                         "name": "Forsaken City A - Room 6",
                         "ref": "Forsaken City A - Room 6/"
                     },
@@ -503,6 +507,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Forsaken City A - Chasm",
+                        "ref": "Forsaken City A - Chasm/"
+                    },
                     {
                         "name": "Forsaken City A - Room 9b",
                         "ref": "Forsaken City A - Room 9b/"
@@ -602,6 +610,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Forsaken City B - Contraption",
+                        "ref": "Forsaken City B - Contraption/"
+                    },
+                    {
                         "name": "Forsaken City B - Room 04",
                         "ref": "Forsaken City B - Room 04/"
                     },
@@ -636,6 +648,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Forsaken City B - Scrap Pit",
+                        "ref": "Forsaken City B - Scrap Pit/"
+                    },
                     {
                         "name": "Forsaken City B - Room 08",
                         "ref": "Forsaken City B - Room 08/"

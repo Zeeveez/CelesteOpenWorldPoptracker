@@ -437,6 +437,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Old Site A - Intervention",
+                        "ref": "Old Site A - Intervention/"
+                    },
+                    {
                         "name": "Old Site A - Room 3",
                         "ref": "Old Site A - Room 3/"
                     },
@@ -515,6 +519,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Old Site A - Awake",
+                        "ref": "Old Site A - Awake/"
+                    },
                     {
                         "name": "Old Site A - Room end_0",
                         "ref": "Old Site A - Room end_0/"
@@ -618,6 +626,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Old Site B - Combination Lock",
+                        "ref": "Old Site B - Combination Lock/"
+                    },
+                    {
                         "name": "Old Site B - Room 03",
                         "ref": "Old Site B - Room 03/"
                     },
@@ -652,6 +664,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Old Site B - Dream Altar",
+                        "ref": "Old Site B - Dream Altar/"
+                    },
                     {
                         "name": "Old Site B - Room 08b",
                         "ref": "Old Site B - Room 08b/"

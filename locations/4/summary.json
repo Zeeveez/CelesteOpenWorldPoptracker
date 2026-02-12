@@ -523,6 +523,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Golden Ridge A - Shrine",
+                        "ref": "Golden Ridge A - Shrine/"
+                    },
+                    {
                         "name": "Golden Ridge A - Room b-00",
                         "ref": "Golden Ridge A - Room b-00/"
                     },
@@ -586,6 +590,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Golden Ridge A - Old Trail",
+                        "ref": "Golden Ridge A - Old Trail/"
+                    },
+                    {
                         "name": "Golden Ridge A - Room c-00",
                         "ref": "Golden Ridge A - Room c-00/"
                     },
@@ -644,6 +652,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Golden Ridge A - Cliff Face",
+                        "ref": "Golden Ridge A - Cliff Face/"
+                    },
                     {
                         "name": "Golden Ridge A - Room d-00",
                         "ref": "Golden Ridge A - Room d-00/"
@@ -743,6 +755,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Golden Ridge B - Stepping Stones",
+                        "ref": "Golden Ridge B - Stepping Stones/"
+                    },
+                    {
                         "name": "Golden Ridge B - Room b-00",
                         "ref": "Golden Ridge B - Room b-00/"
                     },
@@ -778,6 +794,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Golden Ridge B - Gusty Canyon",
+                        "ref": "Golden Ridge B - Gusty Canyon/"
+                    },
+                    {
                         "name": "Golden Ridge B - Room c-00",
                         "ref": "Golden Ridge B - Room c-00/"
                     },
@@ -812,6 +832,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Golden Ridge B - Eye of the Storm",
+                        "ref": "Golden Ridge B - Eye of the Storm/"
+                    },
                     {
                         "name": "Golden Ridge B - Room d-00",
                         "ref": "Golden Ridge B - Room d-00/"

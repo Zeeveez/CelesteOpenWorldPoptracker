@@ -190,6 +190,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reflection A - Hollows",
+                        "ref": "Reflection A - Hollows/"
+                    },
+                    {
                         "name": "Reflection A - Room 04",
                         "ref": "Reflection A - Room 04/"
                     },
@@ -313,6 +317,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reflection A - Reflection",
+                        "ref": "Reflection A - Reflection/"
+                    },
+                    {
                         "name": "Reflection A - Room b-00",
                         "ref": "Reflection A - Room b-00/"
                     },
@@ -355,6 +363,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Reflection A - Rock Bottom",
+                        "ref": "Reflection A - Rock Bottom/"
+                    },
                     {
                         "name": "Reflection A - Room boss-00",
                         "ref": "Reflection A - Room boss-00/"
@@ -455,6 +467,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reflection A - Resolution",
+                        "ref": "Reflection A - Resolution/"
+                    },
+                    {
                         "name": "Reflection A - Room after-00",
                         "ref": "Reflection A - Room after-00/"
                     },
@@ -525,6 +541,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reflection B - Reflection",
+                        "ref": "Reflection B - Reflection/"
+                    },
+                    {
                         "name": "Reflection B - Room b-00",
                         "ref": "Reflection B - Room b-00/"
                     },
@@ -580,6 +600,10 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reflection B - Rock Bottom",
+                        "ref": "Reflection B - Rock Bottom/"
+                    },
+                    {
                         "name": "Reflection B - Room c-00",
                         "ref": "Reflection B - Room c-00/"
                     },
@@ -614,6 +638,10 @@
                     }
                 ],
                 "sections": [
+                    {
+                        "name": "Reflection B - Reprieve",
+                        "ref": "Reflection B - Reprieve/"
+                    },
                     {
                         "name": "Reflection B - Room d-00",
                         "ref": "Reflection B - Room d-00/"
