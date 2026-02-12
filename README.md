@@ -29,8 +29,6 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 	- Summaries:
 		- Keys
 		- Gems
-		- B-Side Binos
-		- C-Side Binos
 	- Go-Mode
 - Logic:
 	- Lots to do here, there is a form of logic for:

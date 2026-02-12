@@ -782,7 +782,16 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Reflection B - Room a-02 Binoculars",
+                        "ref": "Reflection B - Room a-02 Binoculars/"
+                    },
+                    {
+                        "name": "Reflection B - Room a-06 Binoculars",
+                        "ref": "Reflection B - Room a-06 Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Reflection B - Checkpoint 2 Other",
@@ -838,7 +847,16 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Reflection C - Room 02 Binoculars 1",
+                        "ref": "Reflection C - Room 02 Binoculars 1/"
+                    },
+                    {
+                        "name": "Reflection C - Room 02 Binoculars 2",
+                        "ref": "Reflection C - Room 02 Binoculars 2/"
+                    }
+                ]
             }
         ]
     }

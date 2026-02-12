@@ -808,7 +808,16 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Old Site B - Room 10 Binoculars",
+                        "ref": "Old Site B - Room 10 Binoculars/"
+                    },
+                    {
+                        "name": "Old Site B - Room 11 Binoculars",
+                        "ref": "Old Site B - Room 11 Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Old Site C - Checkpoint 1 Other",
@@ -822,7 +831,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Old Site C - Room 02 Binoculars",
+                        "ref": "Old Site C - Room 02 Binoculars/"
+                    }
+                ]
             }
         ]
     }

@@ -801,7 +801,16 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Core C - Room 01 Binoculars",
+                        "ref": "Core C - Room 01 Binoculars/"
+                    },
+                    {
+                        "name": "Core C - Room 02 Binoculars",
+                        "ref": "Core C - Room 02 Binoculars/"
+                    }
+                ]
             }
         ]
     }

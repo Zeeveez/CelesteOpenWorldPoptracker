@@ -1564,7 +1564,16 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "The Summit B - Room b-01 Binoculars",
+                        "ref": "The Summit B - Room b-01 Binoculars/"
+                    },
+                    {
+                        "name": "The Summit B - Room b-02 Binoculars",
+                        "ref": "The Summit B - Room b-02 Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "The Summit B - Checkpoint 3 Other",
@@ -1648,7 +1657,16 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "The Summit C - Room 01 Binoculars",
+                        "ref": "The Summit C - Room 01 Binoculars/"
+                    },
+                    {
+                        "name": "The Summit C - Room 03 Binoculars",
+                        "ref": "The Summit C - Room 03 Binoculars/"
+                    }
+                ]
             }
         ]
     }

@@ -1118,7 +1118,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Room back Binoculars",
+                        "ref": "Celestial Resort B - Room back Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Celestial Resort B - Checkpoint 2 Other",
@@ -1146,7 +1151,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Room 12 Binoculars",
+                        "ref": "Celestial Resort B - Room 12 Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Celestial Resort B - Checkpoint 4 Other",
@@ -1174,7 +1184,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Celestial Resort C - Room 02 Binoculars",
+                        "ref": "Celestial Resort C - Room 02 Binoculars/"
+                    }
+                ]
             }
         ]
     }

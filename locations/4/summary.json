@@ -982,7 +982,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Room b-02 Binoculars",
+                        "ref": "Golden Ridge B - Room b-02 Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Golden Ridge B - Checkpoint 3 Other",
@@ -996,7 +1001,12 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Room c-03 Binoculars",
+                        "ref": "Golden Ridge B - Room c-03 Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Golden Ridge B - Checkpoint 4 Other",
@@ -1010,7 +1020,16 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Room d-01 Binoculars",
+                        "ref": "Golden Ridge B - Room d-01 Binoculars/"
+                    },
+                    {
+                        "name": "Golden Ridge B - Room end Binoculars",
+                        "ref": "Golden Ridge B - Room end Binoculars/"
+                    }
+                ]
             },
             {
                 "name": "Golden Ridge C - Checkpoint 1 Other",
@@ -1024,7 +1043,16 @@
                         "border_thickness": 2
                     }
                 ],
-                "sections": []
+                "sections": [
+                    {
+                        "name": "Golden Ridge C - Room 01 Binoculars",
+                        "ref": "Golden Ridge C - Room 01 Binoculars/"
+                    },
+                    {
+                        "name": "Golden Ridge C - Room 02 Binoculars",
+                        "ref": "Golden Ridge C - Room 02 Binoculars/"
+                    }
+                ]
             }
         ]
     }
