@@ -31,6 +31,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 		- Gems
 	- Go-Mode
 - Logic:
+	- Farewell Bino Room Access
 	- Lots to do here, there is a form of logic for:
 		- Room traversal (1A, 2A, 3A, 4A, 5A)
 		- Berry collection (1A, 2A, 3A, 4A, 5A)
