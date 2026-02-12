@@ -1,3 +1,74 @@
 [
-
+    {
+        "name": "The Summit B - 500 M",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
+        "map_locations": [
+            {
+                "map": "7b-2",
+                "x": 227,
+                "y": 2661
+            }
+        ]
+    },
+    {
+        "name": "The Summit B - 1000 M",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
+        "map_locations": [
+            {
+                "map": "7b-3",
+                "x": 126,
+                "y": 2248
+            }
+        ]
+    },
+    {
+        "name": "The Summit B - 1500 M",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
+        "map_locations": [
+            {
+                "map": "7b-4",
+                "x": 150,
+                "y": 1205
+            }
+        ]
+    },
+    {
+        "name": "The Summit B - 2000 M",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
+        "map_locations": [
+            {
+                "map": "7b-5",
+                "x": 186,
+                "y": 1452
+            }
+        ]
+    },
+    {
+        "name": "The Summit B - 2500 M",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
+        "map_locations": [
+            {
+                "map": "7b-6",
+                "x": 114,
+                "y": 1900
+            }
+        ]
+    },
+    {
+        "name": "The Summit B - 3000 M",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
+        "map_locations": [
+            {
+                "map": "7b-7",
+                "x": 251,
+                "y": 7021
+            }
+        ]
+    }
 ]

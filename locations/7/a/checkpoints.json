@@ -1,3 +1,68 @@
 [
-
+    {
+        "name": "The Summit A - 500 M",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - " ] } ],
+        "map_locations": [
+            {
+                "map": "7a-2",
+                "x": 171,
+                "y": 2509
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - 1000 M",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - " ] } ],
+        "map_locations": [
+            {
+                "map": "7a-3",
+                "x": 127,
+                "y": 2804
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - 1500 M",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - " ] } ],
+        "map_locations": [
+            {
+                "map": "7a-4",
+                "x": 159,
+                "y": 1189
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - 2000 M",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - " ] } ],
+        "map_locations": [
+            {
+                "map": "7a-5",
+                "x": 914,
+                "y": 2989
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - 2500 M",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - " ] } ],
+        "map_locations": [
+            {
+                "map": "7a-6",
+                "x": 451,
+                "y": 1981
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - 3000 M",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - " ] } ],
+        "map_locations": [
+            {
+                "map": "7a-7",
+                "x": 611,
+                "y": 12525
+            }
+        ]
+    }
 ]

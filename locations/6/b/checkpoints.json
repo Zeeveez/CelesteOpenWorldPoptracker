@@ -1,3 +1,38 @@
 [
-
+    {
+        "name": "Reflection B - Reflection",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection B - " ] } ],
+        "map_locations": [
+            {
+                "map": "6b-2",
+                "x": 47,
+                "y": 69
+            }
+        ]
+    },
+    {
+        "name": "Reflection B - Rock Bottom",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection B - " ] } ],
+        "map_locations": [
+            {
+                "map": "6b-3",
+                "x": 31,
+                "y": 112
+            }
+        ]
+    },
+    {
+        "name": "Reflection B - Reprieve",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection B - " ] } ],
+        "map_locations": [
+            {
+                "map": "6b-4",
+                "x": 31,
+                "y": 257
+            }
+        ]
+    }
 ]

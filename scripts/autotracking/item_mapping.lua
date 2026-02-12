@@ -194,24 +194,3 @@ ITEM_MAPPING = {
 	[CELESTE_BASE + GEM_BASE + 0x04] = { { "thesummita-gem5", "toggle" } },
 	[CELESTE_BASE + GEM_BASE + 0x05] = { { "thesummita-gem6", "toggle" } },
 }
-
-def_settings = {       
-	--["carsanity"] = 0,
-	--["roomsanity"] = 0,
-	--["keysanity"] = 0,
-	--["gemsanity"] = 0,
-	--["binosanity"] = 0,
-	["checkpointsanity"] = 0,
-
-	--["strawberries_required"] = 40,
-	--["require_cassettes"] = 0,
-
-	--["include_b_sides"] = 0,
-	--["include_c_sides"] = 0,
-	--["include_core"] = 0,
-	--["include_farewell"] = 0,
-
-	--["include_goldens"] = 0,
-	--["lock_goal_area"] = 1,
-	--["goal_area"] = "7a",
-}

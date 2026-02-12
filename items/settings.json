@@ -166,5 +166,11 @@
         "type": "toggle",
         "img": "images/icons/binos.png",
         "codes": "binosanity"
+    },
+    {
+        "name": "Checkpointsanity",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "checkpointsanity"
     }
 ]

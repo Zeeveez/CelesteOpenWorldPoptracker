@@ -20,6 +20,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 	- Gems
 	- Cars
 	- Binos
+	- Checkpoints
 
 
 ## TODO
@@ -30,7 +31,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 		- Gems
 		- Cars
 		- Binos
-	- Checkpoints
+		- Checkpoints
 	- Go-Mode
 - Logic:
 	- Lots to do here, there is a form of logic for:
@@ -42,7 +43,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 		- It's not perfect as I left it alone during a fair bit of refactoring
 		- The logic is largely manually implemented and includes some outright awful tech in some places (cpops for example)
 	- Recommended to use only as a tracker for now unless you're really confident, in which case, feel free to use it for 1A-5A with the caveat that there may be mistakes, especially in 5A-Search
-
+	- Difficulty selection
 
 ## Notes
 

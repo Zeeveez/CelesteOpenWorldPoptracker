@@ -1,3 +1,38 @@
 [
-
+    {
+        "name": "Celestial Resort B - Staff Quarters",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort B - " ] } ],
+        "map_locations": [
+            {
+                "map": "3b-2",
+                "x": 29,
+                "y": 917
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort B - Library",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort B - " ] } ],
+        "map_locations": [
+            {
+                "map": "3b-3",
+                "x": 46,
+                "y": 185
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort B - Rooftop",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort B - " ] } ],
+        "map_locations": [
+            {
+                "map": "3b-4",
+                "x": 74,
+                "y": 308
+            }
+        ]
+    }
 ]

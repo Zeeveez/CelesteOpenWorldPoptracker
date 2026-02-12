@@ -1,3 +1,38 @@
 [
-
+    {
+        "name": "Core A - Into the Core",
+        "visibility_rules": [ "include_core" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Core A - " ] } ],
+        "map_locations": [
+            {
+                "map": "8a-2",
+                "x": 19,
+                "y": 1833
+            }
+        ]
+    },
+    {
+        "name": "Core A - Hot and Cold",
+        "visibility_rules": [ "include_core" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Core A - " ] } ],
+        "map_locations": [
+            {
+                "map": "8a-3",
+                "x": 59,
+                "y": 325
+            }
+        ]
+    },
+    {
+        "name": "Core A - Heart of the Mountain",
+        "visibility_rules": [ "include_core" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Core A - " ] } ],
+        "map_locations": [
+            {
+                "map": "8a-4",
+                "x": 43,
+                "y": 5477
+            }
+        ]
+    }
 ]

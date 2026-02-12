@@ -318,6 +318,13 @@ function onClear(slot_data)
             end
         end
         
+        if slot_data['carsanity'] then
+            local obj = Tracker:FindObjectForCode("carsanity")
+            local active = slot_data['carsanity'] == 1
+            if obj then
+                obj.Active = active
+            end
+        end
         if slot_data['roomsanity'] then
             local obj = Tracker:FindObjectForCode("roomsanity")
             local active = slot_data['roomsanity'] == 1
@@ -335,6 +342,20 @@ function onClear(slot_data)
         if slot_data['gemsanity'] then
             local obj = Tracker:FindObjectForCode("gemsanity")
             local active = slot_data['gemsanity'] == 1
+            if obj then
+                obj.Active = active
+            end
+        end
+        if slot_data['binosanity'] then
+            local obj = Tracker:FindObjectForCode("binosanity")
+            local active = slot_data['binosanity'] == 1
+            if obj then
+                obj.Active = active
+            end
+        end
+        if slot_data['checkpointsanity'] then
+            local obj = Tracker:FindObjectForCode("checkpointsanity")
+            local active = slot_data['checkpointsanity'] == 1
             if obj then
                 obj.Active = active
             end

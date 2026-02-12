@@ -1,3 +1,46 @@
 [
-
+    {
+        "name": "Mirror Temple A - Depths",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Mirror Temple A - " ] } ],
+        "map_locations": [
+            {
+                "map": "5a-2",
+                "x": 50,
+                "y": 1405
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Unravelling",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Mirror Temple A - " ] } ],
+        "map_locations": [
+            {
+                "map": "5a-3",
+                "x": 159,
+                "y": 165
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Search",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Mirror Temple A - " ] } ],
+        "map_locations": [
+            {
+                "map": "5a-4",
+                "x": 1295,
+                "y": 1205
+            }
+        ]
+    },
+    {
+        "name": "Mirror Temple A - Rescue",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Mirror Temple A - " ] } ],
+        "map_locations": [
+            {
+                "map": "5a-5",
+                "x": 159,
+                "y": 201
+            }
+        ]
+    }
 ]

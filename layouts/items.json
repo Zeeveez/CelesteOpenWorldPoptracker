@@ -127,23 +127,27 @@
                         "goal_area",
                         "require_cassettes",
                         "difficulty",
-                        "lock_goal_area"
+                        "lock_goal_area",
+                        ""
                     ],
                     [
                         "include_b_sides",
                         "include_c_sides",
                         "include_core",
                         "include_farewell",
-                        "include_goldens"
+                        "include_goldens",
+                        ""
                     ],
                     [
                         "carsanity",
                         "roomsanity",
                         "keysanity",
                         "gemsanity",
-                        "binosanity"
+                        "binosanity",
+                        "checkpointsanity"
                     ],
                     [
+                        "",
                         "",
                         "",
                         "",

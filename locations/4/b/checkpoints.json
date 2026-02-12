@@ -1,3 +1,38 @@
 [
-
+    {
+        "name": "Golden Ridge B - Stepping Stones",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Golden Ridge B - " ] } ],
+        "map_locations": [
+            {
+                "map": "4b-2",
+                "x": 35,
+                "y": 1485
+            }
+        ]
+    },
+    {
+        "name": "Golden Ridge B - Gusty Canyon",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Golden Ridge B - " ] } ],
+        "map_locations": [
+            {
+                "map": "4b-3",
+                "x": 43,
+                "y": 1132
+            }
+        ]
+    },
+    {
+        "name": "Golden Ridge B - Eye of the Storm",
+        "visibility_rules": [ "include_b_sides" ],
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Golden Ridge B - " ] } ],
+        "map_locations": [
+            {
+                "map": "4b-4",
+                "x": 42,
+                "y": 181
+            }
+        ]
+    }
 ]

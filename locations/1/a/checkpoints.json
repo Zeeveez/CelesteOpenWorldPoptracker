@@ -1,3 +1,24 @@
 [
-
+    {
+        "name": "Forsaken City A - Crossing",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - " ] } ],
+        "map_locations": [
+            {
+                "map": "1a-2",
+                "x": 671,
+                "y": 1029
+            }
+        ]
+    },
+    {
+        "name": "Forsaken City A - Chasm",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Forsaken City A - " ] } ],
+        "map_locations": [
+            {
+                "map": "1a-3",
+                "x": 882,
+                "y": 1153
+            }
+        ]
+    }
 ]

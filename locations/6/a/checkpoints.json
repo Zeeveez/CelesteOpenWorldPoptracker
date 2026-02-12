@@ -1,3 +1,46 @@
 [
-
+    {
+        "name": "Reflection A - Hollows",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection A - " ] } ],
+        "map_locations": [
+            {
+                "map": "6a-3",
+                "x": 1271,
+                "y": 1161
+            }
+        ]
+    },
+    {
+        "name": "Reflection A - Reflection",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection A - " ] } ],
+        "map_locations": [
+            {
+                "map": "6a-4",
+                "x": 191,
+                "y": 545
+            }
+        ]
+    },
+    {
+        "name": "Reflection A - Rock Bottom",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection A - " ] } ],
+        "map_locations": [
+            {
+                "map": "6a-5",
+                "x": 35,
+                "y": 125
+            }
+        ]
+    },
+    {
+        "name": "Reflection A - Resolution",
+        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection A - " ] } ],
+        "map_locations": [
+            {
+                "map": "6a-6",
+                "x": 167,
+                "y": 2581
+            }
+        ]
+    }
 ]
