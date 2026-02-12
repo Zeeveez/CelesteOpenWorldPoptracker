@@ -15,11 +15,11 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 	- Cassettes
 	- Crystal hearts
 	- Level clears
-	- Rooms (roomsanity)
+	- Rooms (roomsanity only)
 	- Keys
 	- Gems
-	- Cars
-	- Binos
+	- Cars (carsanity only)
+	- Binos (binosanity only)
 	- Checkpoints
 
 
@@ -46,6 +46,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 
 ## Notes
 
+- For Keys, Gems, and Checkpoints, it's not strictly necessary to have tracking without their -sanity variants enabled; however as they still serve a purpose and are always present as check locations (that just reward their own item), there is no harm in always showing them.
 - Room adjustments:
 	- Strictly speaking void is a room in 5A-2, however it fits more neatly into the map graphics in 5A-3, so that is where it's handled here
 	- 9A-8 (Reconciliation) is so wide that it had to be sliced; rows are traversed left to right, top to bottom
