@@ -42,7 +42,7 @@
                     {
                         "map": "summary",
                         "x": 205,
-                        "y": 480,
+                        "y": 495,
                         "size": 25
                     }
                 ],
@@ -95,7 +95,7 @@
                     {
                         "map": "summary",
                         "x": 205,
-                        "y": 450,
+                        "y": 465,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -700,7 +700,7 @@
                     {
                         "map": "summary",
                         "x": 205,
-                        "y": 510,
+                        "y": 525,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -761,6 +761,62 @@
                         "map": "summary",
                         "x": 220,
                         "y": 295,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Old Site B - Checkpoint 1 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 190,
+                        "y": 440,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Old Site B - Checkpoint 2 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 440,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Old Site B - Checkpoint 3 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 220,
+                        "y": 440,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": []
+            },
+            {
+                "name": "Old Site C - Checkpoint 1 Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 205,
+                        "y": 540,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
