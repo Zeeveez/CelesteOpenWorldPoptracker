@@ -58,7 +58,7 @@
     {
         "name": "Core A - Car",
         "visibility_rules": [
-            "carsanity"
+            "include_core,carsanity"
         ],
         "sections": [
             {

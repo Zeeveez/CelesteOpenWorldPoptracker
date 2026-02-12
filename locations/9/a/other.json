@@ -26,7 +26,7 @@
     {
         "name": "Farewell - Secret Car",
         "visibility_rules": [
-            "carsanity"
+            "include_farewell,carsanity"
         ],
         "sections": [
             {
@@ -44,7 +44,7 @@
     {
         "name": "Farewell - Internet Car",
         "visibility_rules": [
-            "carsanity"
+            "include_farewell,carsanity"
         ],
         "sections": [
             {
