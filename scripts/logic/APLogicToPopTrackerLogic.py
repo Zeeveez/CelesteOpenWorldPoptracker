@@ -1,5 +1,4 @@
 import json
-import pprint
 
 def load_raw_logic(path):
     with open(path) as f:
@@ -80,10 +79,14 @@ logic = {}
 for level in raw_logic['levels']:
     process_level(logic, level)
 
-# Manual Logic
-logic["Core A - Crystal Heart"] = { "Core A - Level Clear": [] }
-logic["Reflection A - Room after-02"] = { "Reflection A - Level Clear": [] }
-logic["Farewell - Room end-golden_bottom"] = { "Farewell - Level Clear": [] }
+import csv
+with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        if row['access']:
+            add_connection(logic, row['from'], row['to'], row['access'].split(','))
+        else:
+            add_connection(logic, row['from'], row['to'])
 
 with open('./scripts/logic/room_data.lua','w') as f:
     f.write('location_access_logic = {\n')
