@@ -30,12 +30,12 @@
                 "item_size": "3",
                 "rows": [
                     [ "forsakencitya-icon", "oldsitea-icon", "celestialresorta-icon", "goldenridgea-icon", "mirrortemplea-icon", "reflectiona-icon", "thesummita-icon", "corea-icon", "farewell-icon", "" ],
-                    [ "springs", "dreamblocks", "sinkingplatforms", "movingplatforms", "swapblocks", "feathers", "", "fireandiceballs", "doubledashrefills", "pinkcassetteblocks" ],
-                    [ "trafficblocks", "coins", "", "blueclouds", "redboosters", "bumpers", "", "coreblocks", "pufferfish", "bluecassetteblocks" ],
-                    [ "dashrefills", "strawberryseeds", "", "pinkclouds", "dashswitches", "kevins", "", "coretoggles", "jellyfish", "yellowcassetteblocks" ],
-                    [ "", "", "", "blueboosters", "seekers", "badelineboosters", "", "", "breakerboxes", "greencassetteblocks" ],
-                    [ "", "", "", "moveblocks", "theocrystal", "", "", "", "bird", "" ],
-                    [ "", "", "", "whiteblock", "torch", "", "", "", "", "" ]
+                    [ "springs", "dreamblocks", "sinkingplatforms", "blueclouds", "swapblocks", "feathers", "", "fireandiceballs", "doubledashrefills", "pinkcassetteblocks" ],
+                    [ "trafficblocks", "coins", "movingplatforms", "pinkclouds", "redboosters", "bumpers", "", "coreblocks", "pufferfish", "bluecassetteblocks" ],
+                    [ "dashrefills", "strawberryseeds", "", "blueboosters", "dashswitches", "kevins", "", "coretoggles", "jellyfish", "yellowcassetteblocks" ],
+                    [ "", "", "", "moveblocks", "seekers", "badelineboosters", "", "", "breakerboxes", "greencassetteblocks" ],
+                    [ "", "", "", "whiteblock", "theocrystal", "", "", "", "bird", "" ],
+                    [ "", "", "", "", "torch", "", "", "", "", "" ]
                 ]
             }
         ]

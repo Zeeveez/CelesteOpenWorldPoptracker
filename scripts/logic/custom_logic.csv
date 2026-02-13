@@ -1,4 +1,5 @@
-from,to,access
-Core A - Level Clear,Core A - Crystal Heart,
-Reflection A - Level Clear,Reflection A - Room after-02,
-Farewell - Level Clear,Farewell - Room end-golden_bottom,
+from,to,access,notes
+Core A - Level Clear,Core A - Crystal Heart,,"Level Clear == Crystal Heart"
+Reflection A - Level Clear,Reflection A - Room after-02,,"Room is at end in cutscene"
+Farewell - Level Clear,Farewell - Room end-golden_bottom,,"To access end-golden need to be able to finish"
+Farewell - Crystal Heart?,Farewell - Room f-door_west,,"Source puts post Crystal Heart? as Farewell B, hack in connection between the two"
