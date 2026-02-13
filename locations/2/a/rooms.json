@@ -369,6 +369,13 @@
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
+                "map": "2a-1",
+                "x": 1009,
+                "y": 653,
+                "shape": "diamond",
+                "size": 20
+            },
+            {
                 "map": "2a-2",
                 "x": 722,
                 "y": 1618,

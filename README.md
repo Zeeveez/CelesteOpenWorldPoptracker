@@ -32,9 +32,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 - Logic:
 	- Difficulty selection
 	- Errors in:
-		- 2A (checkpoint 1 berries)
 		- 3A (Huge Mess clutter)
-		- 6A (multi-path section)
 
 ## Notes
 

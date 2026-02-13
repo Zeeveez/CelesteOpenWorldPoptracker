@@ -1514,7 +1514,7 @@
     {
         "name": "Farewell - Room end-golden",
         "sections": [ { "access_rules": [ "$CanAccess|Farewell - Room end-golden" ] } ],
-        "visibility_rules": [ "include_farewell,roomsanity" ],
+        "visibility_rules": [ "include_farewell,roomsanity,include_goldens" ],
         "map_locations": [
             {
                 "map": "9a-9",

@@ -44,6 +44,7 @@ def process_room(logic, level, room):
         if room['checkpoint'] == 'Start':
             # Main entrance rule
             add_connection(logic, f'{level['display_name']} - {room['checkpoint']}', f'{room_display_name}_{room['checkpoint_region']}')
+            add_connection(logic, f'<levelselect>', f'{level['display_name']} - {room['checkpoint']}')
         elif room['checkpoint'] != '':
             # Checkpoint unlock rule
             add_connection(logic, f'{room_display_name}_{room['checkpoint_region']}', f'{level['display_name']} - {room['checkpoint']}')
@@ -66,7 +67,7 @@ def process_inter_room_connections(logic, level, connections):
 
 def process_locations(logic, level_display_name, room_display_name, region_display_name, locations):
     for location in locations:
-        if location['name'] in {'strawberry','binoculars'}:
+        if location['name'].split('_')[0] in {'strawberry','binoculars'}:
             location_name = f'{room_display_name} {location['display_name']}'
         else:
             location_name = f'{level_display_name} - {location['display_name']}'
@@ -81,6 +82,8 @@ for level in raw_logic['levels']:
 
 # Manual Logic
 logic["Core A - Crystal Heart"] = { "Core A - Level Clear": [] }
+logic["Reflection A - Room after-02"] = { "Reflection A - Level Clear": [] }
+logic["Farewell - Room end-golden_bottom"] = { "Farewell - Level Clear": [] }
 
 with open('./scripts/logic/room_data.lua','w') as f:
     f.write('location_access_logic = {\n')

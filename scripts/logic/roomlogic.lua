@@ -26,6 +26,9 @@ end
 function CanAccessLocation(location_name, seen_rooms)
     local access_logic = location_access_logic[location_name]
     if access_logic == nil then
+        if location_name ~= "<levelselect>" then
+            print("No access to "..location_name)
+        end
         return true
     end
     if not seen_rooms[location_name] then
@@ -34,7 +37,7 @@ function CanAccessLocation(location_name, seen_rooms)
         for _, possible_room_requirements in ipairs(access_logic) do
             local previous_room = possible_room_requirements[1]
             local list_of_possible_requirements = possible_room_requirements[2]
-            if CanAccessLocation(previous_room, seen_rooms) and MeetsAnyRequirements(list_of_possible_requirements) then
+            if MeetsAnyRequirements(list_of_possible_requirements) and CanAccessLocation(previous_room, seen_rooms) then
                 return true
             end
         end
