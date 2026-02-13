@@ -20,6 +20,12 @@
         "codes": "badelineboosters"
     },
     {
+        "name": "Bird",
+        "type": "toggle",
+        "img": "images/items/bird.png",
+        "codes": "bird"
+    },
+    {
         "name": "Blue Booster",
         "type": "toggle",
         "img": "images/items/blueboosters.png",
@@ -38,10 +44,28 @@
         "codes": "blueclouds"
     },
     {
+        "name": "Breaker Boxes",
+        "type": "toggle",
+        "img": "images/items/breakerboxes.png",
+        "codes": "breakerboxes"
+    },
+    {
         "name": "Bumper",
         "type": "toggle",
         "img": "images/items/bumpers.png",
         "codes": "bumpers"
+    },
+    {
+        "name": "Core Blocks",
+        "type": "toggle",
+        "img": "images/items/coreblocks.png",
+        "codes": "coreblocks"
+    },
+    {
+        "name": "Core Toggles",
+        "type": "toggle",
+        "img": "images/items/coretoggles.png",
+        "codes": "coretoggles"
     },
     {
         "name": "Dash Refill",
@@ -56,10 +80,22 @@
         "codes": "dashswitches"
     },
     {
+        "name": "Double Dash Refill",
+        "type": "toggle",
+        "img": "images/items/doubledashrefills.png",
+        "codes": "doubledashrefills"
+    },
+    {
         "name": "Dream Block",
         "type": "toggle",
         "img": "images/items/dreamblocks.png",
         "codes": "dreamblocks"
+    },
+    {
+        "name": "Fire and Ice Balls",
+        "type": "toggle",
+        "img": "images/items/fireandiceballs.png",
+        "codes": "fireandiceballs"
     },
     {
         "name": "Sinking Platform",
@@ -72,6 +108,18 @@
         "type": "toggle",
         "img": "images/items/feathers.png",
         "codes": "feathers"
+    },
+    {
+        "name": "Green Cassette Blocks",
+        "type": "toggle",
+        "img": "images/items/greencassetteblocks.png",
+        "codes": "greencassetteblocks"
+    },
+    {
+        "name": "Jellyfish",
+        "type": "toggle",
+        "img": "images/items/jellyfish.png",
+        "codes": "jellyfish"
     },
     {
         "name": "Kevin Block",
@@ -102,6 +150,12 @@
         "type": "toggle",
         "img": "images/items/pinkclouds.png",
         "codes": "pinkclouds"
+    },
+    {
+        "name": "Pufferfish",
+        "type": "toggle",
+        "img": "images/items/pufferfish.png",
+        "codes": "pufferfish"
     },
     {
         "name": "Red Booster",
@@ -162,5 +216,11 @@
         "type": "toggle",
         "img": "images/items/whiteblock.png",
         "codes": "whiteblock"
+    },
+    {
+        "name": "Yellow Cassette Blocks",
+        "type": "toggle",
+        "img": "images/items/yellowcassetteblocks.png",
+        "codes": "yellowcassetteblocks"
     }
 ]

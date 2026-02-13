@@ -9614,7 +9614,7 @@ location_access_logic = {
 	},
 	["Core A - Room b-00_north"] = {
 		{ "Core A - Room b-07b_bottom", {  } },
-		{ "Core A - Room b-00_south", { { 'fireiceballs', 'coretoggles', 'coreblocks', 'dashrefills', 'coins' } } },
+		{ "Core A - Room b-00_south", { { 'fireandiceballs', 'coretoggles', 'coreblocks', 'dashrefills', 'coins' } } },
 	},
 	["Core A - Room b-02_west"] = {
 		{ "Core A - Room b-01_east", {  } },
@@ -9652,7 +9652,7 @@ location_access_logic = {
 	},
 	["Core A - Room b-05_west"] = {
 		{ "Core A - Room b-04_north-west", {  } },
-		{ "Core A - Room b-05_east", { { 'fireiceballs', 'coretoggles', 'dashrefills', 'coins' } } },
+		{ "Core A - Room b-05_east", { { 'fireandiceballs', 'coretoggles', 'dashrefills', 'coins' } } },
 	},
 	["Core A - Room b-07_bottom"] = {
 		{ "Core A - Room b-07b_top", {  } },
@@ -9674,11 +9674,11 @@ location_access_logic = {
 	},
 	["Core A - Room c-00_north-east"] = {
 		{ "Core A - Room c-00b_west", {  } },
-		{ "Core A - Room c-00_east", { { 'coretoggles', 'fireiceballs', 'dashrefills' } } },
+		{ "Core A - Room c-00_east", { { 'coretoggles', 'fireandiceballs', 'dashrefills' } } },
 	},
 	["Core A - Room c-01_west"] = {
 		{ "Core A - Room c-00_east", {  } },
-		{ "Core A - Room c-01_east", { { 'coreblocks', 'coretoggles', 'fireiceballs', 'dashrefills' } } },
+		{ "Core A - Room c-01_east", { { 'coreblocks', 'coretoggles', 'fireandiceballs', 'dashrefills' } } },
 	},
 	["Core A - Room c-00_east"] = {
 		{ "Core A - Room c-01_west", {  } },
@@ -9690,7 +9690,7 @@ location_access_logic = {
 	},
 	["Core A - Room c-01_east"] = {
 		{ "Core A - Room c-02_west", {  } },
-		{ "Core A - Room c-01_west", { { 'coreblocks', 'coretoggles', 'fireiceballs', 'dashrefills' } } },
+		{ "Core A - Room c-01_west", { { 'coreblocks', 'coretoggles', 'fireandiceballs', 'dashrefills' } } },
 	},
 	["Core A - Room c-03_west"] = {
 		{ "Core A - Room c-02_east", {  } },
@@ -9706,7 +9706,7 @@ location_access_logic = {
 	},
 	["Core A - Room c-03_east"] = {
 		{ "Core A - Room c-04_west", {  } },
-		{ "Core A - Room c-03_west", { { 'coreblocks', 'coretoggles', 'fireiceballs', 'dashrefills' } } },
+		{ "Core A - Room c-03_west", { { 'coreblocks', 'coretoggles', 'fireandiceballs', 'dashrefills' } } },
 		{ "Core A - Room c-03_north-east", {  } },
 	},
 	["Core A - Room c-03b_south"] = {
@@ -9715,7 +9715,7 @@ location_access_logic = {
 	},
 	["Core A - Room c-03_north"] = {
 		{ "Core A - Room c-03b_south", {  } },
-		{ "Core A - Room c-03_west", { { 'coretoggles', 'fireiceballs', 'dashrefills' } } },
+		{ "Core A - Room c-03_west", { { 'coretoggles', 'fireandiceballs', 'dashrefills' } } },
 	},
 	["Core A - Room c-03_north-west"] = {
 		{ "Core A - Room c-03b_west", {  } },
@@ -9779,7 +9779,7 @@ location_access_logic = {
 	},
 	["Core A - Room d-05_top"] = {
 		{ "Core A - Room d-06_bottom", {  } },
-		{ "Core A - Room d-05_bottom", { { 'dashrefills', 'coretoggles', 'fireiceballs' } } },
+		{ "Core A - Room d-05_bottom", { { 'dashrefills', 'coretoggles', 'fireandiceballs' } } },
 	},
 	["Core A - Room d-07_bottom"] = {
 		{ "Core A - Room d-06_top", {  } },
@@ -9793,14 +9793,14 @@ location_access_logic = {
 	},
 	["Core A - Room d-07_top"] = {
 		{ "Core A - Room d-08_west", {  } },
-		{ "Core A - Room d-07_bottom", { { 'dashrefills', 'coreblocks', 'coretoggles', 'fireiceballs', 'springs', 'badelineboosters' } } },
+		{ "Core A - Room d-07_bottom", { { 'dashrefills', 'coreblocks', 'coretoggles', 'fireandiceballs', 'springs', 'badelineboosters' } } },
 	},
 	["Core A - Room d-09_west"] = {
 		{ "Core A - Room d-08_east", {  } },
 	},
 	["Core A - Room d-08_east"] = {
 		{ "Core A - Room d-09_west", {  } },
-		{ "Core A - Room d-08_west", { { 'dashrefills', 'coreblocks', 'coretoggles', 'fireiceballs', 'bumpers' } } },
+		{ "Core A - Room d-08_west", { { 'dashrefills', 'coreblocks', 'coretoggles', 'fireandiceballs', 'bumpers' } } },
 	},
 	["Core A - Room d-10_west"] = {
 		{ "Core A - Room d-09_east", {  } },
@@ -9901,7 +9901,7 @@ location_access_logic = {
 		{ "Core A - Room b-06_east", {  } },
 	},
 	["Core A - Room b-06 Strawberry"] = {
-		{ "Core A - Room b-06_east", { { 'fireiceballs', 'coretoggles', 'coreblocks', 'dashrefills', 'bumpers', 'coins' } } },
+		{ "Core A - Room b-06_east", { { 'fireandiceballs', 'coretoggles', 'coreblocks', 'dashrefills', 'bumpers', 'coins' } } },
 	},
 	["Core A - Room b-07b"] = {
 		{ "Core A - Room b-07b_bottom", {  } },
@@ -9923,7 +9923,7 @@ location_access_logic = {
 		{ "Core A - Room c-00b_west", {  } },
 	},
 	["Core A - Room c-00b Strawberry"] = {
-		{ "Core A - Room c-00b_west", { { 'fireiceballs', 'coretoggles', 'dashrefills', 'bumpers' } } },
+		{ "Core A - Room c-00b_west", { { 'fireandiceballs', 'coretoggles', 'dashrefills', 'bumpers' } } },
 	},
 	["Core A - Room c-01"] = {
 		{ "Core A - Room c-01_west", {  } },
@@ -10035,7 +10035,7 @@ location_access_logic = {
 		{ "Core A - Room space_goal", {  } },
 	},
 	["Core A - Golden Strawberry"] = {
-		{ "Core A - Room space_goal", { { 'dashrefills', 'springs', 'coins', 'bumpers', 'feathers', 'badelineboosters', 'coreblocks', 'coretoggles', 'fireiceballs', 'bluecassetteblocks', 'pinkcassetteblocks' } } },
+		{ "Core A - Room space_goal", { { 'dashrefills', 'springs', 'coins', 'bumpers', 'feathers', 'badelineboosters', 'coreblocks', 'coretoggles', 'fireandiceballs', 'bluecassetteblocks', 'pinkcassetteblocks' } } },
 	},
 	["Core B - Room 00"] = {
 		{ "Core B - Room 00_east", {  } },
@@ -10076,18 +10076,18 @@ location_access_logic = {
 	},
 	["Core B - Room a-03_west"] = {
 		{ "Core B - Room a-02_east", {  } },
-		{ "Core B - Room a-03_east", { { 'fireiceballs' } } },
+		{ "Core B - Room a-03_east", { { 'fireandiceballs' } } },
 	},
 	["Core B - Room a-02_east"] = {
 		{ "Core B - Room a-03_west", {  } },
-		{ "Core B - Room a-02_west", { { 'coreblocks', 'coretoggles', 'fireiceballs', 'dashrefills' } } },
+		{ "Core B - Room a-02_west", { { 'coreblocks', 'coretoggles', 'fireandiceballs', 'dashrefills' } } },
 	},
 	["Core B - Room a-04_west"] = {
 		{ "Core B - Room a-03_east", {  } },
 	},
 	["Core B - Room a-03_east"] = {
 		{ "Core B - Room a-04_west", {  } },
-		{ "Core B - Room a-03_west", { { 'fireiceballs' } } },
+		{ "Core B - Room a-03_west", { { 'fireandiceballs' } } },
 	},
 	["Core B - Room a-05_west"] = {
 		{ "Core B - Room a-04_east", {  } },
@@ -10123,7 +10123,7 @@ location_access_logic = {
 	},
 	["Core B - Room b-02_east"] = {
 		{ "Core B - Room b-03_west", {  } },
-		{ "Core B - Room b-02_west", { { 'coretoggles', 'fireiceballs', 'bumpers', 'dashrefills', 'coins' } } },
+		{ "Core B - Room b-02_west", { { 'coretoggles', 'fireandiceballs', 'bumpers', 'dashrefills', 'coins' } } },
 	},
 	["Core B - Room b-04_west"] = {
 		{ "Core B - Room b-03_east", {  } },
@@ -10145,7 +10145,7 @@ location_access_logic = {
 	},
 	["Core B - Room b-05_east"] = {
 		{ "Core B - Room c-01_bottom", {  } },
-		{ "Core B - Room b-05_west", { { 'dashrefills', 'coretoggles', 'fireiceballs' } } },
+		{ "Core B - Room b-05_west", { { 'dashrefills', 'coretoggles', 'fireandiceballs' } } },
 	},
 	["Core B - Room c-02_bottom"] = {
 		{ "Core B - Room c-01_top", {  } },
@@ -10159,7 +10159,7 @@ location_access_logic = {
 	},
 	["Core B - Room c-02_top"] = {
 		{ "Core B - Room c-03_bottom", {  } },
-		{ "Core B - Room c-02_bottom", { { 'dashrefills', 'coretoggles', 'bumpers', 'fireiceballs' } } },
+		{ "Core B - Room c-02_bottom", { { 'dashrefills', 'coretoggles', 'bumpers', 'fireandiceballs' } } },
 	},
 	["Core B - Room c-04_bottom"] = {
 		{ "Core B - Room c-03_top", {  } },
@@ -10177,7 +10177,7 @@ location_access_logic = {
 	},
 	["Core B - Room c-06_west"] = {
 		{ "Core B - Room c-05_east", {  } },
-		{ "Core B - Room c-06_east", { { 'fireiceballs', 'coretoggles', 'coreblocks' } } },
+		{ "Core B - Room c-06_east", { { 'fireandiceballs', 'coretoggles', 'coreblocks' } } },
 	},
 	["Core B - Room c-05_east"] = {
 		{ "Core B - Room c-06_west", {  } },
@@ -10188,7 +10188,7 @@ location_access_logic = {
 	},
 	["Core B - Room c-06_east"] = {
 		{ "Core B - Room c-08_west", {  } },
-		{ "Core B - Room c-06_west", { { 'fireiceballs', 'coretoggles', 'coreblocks' } } },
+		{ "Core B - Room c-06_west", { { 'fireandiceballs', 'coretoggles', 'coreblocks' } } },
 	},
 	["Core B - Room c-07_west"] = {
 		{ "Core B - Room c-08_east", {  } },
@@ -10308,7 +10308,7 @@ location_access_logic = {
 		{ "Core B - Room space_goal", {  } },
 	},
 	["Core B - Golden Strawberry"] = {
-		{ "Core B - Room space_goal", { { 'dashrefills', 'bumpers', 'coins', 'springs', 'trafficblocks', 'dreamblocks', 'movingplatforms', 'blueclouds', 'swapblocks', 'kevins', 'coreblocks', 'badelineboosters', 'coretoggles', 'fireiceballs', 'bluecassetteblocks', 'pinkcassetteblocks' } } },
+		{ "Core B - Room space_goal", { { 'dashrefills', 'bumpers', 'coins', 'springs', 'trafficblocks', 'dreamblocks', 'movingplatforms', 'blueclouds', 'swapblocks', 'kevins', 'coreblocks', 'badelineboosters', 'coretoggles', 'fireandiceballs', 'bluecassetteblocks', 'pinkcassetteblocks' } } },
 	},
 	["Core C - Room intro_east"] = {
 		{ "Core C - Room intro_west", {  } },
@@ -11238,7 +11238,7 @@ location_access_logic = {
 	},
 	["Farewell - Room h-06b_top"] = {
 		{ "Farewell - Room h-07_west", {  } },
-		{ "Farewell - Room h-06b_bottom", { { 'fireiceballs', 'coins' } } },
+		{ "Farewell - Room h-06b_bottom", { { 'fireandiceballs', 'coins' } } },
 	},
 	["Farewell - Room h-08_west"] = {
 		{ "Farewell - Room h-07_east", {  } },
@@ -11853,7 +11853,7 @@ location_access_logic = {
 		{ "Farewell - Room end-golden_bottom", { { 'doubledashrefills', 'jellyfish', 'springs', 'pufferfish' } } },
 	},
 	["Farewell - Golden Strawberry"] = {
-		{ "Farewell - Room end-golden_top", { { 'trafficblocks', 'dashrefills', 'doubledashrefills', 'dreamblocks', 'swapblocks', 'moveblocks', 'blueboosters', 'springs', 'feathers', 'coins', 'redboosters', 'kevins', 'coreblocks', 'fireiceballs', 'badelineboosters', 'bird', 'breakerboxes', 'pufferfish', 'jellyfish', 'pinkcassetteblocks', 'bluecassetteblocks', 'yellowcassetteblocks', 'greencassetteblocks' } } },
+		{ "Farewell - Room end-golden_top", { { 'trafficblocks', 'dashrefills', 'doubledashrefills', 'dreamblocks', 'swapblocks', 'moveblocks', 'blueboosters', 'springs', 'feathers', 'coins', 'redboosters', 'kevins', 'coreblocks', 'fireandiceballs', 'badelineboosters', 'bird', 'breakerboxes', 'pufferfish', 'jellyfish', 'pinkcassetteblocks', 'bluecassetteblocks', 'yellowcassetteblocks', 'greencassetteblocks' } } },
 	},
 	["Core A - Crystal Heart"] = {
 		{ "Core A - Level Clear", {  } },

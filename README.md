@@ -18,17 +18,6 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 
 - Tracking:
 	- Go-Mode
-- Items
-	- Double Dash Refills
-	- Fire/Ice Balls
-	- Core Toggles
-	- Core Blocks
-	- Pufferfish
-	- Jellyfish
-	- Breaker Boxes
-	- Yellow Cassette Blocks
-	- Green Cassette Blocks
-	- Bird
 - Logic:
 	- Difficulty selection
 	- Errors in:

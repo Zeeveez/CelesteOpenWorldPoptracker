@@ -27,7 +27,7 @@
                 "type": "itemgrid",
                 "h_alignment": "left",
                 "item_margin": "2,2",
-                "item_size": "5",
+                "item_size": "4",
                 "rows": [
                     [
                         "springs",
@@ -61,6 +61,18 @@
                         "bumpers",
                         "kevins",
                         "badelineboosters"
+                    ],
+                    [
+                        "doubledashrefills",
+                        "fireandiceballs",
+                        "coreblocks",
+                        "coretoggles",
+                        "pufferfish",
+                        "jellyfish",
+                        "breakerboxes",
+                        "yellowcassetteblocks",
+                        "greencassetteblocks",
+                        "bird"
                     ]
                 ]
             }
@@ -127,16 +139,14 @@
                         "goal_area",
                         "require_cassettes",
                         "difficulty",
-                        "lock_goal_area",
-                        ""
+                        "lock_goal_area"
                     ],
                     [
                         "include_b_sides",
                         "include_c_sides",
                         "include_core",
                         "include_farewell",
-                        "include_goldens",
-                        ""
+                        "include_goldens"
                     ],
                     [
                         "carsanity",
@@ -145,14 +155,6 @@
                         "gemsanity",
                         "binosanity",
                         "checkpointsanity"
-                    ],
-                    [
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
                     ]
                 ]
             }

@@ -23,7 +23,7 @@ def add_connection(logic, src_room, dst_room, access_rule = None):
 
 def rule_part_adjustment(level_display_name, rule_part):
     rule_part = f'{level_display_name} - {rule_part}' if (rule_part[0].isupper() or rule_part == "2500 M Key") else rule_part
-    rule_part = rule_part.replace('_', '').replace(' ','').lower().replace('kevinblocks','kevins')
+    rule_part = rule_part.replace('_', '').replace(' ','').lower().replace('kevinblocks','kevins').replace('fireiceballs','fireandiceballs')
     return rule_part
 
 def parse_rule(level_display_name, rule):
