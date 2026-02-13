@@ -1,21 +1,13 @@
 [
     {
         "name": "Golden Ridge A - Golden Strawberry",
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_goldens" ],
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room d-10" ]
-            }
-        ],
         "map_locations": []
     },
     {
         "name": "Golden Ridge A - Room a-01x Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room a-01x" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room a-01x Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-1",
@@ -26,11 +18,7 @@
     },
     {
         "name": "Golden Ridge A - Room a-02 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room a-02" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room a-02 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-1",
@@ -41,11 +29,7 @@
     },
     {
         "name": "Golden Ridge A - Room a-03 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "blueboosters,$CanAccessRoom|Golden Ridge A - Room a-03" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room a-03 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-1",
@@ -56,11 +40,7 @@
     },
     {
         "name": "Golden Ridge A - Room a-04 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "blueclouds,$CanAccessRoom|Golden Ridge A - Room a-04" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room a-04 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-1",
@@ -71,11 +51,7 @@
     },
     {
         "name": "Golden Ridge A - Room a-06 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room a-06" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room a-06 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-1",
@@ -86,11 +62,7 @@
     },
     {
         "name": "Golden Ridge A - Room a-07 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "blueboosters,coins,$CanAccessRoom|Golden Ridge A - Room a-07" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room a-07 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-1",
@@ -101,11 +73,7 @@
     },
     {
         "name": "Golden Ridge A - Room a-10 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "springs,strawberryseeds,$CanAccessRoom|Golden Ridge A - Room a-10" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room a-10 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-1",
@@ -116,11 +84,7 @@
     },
     {
         "name": "Golden Ridge A - Room a-09 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room a-09" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room a-09 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-1",
@@ -131,11 +95,7 @@
     },
     {
         "name": "Golden Ridge A - Room b-01 Strawberry 1",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room b-01" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room b-01 Strawberry 1" ] } ],
         "map_locations": [
             {
                 "map": "4a-2",
@@ -146,11 +106,7 @@
     },
     {
         "name": "Golden Ridge A - Room b-01 Strawberry 2",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room b-01" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room b-01 Strawberry 2" ] } ],
         "map_locations": [
             {
                 "map": "4a-2",
@@ -161,11 +117,7 @@
     },
     {
         "name": "Golden Ridge A - Room b-04 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room b-04 Upper" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room b-04 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-2",
@@ -176,14 +128,7 @@
     },
     {
         "name": "Golden Ridge A - Room b-07 Strawberry",
-        "sections": [
-            {
-                "access_rules": [
-                    "moveblocks,$CanAccessRoom|Golden Ridge A - Room b-07",
-                    "blueboosters,$CanAccessRoom|Golden Ridge A - Room b-07"
-                ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room b-07 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-2",
@@ -194,11 +139,7 @@
     },
     {
         "name": "Golden Ridge A - Room b-03 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room b-03" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room b-03 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-2",
@@ -209,11 +150,7 @@
     },
     {
         "name": "Golden Ridge A - Room b-02 Strawberry 1",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room b-02 Lower" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room b-02 Strawberry 1" ] } ],
         "map_locations": [
             {
                 "map": "4a-2",
@@ -224,11 +161,7 @@
     },
     {
         "name": "Golden Ridge A - Room b-02 Strawberry 2",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room b-02 Upper" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room b-02 Strawberry 2" ] } ],
         "map_locations": [
             {
                 "map": "4a-2",
@@ -239,11 +172,7 @@
     },
     {
         "name": "Golden Ridge A - Room b-secb Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "moveblocks,$CanAccessRoom|Golden Ridge A - Room b-secb" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room b-secb Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-2",
@@ -254,11 +183,7 @@
     },
     {
         "name": "Golden Ridge A - Room b-08 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room b-08" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room b-08 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-2",
@@ -269,11 +194,7 @@
     },
     {
         "name": "Golden Ridge A - Room c-00 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room c-00" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room c-00 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-3",
@@ -284,11 +205,7 @@
     },
     {
         "name": "Golden Ridge A - Room c-01 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room c-01" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room c-01 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-3",
@@ -299,11 +216,7 @@
     },
     {
         "name": "Golden Ridge A - Room c-05 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "moveblocks,blueboosters,$CanAccessRoom|Golden Ridge A - Room c-05" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room c-05 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-3",
@@ -314,11 +227,7 @@
     },
     {
         "name": "Golden Ridge A - Room c-06 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room c-06" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room c-06 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-3",
@@ -329,11 +238,7 @@
     },
     {
         "name": "Golden Ridge A - Room c-06b Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "blueboosters,$CanAccessRoom|Golden Ridge A - Room c-06b" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room c-06b Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-3",
@@ -344,11 +249,7 @@
     },
     {
         "name": "Golden Ridge A - Room c-08 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "springs,blueboosters,$CanAccessRoom|Golden Ridge A - Room c-08" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room c-08 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-3",
@@ -359,11 +260,7 @@
     },
     {
         "name": "Golden Ridge A - Room c-10 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "blueboosters,$CanAccessRoom|Golden Ridge A - Room c-10" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room c-10 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-3",
@@ -374,11 +271,7 @@
     },
     {
         "name": "Golden Ridge A - Room d-00b Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "moveblocks,blueboosters,$CanAccessRoom|Golden Ridge A - Room d-00b" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room d-00b Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-4",
@@ -389,11 +282,7 @@
     },
     {
         "name": "Golden Ridge A - Room d-01 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room d-01" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room d-01 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-4",
@@ -404,11 +293,7 @@
     },
     {
         "name": "Golden Ridge A - Room d-04 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room d-04" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room d-04 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-4",
@@ -419,11 +304,7 @@
     },
     {
         "name": "Golden Ridge A - Room d-07 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room d-07" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room d-07 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-4",
@@ -434,11 +315,7 @@
     },
     {
         "name": "Golden Ridge A - Room d-09 Strawberry",
-        "sections": [
-            {
-                "access_rules": [ "blueboosters,$CanAccessRoom|Golden Ridge A - Room d-09" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room d-09 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "4a-4",

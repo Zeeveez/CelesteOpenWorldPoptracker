@@ -1,11 +1,7 @@
 [
     {
         "name": "Mirror Temple A - Level Clear",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room e-11,theocrystal" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Mirror Temple A - Level Clear" ] } ],
         "map_locations": [
             {
                 "map": "5a-5",
@@ -16,14 +12,7 @@
     },
     {
         "name": "Mirror Temple A - Cassette",
-        "sections": [
-            {
-                "access_rules": [
-                    "bluecassetteblocks,$CanAccessRoom|Mirror Temple A - Room b-22",
-                    "pinkcassetteblocks,$CanAccessRoom|Mirror Temple A - Room b-22"
-                ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Mirror Temple A - Cassette" ] } ],
         "map_locations": [
             {
                 "map": "5a-2",
@@ -34,11 +23,7 @@
     },
     {
         "name": "Mirror Temple A - Crystal Heart",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Mirror Temple A - Room b-15" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Mirror Temple A - Crystal Heart" ] } ],
         "map_locations": [
             {
                 "map": "5a-2",

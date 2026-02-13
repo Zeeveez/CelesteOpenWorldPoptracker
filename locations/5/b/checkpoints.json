@@ -1,8 +1,8 @@
 [
     {
         "name": "Mirror Temple B - Central Chamber",
+        "sections": [ { "access_rules": [ "$CanAccess|Mirror Temple B - Central Chamber" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Mirror Temple B - " ] } ],
         "map_locations": [
             {
                 "map": "5b-2",
@@ -14,8 +14,8 @@
     },
     {
         "name": "Mirror Temple B - Through the Mirror",
+        "sections": [ { "access_rules": [ "$CanAccess|Mirror Temple B - Through the Mirror" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Mirror Temple B - " ] } ],
         "map_locations": [
             {
                 "map": "5b-3",
@@ -27,8 +27,8 @@
     },
     {
         "name": "Mirror Temple B - Mix Master",
+        "sections": [ { "access_rules": [ "$CanAccess|Mirror Temple B - Mix Master" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Mirror Temple B - " ] } ],
         "map_locations": [
             {
                 "map": "5b-4",

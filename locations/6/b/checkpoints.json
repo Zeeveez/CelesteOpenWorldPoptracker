@@ -1,8 +1,8 @@
 [
     {
         "name": "Reflection B - Reflection",
+        "sections": [ { "access_rules": [ "$CanAccess|Reflection B - Reflection" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection B - " ] } ],
         "map_locations": [
             {
                 "map": "6b-2",
@@ -14,8 +14,8 @@
     },
     {
         "name": "Reflection B - Rock Bottom",
+        "sections": [ { "access_rules": [ "$CanAccess|Reflection B - Rock Bottom" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection B - " ] } ],
         "map_locations": [
             {
                 "map": "6b-3",
@@ -27,8 +27,8 @@
     },
     {
         "name": "Reflection B - Reprieve",
+        "sections": [ { "access_rules": [ "$CanAccess|Reflection B - Reprieve" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection B - " ] } ],
         "map_locations": [
             {
                 "map": "6b-4",

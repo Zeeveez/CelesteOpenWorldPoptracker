@@ -1,8 +1,8 @@
 [
     {
         "name": "Reflection A - Room 04e Binoculars",
+        "sections": [ { "access_rules": [ "$CanAccess|Reflection A - Room 04e Binoculars" ] } ],
         "visibility_rules": [ "binosanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Reflection A - Room 04e" ] } ],
         "map_locations": [
             {
                 "map": "6a-3",

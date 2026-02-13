@@ -1,8 +1,8 @@
 [
     {
         "name": "Celestial Resort C - Room 02 Binoculars",
+        "sections": [ { "access_rules": [ "$CanAccess|Celestial Resort C - Room 02 Binoculars" ] } ],
         "visibility_rules": [ "include_c_sides,binosanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort C - Room 02" ] } ],
         "map_locations": [
             {
                 "map": "3c-1",

@@ -1,8 +1,8 @@
 [
     {
         "name": "Farewell - Singular",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Singular" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - " ] } ],
         "map_locations": [
             {
                 "map": "9a-2",
@@ -14,8 +14,8 @@
     },
     {
         "name": "Farewell - Power Source",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Power Source" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - " ] } ],
         "map_locations": [
             {
                 "map": "9a-3",
@@ -27,8 +27,8 @@
     },
     {
         "name": "Farewell - Remembered",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Remembered" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - " ] } ],
         "map_locations": [
             {
                 "map": "9a-4",
@@ -40,8 +40,8 @@
     },
     {
         "name": "Farewell - Event Horizon",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Event Horizon" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - " ] } ],
         "map_locations": [
             {
                 "map": "9a-5",
@@ -53,8 +53,8 @@
     },
     {
         "name": "Farewell - Determination",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Determination" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - " ] } ],
         "map_locations": [
             {
                 "map": "9a-6",
@@ -66,8 +66,8 @@
     },
     {
         "name": "Farewell - Stubbornness",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Stubbornness" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - " ] } ],
         "map_locations": [
             {
                 "map": "9a-7",
@@ -79,8 +79,8 @@
     },
     {
         "name": "Farewell - Reconciliation",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Reconciliation" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - " ] } ],
         "map_locations": [
             {
                 "map": "9a-8",
@@ -92,8 +92,8 @@
     },
     {
         "name": "Farewell - Farewell",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Farewell" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Farewell - " ] } ],
         "map_locations": [
             {
                 "map": "9a-9",

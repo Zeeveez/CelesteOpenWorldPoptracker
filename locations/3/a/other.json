@@ -1,11 +1,7 @@
 [
     {
         "name": "Celestial Resort A - Level Clear",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room roof07" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Celestial Resort A - Level Clear" ] } ],
         "map_locations": [
             {
                 "map": "3a-4",
@@ -16,14 +12,7 @@
     },
     {
         "name": "Celestial Resort A - Cassette",
-        "sections": [
-            {
-                "access_rules": [
-                    "bluecassetteblocks,$CanAccessRoom|Celestial Resort A - Room 01-c",
-                    "pinkcassetteblocks,$CanAccessRoom|Celestial Resort A - Room 01-c"
-                ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Celestial Resort A - Cassette" ] } ],
         "map_locations": [
             {
                 "map": "3a-3",
@@ -34,11 +23,7 @@
     },
     {
         "name": "Celestial Resort A - Crystal Heart",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Celestial Resort A - Room 11-c Lower" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Celestial Resort A - Crystal Heart" ] } ],
         "map_locations": [
             {
                 "map": "3a-2",

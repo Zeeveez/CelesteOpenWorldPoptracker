@@ -1,11 +1,7 @@
 [
     {
         "name": "Golden Ridge A - Level Clear",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Golden Ridge A - Room d-10" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Level Clear" ] } ],
         "map_locations": [
             {
                 "map": "4a-4",
@@ -16,13 +12,7 @@
     },
     {
         "name": "Golden Ridge A - Cassette",
-        "sections": [
-            {
-                "access_rules": [
-                    "bluecassetteblocks,$CanAccessRoom|Golden Ridge A - Room a-11"
-                ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Cassette" ] } ],
         "map_locations": [
             {
                 "map": "4a-1",
@@ -33,11 +23,7 @@
     },
     {
         "name": "Golden Ridge A - Crystal Heart",
-        "sections": [
-            {
-                "access_rules": [ "whiteblock,$CanAccessRoom|Golden Ridge A - Room b-sec" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Crystal Heart" ] } ],
         "map_locations": [
             {
                 "map": "4a-2",

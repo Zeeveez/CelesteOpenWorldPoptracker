@@ -1,12 +1,8 @@
 [
     {
         "name": "Core B - Golden Strawberry",
+        "sections": [ { "access_rules": [ "$CanAccess|Core B - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_core,include_b_sides,include_goldens" ],
-        "sections": [
-            {
-                "access_rules": []
-            }
-        ],
         "map_locations": []
     }
 ]

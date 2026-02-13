@@ -1,11 +1,7 @@
 [
     {
         "name": "Old Site A - Level Clear",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Old Site A - Room end_6" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Level Clear" ] } ],
         "map_locations": [
             {
                 "map": "2a-3",
@@ -16,14 +12,7 @@
     },
     {
         "name": "Old Site A - Cassette",
-        "sections": [
-            {
-                "access_rules": [
-                    "dreamblocks,pinkcassetteblocks,$CanAccessRoom|Old Site A - Room d9",
-                    "dreamblocks,bluecassetteblocks,$CanAccessRoom|Old Site A - Room d9"
-                ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Cassette" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
@@ -34,11 +23,7 @@
     },
     {
         "name": "Old Site A - Crystal Heart",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Old Site A - Room s2" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Crystal Heart" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",

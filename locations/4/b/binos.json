@@ -1,8 +1,8 @@
 [
     {
         "name": "Golden Ridge B - Room b-02 Binoculars",
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge B - Room b-02 Binoculars" ] } ],
         "visibility_rules": [ "include_b_sides,binosanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Golden Ridge B - Room b-02" ] } ],
         "map_locations": [
             {
                 "map": "4b-2",
@@ -14,8 +14,8 @@
     },
     {
         "name": "Golden Ridge B - Room c-03 Binoculars",
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge B - Room c-03 Binoculars" ] } ],
         "visibility_rules": [ "include_b_sides,binosanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Golden Ridge B - Room c-03" ] } ],
         "map_locations": [
             {
                 "map": "4b-3",
@@ -27,8 +27,8 @@
     },
     {
         "name": "Golden Ridge B - Room d-01 Binoculars",
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge B - Room d-01 Binoculars" ] } ],
         "visibility_rules": [ "include_b_sides,binosanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Golden Ridge B - Room d-01" ] } ],
         "map_locations": [
             {
                 "map": "4b-4",
@@ -40,8 +40,8 @@
     },
     {
         "name": "Golden Ridge B - Room end Binoculars",
+        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge B - Room end Binoculars" ] } ],
         "visibility_rules": [ "include_b_sides,binosanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Golden Ridge B - Room end" ] } ],
         "map_locations": [
             {
                 "map": "4b-4",

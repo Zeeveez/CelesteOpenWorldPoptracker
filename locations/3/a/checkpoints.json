@@ -1,7 +1,7 @@
 [
     {
         "name": "Celestial Resort A - Huge Mess",
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - " ] } ],
+        "sections": [ { "access_rules": [ "$CanAccess|Celestial Resort A - Huge Mess" ] } ],
         "map_locations": [
             {
                 "map": "3a-2",
@@ -13,7 +13,7 @@
     },
     {
         "name": "Celestial Resort A - Elevator Shaft",
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - " ] } ],
+        "sections": [ { "access_rules": [ "$CanAccess|Celestial Resort A - Elevator Shaft" ] } ],
         "map_locations": [
             {
                 "map": "3a-3",
@@ -25,7 +25,7 @@
     },
     {
         "name": "Celestial Resort A - Presidential Suite",
-        "sections": [ { "access_rules": [ "$CanAccessRoom|Celestial Resort A - " ] } ],
+        "sections": [ { "access_rules": [ "$CanAccess|Celestial Resort A - Presidential Suite" ] } ],
         "map_locations": [
             {
                 "map": "3a-4",

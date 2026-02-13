@@ -1,8 +1,8 @@
 [
     {
         "name": "The Summit B - 500 M",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit B - 500 M" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
         "map_locations": [
             {
                 "map": "7b-2",
@@ -14,8 +14,8 @@
     },
     {
         "name": "The Summit B - 1000 M",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit B - 1000 M" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
         "map_locations": [
             {
                 "map": "7b-3",
@@ -27,8 +27,8 @@
     },
     {
         "name": "The Summit B - 1500 M",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit B - 1500 M" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
         "map_locations": [
             {
                 "map": "7b-4",
@@ -40,8 +40,8 @@
     },
     {
         "name": "The Summit B - 2000 M",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit B - 2000 M" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
         "map_locations": [
             {
                 "map": "7b-5",
@@ -53,8 +53,8 @@
     },
     {
         "name": "The Summit B - 2500 M",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit B - 2500 M" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
         "map_locations": [
             {
                 "map": "7b-6",
@@ -66,8 +66,8 @@
     },
     {
         "name": "The Summit B - 3000 M",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit B - 3000 M" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit B - " ] } ],
         "map_locations": [
             {
                 "map": "7b-7",

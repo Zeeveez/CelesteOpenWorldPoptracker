@@ -1,8 +1,8 @@
 [
     {
         "name": "The Summit A - Room a-00",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room a-00" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room a-00" ] } ],
         "map_locations": [
             {
                 "map": "7a-1",
@@ -15,8 +15,8 @@
     },
     {
         "name": "The Summit A - Room a-01",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room a-01" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room a-01" ] } ],
         "map_locations": [
             {
                 "map": "7a-1",
@@ -29,8 +29,8 @@
     },
     {
         "name": "The Summit A - Room a-02",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room a-02" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room a-02" ] } ],
         "map_locations": [
             {
                 "map": "7a-1",
@@ -43,8 +43,8 @@
     },
     {
         "name": "The Summit A - Room a-02b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room a-02b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room a-02b" ] } ],
         "map_locations": [
             {
                 "map": "7a-1",
@@ -57,8 +57,8 @@
     },
     {
         "name": "The Summit A - Room a-03",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room a-03" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room a-03" ] } ],
         "map_locations": [
             {
                 "map": "7a-1",
@@ -71,8 +71,8 @@
     },
     {
         "name": "The Summit A - Room a-04",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room a-04" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room a-04" ] } ],
         "map_locations": [
             {
                 "map": "7a-1",
@@ -85,8 +85,8 @@
     },
     {
         "name": "The Summit A - Room a-04b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room a-04b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room a-04b" ] } ],
         "map_locations": [
             {
                 "map": "7a-1",
@@ -99,8 +99,8 @@
     },
     {
         "name": "The Summit A - Room a-05",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room a-05" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room a-05" ] } ],
         "map_locations": [
             {
                 "map": "7a-1",
@@ -113,8 +113,8 @@
     },
     {
         "name": "The Summit A - Room a-06",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room a-06" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room a-06" ] } ],
         "map_locations": [
             {
                 "map": "7a-1",
@@ -127,8 +127,8 @@
     },
     {
         "name": "The Summit A - Room b-00",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-00" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-00" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -141,8 +141,8 @@
     },
     {
         "name": "The Summit A - Room b-01",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-01" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-01" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -155,8 +155,8 @@
     },
     {
         "name": "The Summit A - Room b-02",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-02" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-02" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -169,8 +169,8 @@
     },
     {
         "name": "The Summit A - Room b-02b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-02b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-02b" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -183,8 +183,8 @@
     },
     {
         "name": "The Summit A - Room b-02e",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-02e" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-02e" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -197,8 +197,8 @@
     },
     {
         "name": "The Summit A - Room b-02c",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-02c" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-02c" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -211,8 +211,8 @@
     },
     {
         "name": "The Summit A - Room b-02d",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-02d" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-02d" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -225,8 +225,8 @@
     },
     {
         "name": "The Summit A - Room b-03",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-03" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-03" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -239,8 +239,8 @@
     },
     {
         "name": "The Summit A - Room b-04",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-04" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-04" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -253,8 +253,8 @@
     },
     {
         "name": "The Summit A - Room b-05",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-05" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-05" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -267,8 +267,8 @@
     },
     {
         "name": "The Summit A - Room b-06",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-06" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-06" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -281,8 +281,8 @@
     },
     {
         "name": "The Summit A - Room b-07",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-07" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-07" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -295,8 +295,8 @@
     },
     {
         "name": "The Summit A - Room b-08",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-08" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-08" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -309,8 +309,8 @@
     },
     {
         "name": "The Summit A - Room b-09",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room b-09" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room b-09" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -323,8 +323,8 @@
     },
     {
         "name": "The Summit A - Room c-00",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-00" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-00" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -337,8 +337,8 @@
     },
     {
         "name": "The Summit A - Room c-01",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-01" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-01" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -351,8 +351,8 @@
     },
     {
         "name": "The Summit A - Room c-02",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-02" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-02" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -365,8 +365,8 @@
     },
     {
         "name": "The Summit A - Room c-03",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-03" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-03" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -379,8 +379,8 @@
     },
     {
         "name": "The Summit A - Room c-03b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-03b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-03b" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -393,8 +393,8 @@
     },
     {
         "name": "The Summit A - Room c-04",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-04" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-04" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -407,8 +407,8 @@
     },
     {
         "name": "The Summit A - Room c-05",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-05" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-05" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -421,8 +421,8 @@
     },
     {
         "name": "The Summit A - Room c-06",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-06" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-06" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -435,8 +435,8 @@
     },
     {
         "name": "The Summit A - Room c-06b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-06b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-06b" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -449,8 +449,8 @@
     },
     {
         "name": "The Summit A - Room c-06c",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-06c" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-06c" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -463,8 +463,8 @@
     },
     {
         "name": "The Summit A - Room c-07",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-07" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-07" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -477,8 +477,8 @@
     },
     {
         "name": "The Summit A - Room c-07b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-07b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-07b" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -491,8 +491,8 @@
     },
     {
         "name": "The Summit A - Room c-08",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-08" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-08" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -505,8 +505,8 @@
     },
     {
         "name": "The Summit A - Room c-09",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room c-09" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room c-09" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -519,8 +519,8 @@
     },
     {
         "name": "The Summit A - Room d-00",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-00" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-00" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -533,8 +533,8 @@
     },
     {
         "name": "The Summit A - Room d-01",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-01" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-01" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -547,8 +547,8 @@
     },
     {
         "name": "The Summit A - Room d-01b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-01b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-01b" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -561,8 +561,8 @@
     },
     {
         "name": "The Summit A - Room d-01c",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-01c" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-01c" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -575,8 +575,8 @@
     },
     {
         "name": "The Summit A - Room d-01d",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-01d" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-01d" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -589,8 +589,8 @@
     },
     {
         "name": "The Summit A - Room d-02",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-02" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-02" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -603,8 +603,8 @@
     },
     {
         "name": "The Summit A - Room d-03",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-03" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-03" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -617,8 +617,8 @@
     },
     {
         "name": "The Summit A - Room d-03b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-03b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-03b" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -631,8 +631,8 @@
     },
     {
         "name": "The Summit A - Room d-04",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-04" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-04" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -645,8 +645,8 @@
     },
     {
         "name": "The Summit A - Room d-05",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-05" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-05" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -659,8 +659,8 @@
     },
     {
         "name": "The Summit A - Room d-05b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-05b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-05b" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -673,8 +673,8 @@
     },
     {
         "name": "The Summit A - Room d-06",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-06" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-06" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -687,8 +687,8 @@
     },
     {
         "name": "The Summit A - Room d-07",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-07" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-07" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -701,8 +701,8 @@
     },
     {
         "name": "The Summit A - Room d-08",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-08" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-08" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -715,8 +715,8 @@
     },
     {
         "name": "The Summit A - Room d-09",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-09" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-09" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -729,8 +729,8 @@
     },
     {
         "name": "The Summit A - Room d-10",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-10" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-10" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -743,8 +743,8 @@
     },
     {
         "name": "The Summit A - Room d-10b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-10b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-10b" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -757,8 +757,8 @@
     },
     {
         "name": "The Summit A - Room d-11",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room d-11" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room d-11" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -771,8 +771,8 @@
     },
     {
         "name": "The Summit A - Room e-00b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-00b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-00b" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -785,8 +785,8 @@
     },
     {
         "name": "The Summit A - Room e-00",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-00" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-00" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -799,8 +799,8 @@
     },
     {
         "name": "The Summit A - Room e-01",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-01" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-01" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -813,8 +813,8 @@
     },
     {
         "name": "The Summit A - Room e-01b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-01b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-01b" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -827,8 +827,8 @@
     },
     {
         "name": "The Summit A - Room e-01c",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-01c" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-01c" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -841,8 +841,8 @@
     },
     {
         "name": "The Summit A - Room e-02",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-02" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-02" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -855,8 +855,8 @@
     },
     {
         "name": "The Summit A - Room e-03",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-03" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-03" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -869,8 +869,8 @@
     },
     {
         "name": "The Summit A - Room e-04",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-04" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-04" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -883,8 +883,8 @@
     },
     {
         "name": "The Summit A - Room e-05",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-05" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-05" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -897,8 +897,8 @@
     },
     {
         "name": "The Summit A - Room e-06",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-06" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-06" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -911,8 +911,8 @@
     },
     {
         "name": "The Summit A - Room e-07",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-07" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-07" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -925,8 +925,8 @@
     },
     {
         "name": "The Summit A - Room e-08",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-08" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-08" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -939,8 +939,8 @@
     },
     {
         "name": "The Summit A - Room e-09",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-09" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-09" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -953,8 +953,8 @@
     },
     {
         "name": "The Summit A - Room e-11",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-11" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-11" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -967,8 +967,8 @@
     },
     {
         "name": "The Summit A - Room e-12",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-12" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-12" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -981,8 +981,8 @@
     },
     {
         "name": "The Summit A - Room e-10",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-10" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-10" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -995,8 +995,8 @@
     },
     {
         "name": "The Summit A - Room e-10b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-10b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-10b" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -1009,8 +1009,8 @@
     },
     {
         "name": "The Summit A - Room e-13",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room e-13" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room e-13" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -1023,8 +1023,8 @@
     },
     {
         "name": "The Summit A - Room f-00",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-00" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-00" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1037,8 +1037,8 @@
     },
     {
         "name": "The Summit A - Room f-01",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-01" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-01" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1051,8 +1051,8 @@
     },
     {
         "name": "The Summit A - Room f-02",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-02" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-02" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1065,8 +1065,8 @@
     },
     {
         "name": "The Summit A - Room f-02b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-02b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-02b" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1079,8 +1079,8 @@
     },
     {
         "name": "The Summit A - Room f-04",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-04" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-04" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1093,8 +1093,8 @@
     },
     {
         "name": "The Summit A - Room f-03",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-03" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-03" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1107,8 +1107,8 @@
     },
     {
         "name": "The Summit A - Room f-05",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-05" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-05" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1121,8 +1121,8 @@
     },
     {
         "name": "The Summit A - Room f-06",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-06" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-06" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1135,8 +1135,8 @@
     },
     {
         "name": "The Summit A - Room f-07",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-07" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-07" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1149,8 +1149,8 @@
     },
     {
         "name": "The Summit A - Room f-08",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-08" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-08" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1163,8 +1163,8 @@
     },
     {
         "name": "The Summit A - Room f-08b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-08b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-08b" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1177,8 +1177,8 @@
     },
     {
         "name": "The Summit A - Room f-08d",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-08d" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-08d" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1191,8 +1191,8 @@
     },
     {
         "name": "The Summit A - Room f-08c",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-08c" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-08c" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1205,8 +1205,8 @@
     },
     {
         "name": "The Summit A - Room f-09",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-09" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-09" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1219,8 +1219,8 @@
     },
     {
         "name": "The Summit A - Room f-10",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-10" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-10" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1233,8 +1233,8 @@
     },
     {
         "name": "The Summit A - Room f-10b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-10b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-10b" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1247,8 +1247,8 @@
     },
     {
         "name": "The Summit A - Room f-11",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room f-11" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room f-11" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -1261,8 +1261,8 @@
     },
     {
         "name": "The Summit A - Room g-00",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room g-00" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room g-00" ] } ],
         "map_locations": [
             {
                 "map": "7a-7",
@@ -1275,8 +1275,8 @@
     },
     {
         "name": "The Summit A - Room g-00b",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room g-00b" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room g-00b" ] } ],
         "map_locations": [
             {
                 "map": "7a-7",
@@ -1289,8 +1289,8 @@
     },
     {
         "name": "The Summit A - Room g-01",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room g-01" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room g-01" ] } ],
         "map_locations": [
             {
                 "map": "7a-7",
@@ -1303,8 +1303,8 @@
     },
     {
         "name": "The Summit A - Room g-02",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room g-02" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room g-02" ] } ],
         "map_locations": [
             {
                 "map": "7a-7",
@@ -1317,8 +1317,8 @@
     },
     {
         "name": "The Summit A - Room g-03",
+        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Room g-03" ] } ],
         "visibility_rules": [ "roomsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccessRoom|The Summit A - Room g-03" ] } ],
         "map_locations": [
             {
                 "map": "7a-7",

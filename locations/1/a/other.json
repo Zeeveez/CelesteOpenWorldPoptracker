@@ -1,11 +1,7 @@
 [
     {
         "name": "Forsaken City A - Level Clear",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room end" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Level Clear" ] } ],
         "map_locations": [
             {
                 "map": "1a-3",
@@ -16,11 +12,7 @@
     },
     {
         "name": "Forsaken City A - Cassette",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room 11z" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Cassette" ] } ],
         "map_locations": [
             {
                 "map": "1a-3",
@@ -31,11 +23,7 @@
     },
     {
         "name": "Forsaken City A - Crystal Heart",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Forsaken City A - Room s1" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Crystal Heart" ] } ],
         "map_locations": [
             {
                 "map": "1a-2",

@@ -1,32 +1,20 @@
 [
     {
         "name": "Farewell - Level Clear",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Level Clear" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Farewell - Room j-16" ]
-            }
-        ],
         "map_locations": []
     },
     {
         "name": "Farewell - Crystal Heart?",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Crystal Heart?" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Farewell - Room e-08" ]
-            }
-        ],
         "map_locations": []
     },
     {
         "name": "Farewell - Secret Car",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Secret Car" ] } ],
         "visibility_rules": [ "include_farewell,carsanity" ],
-        "sections": [
-            {
-                "access_rules": []
-            }
-        ],
         "map_locations": [
             {
                 "map": "9a-4",
@@ -38,12 +26,8 @@
     },
     {
         "name": "Farewell - Internet Car",
+        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Internet Car" ] } ],
         "visibility_rules": [ "include_farewell,carsanity" ],
-        "sections": [
-            {
-                "access_rules": []
-            }
-        ],
         "map_locations": [
             {
                 "map": "9a-5",

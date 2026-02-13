@@ -1,11 +1,7 @@
 [
     {
         "name": "Reflection A - Level Clear",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Reflection A - Room after-02" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Reflection A - Level Clear" ] } ],
         "map_locations": [
             {
                 "map": "6a-6",
@@ -16,13 +12,7 @@
     },
     {
         "name": "Reflection A - Cassette",
-        "sections": [
-            {
-                "access_rules": [
-                    "pinkcassetteblocks,$CanAccessRoom|Reflection A - Room 04e"
-                ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "CanAccess|Reflection A - Cassette" ] } ],
         "map_locations": [
             {
                 "map": "6a-3",
@@ -33,11 +23,7 @@
     },
     {
         "name": "Reflection A - Crystal Heart",
-        "sections": [
-            {
-                "access_rules": [ "$CanAccessRoom|Reflection A - Room 04c" ]
-            }
-        ],
+        "sections": [ { "access_rules": [ "$CanAccess|Reflection A - Crystal Heart" ] } ],
         "map_locations": [
             {
                 "map": "6a-3",
