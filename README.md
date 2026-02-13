@@ -22,6 +22,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 	- Go-Mode
 - Logic:
 	- Difficulty selection
+		- Really this is "Custom Logic" - The base logic of the randomiser appears to use the "intended" route, which misses a _lot_ of potential
 	- Errors in:
 		- 3A (Huge Mess clutter)
 
