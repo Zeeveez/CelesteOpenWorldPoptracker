@@ -2,6 +2,8 @@
 
 A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://github.com/ArchipelagoMW/Archipelago)
 
+![Image of Celeste (Open World) PopTracker](/images/docs/poptracker.png)
+
 
 ## Requirements
 
