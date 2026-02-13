@@ -32,7 +32,7 @@
                         },
                         {
                             "type": "group",
-                            "header": "Items",
+                            "header": "Items (By Introduction)",
                             "dock": "left",
                             "content": {
                                 "type": "layout",

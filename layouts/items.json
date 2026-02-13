@@ -27,53 +27,15 @@
                 "type": "itemgrid",
                 "h_alignment": "left",
                 "item_margin": "2,2",
-                "item_size": "4",
+                "item_size": "3",
                 "rows": [
-                    [
-                        "springs",
-                        "trafficblocks",
-                        "dashrefills",
-                        "pinkcassetteblocks",
-                        "bluecassetteblocks",
-                        "dreamblocks",
-                        "coins",
-                        "strawberryseeds"
-                    ],
-                    [
-                        "sinkingplatforms",
-                        "movingplatforms",
-                        "blueclouds",
-                        "pinkclouds",
-                        "blueboosters",
-                        "moveblocks",
-                        "whiteblock"
-                    ],
-                    [
-                        "swapblocks",
-                        "redboosters",
-                        "dashswitches",
-                        "seekers",
-                        "theocrystal",
-                        "torches"
-                    ],
-                    [
-                        "feathers",
-                        "bumpers",
-                        "kevins",
-                        "badelineboosters"
-                    ],
-                    [
-                        "doubledashrefills",
-                        "fireandiceballs",
-                        "coreblocks",
-                        "coretoggles",
-                        "pufferfish",
-                        "jellyfish",
-                        "breakerboxes",
-                        "yellowcassetteblocks",
-                        "greencassetteblocks",
-                        "bird"
-                    ]
+                    [ "forsakencitya-icon", "oldsitea-icon", "celestialresorta-icon", "goldenridgea-icon", "mirrortemplea-icon", "reflectiona-icon", "thesummita-icon", "corea-icon", "farewell-icon", "" ],
+                    [ "springs", "dreamblocks", "sinkingplatforms", "movingplatforms", "swapblocks", "feathers", "", "fireandiceballs", "doubledashrefills", "pinkcassetteblocks" ],
+                    [ "trafficblocks", "coins", "", "blueclouds", "redboosters", "bumpers", "", "coreblocks", "pufferfish", "bluecassetteblocks" ],
+                    [ "dashrefills", "strawberryseeds", "", "pinkclouds", "dashswitches", "kevins", "", "coretoggles", "jellyfish", "yellowcassetteblocks" ],
+                    [ "", "", "", "blueboosters", "seekers", "badelineboosters", "", "", "breakerboxes", "greencassetteblocks" ],
+                    [ "", "", "", "moveblocks", "theocrystal", "", "", "", "bird", "" ],
+                    [ "", "", "", "whiteblock", "torch", "", "", "", "", "" ]
                 ]
             }
         ]
@@ -86,40 +48,16 @@
                 "type": "itemgrid",
                 "h_alignment": "left",
                 "item_margin": "2,2",
-                "item_size": "4",
+                "item_size": "3",
                 "rows": [
-                    [
-                        "celestialresorta-frontdoorkey",
-                        "celestialresorta-hallwaykey1",
-                        "celestialresorta-hallwaykey2",
-                        "celestialresorta-hugemesskey",
-                        "celestialresorta-presidentialsuitekey"
-                    ],
-                    [
-                        "mirrortemplea-entrancekey",
-                        "mirrortemplea-depthskey",
-                        "mirrortemplea-searchkey1",
-                        "mirrortemplea-searchkey2",
-                        "mirrortemplea-searchkey3",
-                        "mirrortempleb-centralchamberkey1",
-                        "mirrortempleb-centralchamberkey2"
-                    ],
-                    [
-                        "thesummita-2500mkey",
-                        "thesummita-gem1",
-                        "thesummita-gem2",
-                        "thesummita-gem3",
-                        "thesummita-gem4",
-                        "thesummita-gem5",
-                        "thesummita-gem6"
-                    ],
-                    [
-                        "farewell-powersourcekey1",
-                        "farewell-powersourcekey2",
-                        "farewell-powersourcekey3",
-                        "farewell-powersourcekey4",
-                        "farewell-powersourcekey5"
-                    ]
+                    [ "celestialresorta-icon", "mirrortemplea-icon", "thesummita-icon", "farewell-icon" ],
+                    [ "celestialresorta-frontdoorkey", "mirrortemplea-entrancekey", "thesummita-2500mkey", "farewell-powersourcekey1" ],
+                    [ "celestialresorta-hallwaykey1", "mirrortemplea-depthskey", "thesummita-gem1", "farewell-powersourcekey2" ],
+                    [ "celestialresorta-hallwaykey2", "mirrortemplea-searchkey1", "thesummita-gem2", "farewell-powersourcekey3" ],
+                    [ "celestialresorta-hugemesskey", "mirrortemplea-searchkey2", "thesummita-gem3", "farewell-powersourcekey4" ],
+                    [ "celestialresorta-presidentialsuitekey", "mirrortemplea-searchkey3", "thesummita-gem4", "farewell-powersourcekey5" ],
+                    [ "", "mirrortempleb-centralchamberkey1", "thesummita-gem5", "" ],
+                    [ "", "mirrortempleb-centralchamberkey2", "thesummita-gem6", "" ]
                 ]
             }
         ]
@@ -134,6 +72,7 @@
                 "item_margin": "2,2",
                 "item_size": "2",
                 "rows": [
+                    [ "forsakencitya-icon", "forsakencityb-icon", "oldsitea-icon", "oldsiteb-icon", "celestialresorta-icon", "celestialresortb-icon", "goldenridgea-icon", "goldenridgeb-icon", "mirrortemplea-icon", "mirrortempleb-icon", "reflectiona-icon", "reflectionb-icon", "thesummita-icon", "thesummitb-icon", "corea-icon", "coreb-icon", "farewell-icon" ],
                     [ "forsakencitya-crossing", "forsakencityb-contraption", "oldsitea-intervention", "oldsiteb-combinationlock", "celestialresorta-hugemess", "celestialresortb-staffquarters", "goldenridgea-shrine", "goldenridgeb-steppingstones", "mirrortemplea-depths", "mirrortempleb-centralchamber", "reflectiona-hollows", "reflectionb-reflection", "thesummita-500m", "thesummitb-500m", "corea-intothecore", "coreb-intothecore", "farewell-singular" ],
                     [ "forsakencitya-chasm", "forsakencityb-scrappit", "oldsitea-awake", "oldsiteb-dreamaltar", "celestialresorta-elevatorshaft", "celestialresortb-library", "goldenridgea-oldtrail", "goldenridgeb-gustycanyon", "mirrortemplea-unravelling", "mirrortempleb-throughthemirror", "reflectiona-reflection", "reflectionb-rockbottom", "thesummita-1000m", "thesummitb-1000m", "corea-hotandcold", "coreb-burningorfreezing", "farewell-powersource" ],
                     [ "", "", "", "", "celestialresorta-presidentialsuite", "celestialresortb-rooftop", "goldenridgea-cliffface", "goldenridgeb-eyeofthestorm", "mirrortemplea-search", "mirrortempleb-mixmaster", "reflectiona-rockbottom", "reflectionb-reprieve", "thesummita-1500m", "thesummitb-1500m", "corea-heartofthemountain", "coreb-heartbeat", "farewell-remembered" ],

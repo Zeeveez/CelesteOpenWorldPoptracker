@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Forsaken City A",
+        "type": "static",
+        "img": "images/icons/1a.png",
+        "codes": "forsakencitya-icon"
+    },
+    {
+        "name": "Forsaken City B",
+        "type": "static",
+        "img": "images/icons/1b.png",
+        "codes": "forsakencityb-icon"
+    },
+    {
+        "name": "Old Site A",
+        "type": "static",
+        "img": "images/icons/2a.png",
+        "codes": "oldsitea-icon"
+    },
+    {
+        "name": "Old Site B",
+        "type": "static",
+        "img": "images/icons/2b.png",
+        "codes": "oldsiteb-icon"
+    },
+    {
+        "name": "Celestial Resort A",
+        "type": "static",
+        "img": "images/icons/3a.png",
+        "codes": "celestialresorta-icon"
+    },
+    {
+        "name": "Celestial Resort B",
+        "type": "static",
+        "img": "images/icons/3b.png",
+        "codes": "celestialresortb-icon"
+    },
+    {
+        "name": "Golden Ridge A",
+        "type": "static",
+        "img": "images/icons/4a.png",
+        "codes": "goldenridgea-icon"
+    },
+    {
+        "name": "Golden Ridge B",
+        "type": "static",
+        "img": "images/icons/4b.png",
+        "codes": "goldenridgeb-icon"
+    },
+    {
+        "name": "Mirror Temple A",
+        "type": "static",
+        "img": "images/icons/5a.png",
+        "codes": "mirrortemplea-icon"
+    },
+    {
+        "name": "Mirror Temple B",
+        "type": "static",
+        "img": "images/icons/5b.png",
+        "codes": "mirrortempleb-icon"
+    },
+    {
+        "name": "Reflection A",
+        "type": "static",
+        "img": "images/icons/6a.png",
+        "codes": "reflectiona-icon"
+    },
+    {
+        "name": "Reflection B",
+        "type": "static",
+        "img": "images/icons/6b.png",
+        "codes": "reflectionb-icon"
+    },
+    {
+        "name": "The Summit A",
+        "type": "static",
+        "img": "images/icons/7a.png",
+        "codes": "thesummita-icon"
+    },
+    {
+        "name": "The Summit B",
+        "type": "static",
+        "img": "images/icons/7b.png",
+        "codes": "thesummitb-icon"
+    },
+    {
+        "name": "Core A",
+        "type": "static",
+        "img": "images/icons/8a.png",
+        "codes": "corea-icon"
+    },
+    {
+        "name": "Core B",
+        "type": "static",
+        "img": "images/icons/8b.png",
+        "codes": "coreb-icon"
+    },
+    {
+        "name": "Farewell",
+        "type": "static",
+        "img": "images/icons/9.png",
+        "codes": "farewell-icon"
+    }
+]
