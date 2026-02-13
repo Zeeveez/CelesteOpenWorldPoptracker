@@ -124,6 +124,28 @@
             }
         ]
     },
+    "tracker_checkpoints": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "2",
+                "rows": [
+                    [ "forsakencitya-crossing", "forsakencityb-contraption", "oldsitea-intervention", "oldsiteb-combinationlock", "celestialresorta-hugemess", "celestialresortb-staffquarters", "goldenridgea-shrine", "goldenridgeb-steppingstones", "mirrortemplea-depths", "mirrortempleb-centralchamber", "reflectiona-hollows", "reflectionb-reflection", "thesummita-500m", "thesummitb-500m", "corea-intothecore", "coreb-intothecore", "farewell-singular" ],
+                    [ "forsakencitya-chasm", "forsakencityb-scrappit", "oldsitea-awake", "oldsiteb-dreamaltar", "celestialresorta-elevatorshaft", "celestialresortb-library", "goldenridgea-oldtrail", "goldenridgeb-gustycanyon", "mirrortemplea-unravelling", "mirrortempleb-throughthemirror", "reflectiona-reflection", "reflectionb-rockbottom", "thesummita-1000m", "thesummitb-1000m", "corea-hotandcold", "coreb-burningorfreezing", "farewell-powersource" ],
+                    [ "", "", "", "", "celestialresorta-presidentialsuite", "celestialresortb-rooftop", "goldenridgea-cliffface", "goldenridgeb-eyeofthestorm", "mirrortemplea-search", "mirrortempleb-mixmaster", "reflectiona-rockbottom", "reflectionb-reprieve", "thesummita-1500m", "thesummitb-1500m", "corea-heartofthemountain", "coreb-heartbeat", "farewell-remembered" ],
+                    [ "", "", "", "", "", "", "", "", "mirrortemplea-rescue", "", "reflectiona-resolution", "", "thesummita-2000m", "thesummitb-2000m", "", "", "farewell-eventhorizon" ],
+                    [ "", "", "", "", "", "", "", "", "", "", "", "", "thesummita-2500m", "thesummitb-2500m", "", "", "farewell-determination" ],
+                    [ "", "", "", "", "", "", "", "", "", "", "", "", "thesummita-3000m", "thesummitb-3000m", "", "", "farewell-stubbornness" ],
+                    [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "farewell-reconciliation" ],
+                    [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "farewell-farewell" ]
+                ]
+            }
+        ]
+    },
     "tracker_settings": {
         "type": "array",
         "orientation": "horizontal",

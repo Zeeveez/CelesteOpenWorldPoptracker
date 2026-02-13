@@ -1,0 +1,362 @@
+[
+    {
+        "name": "Forsaken City A - Crossing",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "forsakencitya-crossing"
+    },
+    {
+        "name": "Forsaken City A - Chasm",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "forsakencitya-chasm"
+    },
+    {
+        "name": "Forsaken City B - Contraption",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "forsakencityb-contraption"
+    },
+    {
+        "name": "Forsaken City B - Scrap Pit",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "forsakencityb-scrappit"
+    },
+    {
+        "name": "Old Site A - Intervention",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "oldsitea-intervention"
+    },
+    {
+        "name": "Old Site A - Awake",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "oldsitea-awake"
+    },
+    {
+        "name": "Old Site B - Combination Lock",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "oldsiteb-combinationlock"
+    },
+    {
+        "name": "Old Site B - Dream Altar",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "oldsiteb-dreamaltar"
+    },
+    {
+        "name": "Celestial Resort A - Huge Mess",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "celestialresorta-hugemess"
+    },
+    {
+        "name": "Celestial Resort A - Elevator Shaft",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "celestialresorta-elevatorshaft"
+    },
+    {
+        "name": "Celestial Resort A - Presidential Suite",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "celestialresorta-presidentialsuite"
+    },
+    {
+        "name": "Celestial Resort B - Staff Quarters",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "celestialresortb-staffquarters"
+    },
+    {
+        "name": "Celestial Resort B - Library",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "celestialresortb-library"
+    },
+    {
+        "name": "Celestial Resort B - Rooftop",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "celestialresortb-rooftop"
+    },
+    {
+        "name": "Golden Ridge A - Shrine",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "goldenridgea-shrine"
+    },
+    {
+        "name": "Golden Ridge A - Old Trail",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "goldenridgea-oldtrail"
+    },
+    {
+        "name": "Golden Ridge A - Cliff Face",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "goldenridgea-cliffface"
+    },
+    {
+        "name": "Golden Ridge B - Stepping Stones",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "goldenridgeb-steppingstones"
+    },
+    {
+        "name": "Golden Ridge B - Gusty Canyon",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "goldenridgeb-gustycanyon"
+    },
+    {
+        "name": "Golden Ridge B - Eye of the Storm",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "goldenridgeb-eyeofthestorm"
+    },
+    {
+        "name": "Mirror Temple A - Depths",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "mirrortemplea-depths"
+    },
+    {
+        "name": "Mirror Temple A - Unravelling",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "mirrortemplea-unravelling"
+    },
+    {
+        "name": "Mirror Temple A - Search",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "mirrortemplea-search"
+    },
+    {
+        "name": "Mirror Temple A - Rescue",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "mirrortemplea-rescue"
+    },
+    {
+        "name": "Mirror Temple B - Central Chamber",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "mirrortempleb-centralchamber"
+    },
+    {
+        "name": "Mirror Temple B - Through the Mirror",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "mirrortempleb-throughthemirror"
+    },
+    {
+        "name": "Mirror Temple B - Mix Master",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "mirrortempleb-mixmaster"
+    },
+    {
+        "name": "Reflection A - Hollows",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "reflectiona-hollows"
+    },
+    {
+        "name": "Reflection A - Reflection",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "reflectiona-reflection"
+    },
+    {
+        "name": "Reflection A - Rock Bottom",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "reflectiona-rockbottom"
+    },
+    {
+        "name": "Reflection A - Resolution",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "reflectiona-resolution"
+    },
+    {
+        "name": "Reflection B - Reflection",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "reflectionb-reflection"
+    },
+    {
+        "name": "Reflection B - Rock Bottom",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "reflectionb-rockbottom"
+    },
+    {
+        "name": "Reflection B - Reprieve",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "reflectionb-reprieve"
+    },
+    {
+        "name": "The Summit A - 500 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummita-500m"
+    },
+    {
+        "name": "The Summit A - 1000 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummita-1000m"
+    },
+    {
+        "name": "The Summit A - 1500 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummita-1500m"
+    },
+    {
+        "name": "The Summit A - 2000 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummita-2000m"
+    },
+    {
+        "name": "The Summit A - 2500 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummita-2500m"
+    },
+    {
+        "name": "The Summit A - 3000 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummita-3000m"
+    },
+    {
+        "name": "The Summit B - 500 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummitb-500m"
+    },
+    {
+        "name": "The Summit B - 1000 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummitb-1000m"
+    },
+    {
+        "name": "The Summit B - 1500 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummitb-1500m"
+    },
+    {
+        "name": "The Summit B - 2000 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummitb-2000m"
+    },
+    {
+        "name": "The Summit B - 2500 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummitb-2500m"
+    },
+    {
+        "name": "The Summit B - 3000 M",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "thesummitb-3000m"
+    },
+    {
+        "name": "Core A - Into the Core",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "corea-intothecore"
+    },
+    {
+        "name": "Core A - Hot and Cold",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "corea-hotandcold"
+    },
+    {
+        "name": "Core A - Heart of the Mountain",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "corea-heartofthemountain"
+    },
+    {
+        "name": "Core B - Into the Core",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "coreb-intothecore"
+    },
+    {
+        "name": "Core B - Burning or Freezing",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "coreb-burningorfreezing"
+    },
+    {
+        "name": "Core B - Heartbeat",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "coreb-heartbeat"
+    },
+    {
+        "name": "Farewell - Singular",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "farewell-singular"
+    },
+    {
+        "name": "Farewell - Power Source",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "farewell-powersource"
+    },
+    {
+        "name": "Farewell - Remembered",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "farewell-remembered"
+    },
+    {
+        "name": "Farewell - Event Horizon",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "farewell-eventhorizon"
+    },
+    {
+        "name": "Farewell - Determination",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "farewell-determination"
+    },
+    {
+        "name": "Farewell - Stubbornness",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "farewell-stubbornness"
+    },
+    {
+        "name": "Farewell - Reconciliation",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "farewell-reconciliation"
+    },
+    {
+        "name": "Farewell - Farewell",
+        "type": "toggle",
+        "img": "images/icons/checkpoint.png",
+        "codes": "farewell-farewell"
+    }
+]
