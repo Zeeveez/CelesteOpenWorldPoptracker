@@ -1,8 +1,8 @@
 import json
+import requests
 
-def load_raw_logic(path):
-    with open(path) as f:
-        return json.loads('\n'.join(f.readlines()))
+def load_raw_logic(url):
+    return json.loads(requests.get(url).text)
 
 def process_level(logic, level):
     for room in level['rooms']:
@@ -86,7 +86,7 @@ def process_locations(logic, level_display_name, room_display_name, region_displ
         add_connection(logic, region_display_name, location_name, parse_rules(level_display_name, location['rule']))
 
 
-raw_logic = load_raw_logic('./scripts/logic/CelesteLevelData.json')
+raw_logic = load_raw_logic('https://raw.githubusercontent.com/ArchipelagoMW/Archipelago/refs/heads/main/worlds/celeste_open_world/data/CelesteLevelData.json')
 
 # raw logic patches
 def patch_door(level, room, door, field, value):
