@@ -14,20 +14,6 @@
         ]
     },
     {
-        "name": "Epilogue - Room inside",
-        "sections": [ { "access_rules": [ "$CanAccess|Epilogue - Room inside" ] } ],
-        "visibility_rules": [ "roomsanity" ],
-        "map_locations": [
-            {
-                "map": "epiloguea",
-                "x": 10,
-                "y": 10,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
         "name": "Epilogue - Room bridge",
         "sections": [ { "access_rules": [ "$CanAccess|Epilogue - Room bridge" ] } ],
         "visibility_rules": [ "roomsanity" ],

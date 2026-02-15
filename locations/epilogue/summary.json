@@ -3,23 +3,6 @@
         "name": "Epilogue - Summary",
         "children": [
             {
-                "name": "Epilogue - Level Clear",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1110,
-                        "y": 330,
-                        "size": 25
-                    }
-                ],
-                "sections": [
-                    {
-                        "name": "Epilogue - Level Clear",
-                        "ref": "Epilogue - Level Clear/"
-                    }
-                ]
-            },
-            {
                 "name": "Epilogue - Rooms",
                 "map_locations": [
                     {
@@ -35,10 +18,6 @@
                     {
                         "name": "Epilogue - Room outside",
                         "ref": "Epilogue - Room outside/"
-                    },
-                    {
-                        "name": "Epilogue - Room inside",
-                        "ref": "Epilogue - Room inside/"
                     },
                     {
                         "name": "Epilogue - Room bridge",
