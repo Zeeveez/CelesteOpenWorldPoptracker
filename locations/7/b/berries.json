@@ -3,6 +3,12 @@
         "name": "The Summit B - Golden Strawberry",
         "sections": [ { "access_rules": [ "$CanAccess|The Summit B - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_b_sides,include_goldens" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "7b-1",
+                "x": 288,
+                "y": 1382
+            }
+        ]
     }
 ]

@@ -3,6 +3,12 @@
         "name": "Old Site B - Level Clear",
         "sections": [ { "access_rules": [ "$CanAccess|Old Site B - Level Clear" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "2b-3",
+                "x": 1823,
+                "y": 56
+            }
+        ]
     }
 ]

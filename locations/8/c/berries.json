@@ -3,6 +3,12 @@
         "name": "Core C - Golden Strawberry",
         "sections": [ { "access_rules": [ "$CanAccess|Core C - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_core,include_c_sides,include_goldens" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "8c-1",
+                "x": 351,
+                "y": 70
+            }
+        ]
     }
 ]

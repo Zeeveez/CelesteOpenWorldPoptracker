@@ -3,13 +3,25 @@
         "name": "Farewell - Level Clear",
         "sections": [ { "access_rules": [ "$CanAccess|Farewell - Level Clear" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "9a-9",
+                "x": 5679,
+                "y": 6309
+            }
+        ]
     },
     {
         "name": "Farewell - Crystal Heart?",
         "sections": [ { "access_rules": [ "$CanAccess|Farewell - Crystal Heart?" ] } ],
         "visibility_rules": [ "include_farewell" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "9a-4",
+                "x": 6071,
+                "y": 135
+            }
+        ]
     },
     {
         "name": "Farewell - Secret Car",

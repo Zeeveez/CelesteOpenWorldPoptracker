@@ -2,145 +2,145 @@
     {
         "name": "Celestial Resort A - Front Door Key",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "celestialresorta-frontdoorkey"
     },
     {
         "name": "Celestial Resort A - Hallway Key 1",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "celestialresorta-hallwaykey1"
     },
     {
         "name": "Celestial Resort A - Hallway Key 2",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "celestialresorta-hallwaykey2"
     },
     {
         "name": "Celestial Resort A - Huge Mess Key",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "celestialresorta-hugemesskey"
     },
     {
         "name": "Celestial Resort A - Presidential Suite Key",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "celestialresorta-presidentialsuitekey"
     },
     {
         "name": "Mirror Temple A - Entrance Key",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "mirrortemplea-entrancekey"
     },
     {
         "name": "Mirror Temple A - Depths Key",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "mirrortemplea-depthskey"
     },
     {
         "name": "Mirror Temple A - Search Key 1",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "mirrortemplea-searchkey1"
     },
     {
         "name": "Mirror Temple A - Search Key 2",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "mirrortemplea-searchkey2"
     },
     {
         "name": "Mirror Temple A - Search Key 3",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "mirrortemplea-searchkey3"
     },
     {
         "name": "Mirror Temple B - Central Chamber Key 1",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "mirrortempleb-centralchamberkey1"
     },
     {
         "name": "Mirror Temple B - Central Chamber Key 2",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "mirrortempleb-centralchamberkey2"
     },
     {
         "name": "The Summit A - 2500m Key",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "thesummita-2500mkey"
     },
     {
         "name": "Farewell - Power Source Key 1",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "farewell-powersourcekey1"
     },
     {
         "name": "Farewell - Power Source Key 2",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "farewell-powersourcekey2"
     },
     {
         "name": "Farewell - Power Source Key 3",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "farewell-powersourcekey3"
     },
     {
         "name": "Farewell - Power Source Key 4",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "farewell-powersourcekey4"
     },
     {
         "name": "Farewell - Power Source Key 5",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "farewell-powersourcekey5"
     },
     {
         "name": "The Summit A - Gem 1",
         "type": "toggle",
-        "img": "images/items/gem-1.png",
+        "img": "images/icons/gem-1.png",
         "codes": "thesummita-gem1"
     },
     {
         "name": "The Summit A - Gem 2",
         "type": "toggle",
-        "img": "images/items/gem-2.png",
+        "img": "images/icons/gem-2.png",
         "codes": "thesummita-gem2"
     },
     {
         "name": "The Summit A - Gem 3",
         "type": "toggle",
-        "img": "images/items/gem-3.png",
+        "img": "images/icons/gem-3.png",
         "codes": "thesummita-gem3"
     },
     {
         "name": "The Summit A - Gem 4",
         "type": "toggle",
-        "img": "images/items/gem-4.png",
+        "img": "images/icons/gem-4.png",
         "codes": "thesummita-gem4"
     },
     {
         "name": "The Summit A - Gem 5",
         "type": "toggle",
-        "img": "images/items/gem-5.png",
+        "img": "images/icons/gem-5.png",
         "codes": "thesummita-gem5"
     },
     {
         "name": "The Summit A - Gem 6",
         "type": "toggle",
-        "img": "images/items/gem-6.png",
+        "img": "images/icons/gem-6.png",
         "codes": "thesummita-gem6"
     }
 ]

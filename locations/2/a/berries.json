@@ -3,7 +3,13 @@
         "name": "Old Site A - Golden Strawberry",
         "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_goldens" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "2a-1",
+                "x": 239,
+                "y": 738
+            }
+        ]
     },
     {
         "name": "Old Site A - Room 1 Strawberry",

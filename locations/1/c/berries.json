@@ -3,6 +3,12 @@
         "name": "Forsaken City C - Golden Strawberry",
         "sections": [ { "access_rules": [ "$CanAccess|Forsaken City C - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_c_sides,include_goldens" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "1c-1",
+                "x": 15,
+                "y": 127
+            }
+        ]
     }
 ]

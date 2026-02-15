@@ -3,6 +3,12 @@
         "name": "Golden Ridge C - Level Clear",
         "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge C - Level Clear" ] } ],
         "visibility_rules": [ "include_c_sides" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "4c-1",
+                "x": 3447,
+                "y": 104
+            }
+        ]
     }
 ]

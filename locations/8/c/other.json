@@ -3,6 +3,12 @@
         "name": "Core C - Level Clear",
         "sections": [ { "access_rules": [ "$CanAccess|Core C - Level Clear" ] } ],
         "visibility_rules": [ "include_core,include_c_sides" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "8c-1",
+                "x": 7183,
+                "y": 104
+            }
+        ]
     }
 ]

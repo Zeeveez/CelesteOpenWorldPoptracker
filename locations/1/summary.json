@@ -54,7 +54,7 @@
                 ]
             },
             {
-                "name": "Forsaken City A - Golden Strawberry",
+                "name": "Forsaken City A - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -68,6 +68,10 @@
                     {
                         "name": "Forsaken City A - Golden Strawberry",
                         "ref": "Forsaken City A - Golden Strawberry/"
+                    },
+                    {
+                        "name": "Forsaken City A - Winged Golden Strawberry",
+                        "ref": "Forsaken City A - Winged Golden Strawberry/"
                     }
                 ]
             },

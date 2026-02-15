@@ -3,6 +3,12 @@
         "name": "Reflection C - Level Clear",
         "sections": [ { "access_rules": [ "$CanAccess|Reflection C - Level Clear" ] } ],
         "visibility_rules": [ "include_c_sides" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "6c-1",
+                "x": 2583,
+                "y": 1216
+            }
+        ]
     }
 ]

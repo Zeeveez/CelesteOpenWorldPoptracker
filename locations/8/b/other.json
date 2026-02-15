@@ -3,6 +3,12 @@
         "name": "Core B - Level Clear",
         "sections": [ { "access_rules": [ "$CanAccess|Core B - Level Clear" ] } ],
         "visibility_rules": [ "include_core,include_b_sides" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "8b-4",
+                "x": 5206,
+                "y": 160
+            }
+        ]
     }
 ]

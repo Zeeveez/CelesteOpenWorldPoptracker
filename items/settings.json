@@ -2,7 +2,7 @@
     {
         "name": "Strawberries Required",
         "type": "consumable",
-        "img": "images/items/strawberry.png",
+        "img": "images/icons/strawberry.png",
         "codes": "strawberries_required",
         "overlay_font_size": 24
     },
@@ -100,7 +100,7 @@
     {
         "name": "Lock Goal Area",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "lock_goal_area"
     },
 
@@ -132,7 +132,7 @@
     {
         "name": "Include Goldens",
         "type": "toggle",
-        "img": "images/items/golden_strawberry.png",
+        "img": "images/icons/golden_strawberry.png",
         "codes": "include_goldens"
     },
 
@@ -152,13 +152,13 @@
     {
         "name": "Keysanity",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/icons/key.png",
         "codes": "keysanity"
     },
     {
         "name": "Gemsanity",
         "type": "toggle",
-        "img": "images/items/gem-1.png",
+        "img": "images/icons/gem-1.png",
         "codes": "gemsanity"
     },
     {

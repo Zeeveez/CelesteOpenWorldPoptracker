@@ -2,225 +2,225 @@
     {
         "name": "Strawberry",
         "type": "consumable",
-        "img": "images/items/strawberry.png",
+        "img": "images/icons/strawberry.png",
         "codes": "strawberry",
         "overlay_font_size": 24
     },
     {
         "name": "Raspberry",
         "type": "consumable",
-        "img": "images/items/raspberry.png",
+        "img": "images/icons/raspberry.png",
         "codes": "raspberry",
         "overlay_font_size": 24
     },
     {
         "name": "Badeline Booster",
         "type": "toggle",
-        "img": "images/items/badelineboosters.png",
+        "img": "images/icons/badelineboosters.png",
         "codes": "badelineboosters"
     },
     {
         "name": "Bird",
         "type": "toggle",
-        "img": "images/items/bird.png",
+        "img": "images/icons/bird.png",
         "codes": "bird"
     },
     {
         "name": "Blue Booster",
         "type": "toggle",
-        "img": "images/items/blueboosters.png",
+        "img": "images/icons/blueboosters.png",
         "codes": "blueboosters"
     },
     {
         "name": "Blue Cassette Block",
         "type": "toggle",
-        "img": "images/items/bluecassetteblocks.png",
+        "img": "images/icons/bluecassetteblocks.png",
         "codes": "bluecassetteblocks"
     },
     {
         "name": "Blue Cloud",
         "type": "toggle",
-        "img": "images/items/blueclouds.png",
+        "img": "images/icons/blueclouds.png",
         "codes": "blueclouds"
     },
     {
         "name": "Breaker Boxes",
         "type": "toggle",
-        "img": "images/items/breakerboxes.png",
+        "img": "images/icons/breakerboxes.png",
         "codes": "breakerboxes"
     },
     {
         "name": "Bumper",
         "type": "toggle",
-        "img": "images/items/bumpers.png",
+        "img": "images/icons/bumpers.png",
         "codes": "bumpers"
     },
     {
         "name": "Core Blocks",
         "type": "toggle",
-        "img": "images/items/coreblocks.png",
+        "img": "images/icons/coreblocks.png",
         "codes": "coreblocks"
     },
     {
         "name": "Core Toggles",
         "type": "toggle",
-        "img": "images/items/coretoggles.png",
+        "img": "images/icons/coretoggles.png",
         "codes": "coretoggles"
     },
     {
         "name": "Dash Refill",
         "type": "toggle",
-        "img": "images/items/dashrefills.png",
+        "img": "images/icons/dashrefills.png",
         "codes": "dashrefills"
     },
     {
         "name": "Dash Switch",
         "type": "toggle",
-        "img": "images/items/dashswitches.png",
+        "img": "images/icons/dashswitches.png",
         "codes": "dashswitches"
     },
     {
         "name": "Double Dash Refill",
         "type": "toggle",
-        "img": "images/items/doubledashrefills.png",
+        "img": "images/icons/doubledashrefills.png",
         "codes": "doubledashrefills"
     },
     {
         "name": "Dream Block",
         "type": "toggle",
-        "img": "images/items/dreamblocks.png",
+        "img": "images/icons/dreamblocks.png",
         "codes": "dreamblocks"
     },
     {
         "name": "Fire and Ice Balls",
         "type": "toggle",
-        "img": "images/items/fireandiceballs.png",
+        "img": "images/icons/fireandiceballs.png",
         "codes": "fireandiceballs"
     },
     {
         "name": "Sinking Platform",
         "type": "toggle",
-        "img": "images/items/sinkingplatforms.png",
+        "img": "images/icons/sinkingplatforms.png",
         "codes": "sinkingplatforms"
     },
     {
         "name": "Feather",
         "type": "toggle",
-        "img": "images/items/feathers.png",
+        "img": "images/icons/feathers.png",
         "codes": "feathers"
     },
     {
         "name": "Green Cassette Blocks",
         "type": "toggle",
-        "img": "images/items/greencassetteblocks.png",
+        "img": "images/icons/greencassetteblocks.png",
         "codes": "greencassetteblocks"
     },
     {
         "name": "Jellyfish",
         "type": "toggle",
-        "img": "images/items/jellyfish.png",
+        "img": "images/icons/jellyfish.png",
         "codes": "jellyfish"
     },
     {
         "name": "Kevin Block",
         "type": "toggle",
-        "img": "images/items/kevins.png",
+        "img": "images/icons/kevins.png",
         "codes": "kevins"
     },
     {
         "name": "Move Block",
         "type": "toggle",
-        "img": "images/items/moveblocks.png",
+        "img": "images/icons/moveblocks.png",
         "codes": "moveblocks"
     },
     {
         "name": "Moving Platform",
         "type": "toggle",
-        "img": "images/items/movingplatforms.png",
+        "img": "images/icons/movingplatforms.png",
         "codes": "movingplatforms"
     },
     {
         "name": "Pink Cassette Block",
         "type": "toggle",
-        "img": "images/items/pinkcassetteblocks.png",
+        "img": "images/icons/pinkcassetteblocks.png",
         "codes": "pinkcassetteblocks"
     },
     {
         "name": "Pink Cloud",
         "type": "toggle",
-        "img": "images/items/pinkclouds.png",
+        "img": "images/icons/pinkclouds.png",
         "codes": "pinkclouds"
     },
     {
         "name": "Pufferfish",
         "type": "toggle",
-        "img": "images/items/pufferfish.png",
+        "img": "images/icons/pufferfish.png",
         "codes": "pufferfish"
     },
     {
         "name": "Red Booster",
         "type": "toggle",
-        "img": "images/items/redboosters.png",
+        "img": "images/icons/redboosters.png",
         "codes": "redboosters"
     },
     {
         "name": "Seeker",
         "type": "toggle",
-        "img": "images/items/seekers.png",
+        "img": "images/icons/seekers.png",
         "codes": "seekers"
     },
     {
         "name": "Spring",
         "type": "toggle",
-        "img": "images/items/springs.png",
+        "img": "images/icons/springs.png",
         "codes": "springs"
     },
     {
         "name": "Strawberry Seed",
         "type": "toggle",
-        "img": "images/items/strawberryseeds.png",
+        "img": "images/icons/strawberryseeds.png",
         "codes": "strawberryseeds"
     },
     {
         "name": "Swap Block",
         "type": "toggle",
-        "img": "images/items/swapblocks.png",
+        "img": "images/icons/swapblocks.png",
         "codes": "swapblocks"
     },
     {
         "name": "Theo Crystal",
         "type": "toggle",
-        "img": "images/items/theocrystal.png",
+        "img": "images/icons/theocrystal.png",
         "codes": "theocrystal"
     },
     {
         "name": "Torch",
         "type": "toggle",
-        "img": "images/items/torches.png",
+        "img": "images/icons/torches.png",
         "codes": "torches"
     },
     {
         "name": "Coin",
         "type": "toggle",
-        "img": "images/items/coins.png",
+        "img": "images/icons/coins.png",
         "codes": "coins"
     },
     {
         "name": "Traffic Block",
         "type": "toggle",
-        "img": "images/items/trafficblocks.png",
+        "img": "images/icons/trafficblocks.png",
         "codes": "trafficblocks"
     },
     {
         "name": "White Block",
         "type": "toggle",
-        "img": "images/items/whiteblock.png",
+        "img": "images/icons/whiteblock.png",
         "codes": "whiteblock"
     },
     {
         "name": "Yellow Cassette Blocks",
         "type": "toggle",
-        "img": "images/items/yellowcassetteblocks.png",
+        "img": "images/icons/yellowcassetteblocks.png",
         "codes": "yellowcassetteblocks"
     }
 ]

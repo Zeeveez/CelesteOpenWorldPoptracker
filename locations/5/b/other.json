@@ -3,6 +3,12 @@
         "name": "Mirror Temple B - Level Clear",
         "sections": [ { "access_rules": [ "$CanAccess|Mirror Temple B - Level Clear" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "5b-4",
+                "x": 3655,
+                "y": 208
+            }
+        ]
     }
 ]

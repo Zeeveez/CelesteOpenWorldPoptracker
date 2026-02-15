@@ -3,6 +3,12 @@
         "name": "Celestial Resort C - Golden Strawberry",
         "sections": [ { "access_rules": [ "$CanAccess|Celestial Resort C - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_c_sides,include_goldens" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "3c-1",
+                "x": 33,
+                "y": 384
+            }
+        ]
     }
 ]

@@ -3,7 +3,13 @@
         "name": "Golden Ridge A - Golden Strawberry",
         "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_goldens" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "4a-1",
+                "x": 24,
+                "y": 1105
+            }
+        ]
     },
     {
         "name": "Golden Ridge A - Room a-01x Strawberry",

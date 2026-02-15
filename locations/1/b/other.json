@@ -3,6 +3,12 @@
         "name": "Forsaken City B - Level Clear",
         "sections": [ { "access_rules": [ "$CanAccess|Forsaken City B - Level Clear" ] } ],
         "visibility_rules": [ "include_b_sides" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "1b-3",
+                "x": 2191,
+                "y": 64
+            }
+        ]
     }
 ]

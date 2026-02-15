@@ -3,7 +3,13 @@
         "name": "Core A - Golden Strawberry",
         "sections": [ { "access_rules": [ "$CanAccess|Core A - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_core,include_goldens" ],
-        "map_locations": []
+        "map_locations": [
+            {
+                "map": "8a-2",
+                "x": 47,
+                "y": 1823
+            }
+        ]
     },
     {
         "name": "Core A - Room b-06 Strawberry",
