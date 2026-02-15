@@ -1571,20 +1571,6 @@
                 ]
             },
             {
-                "name": "The Summit B - Checkpoint 1 Other",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 835,
-                        "y": 440,
-                        "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
                 "name": "The Summit B - Checkpoint 2 Other",
                 "map_locations": [
                     {
@@ -1606,76 +1592,6 @@
                         "ref": "The Summit B - Room b-02 Binoculars/"
                     }
                 ]
-            },
-            {
-                "name": "The Summit B - Checkpoint 3 Other",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 865,
-                        "y": 440,
-                        "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
-                "name": "The Summit B - Checkpoint 4 Other",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 880,
-                        "y": 440,
-                        "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
-                "name": "The Summit B - Checkpoint 5 Other",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 895,
-                        "y": 440,
-                        "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
-                "name": "The Summit B - Checkpoint 6 Other",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 910,
-                        "y": 440,
-                        "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
-                "name": "The Summit B - Checkpoint 7 Other",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 925,
-                        "y": 440,
-                        "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
             },
             {
                 "name": "The Summit C - Checkpoint 1 Other",

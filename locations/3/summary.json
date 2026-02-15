@@ -1116,20 +1116,6 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 4 Other",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 363,
-                        "y": 295,
-                        "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
                 "name": "Celestial Resort B - Checkpoint 1 Other",
                 "map_locations": [
                     {
@@ -1149,20 +1135,6 @@
                 ]
             },
             {
-                "name": "Celestial Resort B - Checkpoint 2 Other",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 333,
-                        "y": 440,
-                        "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
                 "name": "Celestial Resort B - Checkpoint 3 Other",
                 "map_locations": [
                     {
@@ -1180,20 +1152,6 @@
                         "ref": "Celestial Resort B - Room 12 Binoculars/"
                     }
                 ]
-            },
-            {
-                "name": "Celestial Resort B - Checkpoint 4 Other",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 363,
-                        "y": 440,
-                        "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
             },
             {
                 "name": "Celestial Resort C - Checkpoint 1 Other",

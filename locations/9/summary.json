@@ -72,110 +72,6 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 1 Strawberries",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1090,
-                        "y": 265,
-                        "size": 10,
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
-                "name": "Farewell - Checkpoint 2 Strawberries",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1105,
-                        "y": 265,
-                        "size": 10,
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
-                "name": "Farewell - Checkpoint 3 Strawberries",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1120,
-                        "y": 265,
-                        "size": 10,
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
-                "name": "Farewell - Checkpoint 4 Strawberries",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1135,
-                        "y": 265,
-                        "size": 10,
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
-                "name": "Farewell - Checkpoint 5 Strawberries",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1150,
-                        "y": 265,
-                        "size": 10,
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
-                "name": "Farewell - Checkpoint 6 Strawberries",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1165,
-                        "y": 265,
-                        "size": 10,
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
-                "name": "Farewell - Checkpoint 7 Strawberries",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1180,
-                        "y": 265,
-                        "size": 10,
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
-                "name": "Farewell - Checkpoint 8 Strawberries",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1195,
-                        "y": 265,
-                        "size": 10,
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
                 "name": "Farewell - Checkpoint 9 Strawberries",
                 "map_locations": [
                     {
@@ -797,20 +693,6 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 1 Other",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1090,
-                        "y": 295,
-                        "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
-            },
-            {
                 "name": "Farewell - Checkpoint 2 Other",
                 "map_locations": [
                     {
@@ -1066,20 +948,6 @@
                         "name": "Farewell - Room i-05 Binoculars",
                         "ref": "Farewell - Room i-05 Binoculars/"
                     }]
-            },
-            {
-                "name": "Farewell - Checkpoint 8 Other",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1195,
-                        "y": 295,
-                        "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
-                    }
-                ],
-                "sections": []
             },
             {
                 "name": "Farewell - Checkpoint 9 Other",
