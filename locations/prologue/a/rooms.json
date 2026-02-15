@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Prologue - Room -1",
+        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room -1" ] } ],
+        "visibility_rules": [ "roomsanity" ],
+        "map_locations": [
+            {
+                "map": "prologuea",
+                "x": 10,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Prologue - Room 0",
+        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room 0" ] } ],
+        "visibility_rules": [ "roomsanity" ],
+        "map_locations": [
+            {
+                "map": "prologuea",
+                "x": 330,
+                "y": 194,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Prologue - Room 0b",
+        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room 0b" ] } ],
+        "visibility_rules": [ "roomsanity" ],
+        "map_locations": [
+            {
+                "map": "prologuea",
+                "x": 330,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Prologue - Room 1",
+        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room 1" ] } ],
+        "visibility_rules": [ "roomsanity" ],
+        "map_locations": [
+            {
+                "map": "prologuea",
+                "x": 778,
+                "y": 178,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Prologue - Room 2",
+        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room 2" ] } ],
+        "visibility_rules": [ "roomsanity" ],
+        "map_locations": [
+            {
+                "map": "prologuea",
+                "x": 1242,
+                "y": 106,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Prologue - Room 3",
+        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room 3" ] } ],
+        "visibility_rules": [ "roomsanity" ],
+        "map_locations": [
+            {
+                "map": "prologuea",
+                "x": 1562,
+                "y": 106,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    }
+]

@@ -12,6 +12,15 @@
                 }
             },
             {
+                "title": "Prologue",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "prologuea"
+                    ]
+                }
+            },
+            {
                 "title": "Forsaken City",
                 "content": {
                     "type": "dock",
@@ -99,6 +108,15 @@
                             "type": "layout",
                             "key": "7"
                         }
+                    ]
+                }
+            },
+            {
+                "title": "Epilogue",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "epiloguea"
                     ]
                 }
             },

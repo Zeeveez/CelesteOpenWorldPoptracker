@@ -1,3 +1,11 @@
+Tracker:AddLocations("locations/epilogue/a/other.json")
+Tracker:AddLocations("locations/epilogue/a/rooms.json")
+Tracker:AddLocations("locations/epilogue/summary.json")
+
+Tracker:AddLocations("locations/prologue/a/other.json")
+Tracker:AddLocations("locations/prologue/a/rooms.json")
+Tracker:AddLocations("locations/prologue/summary.json")
+
 Tracker:AddLocations("locations/1/a/berries.json")
 Tracker:AddLocations("locations/1/a/checkpoints.json")
 Tracker:AddLocations("locations/1/a/other.json")

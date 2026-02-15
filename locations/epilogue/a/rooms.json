@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Epilogue - Room outside",
+        "sections": [ { "access_rules": [ "$CanAccess|Epilogue - Room outside" ] } ],
+        "visibility_rules": [ "roomsanity" ],
+        "map_locations": [
+            {
+                "map": "epiloguea",
+                "x": 650,
+                "y": 98,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Epilogue - Room inside",
+        "sections": [ { "access_rules": [ "$CanAccess|Epilogue - Room inside" ] } ],
+        "visibility_rules": [ "roomsanity" ],
+        "map_locations": [
+            {
+                "map": "epiloguea",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Epilogue - Room bridge",
+        "sections": [ { "access_rules": [ "$CanAccess|Epilogue - Room bridge" ] } ],
+        "visibility_rules": [ "roomsanity" ],
+        "map_locations": [
+            {
+                "map": "epiloguea",
+                "x": 970,
+                "y": 98,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    },
+    {
+        "name": "Epilogue - Room secret",
+        "sections": [ { "access_rules": [ "$CanAccess|Epilogue - Room secret" ] } ],
+        "visibility_rules": [ "roomsanity" ],
+        "map_locations": [
+            {
+                "map": "epiloguea",
+                "x": 1978,
+                "y": 98,
+                "shape": "diamond",
+                "size": 20
+            }
+        ]
+    }
+]

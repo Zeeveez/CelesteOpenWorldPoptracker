@@ -14,6 +14,12 @@
         "overlay_font_size": 24
     },
     {
+        "name": "Granny's House Keys",
+        "type": "toggle",
+        "img": "images/icons/key.png",
+        "codes": "grannyshousekeys"
+    },
+    {
         "name": "Badeline Booster",
         "type": "toggle",
         "img": "images/icons/badelineboosters.png",

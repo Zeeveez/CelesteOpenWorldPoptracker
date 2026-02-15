@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Epilogue - Summary",
+        "children": [
+            {
+                "name": "Epilogue - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1110,
+                        "y": 330,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Epilogue - Level Clear",
+                        "ref": "Epilogue - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Epilogue - Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 1150,
+                        "y": 285,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Epilogue - Room outside",
+                        "ref": "Epilogue - Room outside/"
+                    },
+                    {
+                        "name": "Epilogue - Room inside",
+                        "ref": "Epilogue - Room inside/"
+                    },
+                    {
+                        "name": "Epilogue - Room bridge",
+                        "ref": "Epilogue - Room bridge/"
+                    },
+                    {
+                        "name": "Epilogue - Room secret",
+                        "ref": "Epilogue - Room secret/"
+                    }
+                ]
+            }
+        ]
+    }
+]

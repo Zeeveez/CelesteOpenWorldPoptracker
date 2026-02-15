@@ -7,8 +7,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 840,
-                        "y": 325,
+                        "x": 975,
+                        "y": 330,
                         "size": 25
                     }
                 ],
@@ -24,8 +24,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 395,
+                        "x": 1015,
+                        "y": 400,
                         "size": 25
                     }
                 ],
@@ -41,8 +41,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 495,
+                        "x": 1015,
+                        "y": 500,
                         "size": 25
                     }
                 ],
@@ -58,8 +58,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 150,
+                        "x": 1015,
+                        "y": 155,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -76,8 +76,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 365,
+                        "x": 1015,
+                        "y": 370,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -94,8 +94,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 465,
+                        "x": 1015,
+                        "y": 470,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -112,8 +112,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 325,
+                        "x": 1015,
+                        "y": 330,
                         "size": 25
                     }
                 ],
@@ -129,8 +129,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 920,
-                        "y": 325,
+                        "x": 1055,
+                        "y": 330,
                         "size": 25
                     }
                 ],
@@ -146,8 +146,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 205,
+                        "x": 1015,
+                        "y": 210,
                         "size": 80
                     }
                 ],
@@ -347,8 +347,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 835,
-                        "y": 265,
+                        "x": 970,
+                        "y": 270,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -377,8 +377,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 850,
-                        "y": 265,
+                        "x": 985,
+                        "y": 270,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -415,8 +415,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 865,
-                        "y": 265,
+                        "x": 1000,
+                        "y": 270,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -453,8 +453,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 265,
+                        "x": 1015,
+                        "y": 270,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -499,8 +499,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 895,
-                        "y": 265,
+                        "x": 1030,
+                        "y": 270,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -545,8 +545,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 910,
-                        "y": 265,
+                        "x": 1045,
+                        "y": 270,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -591,8 +591,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 925,
-                        "y": 265,
+                        "x": 1060,
+                        "y": 270,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -633,8 +633,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 835,
-                        "y": 280,
+                        "x": 970,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -684,8 +684,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 850,
-                        "y": 280,
+                        "x": 985,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -759,8 +759,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 865,
-                        "y": 280,
+                        "x": 1000,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -834,8 +834,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 280,
+                        "x": 1015,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -925,8 +925,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 895,
-                        "y": 280,
+                        "x": 1030,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -1016,8 +1016,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 910,
-                        "y": 280,
+                        "x": 1045,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -1103,8 +1103,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 925,
-                        "y": 280,
+                        "x": 1060,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -1142,8 +1142,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 835,
-                        "y": 425,
+                        "x": 970,
+                        "y": 430,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -1173,8 +1173,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 850,
-                        "y": 425,
+                        "x": 985,
+                        "y": 430,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -1208,8 +1208,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 865,
-                        "y": 425,
+                        "x": 1000,
+                        "y": 430,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -1243,8 +1243,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 425,
+                        "x": 1015,
+                        "y": 430,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -1278,8 +1278,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 895,
-                        "y": 425,
+                        "x": 1030,
+                        "y": 430,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -1313,8 +1313,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 910,
-                        "y": 425,
+                        "x": 1045,
+                        "y": 430,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -1348,8 +1348,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 925,
-                        "y": 425,
+                        "x": 1060,
+                        "y": 430,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -1383,8 +1383,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 525,
+                        "x": 1015,
+                        "y": 530,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -1410,8 +1410,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 835,
-                        "y": 295,
+                        "x": 970,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1429,8 +1429,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 850,
-                        "y": 295,
+                        "x": 985,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1460,8 +1460,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 865,
-                        "y": 295,
+                        "x": 1000,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1495,8 +1495,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 295,
+                        "x": 1015,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1514,8 +1514,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 895,
-                        "y": 295,
+                        "x": 1030,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1533,8 +1533,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 910,
-                        "y": 295,
+                        "x": 1045,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1556,8 +1556,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 925,
-                        "y": 295,
+                        "x": 1060,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1575,8 +1575,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 850,
-                        "y": 440,
+                        "x": 985,
+                        "y": 445,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1598,8 +1598,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 880,
-                        "y": 540,
+                        "x": 1015,
+                        "y": 545,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2

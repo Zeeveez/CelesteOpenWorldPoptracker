@@ -7,8 +7,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1110,
-                        "y": 325,
+                        "x": 1380,
+                        "y": 330,
                         "size": 25
                     }
                 ],
@@ -24,8 +24,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1150,
-                        "y": 150,
+                        "x": 1420,
+                        "y": 155,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -42,8 +42,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1190,
-                        "y": 325,
+                        "x": 1460,
+                        "y": 330,
                         "size": 25
                     }
                 ],
@@ -59,8 +59,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1150,
-                        "y": 205,
+                        "x": 1420,
+                        "y": 210,
                         "size": 80
                     }
                 ],
@@ -76,8 +76,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1210,
-                        "y": 265,
+                        "x": 1480,
+                        "y": 270,
                         "size": 10,
                         "border_thickness": 2
                     }
@@ -94,8 +94,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1090,
-                        "y": 280,
+                        "x": 1360,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -125,8 +125,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1105,
-                        "y": 280,
+                        "x": 1375,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -200,8 +200,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1120,
-                        "y": 280,
+                        "x": 1390,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -279,8 +279,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1135,
-                        "y": 280,
+                        "x": 1405,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -350,8 +350,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1150,
-                        "y": 280,
+                        "x": 1420,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -441,8 +441,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1165,
-                        "y": 280,
+                        "x": 1435,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -520,8 +520,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1180,
-                        "y": 280,
+                        "x": 1450,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -567,8 +567,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1195,
-                        "y": 280,
+                        "x": 1465,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -658,8 +658,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1210,
-                        "y": 280,
+                        "x": 1480,
+                        "y": 285,
                         "size": 10,
                         "shape": "diamond",
                         "border_thickness": 2
@@ -697,8 +697,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1105,
-                        "y": 295,
+                        "x": 1375,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -720,8 +720,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1120,
-                        "y": 295,
+                        "x": 1390,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -783,8 +783,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1135,
-                        "y": 295,
+                        "x": 1405,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -822,8 +822,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1150,
-                        "y": 295,
+                        "x": 1420,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -869,8 +869,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1165,
-                        "y": 295,
+                        "x": 1435,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -924,8 +924,8 @@
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1180,
-                        "y": 295,
+                        "x": 1450,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -947,15 +947,16 @@
                     {
                         "name": "Farewell - Room i-05 Binoculars",
                         "ref": "Farewell - Room i-05 Binoculars/"
-                    }]
+                    }
+                ]
             },
             {
                 "name": "Farewell - Checkpoint 9 Other",
                 "map_locations": [
                     {
                         "map": "summary",
-                        "x": 1210,
-                        "y": 295,
+                        "x": 1480,
+                        "y": 300,
                         "size": 10,
                         "shape": "trapezoid",
                         "border_thickness": 2

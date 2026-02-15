@@ -1,3 +1,5 @@
+Tracker:AddMaps("maps/epilogue.json")
+Tracker:AddMaps("maps/prologue.json")
 Tracker:AddMaps("maps/summary.json")
 Tracker:AddMaps("maps/1.json")
 Tracker:AddMaps("maps/2.json")

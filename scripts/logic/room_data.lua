@@ -11552,4 +11552,10 @@ location_access_logic = {
 	["Farewell - Room end-golden_bottom"] = {
 		{ "Farewell - Level Clear", { {  } } },
 	},
+	["Epilogue - Room inside"] = {
+		{ "Epilogue - Room outside", { { 'grannyshousekeys' } } },
+	},
+	["Epilogue - Level Clear"] = {
+		{ "Epilogue - Room inside", { {  } } },
+	},
 }

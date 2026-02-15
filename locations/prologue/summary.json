@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Prologue - Summary",
+        "children": [
+            {
+                "name": "Prologue - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 30,
+                        "y": 330,
+                        "size": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Prologue - Level Clear",
+                        "ref": "Prologue - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Prologue - Other",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 300,
+                        "size": 10,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Prologue - Car",
+                        "ref": "Prologue - Car/"
+                    }
+                ]
+            },
+            {
+                "name": "Prologue - Rooms",
+                "map_locations": [
+                    {
+                        "map": "summary",
+                        "x": 70,
+                        "y": 285,
+                        "size": 10,
+                        "shape": "diamond",
+                        "border_thickness": 2
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Prologue - Room -1",
+                        "ref": "Prologue - Room -1/"
+                    },
+                    {
+                        "name": "Prologue - Room 0",
+                        "ref": "Prologue - Room 0/"
+                    },
+                    {
+                        "name": "Prologue - Room 0b",
+                        "ref": "Prologue - Room 0b/"
+                    },
+                    {
+                        "name": "Prologue - Room 1",
+                        "ref": "Prologue - Room 1/"
+                    },
+                    {
+                        "name": "Prologue - Room 2",
+                        "ref": "Prologue - Room 2/"
+                    },
+                    {
+                        "name": "Prologue - Room 3",
+                        "ref": "Prologue - Room 3/"
+                    }
+                ]
+            }
+        ]
+    }
+]
