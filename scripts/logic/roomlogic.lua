@@ -95,6 +95,22 @@ function ACCESS_GOAL_AREA(area)
     return stage ~= goal_area_stages[area]
 end
 
+function GOAL_AREA_COMPLETE()
+    local stage = Tracker:FindObjectForCode("goal_area").CurrentStage
+    local goal_area_completions = {
+        [0] = "@The Summit A - Level Clear/",
+        [1] = "@The Summit B - Level Clear/",
+        [2] = "@The Summit C - Level Clear/",
+        [3] = "@Core A - Level Clear/",
+        [4] = "@Core B - Level Clear/",
+        [5] = "@Core C - Level Clear/",
+        [6] = "@Farewell - Crystal Heart?/",
+        [7] = "@Farewell - Level Clear/",
+        [8] = "@Farewell - Golden Strawberry/"
+    }
+    return Tracker:FindObjectForCode(goal_area_completions[stage]).AvailableChestCount == 0
+end
+
 function ACCESS_7A()
     return ACCESS_GOAL_AREA("7a")
 end
@@ -124,5 +140,5 @@ function ACCESS_9A()
 end
 
 function ACCESS_EPILOGUE()
-    return true
+    return HAVE_STRAWBERRIES() and GOAL_AREA_COMPLETE()
 end
