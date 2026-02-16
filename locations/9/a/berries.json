@@ -1,7 +1,7 @@
 [
     {
         "name": "Farewell - Golden Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Golden Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_farewell,include_goldens" ],
         "map_locations": [
             {
@@ -13,7 +13,7 @@
     },
     {
         "name": "Farewell - Moon Berry",
-        "sections": [ { "access_rules": [ "$CanAccess|Farewell - Moon Berry" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Moon Berry" ] } ],
         "visibility_rules": [ "include_farewell" ],
         "map_locations": [
             {

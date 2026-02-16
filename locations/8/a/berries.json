@@ -1,7 +1,7 @@
 [
     {
         "name": "Core A - Golden Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Core A - Golden Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_core,include_goldens" ],
         "map_locations": [
             {
@@ -13,7 +13,7 @@
     },
     {
         "name": "Core A - Room b-06 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Core A - Room b-06 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Room b-06 Strawberry" ] } ],
         "visibility_rules": [ "include_core" ],
         "map_locations": [
             {
@@ -25,7 +25,7 @@
     },
     {
         "name": "Core A - Room c-00b Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Core A - Room c-00b Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Room c-00b Strawberry" ] } ],
         "visibility_rules": [ "include_core" ],
         "map_locations": [
             {
@@ -37,7 +37,7 @@
     },
     {
         "name": "Core A - Room c-02 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Core A - Room c-02 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Room c-02 Strawberry" ] } ],
         "visibility_rules": [ "include_core" ],
         "map_locations": [
             {
@@ -49,7 +49,7 @@
     },
     {
         "name": "Core A - Room c-03b Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Core A - Room c-03b Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Room c-03b Strawberry" ] } ],
         "visibility_rules": [ "include_core" ],
         "map_locations": [
             {
@@ -61,7 +61,7 @@
     },
     {
         "name": "Core A - Room d-06 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Core A - Room d-06 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Room d-06 Strawberry" ] } ],
         "visibility_rules": [ "include_core" ],
         "map_locations": [
             {

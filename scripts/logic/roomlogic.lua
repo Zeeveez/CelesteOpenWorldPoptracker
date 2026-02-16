@@ -66,3 +66,63 @@ end
 function CanAccess(location_name)
     return CanAccessLocation(location_name, {}, false)
 end
+
+function HAVE_STRAWBERRIES()
+    return Tracker:ProviderCountForCode("strawberry") >= Tracker:ProviderCountForCode("strawberries_required")
+end
+
+function ACCESS_GOAL_AREA(area)
+    local needKey = Tracker:FindObjectForCode("lock_goal_area").Active
+    if not needKey then
+        return true
+    end
+    if HAVE_STRAWBERRIES() then
+        return true
+    end
+
+    local goal_area_stages = {
+        ["7a"] = 0,
+        ["7b"] = 1,
+        ["7c"] = 2,
+        ["8a"] = 3,
+        ["8b"] = 4,
+        ["8c"] = 5,
+        ["empty_space"] = 6,
+        ["farewell"] = 7,
+        ["farewell_golden"] = 8
+    }
+    local stage = Tracker:FindObjectForCode("goal_area").CurrentStage
+    return stage ~= goal_area_stages[area]
+end
+
+function ACCESS_7A()
+    return ACCESS_GOAL_AREA("7a")
+end
+
+function ACCESS_7B()
+    return ACCESS_GOAL_AREA("7b")
+end
+
+function ACCESS_7C()
+    return ACCESS_GOAL_AREA("7c")
+end
+
+function ACCESS_8A()
+    return ACCESS_GOAL_AREA("8a")
+end
+
+function ACCESS_8B()
+    return ACCESS_GOAL_AREA("8b")
+end
+
+function ACCESS_8C()
+    return ACCESS_GOAL_AREA("8c")
+end
+
+function ACCESS_9A()
+    return true
+end
+
+function ACCESS_EPILOGUE()
+    return true
+end

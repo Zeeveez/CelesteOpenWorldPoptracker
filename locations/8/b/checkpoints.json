@@ -1,7 +1,7 @@
 [
     {
         "name": "Core B - Into the Core",
-        "sections": [ { "access_rules": [ "$CanAccess|Core B - Into the Core" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8B,$CanAccess|Core B - Into the Core" ] } ],
         "visibility_rules": [ "include_core,include_b_sides" ],
         "map_locations": [
             {
@@ -14,7 +14,7 @@
     },
     {
         "name": "Core B - Burning or Freezing",
-        "sections": [ { "access_rules": [ "$CanAccess|Core B - Burning or Freezing" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8B,$CanAccess|Core B - Burning or Freezing" ] } ],
         "visibility_rules": [ "include_core,include_b_sides" ],
         "map_locations": [
             {
@@ -27,7 +27,7 @@
     },
     {
         "name": "Core B - Heartbeat",
-        "sections": [ { "access_rules": [ "$CanAccess|Core B - Heartbeat" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8B,$CanAccess|Core B - Heartbeat" ] } ],
         "visibility_rules": [ "include_core,include_b_sides" ],
         "map_locations": [
             {

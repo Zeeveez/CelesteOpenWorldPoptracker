@@ -1,7 +1,7 @@
 [
     {
         "name": "The Summit A - Level Clear",
-        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Level Clear" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_7A,$CanAccess|The Summit A - Level Clear" ] } ],
         "map_locations": [
             {
                 "map": "7a-7",
@@ -12,7 +12,7 @@
     },
     {
         "name": "The Summit A - Cassette",
-        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Cassette" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_7A,$CanAccess|The Summit A - Cassette" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -23,7 +23,7 @@
     },
     {
         "name": "The Summit A - Crystal Heart",
-        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Crystal Heart" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_7A,$CanAccess|The Summit A - Crystal Heart" ] } ],
         "map_locations": [
             {
                 "map": "7a-7",

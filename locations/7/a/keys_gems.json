@@ -1,7 +1,7 @@
 [
     {
         "name": "The Summit A - 2500 M Key",
-        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - 2500 M Key" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_7A,$CanAccess|The Summit A - 2500 M Key" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
@@ -14,7 +14,7 @@
 
     {
         "name": "The Summit A - Gem 1",
-        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Gem 1" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_7A,$CanAccess|The Summit A - Gem 1" ] } ],
         "map_locations": [
             {
                 "map": "7a-1",
@@ -26,7 +26,7 @@
     },
     {
         "name": "The Summit A - Gem 2",
-        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Gem 2" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_7A,$CanAccess|The Summit A - Gem 2" ] } ],
         "map_locations": [
             {
                 "map": "7a-2",
@@ -38,7 +38,7 @@
     },
     {
         "name": "The Summit A - Gem 3",
-        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Gem 3" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_7A,$CanAccess|The Summit A - Gem 3" ] } ],
         "map_locations": [
             {
                 "map": "7a-3",
@@ -50,7 +50,7 @@
     },
     {
         "name": "The Summit A - Gem 4",
-        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Gem 4" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_7A,$CanAccess|The Summit A - Gem 4" ] } ],
         "map_locations": [
             {
                 "map": "7a-4",
@@ -62,7 +62,7 @@
     },
     {
         "name": "The Summit A - Gem 5",
-        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Gem 5" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_7A,$CanAccess|The Summit A - Gem 5" ] } ],
         "map_locations": [
             {
                 "map": "7a-5",
@@ -74,7 +74,7 @@
     },
     {
         "name": "The Summit A - Gem 6",
-        "sections": [ { "access_rules": [ "$CanAccess|The Summit A - Gem 6" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_7A,$CanAccess|The Summit A - Gem 6" ] } ],
         "map_locations": [
             {
                 "map": "7a-6",
