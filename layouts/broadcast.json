@@ -1,0 +1,16 @@
+{
+    "tracker_broadcast": {
+        "type": "container",
+        "background": "#877373",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "layout",
+                    "key": "tracker_unlocks"
+                }
+            ]
+        }
+    }
+}

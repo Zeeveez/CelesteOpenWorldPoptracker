@@ -1,6 +1,7 @@
 Tracker:AddLayouts("layouts/items.json")
 Tracker:AddLayouts("layouts/tabs.json")
 Tracker:AddLayouts("layouts/tracker.json")
+Tracker:AddLayouts("layouts/broadcast.json")
 
 Tracker:AddLayouts("layouts/1/1.json")
 Tracker:AddLayouts("layouts/1/1a.json")
