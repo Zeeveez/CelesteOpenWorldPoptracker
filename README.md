@@ -18,16 +18,8 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 
 ## TODO
 
-- Tracking:
-	- Go-Mode
-	- Level Access(?)
 - Custom Logic
 	- The base logic of the randomiser appears to use the "intended" route, which misses a _lot_ of potential
-- Logic error fixes:
-	- No access to Celestial Resort A - Room 11-x_west
-		- Celestial Resort A - Room 09-b: Execution aborted. Limit reached.
-	- No access to Mirror Temple A - Room b-03_east
-	- No access to Mirror Temple A - Room b-11_north-west
 
 ## Notes
 
