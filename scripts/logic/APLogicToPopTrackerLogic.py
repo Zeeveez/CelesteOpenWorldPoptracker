@@ -100,6 +100,10 @@ patch_door('2a', '10', 'bottom', 'closes_behind', False)
 patch_door('2a', '2', 'north-west', 'closes_behind', False)
 patch_door('2a', '12b', 'east', 'closes_behind', False)
 patch_door('2a', '13', 'phone', 'closes_behind', False)
+patch_door('3a', '10-x', 'north-east-right', 'closes_behind', False)
+patch_door('5a', 'b-02', 'north-west', 'closes_behind', False)
+patch_door('5a', 'b-02', 'east-lower', 'closes_behind', False)
+patch_door('5a', 'b-02', 'south-east', 'closes_behind', False)
 
 logic = {}
 for level in raw_logic['levels']:

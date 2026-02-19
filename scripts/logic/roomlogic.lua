@@ -2,9 +2,10 @@ require("scripts/logic/room_data")
 
 function MeetsRequirements(possible_requirements, seen_rooms, ignore_clutter)
     for _, item_code in ipairs(possible_requirements) do
-        -- 3A - Big Mess has pseudoitems that don't actually exist as items
+        -- 3A - Huge Mess has pseudoitems that don't actually exist as items
         -- Special handling used to see if the rooms that they're in can be accessed
-        -- Because of how free 
+        -- Because of how free movement is in Huge Mess we can largely ignore clutter
+        -- but we do have to at least check for access to a single piece to handle room-08x berry
         if item_code == 'brownclutter' then
             if ignore_clutter then goto continue end
             return CanAccessLocation("Celestial Resort A - Brown Clutter", {}, true)
@@ -40,25 +41,32 @@ function MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, ignore_
 end
 
 function CanAccessLocation(location_name, seen_rooms, ignore_clutter)
-    local access_logic = location_access_logic[location_name]
-    if access_logic == nil then
-        if location_name ~= "<levelselect>" then
-            print("No access to "..location_name)
+    local queue = {}
+    table.insert(queue, location_name)
+
+    while #queue ~= 0 do
+        local current_location = table.remove(queue)
+        if seen_rooms[current_location] then goto continue end
+        seen_rooms[current_location] = true
+        
+        local access_logic = location_access_logic[current_location]
+        if access_logic == nil then
+            if current_location ~= "<levelselect>" then
+                print("No access to "..current_location)
+                goto continue
+            end
+            return true
         end
-        return true
-    end
-    if not seen_rooms[location_name] then
-        seen_rooms[location_name] = true
 
         for _, possible_room_requirements in ipairs(access_logic) do
             local previous_room = possible_room_requirements[1]
             local list_of_possible_requirements = possible_room_requirements[2]
-            if MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, ignore_clutter) and CanAccessLocation(previous_room, seen_rooms, ignore_clutter) then
-                return true
+            if MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, ignore_clutter) then
+                table.insert(queue, previous_room)
             end
         end
 
-        seen_rooms[location_name] = false
+        ::continue::
     end
     return false
 end
