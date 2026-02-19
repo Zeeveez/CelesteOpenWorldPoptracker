@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "3A - Checkpoint 1",
+                "title": "3A - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "3A - Checkpoint 2",
+                "title": "3A - Huge Mess",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "3A - Checkpoint 3",
+                "title": "3A - Elevator Shaft",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "3A - Checkpoint 4",
+                "title": "3A - Presidential Suite",
                 "content": {
                     "type": "map",
                     "maps": [

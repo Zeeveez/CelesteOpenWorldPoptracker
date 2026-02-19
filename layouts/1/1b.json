@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "1B - Checkpoint 1",
+                "title": "1B - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "1B - Checkpoint 2",
+                "title": "1B - Contraption",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "1B - Checkpoint 3",
+                "title": "1B - Scrap Pit",
                 "content": {
                     "type": "map",
                     "maps": [

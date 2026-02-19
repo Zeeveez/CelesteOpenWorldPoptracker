@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "7B - Checkpoint 1",
+                "title": "7B - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "7B - Checkpoint 2",
+                "title": "7B - 500M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "7B - Checkpoint 3",
+                "title": "7B - 1000M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "7B - Checkpoint 4",
+                "title": "7B - 1500M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "title": "7B - Checkpoint 5",
+                "title": "7B - 2000M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -48,7 +48,7 @@
                 }
             },
             {
-                "title": "7B - Checkpoint 6",
+                "title": "7B - 2500M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -57,7 +57,7 @@
                 }
             },
             {
-                "title": "7B - Checkpoint 7",
+                "title": "7B - 3000M",
                 "content": {
                     "type": "map",
                     "maps": [

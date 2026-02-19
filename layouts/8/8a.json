@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "8A - Checkpoint 1",
+                "title": "8A - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "8A - Checkpoint 2",
+                "title": "8A - Into the Core",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "8A - Checkpoint 3",
+                "title": "8A - Hot and Cold",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "8A - Checkpoint 4",
+                "title": "8A - Heart of the Mountain",
                 "content": {
                     "type": "map",
                     "maps": [

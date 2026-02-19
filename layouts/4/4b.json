@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "4B - Checkpoint 1",
+                "title": "4B - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "4B - Checkpoint 2",
+                "title": "4B - Stepping Stones",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "4B - Checkpoint 3",
+                "title": "4B - Gusty Canyon",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "4B - Checkpoint 4",
+                "title": "4B - Eye of the Storm",
                 "content": {
                     "type": "map",
                     "maps": [

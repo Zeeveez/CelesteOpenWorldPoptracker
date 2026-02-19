@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "9A - Checkpoint 1",
+                "title": "9A - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "9A - Checkpoint 2",
+                "title": "9A - Singular",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "9A - Checkpoint 3",
+                "title": "9A - Power Source",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "9A - Checkpoint 4",
+                "title": "9A - Remembered",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "title": "9A - Checkpoint 5",
+                "title": "9A - Event Horizon",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -48,7 +48,7 @@
                 }
             },
             {
-                "title": "9A - Checkpoint 6",
+                "title": "9A - Determination",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -57,7 +57,7 @@
                 }
             },
             {
-                "title": "9A - Checkpoint 7",
+                "title": "9A - Stubbornness",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -66,7 +66,7 @@
                 }
             },
             {
-                "title": "9A - Checkpoint 8",
+                "title": "9A - Reconciliation",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -75,7 +75,7 @@
                 }
             },
             {
-                "title": "9A - Checkpoint 9",
+                "title": "9A - Farewell",
                 "content": {
                     "type": "map",
                     "maps": [

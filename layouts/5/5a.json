@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "5A - Checkpoint 1",
+                "title": "5A - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "5A - Checkpoint 2",
+                "title": "5A - Depths",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "5A - Checkpoint 3",
+                "title": "5A - Unravelling",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "5A - Checkpoint 4",
+                "title": "5A - Search",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "title": "5A - Checkpoint 5",
+                "title": "5A - Rescue",
                 "content": {
                     "type": "map",
                     "maps": [

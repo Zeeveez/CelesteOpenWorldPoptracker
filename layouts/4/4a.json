@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "4A - Checkpoint 1",
+                "title": "4A - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "4A - Checkpoint 2",
+                "title": "4A - Shrine",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "4A - Checkpoint 3",
+                "title": "4A - Old Trail",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "4A - Checkpoint 4",
+                "title": "4A - Cliff Face",
                 "content": {
                     "type": "map",
                     "maps": [

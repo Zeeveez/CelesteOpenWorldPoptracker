@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "1A - Checkpoint 1",
+                "title": "1A - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "1A - Checkpoint 2",
+                "title": "1A - Crossing",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "1A - Checkpoint 3",
+                "title": "1A - Chasm",
                 "content": {
                     "type": "map",
                     "maps": [

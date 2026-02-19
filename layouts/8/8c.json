@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "8C - Checkpoint 1",
+                "title": "8C - Core C-Side",
                 "content": {
                     "type": "map",
                     "maps": [

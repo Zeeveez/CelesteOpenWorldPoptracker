@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "5B - Checkpoint 1",
+                "title": "5B - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "5B - Checkpoint 2",
+                "title": "5B - Central Chamber",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "5B - Checkpoint 3",
+                "title": "5B - Through the Mirror",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "5B - Checkpoint 4",
+                "title": "5B - Mix Master",
                 "content": {
                     "type": "map",
                     "maps": [

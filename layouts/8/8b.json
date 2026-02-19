@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "8B - Checkpoint 1",
+                "title": "8B - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "8B - Checkpoint 2",
+                "title": "8B - Into the Core",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "8B - Checkpoint 3",
+                "title": "8B - Burning or Freezing",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "8B - Checkpoint 4",
+                "title": "8B - Heartbeat",
                 "content": {
                     "type": "map",
                     "maps": [

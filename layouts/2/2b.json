@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "2B - Checkpoint 1",
+                "title": "2B - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "2B - Checkpoint 2",
+                "title": "2B - Combination Lock",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "2B - Checkpoint 3",
+                "title": "2B - Dream Altar",
                 "content": {
                     "type": "map",
                     "maps": [

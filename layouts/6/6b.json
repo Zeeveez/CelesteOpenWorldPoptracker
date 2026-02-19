@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "6B - Checkpoint 1",
+                "title": "6B - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "6B - Checkpoint 2",
+                "title": "6B - Reflection",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "6B - Checkpoint 3",
+                "title": "6B - Rock Bottom",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "6B - Checkpoint 4",
+                "title": "6B - Reprieve",
                 "content": {
                     "type": "map",
                     "maps": [

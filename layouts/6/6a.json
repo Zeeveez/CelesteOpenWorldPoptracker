@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "6A - Checkpoint 1",
+                "title": "6A - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "6A - Checkpoint 2",
+                "title": "6A - Lake",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "6A - Checkpoint 3",
+                "title": "6A - Hollows",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "6A - Checkpoint 4",
+                "title": "6A - Reflection",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "title": "6A - Checkpoint 5",
+                "title": "6A - Rock Bottom",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -48,7 +48,7 @@
                 }
             },
             {
-                "title": "6A - Checkpoint 6",
+                "title": "6A - Resolution",
                 "content": {
                     "type": "map",
                     "maps": [

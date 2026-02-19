@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "2A - Checkpoint 1",
+                "title": "2A - Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "2A - Checkpoint 2",
+                "title": "2A - Intervention",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "2A - Checkpoint 3",
+                "title": "2A - Awake",
                 "content": {
                     "type": "map",
                     "maps": [
