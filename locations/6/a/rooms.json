@@ -866,19 +866,5 @@
                 "size": 20
             }
         ]
-    },
-    {
-        "name": "Reflection A - Room after-02",
-        "sections": [ { "access_rules": [ "$CanAccess|Reflection A - Room after-02" ] } ],
-        "visibility_rules": [ "roomsanity" ],
-        "map_locations": [
-            {
-                "map": "6a-6",
-                "x": 10,
-                "y": 10,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
     }
 ]

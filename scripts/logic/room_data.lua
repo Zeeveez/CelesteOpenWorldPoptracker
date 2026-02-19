@@ -11546,9 +11546,6 @@ location_access_logic = {
 	["Core A - Crystal Heart"] = {
 		{ "Core A - Level Clear", { {  } } },
 	},
-	["Reflection A - Room after-02"] = {
-		{ "Reflection A - Level Clear", { {  } } },
-	},
 	["Farewell - Room end-golden_bottom"] = {
 		{ "Farewell - Level Clear", { {  } } },
 	},
