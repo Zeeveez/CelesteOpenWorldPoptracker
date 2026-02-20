@@ -260,13 +260,6 @@ function onClear(slot_data)
                 obj.CurrentStage = stage
             end
         end
-        if slot_data['require_cassettes'] then
-            local obj = Tracker:FindObjectForCode("require_cassettes")
-            local active = slot_data['require_cassettes'] == 1
-            if obj then
-                obj.Active = active
-            end
-        end
         if slot_data['lock_goal_area'] then
             local obj = Tracker:FindObjectForCode("lock_goal_area")
             local active = slot_data['lock_goal_area'] == 1

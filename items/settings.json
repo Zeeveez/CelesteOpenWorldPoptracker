@@ -59,12 +59,6 @@
         ]
     },
     {
-        "name": "Require Cassettes",
-        "type": "toggle",
-        "img": "images/icons/cassettes.png",
-        "codes": "require_cassettes"
-    },
-    {
         "name": "Logic",
         "type": "progressive",
         "allow_disabled": false,
