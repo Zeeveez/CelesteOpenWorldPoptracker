@@ -28,6 +28,12 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 	- Custom Logic (See Notes)
 
 
+
+### Tracker Key
+
+![Image of Celeste (Open World) PopTracker Tracker Key](/images/docs/key.png)
+
+
 ## Notes
 
 - For Keys, Gems, and Checkpoints, it's not strictly necessary to have tracking without their -sanity variants enabled; however as they still serve a purpose and are always present as check locations (that just reward their own item), there is no harm in always showing them.
