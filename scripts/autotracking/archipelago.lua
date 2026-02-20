@@ -255,7 +255,6 @@ function onClear(slot_data)
                 ["10b"] = 7,
                 ["10c"] = 8
             }
-            print(slot_data['goal_area'])
             local obj = Tracker:FindObjectForCode("goal_area")
             local stage = goal_area_stages[slot_data['goal_area']]
             if obj then
@@ -299,7 +298,6 @@ function onClear(slot_data)
             end
         end
         if slot_data['include_farewell'] then
-            print(slot_data['include_farewell'])
             local obj = Tracker:FindObjectForCode("include_farewell_setting")
             if obj then
                 obj.CurrentStage = slot_data['include_farewell']
