@@ -68,7 +68,7 @@
         "name": "Tech",
         "type": "progressive",
         "allow_disabled": false,
-        "initial_stage_idx": 0,
+        "initial_stage_idx": 1,
         "stages": [
             {
                 "img": "images/icons/tech_none.png",
