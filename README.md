@@ -10,10 +10,20 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 [PopTracker](https://github.com/black-sliver/PopTracker)
 
 
+## Installation
+
+1. Download the required release from the GitHub Releases.
+1. Move the downloaded `.zip` file into your PopTracker packs.
+
+
 ## Features
 
 - Archipelago Autotracking Support
+- Broadcast view for items display:
+    ![Image of Celeste (Open World) PopTracker Broadcast Window](/images/docs/broadcast.png)
 - Access Logic
+	- Randomiser Logic
+	- Custom Logic (See Notes)
 
 
 ## Notes
@@ -24,6 +34,12 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 	- 9A-8 (Reconciliation) is so wide that it had to be sliced; rows are traversed left to right, top to bottom
 	- end-golden is so far away in 9A-9 that it had to be adjusted to appear much closer than it actually is for the map to be useful
 - Only full res maps currently available which are large, be aware of a couple seconds of load time
+- Maps are shown by checkpoint so you have context of what's around you; on larger maps some icons may be hard to see
+- Custom Logic
+    - The additional logic settings available do not contain a complete list of what is possible, but instead quick adjustments from memory
+    - Compiling a complete custom logic list has two main problems:
+		- The task is large and not trivial to do individually
+		- Difficulty is subjective
 
 
 ## Thanks
