@@ -24,8 +24,8 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 ![Image of Celeste (Open World) PopTracker Broadcast Window](/images/docs/broadcast.png)
 
 - Access Logic
-	- Randomiser Logic
-	- Custom Logic (See Notes)
+	- Randomiser Logic (Shown in green)
+	- Custom Logic (Shown in yellow; See Notes)
 
 
 
@@ -45,6 +45,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 - Maps are shown by checkpoint so you have context of what's around you; on larger maps some icons may be hard to see
 - Custom Logic
     - The additional logic settings available do not contain a complete list of what is possible, but instead quick adjustments from memory
+	- Some of the added logic is trivial, some of it is very difficult, recommended is to follow logic
     - Compiling a complete custom logic list has two main problems:
 		- The task is large and not trivial to do individually
 		- Difficulty is subjective

@@ -1,7 +1,7 @@
 [
     {
         "name": "Old Site A - Room start",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room start" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room start" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -15,7 +15,7 @@
     },
     {
         "name": "Old Site A - Room s0",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room s0" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room s0" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -29,7 +29,7 @@
     },
     {
         "name": "Old Site A - Room s1",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room s1" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room s1" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -43,7 +43,7 @@
     },
     {
         "name": "Old Site A - Room s2",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room s2" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room s2" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -57,7 +57,7 @@
     },
     {
         "name": "Old Site A - Room 0",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 0" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 0" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -71,7 +71,7 @@
     },
     {
         "name": "Old Site A - Room 1",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 1" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 1" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -85,7 +85,7 @@
     },
     {
         "name": "Old Site A - Room d0",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d0" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d0" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -99,7 +99,7 @@
     },
     {
         "name": "Old Site A - Room d7",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d7" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d7" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -113,7 +113,7 @@
     },
     {
         "name": "Old Site A - Room d8",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d8" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d8" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -127,7 +127,7 @@
     },
     {
         "name": "Old Site A - Room d3",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d3" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d3" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -141,7 +141,7 @@
     },
     {
         "name": "Old Site A - Room d2",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d2" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d2" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -155,7 +155,7 @@
     },
     {
         "name": "Old Site A - Room d9",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d9" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d9" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -169,7 +169,7 @@
     },
     {
         "name": "Old Site A - Room d1",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d1" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d1" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -183,7 +183,7 @@
     },
     {
         "name": "Old Site A - Room d6",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d6" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d6" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -197,7 +197,7 @@
     },
     {
         "name": "Old Site A - Room d4",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d4" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d4" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -211,7 +211,7 @@
     },
     {
         "name": "Old Site A - Room d5",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d5" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d5" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -225,7 +225,7 @@
     },
     {
         "name": "Old Site A - Room 3x",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 3x" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 3x" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -239,7 +239,7 @@
     },
     {
         "name": "Old Site A - Room 3",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 3" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 3" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -253,7 +253,7 @@
     },
     {
         "name": "Old Site A - Room 4",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 4" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 4" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -267,7 +267,7 @@
     },
     {
         "name": "Old Site A - Room 5",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 5" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 5" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -281,7 +281,7 @@
     },
     {
         "name": "Old Site A - Room 6",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 6" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 6" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -295,7 +295,7 @@
     },
     {
         "name": "Old Site A - Room 7",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 7" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 7" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -309,7 +309,7 @@
     },
     {
         "name": "Old Site A - Room 8",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 8" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 8" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -323,7 +323,7 @@
     },
     {
         "name": "Old Site A - Room 9",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 9" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 9" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -337,7 +337,7 @@
     },
     {
         "name": "Old Site A - Room 9b",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 9b" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 9b" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -351,7 +351,7 @@
     },
     {
         "name": "Old Site A - Room 10",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 10" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 10" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -365,7 +365,7 @@
     },
     {
         "name": "Old Site A - Room 2",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 2" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 2" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -386,7 +386,7 @@
     },
     {
         "name": "Old Site A - Room 11",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 11" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 11" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -400,7 +400,7 @@
     },
     {
         "name": "Old Site A - Room 12b",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 12b" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 12b" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -414,7 +414,7 @@
     },
     {
         "name": "Old Site A - Room 12c",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 12c" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 12c" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -428,7 +428,7 @@
     },
     {
         "name": "Old Site A - Room 12d",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 12d" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 12d" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -442,7 +442,7 @@
     },
     {
         "name": "Old Site A - Room 12",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 12" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 12" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -456,7 +456,7 @@
     },
     {
         "name": "Old Site A - Room 13",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 13" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 13" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -470,7 +470,7 @@
     },
     {
         "name": "Old Site A - Room end_0",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_0" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_0" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -484,7 +484,7 @@
     },
     {
         "name": "Old Site A - Room end_s0",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_s0" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_s0" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -498,7 +498,7 @@
     },
     {
         "name": "Old Site A - Room end_s1",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_s1" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_s1" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -512,7 +512,7 @@
     },
     {
         "name": "Old Site A - Room end_1",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_1" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_1" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -526,7 +526,7 @@
     },
     {
         "name": "Old Site A - Room end_2",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_2" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_2" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -540,7 +540,7 @@
     },
     {
         "name": "Old Site A - Room end_3",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_3" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_3" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -554,7 +554,7 @@
     },
     {
         "name": "Old Site A - Room end_4",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_4" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_4" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -568,7 +568,7 @@
     },
     {
         "name": "Old Site A - Room end_3b",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_3b" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_3b" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -582,7 +582,7 @@
     },
     {
         "name": "Old Site A - Room end_3cb",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_3cb" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_3cb" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -596,7 +596,7 @@
     },
     {
         "name": "Old Site A - Room end_3c",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_3c" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_3c" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -610,7 +610,7 @@
     },
     {
         "name": "Old Site A - Room end_5",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_5" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_5" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -624,7 +624,7 @@
     },
     {
         "name": "Old Site A - Room end_6",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_6" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_6" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {

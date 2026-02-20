@@ -1,7 +1,7 @@
 [
     {
         "name": "Reflection A - Hollows",
-        "sections": [ { "access_rules": [ "$CanAccess|Reflection A - Hollows" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Hollows" ] } ],
         "map_locations": [
             {
                 "map": "6a-3",
@@ -13,7 +13,7 @@
     },
     {
         "name": "Reflection A - Reflection",
-        "sections": [ { "access_rules": [ "$CanAccess|Reflection A - Reflection" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Reflection" ] } ],
         "map_locations": [
             {
                 "map": "6a-4",
@@ -25,7 +25,7 @@
     },
     {
         "name": "Reflection A - Rock Bottom",
-        "sections": [ { "access_rules": [ "$CanAccess|Reflection A - Rock Bottom" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Rock Bottom" ] } ],
         "map_locations": [
             {
                 "map": "6a-5",
@@ -37,7 +37,7 @@
     },
     {
         "name": "Reflection A - Resolution",
-        "sections": [ { "access_rules": [ "$CanAccess|Reflection A - Resolution" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Resolution" ] } ],
         "map_locations": [
             {
                 "map": "6a-6",

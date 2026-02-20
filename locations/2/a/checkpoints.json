@@ -1,7 +1,7 @@
 [
     {
         "name": "Old Site A - Intervention",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Intervention" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Intervention" ] } ],
         "map_locations": [
             {
                 "map": "2a-2",
@@ -13,7 +13,7 @@
     },
     {
         "name": "Old Site A - Awake",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Awake" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Awake" ] } ],
         "map_locations": [
             {
                 "map": "2a-3",

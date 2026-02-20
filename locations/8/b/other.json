@@ -1,7 +1,7 @@
 [
     {
         "name": "Core B - Level Clear",
-        "sections": [ { "access_rules": [ "$ACCESS_8B,$CanAccess|Core B - Level Clear" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8B,^$CanAccess|Core B - Level Clear" ] } ],
         "visibility_rules": [ "include_core,include_b_sides" ],
         "map_locations": [
             {

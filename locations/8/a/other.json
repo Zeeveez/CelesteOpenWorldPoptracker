@@ -1,7 +1,7 @@
 [
     {
         "name": "Core A - Level Clear",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Level Clear" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Level Clear" ] } ],
         "visibility_rules": [ "include_core" ],
         "map_locations": [
             {
@@ -13,7 +13,7 @@
     },
     {
         "name": "Core A - Cassette",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Cassette" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Cassette" ] } ],
         "visibility_rules": [ "include_core" ],
         "map_locations": [
             {
@@ -25,7 +25,7 @@
     },
     {
         "name": "Core A - Crystal Heart",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Crystal Heart" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Crystal Heart" ] } ],
         "visibility_rules": [ "include_core" ],
         "map_locations": [
             {
@@ -37,7 +37,7 @@
     },
     {
         "name": "Core A - Car",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Car" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Car" ] } ],
         "visibility_rules": [ "include_core,carsanity" ],
         "map_locations": [
             {

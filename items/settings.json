@@ -59,44 +59,6 @@
         ]
     },
     {
-        "name": "Logic",
-        "type": "progressive",
-        "allow_disabled": false,
-        "initial_stage_idx": 1,
-        "stages": [
-            {
-                "img": "images/icons/tech_none.png",
-                "name": "Logic - Randomiser Logic",
-                "codes": "tech_setting"
-            },
-            {
-                "img": "images/icons/tech_beginner.png",
-                "name": "Logic - Beginner",
-                "codes": "tech_setting,techbeginner"
-            },
-            {
-                "img": "images/icons/tech_intermediate.png",
-                "name": "Logic - Intermediate",
-                "codes": "tech_setting,techintermediate"
-            },
-            {
-                "img": "images/icons/tech_advanced.png",
-                "name": "Logic - Advanced",
-                "codes": "tech_setting,techadvanced"
-            },
-            {
-                "img": "images/icons/tech_expert.png",
-                "name": "Logic - Expert",
-                "codes": "tech_setting,techexpert"
-            },
-            {
-                "img": "images/icons/tech_grandmaster.png",
-                "name": "Logic - Grandmaster",
-                "codes": "tech_setting,techgrandmaster"
-            }
-        ]
-    },
-    {
         "name": "Lock Goal Area",
         "type": "toggle",
         "img": "images/icons/key.png",

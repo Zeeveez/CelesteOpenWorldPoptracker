@@ -1,7 +1,7 @@
 [
     {
         "name": "Old Site B - Level Clear",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site B - Level Clear" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site B - Level Clear" ] } ],
         "visibility_rules": [ "include_b_sides" ],
         "map_locations": [
             {

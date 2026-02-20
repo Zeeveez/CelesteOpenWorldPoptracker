@@ -1,7 +1,7 @@
 [
     {
         "name": "Prologue - Level Clear",
-        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Level Clear" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Prologue - Level Clear" ] } ],
         "map_locations": [
             {
                 "map": "prologuea",
@@ -13,7 +13,7 @@
     {
         "name": "Prologue - Car",
         "visibility_rules": [ "carsanity" ],
-        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Car" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Prologue - Car" ] } ],
         "map_locations": [
             {
                 "map": "prologuea",

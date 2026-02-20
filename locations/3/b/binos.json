@@ -1,7 +1,7 @@
 [
     {
         "name": "Celestial Resort B - Room back Binoculars",
-        "sections": [ { "access_rules": [ "$CanAccess|Celestial Resort B - Room back Binoculars" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Celestial Resort B - Room back Binoculars" ] } ],
         "visibility_rules": [ "include_b_sides,binosanity" ],
         "map_locations": [
             {
@@ -14,7 +14,7 @@
     },
     {
         "name": "Celestial Resort B - Room 12 Binoculars",
-        "sections": [ { "access_rules": [ "$CanAccess|Celestial Resort B - Room 12 Binoculars" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Celestial Resort B - Room 12 Binoculars" ] } ],
         "visibility_rules": [ "include_b_sides,binosanity" ],
         "map_locations": [
             {

@@ -1,7 +1,7 @@
 [
     {
         "name": "Prologue - Room -1",
-        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room -1" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Prologue - Room -1" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -15,7 +15,7 @@
     },
     {
         "name": "Prologue - Room 0",
-        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room 0" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Prologue - Room 0" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -29,7 +29,7 @@
     },
     {
         "name": "Prologue - Room 0b",
-        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room 0b" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Prologue - Room 0b" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -43,7 +43,7 @@
     },
     {
         "name": "Prologue - Room 1",
-        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room 1" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Prologue - Room 1" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -57,7 +57,7 @@
     },
     {
         "name": "Prologue - Room 2",
-        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room 2" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Prologue - Room 2" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -71,7 +71,7 @@
     },
     {
         "name": "Prologue - Room 3",
-        "sections": [ { "access_rules": [ "$CanAccess|Prologue - Room 3" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Prologue - Room 3" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {

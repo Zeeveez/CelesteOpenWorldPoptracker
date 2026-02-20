@@ -1,254 +1,254 @@
-from,to,access,notes
-Core A - Level Clear,Core A - Crystal Heart,,"Level Clear == Crystal Heart"
-Farewell - Level Clear,Farewell - Room end-golden_bottom,,"To access end-golden need to be able to finish"
-Farewell - Crystal Heart?,Farewell - Room f-door_west,"include_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two"
-Forsaken City A - Room 2_west,Forsaken City A - Room 2 Strawberry,"tech_beginner",
-Forsaken City A - Room 4_west,Forsaken City A - Room 4_east,"tech_beginner",
-Forsaken City A - Room 5_bottom,Forsaken City A - Room 5_north-west,"tech_intermediate",
-Forsaken City A - Room 5_north-east,Forsaken City A - Room 5_top,"tech_beginner",
-Forsaken City A - Room 5z_east,Forsaken City A - Room 5z Strawberry,"tech_beginner",
-Forsaken City A - Room 5a_west,Forsaken City A - Room 5a Strawberry,"tech_beginner",
-Forsaken City A - Room 6_west,Forsaken City A - Room 6_east,"tech_expert",
-Forsaken City A - Room 6z_east,Forsaken City A - Room 6z_west,"tech_intermediate",
-Forsaken City A - Room 7zb_west,Forsaken City A - Room 7zb_east,"tech_beginner",
-Forsaken City A - Room 7zb_east,Forsaken City A - Room 7zb_west,"tech_intermediate",
-Forsaken City A - Room 6a_west,Forsaken City A - Room 6a_east,"tech_beginner",
-Forsaken City A - Room 6b_south-west,Forsaken City A - Room 6b_north-west,"tech_beginner",
-Forsaken City A - Room 6b_south-west,Forsaken City A - Room 6b_north-east,"tech_beginner",
-Forsaken City A - Room 6c_south-west,Forsaken City A - Room 6c_north-west,"tech_beginner",
-Forsaken City A - Room 6c_south-west,Forsaken City A - Room 6c_north-east,"tech_beginner",
-Forsaken City A - Room 7z_bottom,Forsaken City A - Room 7z Strawberry,"tech_advanced",
-Forsaken City A - Room 8z_bottom,Forsaken City A - Room 8z_top,"tech_beginner",
-Forsaken City A - Room 8zb_west,Forsaken City A - Room 8zb_east,"tech_beginner",
-Forsaken City A - Room 8zb_west,Forsaken City A - Room 8zb Strawberry,"tech_beginner",
-Forsaken City A - Room 7a_east,Forsaken City A - Room 7a Strawberry,"tech_beginner",
-Forsaken City A - Room 9z_east,Forsaken City A - Room 9z Strawberry,"tech_intermediate",
-Forsaken City A - Room 8b_east,Forsaken City A - Room 8b Strawberry,"tech_intermediate",
-Forsaken City A - Room 8b_west,Forsaken City A - Room 8b_east,"tech_expert",
-Forsaken City A - Room 9_east,Forsaken City A - Room 9_west,"tech_intermediate",
-Forsaken City A - Room 9_west,Forsaken City A - Room 9_east,"tech_intermediate",
-Forsaken City A - Room 9_west,Forsaken City A - Room 9 Strawberry,"tech_advanced",
-Forsaken City A - Room 9b_west,Forsaken City A - Room 9b_east,"tech_intermediate",
-Forsaken City A - Room 9b_west,Forsaken City A - Room 9b_north-west,"tech_expert",
-Forsaken City A - Room 9c_west,Forsaken City A - Room 9c Strawberry,"tech_intermediate",
-Forsaken City A - Room 10z_east,Forsaken City A - Room 10z_west,"tech_beginner",
-Forsaken City A - Room 11_south-east,Forsaken City A - Room 11_north,"tech_beginner",
-Forsaken City A - Room 11_south-west,Forsaken City A - Room 11_south,"tech_expert",
-Forsaken City A - Room 11z_east,Forsaken City A - Cassette,"tech_grandmaster",
-Forsaken City A - Room 11z_east,Forsaken City A - Cassette,"tech_intermediate,pink_cassette_blocks",
-Forsaken City A - Room 11z_east,Forsaken City A - Cassette,"tech_intermediate,blue_cassette_blocks",
-Forsaken City A - Room 10a_bottom,Forsaken City A - Room 10a_top,"tech_beginner",
-Forsaken City A - Room 12z_east,Forsaken City A - Room 12z Strawberry,"tech_grandmaster",
-Forsaken City A - Room 12a_bottom,Forsaken City A - Room 12a_top,"tech_expert",
-Forsaken City A - Room end_main,Forsaken City A - Golden Strawberry,"tech_intermediate",
-Forsaken City B - Room 01_west,Forsaken City B - Room 01_east,"tech_advanced",
-Forsaken City B - Room 02_west,Forsaken City B - Room 02_east,"tech_advanced",
-Forsaken City B - Room 03_west,Forsaken City B - Room 03_east,"traffic_blocks,tech_expert",
-Forsaken City B - Room 04_west,Forsaken City B - Room 04_east,"tech_advanced",
-Forsaken City B - Room 05b_west,Forsaken City B - Room 05b_east,"dash_refills,tech_intermediate",
-Forsaken City B - Room 06_west,Forsaken City B - Room 06_east,"springs,tech_advanced",
-Forsaken City B - Room 06_west,Forsaken City B - Room 06_east,"dash_refills,tech_advanced",
-Forsaken City B - Room 08b_west,Forsaken City B - Room 08b_east,"traffic_blocks,tech_advanced",
-Forsaken City B - Room 09_west,Forsaken City B - Room 09_east,"tech_advanced",
-Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"pink_cassette_blocks,tech_intermediate",
-Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"blue_cassette_blocks,tech_intermediate",
-Old Site A - Room 0_south-east,Old Site A - Room 0_north-west,"tech_advanced",
-Old Site A - Room d0_east,Old Site A - Room d0_west,"tech_beginner",
-Old Site A - Room d7_west,Old Site A - Room d7_east,"tech_intermediate",
-Old Site A - Room d8_west,Old Site A - Room d8_south-east,"tech_intermediate",
-Old Site A - Room d9_north-west,Old Site A - Cassette,"dream_blocks,blue_cassette_blocks,tech_advanced",
-Old Site A - Room d4_west,Old Site A - Room d4 Strawberry,"dream_blocks,tech_beginner",
-Old Site A - Room d4_west,Old Site A - Room d4 Strawberry,"traffic_blocks,tech_intermediate",
-Old Site A - Room 8_bottom,Old Site A - Room 8 Strawberry,"tech_beginner",
-Old Site A - Room 9_south,Old Site A - Room 9 Strawberry,"tech_intermediate",
-Old Site A - Room 10_top,Old Site A - Room 10_bottom,"dream_blocks,coins,tech_beginner",
-Old Site A - Room end_3b_west,Old Site A - Room end_3b_north,"tech_beginner",
-Old Site B - Room 08b_west,Old Site B - Room 08b_east,"dream_blocks,tech_beginner",
-Old Site C - Room 02_west,Old Site C - Room 02_goal,"dream_blocks,dash_refills,tech_expert",
-Celestial Resort A - Room 02-a_west,Celestial Resort A - Room 02-a_main,"tech_beginner",
-Celestial Resort A - Room 02-a_top,Celestial Resort A - Room 02-a_west,"tech_beginner",
-Celestial Resort A - Room 02-a_top,Celestial Resort A - Room 02-a_main,"tech_beginner",
-Celestial Resort A - Room 02-a_main,Celestial Resort A - Room 02-a_top,"tech_beginner",
-Celestial Resort A - Room 01-b_east,Celestial Resort A - Room 01-b_north-west,"tech_beginner",
-Celestial Resort A - Room 00-c_south-east,Celestial Resort A - Room 00-c_south-west,"tech_intermediate",
-Celestial Resort A - Room 0x-b_north-east,Celestial Resort A - Room 0x-b_west,"tech_intermediate",
-Celestial Resort A - Room 03-a_west,Celestial Resort A - Room 03-a_east,"tech_intermediate",
-Celestial Resort A - Room 05-a_west,Celestial Resort A - Room 05-a_east,"moving_platforms,tech_beginner",
-Celestial Resort A - Room 05-a_west,Celestial Resort A - Room 05-a_east,"dash_refills,tech_beginner",
-Celestial Resort A - Room 05-a_east,Celestial Resort A - Room 05-a_west,"moving_platforms,tech_beginner",
-Celestial Resort A - Room 05-a_east,Celestial Resort A - Room 05-a_west,"dash_refills,tech_beginner",
-Celestial Resort A - Room 07-a_west,Celestial Resort A - Room 07-a_east,"Hallway Key 2,tech_beginner",
-Celestial Resort A - Room 07-a_east,Celestial Resort A - Room 07-a_west,"Hallway Key 2,tech_beginner",
-Celestial Resort A - Room 08-c_west,Celestial Resort A - Room 08-c_east,"coins,tech_beginner",
-Celestial Resort A - Room 08-b_east,Celestial Resort A - Room 08-b_west,"sinking_platforms,dash_refills",
-Celestial Resort A - Room 08-b_east,Celestial Resort A - Room 08-b_west,"sinking_platforms,tech_intermediate",
-Celestial Resort A - Room 11-z_west,Celestial Resort A - Room 11-z_east,"tech_beginner",
-Celestial Resort A - Room 11-z_east,Celestial Resort A - Room 11-z_west,"tech_beginner",
-Celestial Resort A - Room 10-z_bottom,Celestial Resort A - Room 10-z_top,"tech_expert",
-Celestial Resort A - Room 03-b_west,Celestial Resort A - Room 03-b Strawberry 2,"tech_beginner",
-Celestial Resort A - Room 01-c_east,Celestial Resort A - Cassette,"pink_cassette_blocks,tech_intermediate",
-Celestial Resort A - Room 01-c_east,Celestial Resort A - Cassette,"blue_cassette_blocks,tech_grandmaster",
-Celestial Resort A - Room roof01_west,Celestial Resort A - Room roof01_east,"tech_intermediate",
-Celestial Resort A - Room roof03_west,Celestial Resort A - Room roof03_east,"coins,tech_beginner",
-Celestial Resort B - Room 04_west,Celestial Resort B - Room 04_east,"springs,tech_advanced",
-Celestial Resort B - Room 12_west,Celestial Resort B - Room 12_east,"tech_intermediate",
-Celestial Resort B - Room 17_west,Celestial Resort B - Room 17_east,"dash_refills,tech_beginner",
-Celestial Resort B - Room 17_west,Celestial Resort B - Room 17_east,"tech_advanced",
-Celestial Resort B - Room end_west,Celestial Resort B - Room end_goal,"blue_cassette_blocks,springs,tech_intermediate,coins",
-Celestial Resort B - Room end_west,Celestial Resort B - Room end_goal,"pink_cassette_blocks,springs,tech_intermediate,coins",
-Celestial Resort B - Room end_west,Celestial Resort B - Room end_goal,"tech_grandmaster",
-Golden Ridge A - Room a-00_west,Golden Ridge A - Room a-00_east,"tech_intermediate",
-Golden Ridge A - Room a-01_west,Golden Ridge A - Room a-01_east,"tech_advanced",
-Golden Ridge A - Room a-01x_west,Golden Ridge A - Room a-01x_east,"tech_beginner",
-Golden Ridge A - Room a-01x_east,Golden Ridge A - Room a-01x_west,"tech_beginner",
-Golden Ridge A - Room a-04_west,Golden Ridge A - Room a-04_east,"blue_clouds,tech_beginner",
-Golden Ridge A - Room a-04_west,Golden Ridge A - Room a-04_east,"pink_clouds,tech_beginner",
-Golden Ridge A - Room a-04_west,Golden Ridge A - Room a-04_east,"tech_intermediate",
-Golden Ridge A - Room a-04_east,Golden Ridge A - Room a-04_west,"tech_beginner",
-Golden Ridge A - Room a-05_west,Golden Ridge A - Room a-05_east,"tech_grandmaster",
-Golden Ridge A - Room a-05_east,Golden Ridge A - Room a-05_west,"tech_beginner",
-Golden Ridge A - Room a-08_west,Golden Ridge A - Room a-08_north-west,"blue_clouds,tech_beginner",
-Golden Ridge A - Room a-11_east,Golden Ridge A - Cassette,"blue_cassette_blocks,tech_advanced",
-Golden Ridge A - Room b-00_south,Golden Ridge A - Room b-00_west,"tech_beginner",
-Golden Ridge A - Room b-00_south,Golden Ridge A - Room b-00_east,"tech_beginner",
-Golden Ridge A - Room b-00_south,Golden Ridge A - Room b-00_north-east,"tech_advanced",
-Golden Ridge A - Room b-01_west,Golden Ridge A - Room b-01 Strawberry 1,"tech_intermediate",
-Golden Ridge A - Room b-01_west,Golden Ridge A - Room b-01 Strawberry 2,"tech_intermediate",
-Golden Ridge A - Room b-04_east,Golden Ridge A - Room b-04_west,"tech_grandmaster",
-Golden Ridge A - Room b-06_east,Golden Ridge A - Room b-06_west,"move_blocks,tech_expert",
-Golden Ridge A - Room b-06_east,Golden Ridge A - Room b-06_west,"blue_boosters,tech_advanced",
-Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07_east,"tech_expert",
-Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07_east,"move_blocks,tech_intermediate",
-Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07 Strawberry,"tech_expert",
-Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07 Strawberry,"move_blocks,tech_intermediate",
-Golden Ridge A - Room b-03_west,Golden Ridge A - Room b-03 Strawberry,"tech_grandmaster",
-Golden Ridge A - Room b-02_south-west,Golden Ridge A - Room b-02 Strawberry 1,"tech_intermediate",
-Golden Ridge A - Room b-sec_west,Golden Ridge A - Crystal Heart,"tech_grandmaster",
-Golden Ridge A - Room b-05_center,Golden Ridge A - Room b-05_west,"pink_clouds,tech_expert",
-Golden Ridge A - Room b-05_east,Golden Ridge A - Room b-05_north-east,"tech_expert",
-Golden Ridge A - Room b-08b_west,Golden Ridge A - Room b-08b_east,"tech_intermediate",
-Golden Ridge A - Room b-08b_east,Golden Ridge A - Room b-08b_west,"tech_intermediate",
-Golden Ridge A - Room b-08_west,Golden Ridge A - Room b-08_east,"tech_grandmaster",
-Golden Ridge A - Room b-08_west,Golden Ridge A - Room b-08 Strawberry,"tech_intermediate",
-Golden Ridge A - Room c-06_bottom,Golden Ridge A - Room c-06_west,"move_blocks,blue_boosters,tech_beginner",
-Golden Ridge A - Room c-06_bottom,Golden Ridge A - Room c-06_west,"blue_clouds,blue_boosters,tech_advanced",
-Golden Ridge A - Room c-06_west,Golden Ridge A - Room c-06_top,"tech_beginner",
-Golden Ridge A - Room c-06_west,Golden Ridge A - Room c-06 Strawberry,"coins,tech_intermediate",
-Golden Ridge A - Room c-06_west,Golden Ridge A - Room c-06 Strawberry,"tech_advanced",
-Golden Ridge A - Room c-06b_east,Golden Ridge A - Room c-06b Strawberry,"tech_advanced",
-Golden Ridge A - Room c-09_west,Golden Ridge A - Room c-09_east,"tech_grandmaster",
-Golden Ridge A - Room d-02_west,Golden Ridge A - Room d-02_east,"move_blocks,coins,pink_clouds,tech_advanced",
-Golden Ridge A - Room d-06_west,Golden Ridge A - Room d-06_east,"tech_advanced",
-Golden Ridge A - Room d-07_west,Golden Ridge A - Room d-07 Strawberry,"tech_intermediate",
-Golden Ridge B - Room a-03_west,Golden Ridge B - Room a-03_east,"move_blocks,blue_boosters,tech_beginner",
-Golden Ridge B - Room b-00_west,Golden Ridge B - Room b-00_east,"tech_intermediate",
-Mirror Temple A - Room a-02_west,Mirror Temple A - Room a-02 Strawberry,"tech_intermediate",
-Mirror Temple A - Room a-04_east,Mirror Temple A - Room a-04 Strawberry,"swap_blocks,tech_advanced",
-Mirror Temple A - Room a-07_east,Mirror Temple A - Room a-07 Strawberry,"tech_intermediate",
-Mirror Temple A - Room a-08_center,Mirror Temple A - Room a-08_north-east,"swap_blocks,tech_advanced",
-Mirror Temple A - Room a-10_east,Mirror Temple A - Room a-10_west,"tech_intermediate",
-Mirror Temple A - Room a-09_west,Mirror Temple A - Room a-09_east,"tech_intermediate",
-Mirror Temple A - Room a-09_east,Mirror Temple A - Room a-09_west,"tech_intermediate",
-Mirror Temple A - Room a-11_east,Mirror Temple A - Room a-11 Strawberry,"swap_blocks,tech_intermediate",
-Mirror Temple A - Room a-14_south,Mirror Temple A - Room a-14 Strawberry,"tech_intermediate",
-Mirror Temple A - Room b-01_center,Mirror Temple A - Room b-01_west,"tech_beginner",
-Mirror Temple A - Room b-01_center,Mirror Temple A - Room b-01_east,"tech_beginner",
-Mirror Temple A - Room b-01_west,Mirror Temple A - Room b-01_center,"tech_beginner",
-Mirror Temple A - Room b-01c_west,Mirror Temple A - Room b-01c_east,"tech_intermediate",
-Mirror Temple A - Room b-21_east,Mirror Temple A - Room b-21 Strawberry,"red_boosters,tech_beginner",
-Mirror Temple A - Room b-01b_west,Mirror Temple A - Room b-01b_east,"tech_intermediate",
-Mirror Temple A - Room b-01b_east,Mirror Temple A - Room b-01b_west,"tech_intermediate",
-Mirror Temple A - Room b-02_center,Mirror Temple A - Room b-02_north-west,"tech_advanced",
-Mirror Temple A - Room b-02_center,Mirror Temple A - Room b-02_north-east,"tech_beginner",
-Mirror Temple A - Room b-02_center,Mirror Temple A - Room b-02_east-lower,"tech_beginner",
-Mirror Temple A - Room b-07_south,Mirror Temple A - Room b-07_north,"tech_beginner",
-Mirror Temple A - Room b-08_west,Mirror Temple A - Room b-08_east,"tech_advanced",
-Mirror Temple A - Room b-09_north,Mirror Temple A - Room b-09_south,"red_boosters,tech_intermediate",
-Mirror Temple A - Room b-12_east,Mirror Temple A - Room b-12 Strawberry,"tech_intermediate",
-Mirror Temple A - Room b-13_west,Mirror Temple A - Room b-13_east,"dash_switches,tech_beginner",
-Mirror Temple A - Room b-22_west,Mirror Temple A - Cassette,"red_boosters,pink_cassette_blocks,tech_intermediate",
-Mirror Temple A - Room b-19_west,Mirror Temple A - Room b-19_east,"red_boosters,tech_beginner",
-Mirror Temple A - Room b-15_west,Mirror Temple A - Crystal Heart,"tech_intermediate",
-Mirror Temple A - Room c-01b_west,Mirror Temple A - Room c-01b_east,"swap_blocks,dash_switches,tech_intermediate",
-Mirror Temple A - Room c-01b_west,Mirror Temple A - Room c-01b_east,"red_boosters,dash_switches,tech_grandmaster",
-Mirror Temple A - Room d-09_east,Mirror Temple A - Room d-09_west,"red_boosters,swap_blocks,tech_beginner",
-Mirror Temple A - Room d-04_east,Mirror Temple A - Room d-04_west,"tech_advanced",
-Mirror Temple A - Room d-04_south-east,Mirror Temple A - Room d-04 Strawberry 2,"red_boosters,tech_expert",
-Mirror Temple A - Room d-05_north,Mirror Temple A - Room d-05_west,"tech_intermediate",
-Mirror Temple A - Room d-06_south-west,Mirror Temple A - Room d-06_north-west,"tech_beginner",
-Mirror Temple A - Room d-02_east,Mirror Temple A - Room d-02_west,"tech_beginner",
-Mirror Temple A - Room d-03_east,Mirror Temple A - Room d-03_west,"coins,tech_grandmaster",
-Mirror Temple A - Room d-19_east,Mirror Temple A - Room d-19_west,"swap_blocks,tech_intermediate",
-Mirror Temple A - Room d-10_west,Mirror Temple A - Room d-10_east,"tech_intermediate",
-Mirror Temple A - Room e-01_west,Mirror Temple A - Room e-01_east,"theo_crystal,tech_expert",
-Mirror Temple A - Room e-06_west,Mirror Temple A - Room e-06_east,"theo_crystal,dash_switches",
-Mirror Temple A - Room e-05_west,Mirror Temple A - Room e-05_east,"theo_crystal,coins,tech_advanced",
-Mirror Temple A - Room e-09_west,Mirror Temple A - Room e-09_east,"theo_crystal,tech_expert",
-Mirror Temple A - Room e-10_west,Mirror Temple A - Room e-10_east,"theo_crystal,tech_intermediate",
-Mirror Temple B - Room b-03_main,Mirror Temple B - Room b-03_north,"tech_advanced",
-Mirror Temple B - Room b-08_east,Mirror Temple B - Room b-08_north,"swap_blocks,springs,tech_grandmaster",
-Mirror Temple B - Room c-04_west,Mirror Temple B - Room c-04_east,"tech_intermediate",
-Mirror Temple B - Room d-01_west,Mirror Temple B - Room d-01_east,"theo_crystal,dash_switches,tech_expert",
-Reflection A - Room 00_east,Reflection A - Room 00_west,"tech_beginner",
-Reflection A - Room 04_south-west,Reflection A - Room 04_east,"tech_advanced",
-Reflection A - Room 04_east,Reflection A - Room 04_north-west,"tech_advanced",
-Reflection A - Room 04e_east,Reflection A - Cassette,"pink_cassette_blocks,dash_refills,tech_intermediate",
-Reflection A - Room 08b_west,Reflection A - Room 08b_east,"feathers,tech_intermediate",
-Reflection A - Room 10a_west,Reflection A - Room 10a_east,"feathers,tech_beginner",
-Reflection A - Room 10b_west,Reflection A - Room 10b_east,"tech_intermediate",
-Reflection A - Room 10b_east,Reflection A - Room 10b_west,"tech_intermediate",
-Reflection A - Room 11_north-west,Reflection A - Room 11_north-east,"tech_intermediate",
-Reflection A - Room 12b_west,Reflection A - Room 12b_east,"bumpers,tech_intermediate",
-Reflection A - Room 12b_west,Reflection A - Room 12b_east,"kevins,tech_expert",
-Reflection A - Room 14a_west,Reflection A - Room 14a_east,"bumpers,tech_beginner",
-Reflection A - Room 14b_west,Reflection A - Room 14b_east,"coins,bumpers,tech_beginner",
-Reflection A - Room 17_north-west,Reflection A - Room 17_north-east,"tech_intermediate",
-Reflection A - Room boss-02_west,Reflection A - Room boss-02_east,"tech_beginner",
-Reflection A - Room boss-07_west,Reflection A - Room boss-07_east,"tech_beginner",
-Reflection A - Room boss-08_west,Reflection A - Room boss-08_east,"tech_beginner",
-Reflection A - Room boss-11_west,Reflection A - Room boss-11_east,"tech_beginner",
-Reflection A - Room boss-12_west,Reflection A - Room boss-12_east,"tech_beginner",
-Reflection A - Room boss-19_west,Reflection A - Room boss-19_east,"feathers,tech_beginner",
-The Summit A - Room a-01_west,The Summit A - Room a-01_east,"tech_intermediate",
-The Summit A - Room a-02_west,The Summit A - Room a-02_north,"tech_intermediate",
-The Summit A - Room a-04_west,The Summit A - Room a-04_east,"tech_advanced",
-The Summit A - Room a-05_west,The Summit A - Room a-05_east,"tech_advanced",
-The Summit A - Room a-05_west,The Summit A - Room a-05 Strawberry,"tech_advanced",
-The Summit A - Room a-05_east,The Summit A - Room a-05_west,"tech_advanced",
-The Summit A - Room b-00_bottom,The Summit A - Room b-00_top,"tech_intermediate",
-The Summit A - Room b-01_west,The Summit A - Room b-01_east,"springs,tech_intermediate",
-The Summit A - Room b-02e_east,The Summit A - Room b-02e Strawberry,"tech_intermediate",
-The Summit A - Room b-02c_west,The Summit A - Room b-02c_east,"dash_refills,tech_intermediate",
-The Summit A - Room b-03_east,The Summit A - Room b-03_north,"traffic_blocks,tech_intermediate",
-The Summit A - Room b-05_west,The Summit A - Room b-05_east,"coins,dash_refills,tech_intermediate",
-The Summit A - Room b-06_west,The Summit A - Room b-06_east,"tech_advanced",
-The Summit A - Room b-07_west,The Summit A - Room b-07_east,"tech_intermediate",
-The Summit A - Room c-03b_east,The Summit A - Room c-03b Strawberry,"dream_blocks,tech_advanced",
-The Summit A - Room d-00_bottom,The Summit A - Room d-00 Strawberry,"tech_intermediate",
-The Summit A - Room d-05_west,The Summit A - Room d-05_east,"coins,tech_beginner",
-The Summit A - Room d-07_east,The Summit A - Room d-07 Strawberry,"tech_intermediate",
-The Summit A - Room d-08_west,The Summit A - Room d-08_east,"tech_intermediate",
-The Summit A - Room d-08_east,The Summit A - Room d-08_west,"tech_intermediate",
-The Summit A - Room e-08_south,The Summit A - Room e-08_east,"tech_beginner",
-The Summit A - Room e-11_south,The Summit A - Room e-11_east,"blue_boosters,tech_expert",
-The Summit A - Room e-10b_west,The Summit A - Room e-10b_east,"dash_refills,springs,tech_intermediate",
-The Summit A - Room f-02_west,The Summit A - Room f-02_east,"tech_intermediate",
-The Summit A - Room f-03_west,The Summit A - Room f-03_east,"tech_intermediate",
-The Summit A - Room f-03_east,The Summit A - Room f-03_west,"tech_intermediate",
-The Summit A - Room f-07_south-east,The Summit A - 2500 M Key,"tech_grandmaster",
-The Summit A - Room f-08_west,The Summit A - Room f-08_east,"swap_blocks,red_boosters,tech_intermediate",
-The Summit A - Room f-08d_west,The Summit A - Room f-08d_east,"dash_switches,tech_intermediate",
-The Summit A - Room f-08c_west,The Summit A - Room f-08c_east,"swap_blocks,tech_intermediate",
-The Summit A - Room f-10_west,The Summit A - Room f-10_east,"tech_intermediate",
-The Summit A - Room f-10b_west,The Summit A - Room f-10b_east,"springs,dash_refills,tech_expert",
-The Summit A - Room g-00_bottom,The Summit A - Room g-00_top,"tech_advanced",
-The Summit A - Room g-00b_c24,The Summit A - Room g-00b Strawberry 2,"tech_intermediate",
-The Summit A - Room g-01_bottom,The Summit A - Room g-01_c18,"tech_beginner",
-The Summit A - Room g-02_bottom,The Summit A - Room g-02_top,"tech_intermediate",
-The Summit B - Room a-00_west,The Summit B - Room a-00_east,"tech_beginner",
-The Summit B - Room d-00_west,The Summit B - Room d-00_east,"tech_beginner",
-The Summit B - Room e-00_west,The Summit B - Room e-00_east,"blue_clouds,tech_beginner",
-Core A - Room a-00_west,Core A - Room a-00_east,"tech_intermediate",
-Core A - Room a-01_west,Core A - Room a-01_east,"tech_beginner",
-Core A - Room a-02_west,Core A - Room a-02_east,"tech_advanced",
-Core A - Room b-01_west,Core A - Room b-01_east,"tech_intermediate",
+from,to,access,notes,custom
+Core A - Level Clear,Core A - Crystal Heart,,"Level Clear == Crystal Heart",false
+Farewell - Level Clear,Farewell - Room end-golden_bottom,,"To access end-golden need to be able to finish",false
+Farewell - Crystal Heart?,Farewell - Room f-door_west,"include_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two",false
+Forsaken City A - Room 2_west,Forsaken City A - Room 2 Strawberry,,,true
+Forsaken City A - Room 4_west,Forsaken City A - Room 4_east,,,true
+Forsaken City A - Room 5_bottom,Forsaken City A - Room 5_north-west,,,true
+Forsaken City A - Room 5_north-east,Forsaken City A - Room 5_top,,,true
+Forsaken City A - Room 5z_east,Forsaken City A - Room 5z Strawberry,,,true
+Forsaken City A - Room 5a_west,Forsaken City A - Room 5a Strawberry,,,true
+Forsaken City A - Room 6_west,Forsaken City A - Room 6_east,,,true
+Forsaken City A - Room 6z_east,Forsaken City A - Room 6z_west,,,true
+Forsaken City A - Room 7zb_west,Forsaken City A - Room 7zb_east,,,true
+Forsaken City A - Room 7zb_east,Forsaken City A - Room 7zb_west,,,true
+Forsaken City A - Room 6a_west,Forsaken City A - Room 6a_east,,,true
+Forsaken City A - Room 6b_south-west,Forsaken City A - Room 6b_north-west,,,true
+Forsaken City A - Room 6b_south-west,Forsaken City A - Room 6b_north-east,,,true
+Forsaken City A - Room 6c_south-west,Forsaken City A - Room 6c_north-west,,,true
+Forsaken City A - Room 6c_south-west,Forsaken City A - Room 6c_north-east,,,true
+Forsaken City A - Room 7z_bottom,Forsaken City A - Room 7z Strawberry,,,true
+Forsaken City A - Room 8z_bottom,Forsaken City A - Room 8z_top,,,true
+Forsaken City A - Room 8zb_west,Forsaken City A - Room 8zb_east,,,true
+Forsaken City A - Room 8zb_west,Forsaken City A - Room 8zb Strawberry,,,true
+Forsaken City A - Room 7a_east,Forsaken City A - Room 7a Strawberry,,,true
+Forsaken City A - Room 9z_east,Forsaken City A - Room 9z Strawberry,,,true
+Forsaken City A - Room 8b_east,Forsaken City A - Room 8b Strawberry,,,true
+Forsaken City A - Room 8b_west,Forsaken City A - Room 8b_east,,,true
+Forsaken City A - Room 9_east,Forsaken City A - Room 9_west,,,true
+Forsaken City A - Room 9_west,Forsaken City A - Room 9_east,,,true
+Forsaken City A - Room 9_west,Forsaken City A - Room 9 Strawberry,,,true
+Forsaken City A - Room 9b_west,Forsaken City A - Room 9b_east,,,true
+Forsaken City A - Room 9b_west,Forsaken City A - Room 9b_north-west,,,true
+Forsaken City A - Room 9c_west,Forsaken City A - Room 9c Strawberry,,,true
+Forsaken City A - Room 10z_east,Forsaken City A - Room 10z_west,,,true
+Forsaken City A - Room 11_south-east,Forsaken City A - Room 11_north,,,true
+Forsaken City A - Room 11_south-west,Forsaken City A - Room 11_south,,,true
+Forsaken City A - Room 11z_east,Forsaken City A - Cassette,,,true
+Forsaken City A - Room 11z_east,Forsaken City A - Cassette,"pink_cassette_blocks",,true
+Forsaken City A - Room 11z_east,Forsaken City A - Cassette,"blue_cassette_blocks",,true
+Forsaken City A - Room 10a_bottom,Forsaken City A - Room 10a_top,,,true
+Forsaken City A - Room 12z_east,Forsaken City A - Room 12z Strawberry,,,true
+Forsaken City A - Room 12a_bottom,Forsaken City A - Room 12a_top,,,true
+Forsaken City A - Room end_main,Forsaken City A - Golden Strawberry,,,true
+Forsaken City B - Room 01_west,Forsaken City B - Room 01_east,,,true
+Forsaken City B - Room 02_west,Forsaken City B - Room 02_east,,,true
+Forsaken City B - Room 03_west,Forsaken City B - Room 03_east,"traffic_blocks",,true
+Forsaken City B - Room 04_west,Forsaken City B - Room 04_east,,,true
+Forsaken City B - Room 05b_west,Forsaken City B - Room 05b_east,"dash_refills",,true
+Forsaken City B - Room 06_west,Forsaken City B - Room 06_east,"springs",,true
+Forsaken City B - Room 06_west,Forsaken City B - Room 06_east,"dash_refills",,true
+Forsaken City B - Room 08b_west,Forsaken City B - Room 08b_east,"traffic_blocks",,true
+Forsaken City B - Room 09_west,Forsaken City B - Room 09_east,,,true
+Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"pink_cassette_blocks",,true
+Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"blue_cassette_blocks",,true
+Old Site A - Room 0_south-east,Old Site A - Room 0_north-west,,,true
+Old Site A - Room d0_east,Old Site A - Room d0_west,,,true
+Old Site A - Room d7_west,Old Site A - Room d7_east,,,true
+Old Site A - Room d8_west,Old Site A - Room d8_south-east,,,true
+Old Site A - Room d9_north-west,Old Site A - Cassette,"dream_blocks,blue_cassette_blocks",,true
+Old Site A - Room d4_west,Old Site A - Room d4 Strawberry,"dream_blocks",,true
+Old Site A - Room d4_west,Old Site A - Room d4 Strawberry,"traffic_blocks",,true
+Old Site A - Room 8_bottom,Old Site A - Room 8 Strawberry,,,true
+Old Site A - Room 9_south,Old Site A - Room 9 Strawberry,,,true
+Old Site A - Room 10_top,Old Site A - Room 10_bottom,"dream_blocks,coins",,true
+Old Site A - Room end_3b_west,Old Site A - Room end_3b_north,,,true
+Old Site B - Room 08b_west,Old Site B - Room 08b_east,"dream_blocks",,true
+Old Site C - Room 02_west,Old Site C - Room 02_goal,"dream_blocks,dash_refills",,true
+Celestial Resort A - Room 02-a_west,Celestial Resort A - Room 02-a_main,,,true
+Celestial Resort A - Room 02-a_top,Celestial Resort A - Room 02-a_west,,,true
+Celestial Resort A - Room 02-a_top,Celestial Resort A - Room 02-a_main,,,true
+Celestial Resort A - Room 02-a_main,Celestial Resort A - Room 02-a_top,,,true
+Celestial Resort A - Room 01-b_east,Celestial Resort A - Room 01-b_north-west,,,true
+Celestial Resort A - Room 00-c_south-east,Celestial Resort A - Room 00-c_south-west,,,true
+Celestial Resort A - Room 0x-b_north-east,Celestial Resort A - Room 0x-b_west,,,true
+Celestial Resort A - Room 03-a_west,Celestial Resort A - Room 03-a_east,,,true
+Celestial Resort A - Room 05-a_west,Celestial Resort A - Room 05-a_east,"moving_platforms",,true
+Celestial Resort A - Room 05-a_west,Celestial Resort A - Room 05-a_east,"dash_refills",,true
+Celestial Resort A - Room 05-a_east,Celestial Resort A - Room 05-a_west,"moving_platforms",,true
+Celestial Resort A - Room 05-a_east,Celestial Resort A - Room 05-a_west,"dash_refills",,true
+Celestial Resort A - Room 07-a_west,Celestial Resort A - Room 07-a_east,"Hallway Key 2",,true
+Celestial Resort A - Room 07-a_east,Celestial Resort A - Room 07-a_west,"Hallway Key 2",,true
+Celestial Resort A - Room 08-c_west,Celestial Resort A - Room 08-c_east,"coins",,true
+Celestial Resort A - Room 08-b_east,Celestial Resort A - Room 08-b_west,"sinking_platforms,dash_refills",,true
+Celestial Resort A - Room 08-b_east,Celestial Resort A - Room 08-b_west,"sinking_platforms",,true
+Celestial Resort A - Room 11-z_west,Celestial Resort A - Room 11-z_east,,,true
+Celestial Resort A - Room 11-z_east,Celestial Resort A - Room 11-z_west,,,true
+Celestial Resort A - Room 10-z_bottom,Celestial Resort A - Room 10-z_top,,,true
+Celestial Resort A - Room 03-b_west,Celestial Resort A - Room 03-b Strawberry 2,,,true
+Celestial Resort A - Room 01-c_east,Celestial Resort A - Cassette,"pink_cassette_blocks",,true
+Celestial Resort A - Room 01-c_east,Celestial Resort A - Cassette,"blue_cassette_blocks",,true
+Celestial Resort A - Room roof01_west,Celestial Resort A - Room roof01_east,,,true
+Celestial Resort A - Room roof03_west,Celestial Resort A - Room roof03_east,"coins",,true
+Celestial Resort B - Room 04_west,Celestial Resort B - Room 04_east,"springs",,true
+Celestial Resort B - Room 12_west,Celestial Resort B - Room 12_east,,,true
+Celestial Resort B - Room 17_west,Celestial Resort B - Room 17_east,"dash_refills",,true
+Celestial Resort B - Room 17_west,Celestial Resort B - Room 17_east,,,true
+Celestial Resort B - Room end_west,Celestial Resort B - Room end_goal,"blue_cassette_blocks,springs,coins",,true
+Celestial Resort B - Room end_west,Celestial Resort B - Room end_goal,"pink_cassette_blocks,springs,coins",,true
+Celestial Resort B - Room end_west,Celestial Resort B - Room end_goal,,,true
+Golden Ridge A - Room a-00_west,Golden Ridge A - Room a-00_east,,,true
+Golden Ridge A - Room a-01_west,Golden Ridge A - Room a-01_east,,,true
+Golden Ridge A - Room a-01x_west,Golden Ridge A - Room a-01x_east,,,true
+Golden Ridge A - Room a-01x_east,Golden Ridge A - Room a-01x_west,,,true
+Golden Ridge A - Room a-04_west,Golden Ridge A - Room a-04_east,"blue_clouds",,true
+Golden Ridge A - Room a-04_west,Golden Ridge A - Room a-04_east,"pink_clouds",,true
+Golden Ridge A - Room a-04_west,Golden Ridge A - Room a-04_east,,,true
+Golden Ridge A - Room a-04_east,Golden Ridge A - Room a-04_west,,,true
+Golden Ridge A - Room a-05_west,Golden Ridge A - Room a-05_east,,,true
+Golden Ridge A - Room a-05_east,Golden Ridge A - Room a-05_west,,,true
+Golden Ridge A - Room a-08_west,Golden Ridge A - Room a-08_north-west,"blue_clouds",,true
+Golden Ridge A - Room a-11_east,Golden Ridge A - Cassette,"blue_cassette_blocks",,true
+Golden Ridge A - Room b-00_south,Golden Ridge A - Room b-00_west,,,true
+Golden Ridge A - Room b-00_south,Golden Ridge A - Room b-00_east,,,true
+Golden Ridge A - Room b-00_south,Golden Ridge A - Room b-00_north-east,,,true
+Golden Ridge A - Room b-01_west,Golden Ridge A - Room b-01 Strawberry 1,,,true
+Golden Ridge A - Room b-01_west,Golden Ridge A - Room b-01 Strawberry 2,,,true
+Golden Ridge A - Room b-04_east,Golden Ridge A - Room b-04_west,,,true
+Golden Ridge A - Room b-06_east,Golden Ridge A - Room b-06_west,"move_blocks",,true
+Golden Ridge A - Room b-06_east,Golden Ridge A - Room b-06_west,"blue_boosters",,true
+Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07_east,,,true
+Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07_east,"move_blocks",,true
+Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07 Strawberry,,,true
+Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07 Strawberry,"move_blocks",,true
+Golden Ridge A - Room b-03_west,Golden Ridge A - Room b-03 Strawberry,,,true
+Golden Ridge A - Room b-02_south-west,Golden Ridge A - Room b-02 Strawberry 1,,,true
+Golden Ridge A - Room b-sec_west,Golden Ridge A - Crystal Heart,,,true
+Golden Ridge A - Room b-05_center,Golden Ridge A - Room b-05_west,"pink_clouds",,true
+Golden Ridge A - Room b-05_east,Golden Ridge A - Room b-05_north-east,,,true
+Golden Ridge A - Room b-08b_west,Golden Ridge A - Room b-08b_east,,,true
+Golden Ridge A - Room b-08b_east,Golden Ridge A - Room b-08b_west,,,true
+Golden Ridge A - Room b-08_west,Golden Ridge A - Room b-08_east,,,true
+Golden Ridge A - Room b-08_west,Golden Ridge A - Room b-08 Strawberry,,,true
+Golden Ridge A - Room c-06_bottom,Golden Ridge A - Room c-06_west,"move_blocks,blue_boosters",,true
+Golden Ridge A - Room c-06_bottom,Golden Ridge A - Room c-06_west,"blue_clouds,blue_boosters",,true
+Golden Ridge A - Room c-06_west,Golden Ridge A - Room c-06_top,,,true
+Golden Ridge A - Room c-06_west,Golden Ridge A - Room c-06 Strawberry,"coins",,true
+Golden Ridge A - Room c-06_west,Golden Ridge A - Room c-06 Strawberry,,,true
+Golden Ridge A - Room c-06b_east,Golden Ridge A - Room c-06b Strawberry,,,true
+Golden Ridge A - Room c-09_west,Golden Ridge A - Room c-09_east,,,true
+Golden Ridge A - Room d-02_west,Golden Ridge A - Room d-02_east,"move_blocks,coins,pink_clouds",,true
+Golden Ridge A - Room d-06_west,Golden Ridge A - Room d-06_east,,,true
+Golden Ridge A - Room d-07_west,Golden Ridge A - Room d-07 Strawberry,,,true
+Golden Ridge B - Room a-03_west,Golden Ridge B - Room a-03_east,"move_blocks,blue_boosters",,true
+Golden Ridge B - Room b-00_west,Golden Ridge B - Room b-00_east,,,true
+Mirror Temple A - Room a-02_west,Mirror Temple A - Room a-02 Strawberry,,,true
+Mirror Temple A - Room a-04_east,Mirror Temple A - Room a-04 Strawberry,"swap_blocks",,true
+Mirror Temple A - Room a-07_east,Mirror Temple A - Room a-07 Strawberry,,,true
+Mirror Temple A - Room a-08_center,Mirror Temple A - Room a-08_north-east,"swap_blocks",,true
+Mirror Temple A - Room a-10_east,Mirror Temple A - Room a-10_west,,,true
+Mirror Temple A - Room a-09_west,Mirror Temple A - Room a-09_east,,,true
+Mirror Temple A - Room a-09_east,Mirror Temple A - Room a-09_west,,,true
+Mirror Temple A - Room a-11_east,Mirror Temple A - Room a-11 Strawberry,"swap_blocks",,true
+Mirror Temple A - Room a-14_south,Mirror Temple A - Room a-14 Strawberry,,,true
+Mirror Temple A - Room b-01_center,Mirror Temple A - Room b-01_west,,,true
+Mirror Temple A - Room b-01_center,Mirror Temple A - Room b-01_east,,,true
+Mirror Temple A - Room b-01_west,Mirror Temple A - Room b-01_center,,,true
+Mirror Temple A - Room b-01c_west,Mirror Temple A - Room b-01c_east,,,true
+Mirror Temple A - Room b-21_east,Mirror Temple A - Room b-21 Strawberry,"red_boosters",,true
+Mirror Temple A - Room b-01b_west,Mirror Temple A - Room b-01b_east,,,true
+Mirror Temple A - Room b-01b_east,Mirror Temple A - Room b-01b_west,,,true
+Mirror Temple A - Room b-02_center,Mirror Temple A - Room b-02_north-west,,,true
+Mirror Temple A - Room b-02_center,Mirror Temple A - Room b-02_north-east,,,true
+Mirror Temple A - Room b-02_center,Mirror Temple A - Room b-02_east-lower,,,true
+Mirror Temple A - Room b-07_south,Mirror Temple A - Room b-07_north,,,true
+Mirror Temple A - Room b-08_west,Mirror Temple A - Room b-08_east,,,true
+Mirror Temple A - Room b-09_north,Mirror Temple A - Room b-09_south,"red_boosters",,true
+Mirror Temple A - Room b-12_east,Mirror Temple A - Room b-12 Strawberry,,,true
+Mirror Temple A - Room b-13_west,Mirror Temple A - Room b-13_east,"dash_switches",,true
+Mirror Temple A - Room b-22_west,Mirror Temple A - Cassette,"red_boosters,pink_cassette_blocks",,true
+Mirror Temple A - Room b-19_west,Mirror Temple A - Room b-19_east,"red_boosters",,true
+Mirror Temple A - Room b-15_west,Mirror Temple A - Crystal Heart,,,true
+Mirror Temple A - Room c-01b_west,Mirror Temple A - Room c-01b_east,"swap_blocks,dash_switches",,true
+Mirror Temple A - Room c-01b_west,Mirror Temple A - Room c-01b_east,"red_boosters,dash_switches",,true
+Mirror Temple A - Room d-09_east,Mirror Temple A - Room d-09_west,"red_boosters,swap_blocks",,true
+Mirror Temple A - Room d-04_east,Mirror Temple A - Room d-04_west,,,true
+Mirror Temple A - Room d-04_south-east,Mirror Temple A - Room d-04 Strawberry 2,"red_boosters",,true
+Mirror Temple A - Room d-05_north,Mirror Temple A - Room d-05_west,,,true
+Mirror Temple A - Room d-06_south-west,Mirror Temple A - Room d-06_north-west,,,true
+Mirror Temple A - Room d-02_east,Mirror Temple A - Room d-02_west,,,true
+Mirror Temple A - Room d-03_east,Mirror Temple A - Room d-03_west,"coins",,true
+Mirror Temple A - Room d-19_east,Mirror Temple A - Room d-19_west,"swap_blocks",,true
+Mirror Temple A - Room d-10_west,Mirror Temple A - Room d-10_east,,,true
+Mirror Temple A - Room e-01_west,Mirror Temple A - Room e-01_east,"theo_crystal",,true
+Mirror Temple A - Room e-06_west,Mirror Temple A - Room e-06_east,"theo_crystal,dash_switches",,true
+Mirror Temple A - Room e-05_west,Mirror Temple A - Room e-05_east,"theo_crystal,coins",,true
+Mirror Temple A - Room e-09_west,Mirror Temple A - Room e-09_east,"theo_crystal",,true
+Mirror Temple A - Room e-10_west,Mirror Temple A - Room e-10_east,"theo_crystal",,true
+Mirror Temple B - Room b-03_main,Mirror Temple B - Room b-03_north,,,true
+Mirror Temple B - Room b-08_east,Mirror Temple B - Room b-08_north,"swap_blocks,springs",,true
+Mirror Temple B - Room c-04_west,Mirror Temple B - Room c-04_east,,,true
+Mirror Temple B - Room d-01_west,Mirror Temple B - Room d-01_east,"theo_crystal,dash_switches",,true
+Reflection A - Room 00_east,Reflection A - Room 00_west,,,true
+Reflection A - Room 04_south-west,Reflection A - Room 04_east,,,true
+Reflection A - Room 04_east,Reflection A - Room 04_north-west,,,true
+Reflection A - Room 04e_east,Reflection A - Cassette,"pink_cassette_blocks,dash_refills",,true
+Reflection A - Room 08b_west,Reflection A - Room 08b_east,"feathers",,true
+Reflection A - Room 10a_west,Reflection A - Room 10a_east,"feathers",,true
+Reflection A - Room 10b_west,Reflection A - Room 10b_east,,,true
+Reflection A - Room 10b_east,Reflection A - Room 10b_west,,,true
+Reflection A - Room 11_north-west,Reflection A - Room 11_north-east,,,true
+Reflection A - Room 12b_west,Reflection A - Room 12b_east,"bumpers",,true
+Reflection A - Room 12b_west,Reflection A - Room 12b_east,"kevins",,true
+Reflection A - Room 14a_west,Reflection A - Room 14a_east,"bumpers",,true
+Reflection A - Room 14b_west,Reflection A - Room 14b_east,"coins,bumpers",,true
+Reflection A - Room 17_north-west,Reflection A - Room 17_north-east,,,true
+Reflection A - Room boss-02_west,Reflection A - Room boss-02_east,,,true
+Reflection A - Room boss-07_west,Reflection A - Room boss-07_east,,,true
+Reflection A - Room boss-08_west,Reflection A - Room boss-08_east,,,true
+Reflection A - Room boss-11_west,Reflection A - Room boss-11_east,,,true
+Reflection A - Room boss-12_west,Reflection A - Room boss-12_east,,,true
+Reflection A - Room boss-19_west,Reflection A - Room boss-19_east,"feathers",,true
+The Summit A - Room a-01_west,The Summit A - Room a-01_east,,,true
+The Summit A - Room a-02_west,The Summit A - Room a-02_north,,,true
+The Summit A - Room a-04_west,The Summit A - Room a-04_east,,,true
+The Summit A - Room a-05_west,The Summit A - Room a-05_east,,,true
+The Summit A - Room a-05_west,The Summit A - Room a-05 Strawberry,,,true
+The Summit A - Room a-05_east,The Summit A - Room a-05_west,,,true
+The Summit A - Room b-00_bottom,The Summit A - Room b-00_top,,,true
+The Summit A - Room b-01_west,The Summit A - Room b-01_east,"springs",,true
+The Summit A - Room b-02e_east,The Summit A - Room b-02e Strawberry,,,true
+The Summit A - Room b-02c_west,The Summit A - Room b-02c_east,"dash_refills",,true
+The Summit A - Room b-03_east,The Summit A - Room b-03_north,"traffic_blocks",,true
+The Summit A - Room b-05_west,The Summit A - Room b-05_east,"coins,dash_refills",,true
+The Summit A - Room b-06_west,The Summit A - Room b-06_east,,,true
+The Summit A - Room b-07_west,The Summit A - Room b-07_east,,,true
+The Summit A - Room c-03b_east,The Summit A - Room c-03b Strawberry,"dream_blocks",,true
+The Summit A - Room d-00_bottom,The Summit A - Room d-00 Strawberry,,,true
+The Summit A - Room d-05_west,The Summit A - Room d-05_east,"coins",,true
+The Summit A - Room d-07_east,The Summit A - Room d-07 Strawberry,,,true
+The Summit A - Room d-08_west,The Summit A - Room d-08_east,,,true
+The Summit A - Room d-08_east,The Summit A - Room d-08_west,,,true
+The Summit A - Room e-08_south,The Summit A - Room e-08_east,,,true
+The Summit A - Room e-11_south,The Summit A - Room e-11_east,"blue_boosters",,true
+The Summit A - Room e-10b_west,The Summit A - Room e-10b_east,"dash_refills,springs",,true
+The Summit A - Room f-02_west,The Summit A - Room f-02_east,,,true
+The Summit A - Room f-03_west,The Summit A - Room f-03_east,,,true
+The Summit A - Room f-03_east,The Summit A - Room f-03_west,,,true
+The Summit A - Room f-07_south-east,The Summit A - 2500 M Key,,,true
+The Summit A - Room f-08_west,The Summit A - Room f-08_east,"swap_blocks,red_boosters",,true
+The Summit A - Room f-08d_west,The Summit A - Room f-08d_east,"dash_switches",,true
+The Summit A - Room f-08c_west,The Summit A - Room f-08c_east,"swap_blocks",,true
+The Summit A - Room f-10_west,The Summit A - Room f-10_east,,,true
+The Summit A - Room f-10b_west,The Summit A - Room f-10b_east,"springs,dash_refills",,true
+The Summit A - Room g-00_bottom,The Summit A - Room g-00_top,,,true
+The Summit A - Room g-00b_c24,The Summit A - Room g-00b Strawberry 2,,,true
+The Summit A - Room g-01_bottom,The Summit A - Room g-01_c18,,,true
+The Summit A - Room g-02_bottom,The Summit A - Room g-02_top,,,true
+The Summit B - Room a-00_west,The Summit B - Room a-00_east,,,true
+The Summit B - Room d-00_west,The Summit B - Room d-00_east,,,true
+The Summit B - Room e-00_west,The Summit B - Room e-00_east,"blue_clouds",,true
+Core A - Room a-00_west,Core A - Room a-00_east,,,true
+Core A - Room a-01_west,Core A - Room a-01_east,,,true
+Core A - Room a-02_west,Core A - Room a-02_east,,,true
+Core A - Room b-01_west,Core A - Room b-01_east,,,true

@@ -1,7 +1,7 @@
 [
     {
         "name": "Core A - Into the Core",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Into the Core" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Into the Core" ] } ],
         "visibility_rules": [ "include_core" ],
         "map_locations": [
             {
@@ -14,7 +14,7 @@
     },
     {
         "name": "Core A - Hot and Cold",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Hot and Cold" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Hot and Cold" ] } ],
         "visibility_rules": [ "include_core" ],
         "map_locations": [
             {
@@ -27,7 +27,7 @@
     },
     {
         "name": "Core A - Heart of the Mountain",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,$CanAccess|Core A - Heart of the Mountain" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Heart of the Mountain" ] } ],
         "visibility_rules": [ "include_core" ],
         "map_locations": [
             {

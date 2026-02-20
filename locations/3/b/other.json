@@ -1,7 +1,7 @@
 [
     {
         "name": "Celestial Resort B - Level Clear",
-        "sections": [ { "access_rules": [ "$CanAccess|Celestial Resort B - Level Clear" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Celestial Resort B - Level Clear" ] } ],
         "visibility_rules": [ "include_b_sides" ],
         "map_locations": [
             {

@@ -1,7 +1,7 @@
 [
     {
         "name": "Old Site A - Golden Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Golden Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_goldens" ],
         "map_locations": [
             {
@@ -13,7 +13,7 @@
     },
     {
         "name": "Old Site A - Room 1 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 1 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 1 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
@@ -24,7 +24,7 @@
     },
     {
         "name": "Old Site A - Room d0 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d0 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d0 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
@@ -35,7 +35,7 @@
     },
     {
         "name": "Old Site A - Room d3 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d3 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d3 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
@@ -46,7 +46,7 @@
     },
     {
         "name": "Old Site A - Room d2 Strawberry 2",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d2 Strawberry 2" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d2 Strawberry 2" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
@@ -57,7 +57,7 @@
     },
     {
         "name": "Old Site A - Room d2 Strawberry 1",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d2 Strawberry 1" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d2 Strawberry 1" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
@@ -68,7 +68,7 @@
     },
     {
         "name": "Old Site A - Room d1 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d1 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d1 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
@@ -79,7 +79,7 @@
     },
     {
         "name": "Old Site A - Room d6 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d6 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d6 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
@@ -90,7 +90,7 @@
     },
     {
         "name": "Old Site A - Room d4 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d4 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d4 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
@@ -101,7 +101,7 @@
     },
     {
         "name": "Old Site A - Room d5 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d5 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d5 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
@@ -112,7 +112,7 @@
     },
     {
         "name": "Old Site A - Room 4 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 4 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 4 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-2",
@@ -123,7 +123,7 @@
     },
     {
         "name": "Old Site A - Room 5 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 5 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 5 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-2",
@@ -134,7 +134,7 @@
     },
     {
         "name": "Old Site A - Room 8 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 8 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 8 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-2",
@@ -145,7 +145,7 @@
     },
     {
         "name": "Old Site A - Room 9 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 9 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 9 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-2",
@@ -156,7 +156,7 @@
     },
     {
         "name": "Old Site A - Room 9b Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 9b Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 9b Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-2",
@@ -167,7 +167,7 @@
     },
     {
         "name": "Old Site A - Room 10 Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 10 Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 10 Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-2",
@@ -178,7 +178,7 @@
     },
     {
         "name": "Old Site A - Room 12c Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 12c Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 12c Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-2",
@@ -189,7 +189,7 @@
     },
     {
         "name": "Old Site A - Room 12d Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room 12d Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room 12d Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-2",
@@ -200,7 +200,7 @@
     },
     {
         "name": "Old Site A - Room end_3c Strawberry",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room end_3c Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room end_3c Strawberry" ] } ],
         "map_locations": [
             {
                 "map": "2a-3",

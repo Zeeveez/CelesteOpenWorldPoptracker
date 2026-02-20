@@ -1,7 +1,7 @@
 [
     {
         "name": "Core C - Golden Strawberry",
-        "sections": [ { "access_rules": [ "$ACCESS_8C,$CanAccess|Core C - Golden Strawberry" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_8C,^$CanAccess|Core C - Golden Strawberry" ] } ],
         "visibility_rules": [ "include_core,include_c_sides,include_goldens" ],
         "map_locations": [
             {

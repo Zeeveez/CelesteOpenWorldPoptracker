@@ -1,7 +1,7 @@
 [
     {
         "name": "Old Site B - Combination Lock",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site B - Combination Lock" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site B - Combination Lock" ] } ],
         "visibility_rules": [ "include_b_sides" ],
         "map_locations": [
             {
@@ -14,7 +14,7 @@
     },
     {
         "name": "Old Site B - Dream Altar",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site B - Dream Altar" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site B - Dream Altar" ] } ],
         "visibility_rules": [ "include_b_sides" ],
         "map_locations": [
             {

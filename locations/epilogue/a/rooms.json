@@ -1,7 +1,7 @@
 [
     {
         "name": "Epilogue - Room outside",
-        "sections": [ { "access_rules": [ "$ACCESS_EPILOGUE,$CanAccess|Epilogue - Room outside" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_EPILOGUE,^$CanAccess|Epilogue - Room outside" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -15,7 +15,7 @@
     },
     {
         "name": "Epilogue - Room bridge",
-        "sections": [ { "access_rules": [ "$ACCESS_EPILOGUE,$CanAccess|Epilogue - Room bridge" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_EPILOGUE,^$CanAccess|Epilogue - Room bridge" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -29,7 +29,7 @@
     },
     {
         "name": "Epilogue - Room secret",
-        "sections": [ { "access_rules": [ "$ACCESS_EPILOGUE,$CanAccess|Epilogue - Room secret" ] } ],
+        "sections": [ { "access_rules": [ "$ACCESS_EPILOGUE,^$CanAccess|Epilogue - Room secret" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {

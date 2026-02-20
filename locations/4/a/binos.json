@@ -1,7 +1,7 @@
 [
     {
         "name": "Golden Ridge A - Room a-11 Binoculars",
-        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room a-11 Binoculars" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-11 Binoculars" ] } ],
         "visibility_rules": [ "binosanity" ],
         "map_locations": [
             {
@@ -14,7 +14,7 @@
     },
     {
         "name": "Golden Ridge A - Room b-02 Binoculars",
-        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room b-02 Binoculars" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-02 Binoculars" ] } ],
         "visibility_rules": [ "binosanity" ],
         "map_locations": [
             {
@@ -27,7 +27,7 @@
     },
     {
         "name": "Golden Ridge A - Room d-00b Binoculars",
-        "sections": [ { "access_rules": [ "$CanAccess|Golden Ridge A - Room d-00b Binoculars" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-00b Binoculars" ] } ],
         "visibility_rules": [ "binosanity" ],
         "map_locations": [
             {

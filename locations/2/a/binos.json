@@ -1,7 +1,7 @@
 [
     {
         "name": "Old Site A - Room d3 Binoculars",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Room d3 Binoculars" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d3 Binoculars" ] } ],
         "visibility_rules": [ "binosanity" ],
         "map_locations": [
             {

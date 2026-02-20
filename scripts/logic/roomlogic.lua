@@ -1,11 +1,17 @@
 require("scripts/logic/room_data")
 
-function MeetsRequirements(possible_requirements, seen_rooms, ignore_clutter)
+function MeetsRequirements(possible_requirements, seen_rooms, ignore_clutter, include_custom)
     for _, item_code in ipairs(possible_requirements) do
+        -- If doing a no-custom check and custom found, return false
+        if item_code == 'custom' then
+            if include_custom then goto continue end
+            return false
+        end
+        
         -- 3A - Huge Mess has pseudoitems that don't actually exist as items
         -- Special handling used to see if the rooms that they're in can be accessed
         -- Because of how free movement is in Huge Mess we can largely ignore clutter
-        -- but we do have to at least check for access to a single piece to handle room-08x berry
+        -- but we do have to at least check for access to a single piece to handle room-08x berry        
         if item_code == 'brownclutter' then
             if ignore_clutter then goto continue end
             return CanAccessLocation("Celestial Resort A - Brown Clutter", {}, true)
@@ -27,20 +33,20 @@ function MeetsRequirements(possible_requirements, seen_rooms, ignore_clutter)
     return true
 end
 
-function MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, ignore_clutter)
+function MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, ignore_clutter, include_custom)
     if #list_of_possible_requirements == 0 then
         return true
     end
 
     for _, possible_requirements in ipairs(list_of_possible_requirements) do
-        if MeetsRequirements(possible_requirements, seen_rooms, ignore_clutter) then
+        if MeetsRequirements(possible_requirements, seen_rooms, ignore_clutter, include_custom) then
             return true
         end
     end
     return false
 end
 
-function CanAccessLocation(location_name, seen_rooms, ignore_clutter)
+function CanAccessLocation(location_name, seen_rooms, ignore_clutter, include_custom)
     local queue = {}
     table.insert(queue, location_name)
 
@@ -61,7 +67,7 @@ function CanAccessLocation(location_name, seen_rooms, ignore_clutter)
         for _, possible_room_requirements in ipairs(access_logic) do
             local previous_room = possible_room_requirements[1]
             local list_of_possible_requirements = possible_room_requirements[2]
-            if MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, ignore_clutter) then
+            if MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, ignore_clutter, include_custom) then
                 table.insert(queue, previous_room)
             end
         end
@@ -72,7 +78,13 @@ function CanAccessLocation(location_name, seen_rooms, ignore_clutter)
 end
 
 function CanAccess(location_name)
-    return CanAccessLocation(location_name, {}, false)
+    if CanAccessLocation(location_name, {}, false, false) then
+        return true -- In logic
+    end
+    if CanAccessLocation(location_name, {}, false, true) then
+        return 5 -- Sequence break - Custom Logic
+    end
+    return false
 end
 
 function HAVE_STRAWBERRIES()

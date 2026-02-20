@@ -1,7 +1,7 @@
 [
     {
         "name": "Forsaken City B - Contraption",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City B - Contraption" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City B - Contraption" ] } ],
         "visibility_rules": [ "include_b_sides" ],
         "map_locations": [
             {
@@ -14,7 +14,7 @@
     },
     {
         "name": "Forsaken City B - Scrap Pit",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City B - Scrap Pit" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City B - Scrap Pit" ] } ],
         "visibility_rules": [ "include_b_sides" ],
         "map_locations": [
             {

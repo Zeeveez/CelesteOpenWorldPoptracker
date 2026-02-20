@@ -1,7 +1,7 @@
 [
     {
         "name": "Forsaken City A - Room 1",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 1" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 1" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -15,7 +15,7 @@
     },
     {
         "name": "Forsaken City A - Room 2",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 2" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 2" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -29,7 +29,7 @@
     },
     {
         "name": "Forsaken City A - Room 3",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 3" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 3" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -43,7 +43,7 @@
     },
     {
         "name": "Forsaken City A - Room 4",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 4" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 4" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -57,7 +57,7 @@
     },
     {
         "name": "Forsaken City A - Room 3b",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 3b" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 3b" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -71,7 +71,7 @@
     },
     {
         "name": "Forsaken City A - Room 5",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 5" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 5" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -85,7 +85,7 @@
     },
     {
         "name": "Forsaken City A - Room 5z",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 5z" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 5z" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -99,7 +99,7 @@
     },
     {
         "name": "Forsaken City A - Room 5a",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 5a" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 5a" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -113,7 +113,7 @@
     },
     {
         "name": "Forsaken City A - Room 6",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 6" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 6" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -127,7 +127,7 @@
     },
     {
         "name": "Forsaken City A - Room 6z",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 6z" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 6z" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -141,7 +141,7 @@
     },
     {
         "name": "Forsaken City A - Room 6zb",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 6zb" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 6zb" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -155,7 +155,7 @@
     },
     {
         "name": "Forsaken City A - Room 7zb",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 7zb" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 7zb" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -169,7 +169,7 @@
     },
     {
         "name": "Forsaken City A - Room 6a",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 6a" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 6a" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -183,7 +183,7 @@
     },
     {
         "name": "Forsaken City A - Room 6b",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 6b" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 6b" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -197,7 +197,7 @@
     },
     {
         "name": "Forsaken City A - Room s0",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room s0" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room s0" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -211,7 +211,7 @@
     },
     {
         "name": "Forsaken City A - Room s1",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room s1" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room s1" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -225,7 +225,7 @@
     },
     {
         "name": "Forsaken City A - Room 6c",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 6c" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 6c" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -239,7 +239,7 @@
     },
     {
         "name": "Forsaken City A - Room 7",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 7" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 7" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -253,7 +253,7 @@
     },
     {
         "name": "Forsaken City A - Room 7z",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 7z" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 7z" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -267,7 +267,7 @@
     },
     {
         "name": "Forsaken City A - Room 8z",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 8z" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 8z" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -281,7 +281,7 @@
     },
     {
         "name": "Forsaken City A - Room 8zb",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 8zb" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 8zb" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -295,7 +295,7 @@
     },
     {
         "name": "Forsaken City A - Room 8",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 8" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 8" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -309,7 +309,7 @@
     },
     {
         "name": "Forsaken City A - Room 7a",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 7a" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 7a" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -323,7 +323,7 @@
     },
     {
         "name": "Forsaken City A - Room 9z",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 9z" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 9z" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -337,7 +337,7 @@
     },
     {
         "name": "Forsaken City A - Room 8b",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 8b" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 8b" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -351,7 +351,7 @@
     },
     {
         "name": "Forsaken City A - Room 9",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 9" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 9" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -365,7 +365,7 @@
     },
     {
         "name": "Forsaken City A - Room 9b",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 9b" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 9b" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -379,7 +379,7 @@
     },
     {
         "name": "Forsaken City A - Room 9c",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 9c" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 9c" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -393,7 +393,7 @@
     },
     {
         "name": "Forsaken City A - Room 10",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 10" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 10" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -407,7 +407,7 @@
     },
     {
         "name": "Forsaken City A - Room 10z",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 10z" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 10z" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -421,7 +421,7 @@
     },
     {
         "name": "Forsaken City A - Room 10zb",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 10zb" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 10zb" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -435,7 +435,7 @@
     },
     {
         "name": "Forsaken City A - Room 11",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 11" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 11" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -449,7 +449,7 @@
     },
     {
         "name": "Forsaken City A - Room 11z",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 11z" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 11z" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -463,7 +463,7 @@
     },
     {
         "name": "Forsaken City A - Room 10a",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 10a" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 10a" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -477,7 +477,7 @@
     },
     {
         "name": "Forsaken City A - Room 12",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 12" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 12" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -491,7 +491,7 @@
     },
     {
         "name": "Forsaken City A - Room 12z",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 12z" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 12z" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -505,7 +505,7 @@
     },
     {
         "name": "Forsaken City A - Room 12a",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room 12a" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room 12a" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {
@@ -519,7 +519,7 @@
     },
     {
         "name": "Forsaken City A - Room end",
-        "sections": [ { "access_rules": [ "$CanAccess|Forsaken City A - Room end" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City A - Room end" ] } ],
         "visibility_rules": [ "roomsanity" ],
         "map_locations": [
             {

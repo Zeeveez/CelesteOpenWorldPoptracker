@@ -1,7 +1,7 @@
 [
     {
         "name": "Old Site B - Room 10 Binoculars",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site B - Room 10 Binoculars" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site B - Room 10 Binoculars" ] } ],
         "visibility_rules": [ "include_b_sides,binosanity" ],
         "map_locations": [
             {
@@ -14,7 +14,7 @@
     },
     {
         "name": "Old Site B - Room 11 Binoculars",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site B - Room 11 Binoculars" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site B - Room 11 Binoculars" ] } ],
         "visibility_rules": [ "include_b_sides,binosanity" ],
         "map_locations": [
             {

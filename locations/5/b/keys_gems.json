@@ -1,7 +1,7 @@
 [
     {
         "name": "Mirror Temple B - Central Chamber Key 1",
-        "sections": [ { "access_rules": [ "$CanAccess|Mirror Temple B - Central Chamber Key 1" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Central Chamber Key 1" ] } ],
         "visibility_rules": [ "include_b_sides" ],
         "map_locations": [
             {
@@ -14,7 +14,7 @@
     },
     {
         "name": "Mirror Temple B - Central Chamber Key 2",
-        "sections": [ { "access_rules": [ "$CanAccess|Mirror Temple B - Central Chamber Key 2" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Central Chamber Key 2" ] } ],
         "visibility_rules": [ "include_b_sides" ],
         "map_locations": [
             {

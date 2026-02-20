@@ -1,7 +1,7 @@
 [
     {
         "name": "Old Site A - Level Clear",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Level Clear" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Level Clear" ] } ],
         "map_locations": [
             {
                 "map": "2a-3",
@@ -12,7 +12,7 @@
     },
     {
         "name": "Old Site A - Cassette",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Cassette" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Cassette" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
@@ -23,7 +23,7 @@
     },
     {
         "name": "Old Site A - Crystal Heart",
-        "sections": [ { "access_rules": [ "$CanAccess|Old Site A - Crystal Heart" ] } ],
+        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Crystal Heart" ] } ],
         "map_locations": [
             {
                 "map": "2a-1",
