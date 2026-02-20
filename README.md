@@ -20,7 +20,9 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 
 - Archipelago Autotracking Support
 - Broadcast view for items display:
-    ![Image of Celeste (Open World) PopTracker Broadcast Window](/images/docs/broadcast.png)
+
+![Image of Celeste (Open World) PopTracker Broadcast Window](/images/docs/broadcast.png)
+
 - Access Logic
 	- Randomiser Logic
 	- Custom Logic (See Notes)
