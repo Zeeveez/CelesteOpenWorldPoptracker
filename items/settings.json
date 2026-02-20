@@ -65,39 +65,39 @@
         "codes": "require_cassettes"
     },
     {
-        "name": "Tech",
+        "name": "Logic",
         "type": "progressive",
         "allow_disabled": false,
         "initial_stage_idx": 1,
         "stages": [
             {
                 "img": "images/icons/tech_none.png",
-                "name": "Tech - Randomiser Logic",
+                "name": "Logic - Randomiser Logic",
                 "codes": "tech_setting"
             },
             {
                 "img": "images/icons/tech_beginner.png",
-                "name": "Tech - Beginner",
+                "name": "Logic - Beginner",
                 "codes": "tech_setting,techbeginner"
             },
             {
                 "img": "images/icons/tech_intermediate.png",
-                "name": "Tech - Intermediate",
+                "name": "Logic - Intermediate",
                 "codes": "tech_setting,techintermediate"
             },
             {
                 "img": "images/icons/tech_advanced.png",
-                "name": "Tech - Advanced",
+                "name": "Logic - Advanced",
                 "codes": "tech_setting,techadvanced"
             },
             {
                 "img": "images/icons/tech_expert.png",
-                "name": "Tech - Expert",
+                "name": "Logic - Expert",
                 "codes": "tech_setting,techexpert"
             },
             {
                 "img": "images/icons/tech_grandmaster.png",
-                "name": "Tech - Grandmaster",
+                "name": "Logic - Grandmaster",
                 "codes": "tech_setting,techgrandmaster"
             }
         ]
