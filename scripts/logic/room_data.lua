@@ -10738,7 +10738,7 @@ location_access_logic = {
 	["Farewell - Room f-door_west"] = {
 		{ "Farewell - Room f-door_east", { {  } } },
 		{ "<levelselect>", { { 'farewell-eventhorizon' } } },
-		{ "Farewell - Crystal Heart?", { {  } } },
+		{ "Farewell - Crystal Heart?", { { 'includefarewell' } } },
 	},
 	["Farewell - Room f-door"] = {
 		{ "Farewell - Room f-door_west", { {  } } },

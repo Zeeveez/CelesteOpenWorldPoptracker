@@ -2,7 +2,7 @@
     {
         "name": "Farewell - Power Source Key 1",
         "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Power Source Key 1" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        "visibility_rules": [ "include_empty_space" ],
         "map_locations": [
             {
                 "map": "9a-3",
@@ -15,7 +15,7 @@
     {
         "name": "Farewell - Power Source Key 2",
         "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Power Source Key 2" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        "visibility_rules": [ "include_empty_space" ],
         "map_locations": [
             {
                 "map": "9a-3",
@@ -28,7 +28,7 @@
     {
         "name": "Farewell - Power Source Key 3",
         "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Power Source Key 3" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        "visibility_rules": [ "include_empty_space" ],
         "map_locations": [
             {
                 "map": "9a-3",
@@ -41,7 +41,7 @@
     {
         "name": "Farewell - Power Source Key 4",
         "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Power Source Key 4" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        "visibility_rules": [ "include_empty_space" ],
         "map_locations": [
             {
                 "map": "9a-3",
@@ -54,7 +54,7 @@
     {
         "name": "Farewell - Power Source Key 5",
         "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Power Source Key 5" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        "visibility_rules": [ "include_empty_space" ],
         "map_locations": [
             {
                 "map": "9a-3",

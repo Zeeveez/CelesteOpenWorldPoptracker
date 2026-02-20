@@ -1,7 +1,7 @@
 from,to,access,notes
 Core A - Level Clear,Core A - Crystal Heart,,"Level Clear == Crystal Heart"
 Farewell - Level Clear,Farewell - Room end-golden_bottom,,"To access end-golden need to be able to finish"
-Farewell - Crystal Heart?,Farewell - Room f-door_west,,"Source puts post Crystal Heart? as Farewell B, hack in connection between the two"
+Farewell - Crystal Heart?,Farewell - Room f-door_west,"include_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two"
 Forsaken City A - Room 2_west,Forsaken City A - Room 2 Strawberry,"tech_beginner",
 Forsaken City A - Room 4_west,Forsaken City A - Room 4_east,"tech_beginner",
 Forsaken City A - Room 5_bottom,Forsaken City A - Room 5_north-west,"tech_intermediate",

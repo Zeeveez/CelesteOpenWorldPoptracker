@@ -124,9 +124,25 @@
     },
     {
         "name": "Include Farewell",
-        "type": "toggle",
-        "img": "images/icons/9.png",
-        "codes": "include_farewell"
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/9-off.png",
+                "name": "Include Farewell - No",
+                "codes": "include_farewell_setting"
+            },
+            {
+                "img": "images/icons/empty-space.png",
+                "name": "Include Farewell - Empty Space",
+                "codes": "include_farewell_setting,include_empty_space"
+            },
+            {
+                "img": "images/icons/9.png",
+                "name": "Include Farewell - Yes",
+                "codes": "include_farewell_setting,include_farewell"
+            }
+        ]
     },
     {
         "name": "Include Goldens",

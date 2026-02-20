@@ -243,17 +243,19 @@ function onClear(slot_data)
             end
         end
         if slot_data['goal_area'] then
+            -- Note: AP reports chapter 8 for epilogue, 9 for core, and 10 for farewell
             local goal_area_stages = {
                 ["7a"] = 0,
                 ["7b"] = 1,
                 ["7c"] = 2,
-                ["8a"] = 3,
-                ["8b"] = 4,
-                ["8c"] = 5,
-                ["empty_space"] = 6,
-                ["farewell"] = 7,
-                ["farewell_golden"] = 8
+                ["9a"] = 3,
+                ["9b"] = 4,
+                ["9c"] = 5,
+                ["10a"] = 6,
+                ["10b"] = 7,
+                ["10c"] = 8
             }
+            print(slot_data['goal_area'])
             local obj = Tracker:FindObjectForCode("goal_area")
             local stage = goal_area_stages[slot_data['goal_area']]
             if obj then
@@ -297,10 +299,10 @@ function onClear(slot_data)
             end
         end
         if slot_data['include_farewell'] then
-            local obj = Tracker:FindObjectForCode("include_farewell")
-            local active = slot_data['include_farewell'] == 1
+            print(slot_data['include_farewell'])
+            local obj = Tracker:FindObjectForCode("include_farewell_setting")
             if obj then
-                obj.Active = active
+                obj.CurrentStage = slot_data['include_farewell']
             end
         end
         if slot_data['include_goldens'] then

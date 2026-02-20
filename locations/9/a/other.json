@@ -14,7 +14,7 @@
     {
         "name": "Farewell - Crystal Heart?",
         "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Crystal Heart?" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        "visibility_rules": [ "include_empty_space" ],
         "map_locations": [
             {
                 "map": "9a-4",
@@ -26,7 +26,7 @@
     {
         "name": "Farewell - Secret Car",
         "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Secret Car" ] } ],
-        "visibility_rules": [ "include_farewell,carsanity" ],
+        "visibility_rules": [ "include_empty_space,carsanity" ],
         "map_locations": [
             {
                 "map": "9a-4",

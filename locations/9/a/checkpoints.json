@@ -2,7 +2,7 @@
     {
         "name": "Farewell - Singular",
         "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Singular" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        "visibility_rules": [ "include_empty_space" ],
         "map_locations": [
             {
                 "map": "9a-2",
@@ -15,7 +15,7 @@
     {
         "name": "Farewell - Power Source",
         "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Power Source" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        "visibility_rules": [ "include_empty_space" ],
         "map_locations": [
             {
                 "map": "9a-3",
@@ -28,7 +28,7 @@
     {
         "name": "Farewell - Remembered",
         "sections": [ { "access_rules": [ "$ACCESS_9A,$CanAccess|Farewell - Remembered" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        "visibility_rules": [ "include_empty_space" ],
         "map_locations": [
             {
                 "map": "9a-4",
