@@ -102,7 +102,7 @@
                         "strawberries_required",
                         "goal_area",
                         "require_cassettes",
-                        "difficulty",
+                        "tech_setting",
                         "lock_goal_area"
                     ],
                     [

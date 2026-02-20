@@ -65,35 +65,40 @@
         "codes": "require_cassettes"
     },
     {
-        "name": "Difficulty",
+        "name": "Tech",
         "type": "progressive",
         "allow_disabled": false,
-        "initial_stage_idx": 1,
+        "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/icons/beginner.png",
-                "name": "Beginner",
-                "codes": "difficulty,difficulty_beginner"
+                "img": "images/icons/tech_none.png",
+                "name": "Tech - Randomiser Logic",
+                "codes": "tech_setting"
             },
             {
-                "img": "images/icons/intermediate.png",
-                "name": "Intermediate",
-                "codes": "difficulty,difficulty_intermediate"
+                "img": "images/icons/tech_beginner.png",
+                "name": "Tech - Beginner",
+                "codes": "tech_setting,techbeginner"
             },
             {
-                "img": "images/icons/advanced.png",
-                "name": "Advanced",
-                "codes": "difficulty,difficulty_advanced"
+                "img": "images/icons/tech_intermediate.png",
+                "name": "Tech - Intermediate",
+                "codes": "tech_setting,techintermediate"
             },
             {
-                "img": "images/icons/expert.png",
-                "name": "Expert",
-                "codes": "difficulty,difficulty_expert"
+                "img": "images/icons/tech_advanced.png",
+                "name": "Tech - Advanced",
+                "codes": "tech_setting,techadvanced"
             },
             {
-                "img": "images/icons/gm.png",
-                "name": "Grandmaster",
-                "codes": "difficulty,difficulty_gm"
+                "img": "images/icons/tech_expert.png",
+                "name": "Tech - Expert",
+                "codes": "tech_setting,techexpert"
+            },
+            {
+                "img": "images/icons/tech_grandmaster.png",
+                "name": "Tech - Grandmaster",
+                "codes": "tech_setting,techgrandmaster"
             }
         ]
     },

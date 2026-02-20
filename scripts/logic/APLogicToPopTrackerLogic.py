@@ -114,7 +114,7 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         if row['access']:
-            add_connection(logic, row['from'], row['to'], [row['access'].split(',')])
+            add_connection(logic, row['from'], row['to'], [row['access'].replace('_','').split(',')])
         else:
             add_connection(logic, row['from'], row['to'])
 
