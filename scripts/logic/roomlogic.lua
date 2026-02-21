@@ -104,12 +104,12 @@ function ACCESS_GOAL_AREA(area)
         ["7a"] = 0,
         ["7b"] = 1,
         ["7c"] = 2,
-        ["8a"] = 3,
-        ["8b"] = 4,
-        ["8c"] = 5,
-        ["empty_space"] = 6,
-        ["farewell"] = 7,
-        ["farewell_golden"] = 8
+        ["9a"] = 3,
+        ["9b"] = 4,
+        ["9c"] = 5,
+        ["10a"] = 6,
+        ["10b"] = 7,
+        ["10c"] = 8
     }
     local stage = Tracker:FindObjectForCode("goal_area").CurrentStage
     return stage ~= goal_area_stages[area]
@@ -144,19 +144,19 @@ function ACCESS_7C()
 end
 
 function ACCESS_8A()
-    return ACCESS_GOAL_AREA("8a")
+    return ACCESS_GOAL_AREA("9a")
 end
 
 function ACCESS_8B()
-    return ACCESS_GOAL_AREA("8b")
+    return ACCESS_GOAL_AREA("9b")
 end
 
 function ACCESS_8C()
-    return ACCESS_GOAL_AREA("8c")
+    return ACCESS_GOAL_AREA("9c")
 end
 
 function ACCESS_9A()
-    return true
+    return not (not ACCESS_GOAL_AREA("10a") or not ACCESS_GOAL_AREA("10b") or not ACCESS_GOAL_AREA("10c"))
 end
 
 function ACCESS_EPILOGUE()

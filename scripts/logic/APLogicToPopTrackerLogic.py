@@ -114,9 +114,9 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         if row['access']:
-            add_connection(logic, row['from'], row['to'], [(['custom' if row['custom'] else []]) + row['access'].replace('_','').split(',')])
+            add_connection(logic, row['from'], row['to'], [(['custom' if int(row['custom']) else []]) + row['access'].replace('_','').split(',')])
         else:
-            add_connection(logic, row['from'], row['to'], [['custom']] if row['custom'] else None)
+            add_connection(logic, row['from'], row['to'], [['custom']] if int(row['custom']) else [])
 
 with open('./scripts/logic/room_data.lua','w') as f:
     f.write('location_access_logic = {\n')

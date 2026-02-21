@@ -6,8 +6,8 @@
         "map_locations": [
             {
                 "map": "9a-3",
-                "x": 1967,
-                "y": 1607,
+                "x": 4271,
+                "y": 1335,
                 "shape": "trapezoid"
             }
         ]
@@ -19,8 +19,8 @@
         "map_locations": [
             {
                 "map": "9a-3",
-                "x": 2623,
-                "y": 615,
+                "x": 4367,
+                "y": 1711,
                 "shape": "trapezoid"
             }
         ]
@@ -32,8 +32,8 @@
         "map_locations": [
             {
                 "map": "9a-3",
-                "x": 4367,
-                "y": 1711,
+                "x": 1967,
+                "y": 1607,
                 "shape": "trapezoid"
             }
         ]
@@ -45,8 +45,8 @@
         "map_locations": [
             {
                 "map": "9a-3",
-                "x": 4271,
-                "y": 1335,
+                "x": 2623,
+                "y": 615,
                 "shape": "trapezoid"
             }
         ]

@@ -29,9 +29,9 @@
         "map_locations": [
             {
                 "map": "5a-4",
-                "x": 599,
+                "x": 519,
                 "y": 519,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
@@ -41,9 +41,9 @@
         "map_locations": [
             {
                 "map": "5a-4",
-                "x": 519,
+                "x": 599,
                 "y": 519,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },

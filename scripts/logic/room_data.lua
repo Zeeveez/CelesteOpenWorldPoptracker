@@ -2511,7 +2511,7 @@ location_access_logic = {
 	},
 	["Celestial Resort A - Room roof05_east"] = {
 		{ "Celestial Resort A - Room roof06b_west", { {  } } },
-		{ "Celestial Resort A - Room roof05_west", { { 'springs' } } },
+		{ "Celestial Resort A - Room roof05_west", { { 'springs' }, { 'custom' } } },
 	},
 	["Celestial Resort A - Room roof06_west"] = {
 		{ "Celestial Resort A - Room roof06b_east", { {  } } },
@@ -3114,7 +3114,7 @@ location_access_logic = {
 	},
 	["Celestial Resort B - Room 11_east"] = {
 		{ "Celestial Resort B - Room 13_west", { {  } } },
-		{ "Celestial Resort B - Room 11_west", { { 'dashrefills' } } },
+		{ "Celestial Resort B - Room 11_west", { { 'dashrefills' }, { 'custom' } } },
 	},
 	["Celestial Resort B - Room 14_west"] = {
 		{ "Celestial Resort B - Room 13_east", { {  } } },
@@ -3559,7 +3559,7 @@ location_access_logic = {
 	},
 	["Golden Ridge A - Room b-05_west"] = {
 		{ "Golden Ridge A - Room b-04_north-west", { {  } } },
-		{ "Golden Ridge A - Room b-05_center", { { 'pinkclouds', 'moveblocks' }, { 'custom', 'pinkclouds' } } },
+		{ "Golden Ridge A - Room b-05_center", { { 'pinkclouds', 'moveblocks' }, { 'custom' } } },
 	},
 	["Golden Ridge A - Room b-05_east"] = {
 		{ "Golden Ridge A - Room b-02_north", { {  } } },
@@ -3970,7 +3970,7 @@ location_access_logic = {
 		{ "Golden Ridge A - Room c-06_top", { {  } } },
 	},
 	["Golden Ridge A - Room c-06 Strawberry"] = {
-		{ "Golden Ridge A - Room c-06_west", { { 'coins', 'moveblocks' }, { 'custom', 'coins' }, { 'custom' } } },
+		{ "Golden Ridge A - Room c-06_west", { { 'coins', 'moveblocks' }, { 'custom' } } },
 	},
 	["Golden Ridge A - Room c-06b"] = {
 		{ "Golden Ridge A - Room c-06b_east", { {  } } },
@@ -6078,7 +6078,7 @@ location_access_logic = {
 		{ "Mirror Temple B - Room d-01_east", { {  } } },
 	},
 	["Mirror Temple B - Room d-02_east"] = {
-		{ "Mirror Temple B - Room d-02_west", { { 'theocrystal', 'springs', 'dashswitches', 'seekers' } } },
+		{ "Mirror Temple B - Room d-02_west", { { 'theocrystal', 'springs', 'dashswitches', 'seekers' }, { 'custom', 'theocrystal', 'dashswitches' } } },
 	},
 	["Mirror Temple B - Room d-02"] = {
 		{ "Mirror Temple B - Room d-02_west", { {  } } },
@@ -7416,7 +7416,7 @@ location_access_logic = {
 	},
 	["The Summit A - Room b-01_east"] = {
 		{ "The Summit A - Room b-02_south", { {  } } },
-		{ "The Summit A - Room b-01_west", { { 'trafficblocks', 'springs' }, { 'custom', 'springs' } } },
+		{ "The Summit A - Room b-01_west", { { 'trafficblocks', 'springs' }, { 'custom', 'springs' }, { 'custom', 'trafficblocks' } } },
 	},
 	["The Summit A - Room b-02b_south"] = {
 		{ "The Summit A - Room b-02_north-west", { {  } } },
@@ -8881,7 +8881,7 @@ location_access_logic = {
 		{ "The Summit A - Room g-03_goal", { { 'springs', 'dashrefills', 'feathers', 'blueclouds', 'pinkclouds', 'coins', 'badelineboosters', 'redboosters', 'swapblocks', 'dashswitches', 'thesummita-2500mkey', 'moveblocks', 'blueboosters', 'dreamblocks', 'trafficblocks' } } },
 	},
 	["The Summit B - Room a-00_east"] = {
-		{ "The Summit B - Room a-00_west", { { 'springs' }, { 'custom' } } },
+		{ "The Summit B - Room a-00_west", { { 'springs' } } },
 		{ "The Summit B - Room a-01_west", { {  } } },
 	},
 	["The Summit B - Room a-00"] = {
@@ -10738,7 +10738,7 @@ location_access_logic = {
 	["Farewell - Room f-door_west"] = {
 		{ "Farewell - Room f-door_east", { {  } } },
 		{ "<levelselect>", { { 'farewell-eventhorizon' } } },
-		{ "Farewell - Crystal Heart?", { { 'custom', 'includefarewell' } } },
+		{ "Farewell - Crystal Heart?", { { {  }, 'includefarewell' } } },
 	},
 	["Farewell - Room f-door"] = {
 		{ "Farewell - Room f-door_west", { {  } } },
@@ -11559,9 +11559,12 @@ location_access_logic = {
 		{ "Farewell - Room end-golden_top", { { 'trafficblocks', 'dashrefills', 'doubledashrefills', 'dreamblocks', 'swapblocks', 'moveblocks', 'blueboosters', 'springs', 'feathers', 'coins', 'redboosters', 'kevins', 'coreblocks', 'fireandiceballs', 'badelineboosters', 'bird', 'breakerboxes', 'pufferfish', 'jellyfish', 'pinkcassetteblocks', 'bluecassetteblocks', 'yellowcassetteblocks', 'greencassetteblocks' } } },
 	},
 	["Core A - Crystal Heart"] = {
-		{ "Core A - Level Clear", { { 'custom' } } },
+		{ "Core A - Level Clear", { {  } } },
 	},
 	["Farewell - Room end-golden_bottom"] = {
-		{ "Farewell - Level Clear", { { 'custom' } } },
+		{ "Farewell - Level Clear", { {  } } },
+	},
+	["Reflection A - Room d-01_east"] = {
+		{ "Reflection B - Room d-01_west", { { 'custom' } } },
 	},
 }

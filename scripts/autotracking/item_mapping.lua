@@ -56,7 +56,7 @@ ITEM_MAPPING = {
 	[CELESTE_BASE + CASSETTE_BASE + 0x1A] = { { "farewellcassette", "toggle" } },
 
 	[CELESTE_BASE + ITEM_BASE + 0x00] = { { "springs", "toggle" } },
-	[CELESTE_BASE + ITEM_BASE + 0x01] = { { "traffic_blocks", "toggle" } },
+	[CELESTE_BASE + ITEM_BASE + 0x01] = { { "trafficblocks", "toggle" } },
 	[CELESTE_BASE + ITEM_BASE + 0x02] = { { "pinkcassetteblocks", "toggle" } },
 	[CELESTE_BASE + ITEM_BASE + 0x03] = { { "bluecassetteblocks", "toggle" } },
 	[CELESTE_BASE + ITEM_BASE + 0x04] = { { "dreamblocks", "toggle" } },
