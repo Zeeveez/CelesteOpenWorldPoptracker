@@ -1,0 +1,41 @@
+{
+    "versions": [
+        {
+            "package_version": "1.0.3",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.0.3.zip",
+            "sha256": "0E208F397F195D01A3108BF922D67595A2461EE497101C7D84B8DB7D6405584D",
+            "changelog": [
+                "Custom Logic (displayed as sequence breaks)",
+                "Automatic settings loading fixes",
+                "Farewell access adjustments"
+            ]
+        },
+        {
+            "package_version": "1.0.2",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.0.2.zip",
+            "sha256": "EF970C86E31CF2FE59491DFBBC99E70F4B0AF9FB08DC515BBF3999F406A83A5A",
+            "changelog": [
+                "Logic fixes in Celestial Resort A - Huge Mess",
+                "Logic fixes in Mirror Temple A - Depths hub room",
+                "Added a broadcast json which shows current items",
+                "Updated checkpoint tabs in map select to show checkpoint names"
+            ]
+        },
+        {
+            "package_version": "1.0.1",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.0.1.zip",
+            "sha256": "923452706D2849D8B86B227C5AE9D199733AF72AB1C0D911C98C7B1B67C28B1C",
+            "changelog": [
+                "Prologue/Epilogue Tracking",
+                "Golden Berry and B/C Side Level Clear map locations",
+                "Internal cleanup"
+            ]
+        },
+        {
+            "package_version": "1.0.0",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.0.0.zip",
+            "sha256": "79C9F20C76D59C0D5B5F8D8C5ACCEA1E602CF24A24A8F3B030A4348910CA1865",
+            "changelog": [ "Initial Release" ]
+        }
+    ]
+}
