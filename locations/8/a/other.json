@@ -24,18 +24,6 @@
         ]
     },
     {
-        "name": "Core A - Crystal Heart",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Crystal Heart" ] } ],
-        "visibility_rules": [ "include_core" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 9215,
-                "y": 161
-            }
-        ]
-    },
-    {
         "name": "Core A - Car",
         "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Car" ] } ],
         "visibility_rules": [ "include_core,carsanity" ],

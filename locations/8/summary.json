@@ -125,23 +125,6 @@
                 ]
             },
             {
-                "name": "Core A - Crystal Heart",
-                "map_locations": [
-                    {
-                        "map": "summary",
-                        "x": 1325,
-                        "y": 330,
-                        "size": 25
-                    }
-                ],
-                "sections": [
-                    {
-                        "name": "Core A - Crystal Heart",
-                        "ref": "Core A - Crystal Heart/"
-                    }
-                ]
-            },
-            {
                 "name": "Core A - Strawberries",
                 "map_locations": [
                     {
