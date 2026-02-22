@@ -1,6 +1,15 @@
 {
     "versions": [
         {
+            "package_version": "1.1.1",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.1.1.zip",
+            "sha256": "675329777C31E154620411B051E1AE9C60E2E1A0F4ABE0073D015065D1706FC0",
+            "changelog": [
+                "Removed 8A Crystal Heart from locations",
+                "Added more sequence breaks"
+            ]
+        },
+        {
             "package_version": "1.1.0",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.1.0.zip",
             "sha256": "AA2B9610FE315D6DED342BBBEEB66321923DFA8767B31CD86FD41C12FC23742E",
