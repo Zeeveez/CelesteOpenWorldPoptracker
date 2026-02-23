@@ -14,13 +14,13 @@ function MeetsRequirements(possible_requirements, seen_rooms, ignore_clutter, in
         -- but we do have to at least check for access to a single piece to handle room-08x berry        
         if item_code == 'brownclutter' then
             if ignore_clutter then goto continue end
-            return CanAccessLocation("Celestial Resort A - Brown Clutter", {}, true)
+            return CanAccessLocation("Celestial Resort A - Brown Clutter", {}, true, include_custom)
         elseif item_code == 'greenclutter' then
             if ignore_clutter then goto continue end
-            return CanAccessLocation("Celestial Resort A - Green Clutter", {}, true)
+            return CanAccessLocation("Celestial Resort A - Green Clutter", {}, true, include_custom)
         elseif item_code == 'pinkclutter' then
             if ignore_clutter then goto continue end
-            return CanAccessLocation("Celestial Resort A - Pink Clutter", {}, true)
+            return CanAccessLocation("Celestial Resort A - Pink Clutter", {}, true, include_custom)
 
         else
             local item_count = Tracker:ProviderCountForCode(item_code)
