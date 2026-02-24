@@ -4958,7 +4958,7 @@ location_access_logic = {
 	},
 	["Mirror Temple A - Room d-04_west"] = {
 		{ "Mirror Temple A - Room d-19b_south-east-right", { {  } } },
-		{ "Mirror Temple A - Room d-04_east", { { 'redboosters', 'mirrortemplea-searchkey1', 'mirrortemplea-searchkey2' } } },
+		{ "Mirror Temple A - Room d-04_east", { { 'redboosters', 'mirrortemplea-searchkey1', 'mirrortemplea-searchkey2' }, { 'custom' } } },
 	},
 	["Mirror Temple A - Room d-01_south-west-left"] = {
 		{ "Mirror Temple A - Room d-04_south-east", { {  } } },
