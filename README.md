@@ -25,7 +25,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 
 - Access Logic
 	- Randomiser Logic (Shown in green)
-	- Custom Logic (Shown in yellow; See Notes)
+	- Custom Logic/Sequence Breaks (Shown in yellow; See Notes)
 
 
 
@@ -43,12 +43,8 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 	- end-golden is so far away in 9A-9 that it had to be adjusted to appear much closer than it actually is for the map to be useful
 - Only full res maps currently available which are large, be aware of a couple seconds of load time
 - Maps are shown by checkpoint so you have context of what's around you; on larger maps some icons may be hard to see
-- Custom Logic
-    - The additional logic settings available do not contain a complete list of what is possible, but instead quick adjustments from memory
-	- Some of the added logic is trivial, some of it is very difficult, recommended is to follow logic
-    - Compiling a complete custom logic list has two main problems:
-		- The task is large and not trivial to do individually
-		- Difficulty is subjective
+- Custom Logic/Sequence Breaks
+	- The sequence breaks implemented into the tracker is non-exhaustive and does not capture everything from the min-items worksheet
 
 
 ## Thanks
