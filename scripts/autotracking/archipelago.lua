@@ -1,6 +1,7 @@
 
 require("scripts/autotracking/item_mapping")
 require("scripts/autotracking/location_mapping")
+require("scripts/autotracking/room_tabs")
 
 CUR_INDEX = -1
 --SLOT_DATA = nil
@@ -229,7 +230,7 @@ function onClear(slot_data)
         end
 
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
-        Archipelago:SetNotify({HINTS_ID})
+        Archipelago:SetNotify({HINTS_ID, "Celeste_Open_Room_"..Archipelago:GetPlayerAlias(Archipelago.PlayerNumber), "Celeste_Open_Room_"..TEAM_NUMBER.."_"..Archipelago:GetPlayerAlias(Archipelago.PlayerNumber)})
         Archipelago:Get({HINTS_ID})
     end
     ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)
@@ -470,18 +471,25 @@ end
 
 function onNotify(key, value, old_value)
     print("onNotify", key, value, old_value)
-    if value ~= old_value and key == HINTS_ID then
-        Tracker.BulkUpdate = true
-        for _, hint in ipairs(value) do
-            if hint.finding_player == Archipelago.PlayerNumber then
-                if not hint.found then
-                    updateHints(hint.location, hint.status)
-                elseif hint.found then
-                    updateHints(hint.location, hint.status)
-                end
+    if value ~= old_value then
+        if key == "Celeste_Open_Room_"..Archipelago:GetPlayerAlias(Archipelago.PlayerNumber) or key == "Celeste_Open_Room_"..Archipelago.TeamNumber.."_"..Archipelago:GetPlayerAlias(Archipelago.PlayerNumber) then
+            for _, tab in ipairs(ROOM_TABS[value]) do
+                Tracker:UiHint("ActivateTab", tab)
             end
         end
-        Tracker.BulkUpdate = false
+        if key == HINTS_ID then
+            Tracker.BulkUpdate = true
+            for _, hint in ipairs(value) do
+                if hint.finding_player == Archipelago.PlayerNumber then
+                    if not hint.found then
+                        updateHints(hint.location, hint.status)
+                    elseif hint.found then
+                        updateHints(hint.location, hint.status)
+                    end
+                end
+            end
+            Tracker.BulkUpdate = false
+        end
     end
 end
 

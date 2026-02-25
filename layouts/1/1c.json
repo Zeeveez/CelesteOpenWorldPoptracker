@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "1C - Forsaken City C-Side",
+                "title": "Start",
                 "content": {
                     "type": "map",
                     "maps": [

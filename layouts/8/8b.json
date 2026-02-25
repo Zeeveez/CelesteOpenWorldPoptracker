@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "8B - Start",
+                "title": "Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "8B - Into the Core",
+                "title": "Into the Core",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "8B - Burning or Freezing",
+                "title": "Burning or Freezing",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "8B - Heartbeat",
+                "title": "Heartbeat",
                 "content": {
                     "type": "map",
                     "maps": [

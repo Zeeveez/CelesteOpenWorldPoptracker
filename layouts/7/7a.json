@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "7A - Start",
+                "title": "Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "7A - 500M",
+                "title": "500M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "7A - 1000M",
+                "title": "1000M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "7A - 1500M",
+                "title": "1500M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "title": "7A - 2000M",
+                "title": "2000M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -48,7 +48,7 @@
                 }
             },
             {
-                "title": "7A - 2500M",
+                "title": "2500M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -57,7 +57,7 @@
                 }
             },
             {
-                "title": "7A - 3000M",
+                "title": "3000M",
                 "content": {
                     "type": "map",
                     "maps": [

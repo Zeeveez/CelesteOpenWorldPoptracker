@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "3B - Start",
+                "title": "Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "3B - Staff Quarters",
+                "title": "Staff Quarters",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "3B - Library",
+                "title": "Library",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "3B - Rooftop",
+                "title": "Rooftop",
                 "content": {
                     "type": "map",
                     "maps": [

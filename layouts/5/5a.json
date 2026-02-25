@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "5A - Start",
+                "title": "Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "5A - Depths",
+                "title": "Depths",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "5A - Unravelling",
+                "title": "Unravelling",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "5A - Search",
+                "title": "Search",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "title": "5A - Rescue",
+                "title": "Rescue",
                 "content": {
                     "type": "map",
                     "maps": [

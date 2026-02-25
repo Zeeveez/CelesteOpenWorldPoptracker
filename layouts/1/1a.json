@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "1A - Start",
+                "title": "Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "1A - Crossing",
+                "title": "Crossing",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "1A - Chasm",
+                "title": "Chasm",
                 "content": {
                     "type": "map",
                     "maps": [

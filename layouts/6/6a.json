@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "6A - Start",
+                "title": "Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "6A - Lake",
+                "title": "Lake",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "6A - Hollows",
+                "title": "Hollows",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "6A - Reflection",
+                "title": "Reflection",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "title": "6A - Rock Bottom",
+                "title": "Rock Bottom",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -48,7 +48,7 @@
                 }
             },
             {
-                "title": "6A - Resolution",
+                "title": "Resolution",
                 "content": {
                     "type": "map",
                     "maps": [

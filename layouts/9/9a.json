@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "9A - Start",
+                "title": "Start",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "9A - Singular",
+                "title": "Singular",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "9A - Power Source",
+                "title": "Power Source",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "9A - Remembered",
+                "title": "Remembered",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "title": "9A - Event Horizon",
+                "title": "Event Horizon",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -48,7 +48,7 @@
                 }
             },
             {
-                "title": "9A - Determination",
+                "title": "Determination",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -57,7 +57,7 @@
                 }
             },
             {
-                "title": "9A - Stubbornness",
+                "title": "Stubbornness",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -66,7 +66,7 @@
                 }
             },
             {
-                "title": "9A - Reconciliation",
+                "title": "Reconciliation",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -75,7 +75,7 @@
                 }
             },
             {
-                "title": "9A - Farewell",
+                "title": "Farewell",
                 "content": {
                     "type": "map",
                     "maps": [
