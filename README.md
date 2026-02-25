@@ -44,7 +44,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 - Only full res maps currently available which are large, be aware of a couple seconds of load time
 - Maps are shown by checkpoint so you have context of what's around you; on larger maps some icons may be hard to see
 - Custom Logic/Sequence Breaks
-	- The sequence breaks implemented into the tracker is non-exhaustive and does not capture everything from the min-items worksheet
+	- The sequence breaks implemented into the tracker is a non-exhaustive list and does not capture everything from the min-items worksheet
 
 
 ## Thanks
