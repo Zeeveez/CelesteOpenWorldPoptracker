@@ -11570,6 +11570,6 @@ location_access_logic = {
 		{ "Farewell - Room end-golden_top", { { 'trafficblocks', 'dashrefills', 'doubledashrefills', 'dreamblocks', 'swapblocks', 'moveblocks', 'blueboosters', 'springs', 'feathers', 'coins', 'redboosters', 'kevins', 'coreblocks', 'fireandiceballs', 'badelineboosters', 'bird', 'breakerboxes', 'pufferfish', 'jellyfish', 'pinkcassetteblocks', 'bluecassetteblocks', 'yellowcassetteblocks', 'greencassetteblocks' } } },
 	},
 	["Farewell - Room end-golden_bottom"] = {
-		{ "Farewell - Level Clear", { {  } } },
+		{ "Farewell - Level Clear", { { 'trafficblocks', 'dashrefills', 'doubledashrefills', 'dreamblocks', 'swapblocks', 'moveblocks', 'blueboosters', 'springs', 'feathers', 'coins', 'redboosters', 'kevins', 'coreblocks', 'fireandiceballs', 'badelineboosters', 'bird', 'breakerboxes', 'pufferfish', 'jellyfish', 'pinkcassetteblocks', 'bluecassetteblocks', 'yellowcassetteblocks', 'greencassetteblocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5' } } },
 	},
 }
