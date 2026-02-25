@@ -41,6 +41,7 @@
         "name": "Blue Cassette Block",
         "type": "toggle",
         "img": "images/icons/bluecassetteblocks.png",
+        "disabled_img": "images/icons/bluecassetteblocks_off.png",
         "codes": "bluecassetteblocks"
     },
     {
@@ -119,6 +120,7 @@
         "name": "Green Cassette Blocks",
         "type": "toggle",
         "img": "images/icons/greencassetteblocks.png",
+        "disabled_img": "images/icons/greencassetteblocks_off.png",
         "codes": "greencassetteblocks"
     },
     {
@@ -149,6 +151,7 @@
         "name": "Pink Cassette Block",
         "type": "toggle",
         "img": "images/icons/pinkcassetteblocks.png",
+        "disabled_img": "images/icons/pinkcassetteblocks_off.png",
         "codes": "pinkcassetteblocks"
     },
     {
@@ -227,6 +230,7 @@
         "name": "Yellow Cassette Blocks",
         "type": "toggle",
         "img": "images/icons/yellowcassetteblocks.png",
+        "disabled_img": "images/icons/yellowcassetteblocks_off.png",
         "codes": "yellowcassetteblocks"
     }
 ]
