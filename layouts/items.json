@@ -101,7 +101,9 @@
                     [
                         "strawberries_required",
                         "goal_area",
-                        "lock_goal_area"
+                        "lock_goal_area",
+                        "",
+                        "auto_tab"
                     ],
                     [
                         "include_b_sides",

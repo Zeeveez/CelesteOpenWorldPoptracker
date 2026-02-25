@@ -473,8 +473,10 @@ function onNotify(key, value, old_value)
     print("onNotify", key, value, old_value)
     if value ~= old_value then
         if key == "Celeste_Open_Room_"..Archipelago:GetPlayerAlias(Archipelago.PlayerNumber) or key == "Celeste_Open_Room_"..Archipelago.TeamNumber.."_"..Archipelago:GetPlayerAlias(Archipelago.PlayerNumber) then
-            for _, tab in ipairs(ROOM_TABS[value]) do
-                Tracker:UiHint("ActivateTab", tab)
+            if Tracker:FindObjectForCode("auto_tab").Active then
+                for _, tab in ipairs(ROOM_TABS[value]) do
+                    Tracker:UiHint("ActivateTab", tab)
+                end
             end
         end
         if key == HINTS_ID then

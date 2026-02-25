@@ -64,6 +64,13 @@
         "img": "images/icons/key.png",
         "codes": "lock_goal_area"
     },
+    {
+        "name": "Auto-Tabbing",
+        "type": "toggle",
+        "img": "images/icons/auto-tab.png",
+        "initial_active_state": true,
+        "codes": "auto_tab"
+    },
 
 
     {
