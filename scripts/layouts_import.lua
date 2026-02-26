@@ -1,5 +1,9 @@
 Tracker:AddLayouts("layouts/items.json")
-Tracker:AddLayouts("layouts/tabs.json")
+if Tracker.ActiveVariantUID == 'full' then
+	Tracker:AddLayouts("layouts/tabs_full.json")
+else
+	Tracker:AddLayouts("layouts/tabs_summary.json")
+end
 Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 

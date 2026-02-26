@@ -1,4 +1,3 @@
-Tracker:AddLocations("locations/epilogue/a/other.json")
 Tracker:AddLocations("locations/epilogue/a/rooms.json")
 Tracker:AddLocations("locations/epilogue/summary.json")
 

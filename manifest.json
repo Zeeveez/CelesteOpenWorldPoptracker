@@ -6,8 +6,14 @@
     "package_uid": "celeste_poptracker",
     "author": "Zeeveez",
     "variants": {
-        "itemrando": {
-            "display_name": "Archipelago Randomizer",
+        "full": {
+            "display_name": "Full Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "summary": {
+            "display_name": "Summary Only",
             "flags": [
                 "ap"
             ]

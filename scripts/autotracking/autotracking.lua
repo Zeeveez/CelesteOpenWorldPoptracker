@@ -1,7 +1,6 @@
 
 require("scripts/autotracking/item_mapping")
 require("scripts/autotracking/location_mapping")
-require("scripts/autotracking/room_tabs")
 
 CUR_INDEX = -1
 --SLOT_DATA = nil
@@ -67,23 +66,11 @@ function LocationHandler(location)
             custom_storage_item.MANUAL_LOCATIONS[ROOM_SEED][full_path] = nil
         end
     end
-    -- local custom_storage_item = Tracker:FindObjectForCode("manual_location_storage").ItemState
-    -- print(dump_table(storage_item.ItemState.MANUAL_LOCATIONS))
-    ForceUpdate() -- 
-end
-
-function ForceUpdate()
-    local update = Tracker:FindObjectForCode("update")
-    if update == nil then
-        return
-    end
-    update.Active = not update.Active
 end
 
 function onClearHandler(slot_data)
     local clear_timer = os.clock()
     
-    ScriptHost:RemoveWatchForCode("StateChange")
     -- Disable tracker updates.
     Tracker.BulkUpdate = true
     -- Use a protected call so that tracker updates always get enabled again, even if an error occurred.
@@ -94,10 +81,8 @@ function onClearHandler(slot_data)
         -- locations from AP have been processed.
         local handlerName = "AP onClearHandler"
         local function frameCallback()
-            ScriptHost:AddWatchForCode("StateChange", "*", StateChanged)
             ScriptHost:RemoveOnFrameHandler(handlerName)
             Tracker.BulkUpdate = false
-            ForceUpdate()
             print(string.format("Time taken total: %.2f", os.clock() - clear_timer))
         end
         ScriptHost:AddOnFrameHandler(handlerName, frameCallback)
@@ -162,7 +147,6 @@ function onClear(slot_data)
     
     preOnClear()
     
-    ScriptHost:RemoveWatchForCode("StateChanged")
     ScriptHost:RemoveOnLocationSectionHandler("location_section_change_handler")
     --SLOT_DATA = slot_data
     CUR_INDEX = -1
@@ -472,13 +456,6 @@ end
 function onNotify(key, value, old_value)
     print("onNotify", key, value, old_value)
     if value ~= old_value then
-        if key == "Celeste_Open_Room_"..Archipelago:GetPlayerAlias(Archipelago.PlayerNumber) or key == "Celeste_Open_Room_"..Archipelago.TeamNumber.."_"..Archipelago:GetPlayerAlias(Archipelago.PlayerNumber) then
-            if Tracker:FindObjectForCode("auto_tab").Active then
-                for _, tab in ipairs(ROOM_TABS[value]) do
-                    Tracker:UiHint("ActivateTab", tab)
-                end
-            end
-        end
         if key == HINTS_ID then
             Tracker.BulkUpdate = true
             for _, hint in ipairs(value) do
@@ -552,3 +529,5 @@ end
 --     ["entrance"] = ,
 --     ["item"] = 66062,
 -- } 
+
+require("scripts/autotracking/autotabbing/autotabbing")

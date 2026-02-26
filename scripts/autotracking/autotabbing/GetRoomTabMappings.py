@@ -15,9 +15,9 @@ for i in range(raw_data['chapterCount']):
             for room in checkpoint['roomOrder']:
                 rooms[f'{i}_{j}_{room}'] = [chapter['name'], side['name'], checkpoint['name'], room]
 
-with open('./scripts/autotracking/room_tabs.lua','w') as f:
+with open('./scripts/autotracking/autotabbing/room_tabs.lua','w') as f:
     f.write(f'ROOM_TABS = {{\n')
     f.write(f'\t[""] = {{"Summary"}},\n')
     for room in rooms:
-        f.write(f'\t["{room}"] = {{"{"\",\"".join(rooms[room])}"}},\n')
+        f.write(f'\t["{room}"] = {{ "{"\", \"".join(rooms[room])}" }},\n')
     f.write(f'}}')
