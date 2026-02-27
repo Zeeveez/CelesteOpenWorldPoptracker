@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "500M",
+                "title": "500 M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -21,7 +21,7 @@
                 }
             },
             {
-                "title": "1000M",
+                "title": "1000 M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "title": "1500M",
+                "title": "1500 M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "title": "2000M",
+                "title": "2000 M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -48,7 +48,7 @@
                 }
             },
             {
-                "title": "2500M",
+                "title": "2500 M",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -57,7 +57,7 @@
                 }
             },
             {
-                "title": "3000M",
+                "title": "3000 M",
                 "content": {
                     "type": "map",
                     "maps": [
