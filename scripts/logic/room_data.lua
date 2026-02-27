@@ -4170,6 +4170,10 @@ location_access_logic = {
 		{ "Golden Ridge B - Room b-04_east", { {  } } },
 		{ "<levelselect>", { { 'goldenridgeb-gustycanyon' } } },
 	},
+	["Golden Ridge B - Room b-04_east"] = {
+		{ "Golden Ridge B - Room c-00_west", { {  } } },
+		{ "Golden Ridge B - Room b-04_west", { { 'blueboosters' } } },
+	},
 	["Golden Ridge B - Room c-01_west"] = {
 		{ "Golden Ridge B - Room c-00_east", { {  } } },
 	},
@@ -4279,9 +4283,6 @@ location_access_logic = {
 	["Golden Ridge B - Room b-03"] = {
 		{ "Golden Ridge B - Room b-03_west", { {  } } },
 		{ "Golden Ridge B - Room b-03_east", { {  } } },
-	},
-	["Golden Ridge B - Room b-04_east"] = {
-		{ "Golden Ridge B - Room b-04_west", { { 'blueboosters' } } },
 	},
 	["Golden Ridge B - Room b-04"] = {
 		{ "Golden Ridge B - Room b-04_west", { {  } } },
