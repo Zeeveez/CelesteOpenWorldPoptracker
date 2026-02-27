@@ -5879,7 +5879,7 @@ location_access_logic = {
 	},
 	["Mirror Temple B - Room b-05_south"] = {
 		{ "Mirror Temple B - Room b-02_south-west", { {  } } },
-		{ "Mirror Temple B - Room b-05_north", { { 'swapblocks', 'dashrefills', 'coins' }, { 'custom', 'swapblocks' } } },
+		{ "Mirror Temple B - Room b-05_north", { { 'swapblocks', 'dashrefills', 'coins' }, { 'custom', 'swapblocks', 'coins' } } },
 	},
 	["Mirror Temple B - Room b-03_east"] = {
 		{ "Mirror Temple B - Room b-07_north", { {  } } },
