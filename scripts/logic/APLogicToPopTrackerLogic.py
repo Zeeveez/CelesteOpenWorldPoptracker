@@ -97,7 +97,6 @@ def patch_door(level, room, door, field, value):
 
 patch_door('1a', '12', 'east', 'closes_behind', False)
 patch_door('2a', '10', 'bottom', 'closes_behind', False)
-patch_door('2a', '2', 'north-west', 'closes_behind', False)
 patch_door('2a', '12b', 'east', 'closes_behind', False)
 patch_door('2a', '13', 'phone', 'closes_behind', False)
 patch_door('3a', '10-x', 'north-east-right', 'closes_behind', False)
