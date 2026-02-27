@@ -1,49 +1,73 @@
 [
     {
         "name": "Reflection A - Hollows",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Hollows" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Hollows"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 1271,
                 "y": 1161,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "Reflection A - Reflection",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Reflection" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Reflection"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "6a-4",
+                "map": "6_a_3",
                 "x": 191,
                 "y": 545,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "Reflection A - Rock Bottom",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Rock Bottom" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Rock Bottom"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 35,
                 "y": 125,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "Reflection A - Resolution",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Resolution" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Resolution"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "6a-6",
+                "map": "6_a_5",
                 "x": 167,
                 "y": 2581,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     }

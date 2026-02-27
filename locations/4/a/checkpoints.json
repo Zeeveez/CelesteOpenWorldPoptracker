@@ -1,37 +1,55 @@
 [
     {
         "name": "Golden Ridge A - Shrine",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Shrine" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Shrine"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 955,
                 "y": 1085,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "Golden Ridge A - Old Trail",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Old Trail" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Old Trail"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 347,
                 "y": 2157,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "Golden Ridge A - Cliff Face",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Cliff Face" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Cliff Face"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 555,
                 "y": 1085,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     }

@@ -3,38 +3,11 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Start",
+                "title": "Begin",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "8a-1"
-                    ]
-                }
-            },
-            {
-                "title": "Into the Core",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "8a-2"
-                    ]
-                }
-            },
-            {
-                "title": "Hot and Cold",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "8a-3"
-                    ]
-                }
-            },
-            {
-                "title": "Heart of the Mountain",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "8a-4"
+                        "8_a_0"
                     ]
                 }
             }

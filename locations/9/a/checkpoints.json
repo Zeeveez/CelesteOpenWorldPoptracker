@@ -1,105 +1,64 @@
 [
     {
-        "name": "Farewell - Singular",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Singular" ] } ],
-        "visibility_rules": [ "include_empty_space" ],
+        "name": "Core A - Into the Core",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Into the Core"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_core"
+        ],
         "map_locations": [
             {
-                "map": "9a-2",
-                "x": 31,
-                "y": 389,
-				"shape": "diamond"
+                "map": "9_a_1",
+                "x": 19,
+                "y": 1833,
+                "shape": "diamond"
             }
         ]
     },
     {
-        "name": "Farewell - Power Source",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Power Source" ] } ],
-        "visibility_rules": [ "include_empty_space" ],
+        "name": "Core A - Hot and Cold",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Hot and Cold"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_core"
+        ],
         "map_locations": [
             {
-                "map": "9a-3",
-                "x": 39,
-                "y": 2349,
-				"shape": "diamond"
+                "map": "9_a_2",
+                "x": 59,
+                "y": 325,
+                "shape": "diamond"
             }
         ]
     },
     {
-        "name": "Farewell - Remembered",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Remembered" ] } ],
-        "visibility_rules": [ "include_empty_space" ],
-        "map_locations": [
+        "name": "Core A - Heart of the Mountain",
+        "sections": [
             {
-                "map": "9a-4",
-                "x": 311,
-                "y": 2084,
-				"shape": "diamond"
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Heart of the Mountain"
+                ]
             }
-        ]
-    },
-    {
-        "name": "Farewell - Event Horizon",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Event Horizon" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        ],
+        "visibility_rules": [
+            "include_core"
+        ],
         "map_locations": [
             {
-                "map": "9a-5",
-                "x": 39,
-                "y": 2045,
-				"shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Farewell - Determination",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Determination" ] } ],
-        "visibility_rules": [ "include_farewell" ],
-        "map_locations": [
-            {
-                "map": "9a-6",
-                "x": 38,
-                "y": 1973,
-				"shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Farewell - Stubbornness",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Stubbornness" ] } ],
-        "visibility_rules": [ "include_farewell" ],
-        "map_locations": [
-            {
-                "map": "9a-7",
-                "x": 878,
-                "y": 389,
-				"shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Farewell - Reconciliation",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Reconciliation" ] } ],
-        "visibility_rules": [ "include_farewell" ],
-        "map_locations": [
-            {
-                "map": "9a-8",
-                "x": 39,
-                "y": 351,
-				"shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Farewell - Farewell",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Farewell" ] } ],
-        "visibility_rules": [ "include_farewell" ],
-        "map_locations": [
-            {
-                "map": "9a-9",
-                "x": 39,
-                "y": 7381,
-				"shape": "diamond"
+                "map": "9_a_3",
+                "x": 43,
+                "y": 5477,
+                "shape": "diamond"
             }
         ]
     }

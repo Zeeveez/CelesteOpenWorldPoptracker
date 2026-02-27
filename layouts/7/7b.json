@@ -7,7 +7,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "7b-1"
+                        "7_b_0"
                     ]
                 }
             },
@@ -16,7 +16,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "7b-2"
+                        "7_b_1"
                     ]
                 }
             },
@@ -25,7 +25,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "7b-3"
+                        "7_b_2"
                     ]
                 }
             },
@@ -34,7 +34,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "7b-4"
+                        "7_b_3"
                     ]
                 }
             },
@@ -43,7 +43,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "7b-5"
+                        "7_b_4"
                     ]
                 }
             },
@@ -52,7 +52,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "7b-6"
+                        "7_b_5"
                     ]
                 }
             },
@@ -61,7 +61,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "7b-7"
+                        "7_b_6"
                     ]
                 }
             }

@@ -1,11 +1,19 @@
 [
     {
         "name": "The Summit C - Level Clear",
-        "sections": [ { "access_rules": [ "$ACCESS_7C,^$CanAccess|The Summit C - Level Clear" ] } ],
-        "visibility_rules": [ "include_c_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7C,^$CanAccess|The Summit C - Level Clear"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_c_sides"
+        ],
         "map_locations": [
             {
-                "map": "7c-1",
+                "map": "7_c_0",
                 "x": 4679,
                 "y": 105
             }

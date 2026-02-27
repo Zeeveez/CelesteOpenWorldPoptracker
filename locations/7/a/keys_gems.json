@@ -1,86 +1,127 @@
 [
     {
         "name": "The Summit A - 2500 M Key",
-        "sections": [ { "access_rules": [ "$ACCESS_7A,^$CanAccess|The Summit A - 2500 M Key" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7A,^$CanAccess|The Summit A - 2500 M Key"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "7a-6",
+                "map": "7_a_5",
                 "x": 3503,
                 "y": 1623,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
-
     {
         "name": "The Summit A - Gem 1",
-        "sections": [ { "access_rules": [ "$ACCESS_7A,^$CanAccess|The Summit A - Gem 1" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 1"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "7a-1",
+                "map": "7_a_0",
                 "x": 3511,
                 "y": 312,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "The Summit A - Gem 2",
-        "sections": [ { "access_rules": [ "$ACCESS_7A,^$CanAccess|The Summit A - Gem 2" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 2"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "7a-2",
+                "map": "7_a_1",
                 "x": 919,
                 "y": 1784,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "The Summit A - Gem 3",
-        "sections": [ { "access_rules": [ "$ACCESS_7A,^$CanAccess|The Summit A - Gem 3" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 3"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "7a-3",
+                "map": "7_a_2",
                 "x": 2695,
                 "y": 1375,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "The Summit A - Gem 4",
-        "sections": [ { "access_rules": [ "$ACCESS_7A,^$CanAccess|The Summit A - Gem 4" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 4"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "7a-4",
+                "map": "7_a_3",
                 "x": 3735,
                 "y": 1120,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "The Summit A - Gem 5",
-        "sections": [ { "access_rules": [ "$ACCESS_7A,^$CanAccess|The Summit A - Gem 5" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 5"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "7a-5",
+                "map": "7_a_4",
                 "x": 294,
                 "y": 2583,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "The Summit A - Gem 6",
-        "sections": [ { "access_rules": [ "$ACCESS_7A,^$CanAccess|The Summit A - Gem 6" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 6"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "7a-6",
+                "map": "7_a_5",
                 "x": 3135,
                 "y": 1664,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     }

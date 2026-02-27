@@ -1,11 +1,19 @@
 [
     {
         "name": "The Summit B - Level Clear",
-        "sections": [ { "access_rules": [ "$ACCESS_7B,^$CanAccess|The Summit B - Level Clear" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7B,^$CanAccess|The Summit B - Level Clear"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "7b-7",
+                "map": "7_b_6",
                 "x": 1383,
                 "y": 48
             }

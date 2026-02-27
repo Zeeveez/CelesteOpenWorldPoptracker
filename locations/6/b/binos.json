@@ -1,27 +1,43 @@
 [
     {
         "name": "Reflection B - Room a-02 Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection B - Room a-02 Binoculars" ] } ],
-        "visibility_rules": [ "include_b_sides,binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection B - Room a-02 Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,binosanity"
+        ],
         "map_locations": [
             {
-                "map": "6b-1",
+                "map": "6_b_0",
                 "x": 423,
                 "y": 503,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Reflection B - Room a-06 Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection B - Room a-06 Binoculars" ] } ],
-        "visibility_rules": [ "include_b_sides,binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection B - Room a-06 Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,binosanity"
+        ],
         "map_locations": [
             {
-                "map": "6b-1",
+                "map": "6_b_0",
                 "x": 2783,
                 "y": 55,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     }

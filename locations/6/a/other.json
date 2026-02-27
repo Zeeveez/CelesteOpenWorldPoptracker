@@ -1,10 +1,16 @@
 [
     {
         "name": "Reflection A - Level Clear",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Level Clear" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Level Clear"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "6a-6",
+                "map": "6_a_5",
                 "x": 190,
                 "y": 210
             }
@@ -12,10 +18,16 @@
     },
     {
         "name": "Reflection A - Cassette",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Cassette" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Cassette"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 47,
                 "y": 1119
             }
@@ -23,10 +35,16 @@
     },
     {
         "name": "Reflection A - Crystal Heart",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Crystal Heart" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Crystal Heart"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 407,
                 "y": 344
             }

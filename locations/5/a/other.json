@@ -1,10 +1,16 @@
 [
     {
         "name": "Mirror Temple A - Level Clear",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple A - Level Clear" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple A - Level Clear"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "5a-5",
+                "map": "5_a_4",
                 "x": 6751,
                 "y": 106
             }
@@ -12,10 +18,16 @@
     },
     {
         "name": "Mirror Temple A - Cassette",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple A - Cassette" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple A - Cassette"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "5a-2",
+                "map": "5_a_1",
                 "x": 3118,
                 "y": 1439
             }
@@ -23,10 +35,16 @@
     },
     {
         "name": "Mirror Temple A - Crystal Heart",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple A - Crystal Heart" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple A - Crystal Heart"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "5a-2",
+                "map": "5_a_1",
                 "x": 5446,
                 "y": 1145
             }

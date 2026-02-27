@@ -1,11 +1,19 @@
 [
     {
         "name": "Reflection B - Level Clear",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection B - Level Clear" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection B - Level Clear"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "6b-4",
+                "map": "6_b_3",
                 "x": 5751,
                 "y": 720
             }

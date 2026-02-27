@@ -1,27 +1,43 @@
 [
     {
         "name": "Forsaken City B - Contraption",
-        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City B - Contraption" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Forsaken City B - Contraption"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "1b-2",
+                "map": "1_b_1",
                 "x": 27,
                 "y": 897,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "Forsaken City B - Scrap Pit",
-        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City B - Scrap Pit" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Forsaken City B - Scrap Pit"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "1b-3",
+                "map": "1_b_2",
                 "x": 27,
                 "y": 1709,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     }

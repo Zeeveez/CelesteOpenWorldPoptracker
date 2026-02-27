@@ -143,19 +143,19 @@ function ACCESS_7C()
     return ACCESS_GOAL_AREA("7c")
 end
 
-function ACCESS_8A()
+function ACCESS_9A()
     return ACCESS_GOAL_AREA("9a")
 end
 
-function ACCESS_8B()
+function ACCESS_9B()
     return ACCESS_GOAL_AREA("9b")
 end
 
-function ACCESS_8C()
+function ACCESS_9C()
     return ACCESS_GOAL_AREA("9c")
 end
 
-function ACCESS_9A()
+function ACCESS_10A()
     return not (not ACCESS_GOAL_AREA("10a") or not ACCESS_GOAL_AREA("10b") or not ACCESS_GOAL_AREA("10c"))
 end
 

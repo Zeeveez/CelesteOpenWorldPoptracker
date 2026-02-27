@@ -1,98 +1,92 @@
-﻿[
+[
     {
-        "name": "7a-1",
+        "name": "7_a_0",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7a-1.png"
+        "img": "images/maps/7/7_a_0.png"
     },
     {
-        "name": "7a-2",
+        "name": "7_a_1",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7a-2.png"
+        "img": "images/maps/7/7_a_1.png"
     },
     {
-        "name": "7a-3",
+        "name": "7_a_2",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7a-3.png"
+        "img": "images/maps/7/7_a_2.png"
     },
     {
-        "name": "7a-4",
+        "name": "7_a_3",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7a-4.png"
+        "img": "images/maps/7/7_a_3.png"
     },
     {
-        "name": "7a-5",
+        "name": "7_a_4",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7a-5.png"
+        "img": "images/maps/7/7_a_4.png"
     },
     {
-        "name": "7a-6",
+        "name": "7_a_5",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7a-6.png"
+        "img": "images/maps/7/7_a_5.png"
     },
     {
-        "name": "7a-7",
-        "location_size": 50,
-        "location_border_thickness": 8,
-        "img": "images/maps/7/7a-7.png"
-    },
-
-
-
-    {
-        "name": "7b-1",
+        "name": "7_a_6",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7b-1.png"
+        "img": "images/maps/7/7_a_6.png"
     },
     {
-        "name": "7b-2",
+        "name": "7_b_0",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7b-2.png"
+        "img": "images/maps/7/7_b_0.png"
     },
     {
-        "name": "7b-3",
+        "name": "7_b_1",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7b-3.png"
+        "img": "images/maps/7/7_b_1.png"
     },
     {
-        "name": "7b-4",
+        "name": "7_b_2",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7b-4.png"
+        "img": "images/maps/7/7_b_2.png"
     },
     {
-        "name": "7b-5",
+        "name": "7_b_3",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7b-5.png"
+        "img": "images/maps/7/7_b_3.png"
     },
     {
-        "name": "7b-6",
+        "name": "7_b_4",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7b-6.png"
+        "img": "images/maps/7/7_b_4.png"
     },
     {
-        "name": "7b-7",
+        "name": "7_b_5",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7b-7.png"
+        "img": "images/maps/7/7_b_5.png"
     },
-
-
-
     {
-        "name": "7c-1",
+        "name": "7_b_6",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/7/7c-1.png"
+        "img": "images/maps/7/7_b_6.png"
+    },
+    {
+        "name": "7_c_0",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/7/7_c_0.png"
     }
 ]

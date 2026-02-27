@@ -14,9 +14,13 @@
             {
                 "title": "Prologue",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "prologuea"
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "0"
+                        }
                     ]
                 }
             },
@@ -114,9 +118,13 @@
             {
                 "title": "Epilogue",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "epiloguea"
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "8"
+                        }
                     ]
                 }
             },
@@ -128,7 +136,7 @@
                     "content": [
                         {
                             "type": "layout",
-                            "key": "8"
+                            "key": "9"
                         }
                     ]
                 }
@@ -141,7 +149,7 @@
                     "content": [
                         {
                             "type": "layout",
-                            "key": "9a"
+                            "key": "10"
                         }
                     ]
                 }

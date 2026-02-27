@@ -1,14 +1,22 @@
 [
     {
         "name": "Old Site C - Room 02 Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Old Site C - Room 02 Binoculars" ] } ],
-        "visibility_rules": [ "include_c_sides,binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Old Site C - Room 02 Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_c_sides,binosanity"
+        ],
         "map_locations": [
             {
-                "map": "2c-1",
+                "map": "2_c_0",
                 "x": 767,
                 "y": 207,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     }

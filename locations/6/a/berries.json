@@ -1,11 +1,19 @@
 [
     {
         "name": "Reflection A - Golden Strawberry",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Golden Strawberry" ] } ],
-        "visibility_rules": [ "include_goldens" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Golden Strawberry"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_goldens"
+        ],
         "map_locations": [
             {
-                "map": "6a-2",
+                "map": "6_a_1",
                 "x": 791,
                 "y": 2225
             }

@@ -1,25 +1,121 @@
 [
     {
-        "name": "Farewell - Golden Strawberry",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Golden Strawberry" ] } ],
-        "visibility_rules": [ "include_farewell,include_goldens" ],
+        "name": "Core A - Golden Strawberry",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Golden Strawberry"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_core,include_goldens"
+        ],
         "map_locations": [
             {
-                "map": "9a-2",
-                "x": 24,
-                "y": 344
+                "map": "9_a_1",
+                "x": 47,
+                "y": 1823
             }
         ]
     },
     {
-        "name": "Farewell - Moon Berry",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Moon Berry" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        "name": "Core A - Room b-06 Strawberry",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Room b-06 Strawberry"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_core"
+        ],
         "map_locations": [
             {
-                "map": "9a-9",
-                "x": 5104,
-                "y": 1520
+                "map": "9_a_1",
+                "x": 1000,
+                "y": 1056
+            }
+        ]
+    },
+    {
+        "name": "Core A - Room c-00b Strawberry",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Room c-00b Strawberry"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_core"
+        ],
+        "map_locations": [
+            {
+                "map": "9_a_2",
+                "x": 1168,
+                "y": 48
+            }
+        ]
+    },
+    {
+        "name": "Core A - Room c-02 Strawberry",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Room c-02 Strawberry"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_core"
+        ],
+        "map_locations": [
+            {
+                "map": "9_a_2",
+                "x": 2368,
+                "y": 208
+            }
+        ]
+    },
+    {
+        "name": "Core A - Room c-03b Strawberry",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Room c-03b Strawberry"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_core"
+        ],
+        "map_locations": [
+            {
+                "map": "9_a_2",
+                "x": 3272,
+                "y": 104
+            }
+        ]
+    },
+    {
+        "name": "Core A - Room d-06 Strawberry",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Room d-06 Strawberry"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_core"
+        ],
+        "map_locations": [
+            {
+                "map": "9_a_3",
+                "x": 272,
+                "y": 1872
             }
         ]
     }

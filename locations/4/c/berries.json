@@ -1,11 +1,19 @@
 [
     {
         "name": "Golden Ridge C - Golden Strawberry",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge C - Golden Strawberry" ] } ],
-        "visibility_rules": [ "include_c_sides,include_goldens" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge C - Golden Strawberry"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_c_sides,include_goldens"
+        ],
         "map_locations": [
             {
-                "map": "4c-1",
+                "map": "4_c_0",
                 "x": 16,
                 "y": 512
             }

@@ -1,27 +1,43 @@
 [
     {
         "name": "Old Site B - Room 10 Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Old Site B - Room 10 Binoculars" ] } ],
-        "visibility_rules": [ "include_b_sides,binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Old Site B - Room 10 Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,binosanity"
+        ],
         "map_locations": [
             {
-                "map": "2b-3",
+                "map": "2_b_2",
                 "x": 1431,
                 "y": 1279,
-			    "shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Old Site B - Room 11 Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Old Site B - Room 11 Binoculars" ] } ],
-        "visibility_rules": [ "include_b_sides,binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Old Site B - Room 11 Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,binosanity"
+        ],
         "map_locations": [
             {
-                "map": "2b-3",
+                "map": "2_b_2",
                 "x": 1463,
                 "y": 935,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     }

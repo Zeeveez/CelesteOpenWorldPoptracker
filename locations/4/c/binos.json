@@ -1,27 +1,43 @@
 [
     {
         "name": "Golden Ridge C - Room 01 Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge C - Room 01 Binoculars" ] } ],
-        "visibility_rules": [ "include_c_sides,binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge C - Room 01 Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_c_sides,binosanity"
+        ],
         "map_locations": [
             {
-                "map": "4c-1",
+                "map": "4_c_0",
                 "x": 767,
                 "y": 495,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Golden Ridge C - Room 02 Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge C - Room 02 Binoculars" ] } ],
-        "visibility_rules": [ "include_c_sides,binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge C - Room 02 Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_c_sides,binosanity"
+        ],
         "map_locations": [
             {
-                "map": "4c-1",
+                "map": "4_c_0",
                 "x": 1039,
                 "y": 55,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     }

@@ -1,40 +1,64 @@
 [
     {
         "name": "Golden Ridge B - Stepping Stones",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge B - Stepping Stones" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge B - Stepping Stones"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "4b-2",
+                "map": "4_b_1",
                 "x": 35,
                 "y": 1485,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "Golden Ridge B - Gusty Canyon",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge B - Gusty Canyon" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge B - Gusty Canyon"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "4b-3",
+                "map": "4_b_2",
                 "x": 43,
                 "y": 1132,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "Golden Ridge B - Eye of the Storm",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge B - Eye of the Storm" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge B - Eye of the Storm"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "4b-4",
+                "map": "4_b_3",
                 "x": 42,
                 "y": 181,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     }

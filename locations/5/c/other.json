@@ -1,11 +1,19 @@
 [
     {
         "name": "Mirror Temple C - Level Clear",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple C - Level Clear" ] } ],
-        "visibility_rules": [ "include_c_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple C - Level Clear"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_c_sides"
+        ],
         "map_locations": [
             {
-                "map": "5c-1",
+                "map": "5_c_0",
                 "x": 2335,
                 "y": 56
             }

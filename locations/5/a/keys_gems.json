@@ -1,34 +1,52 @@
 [
     {
         "name": "Mirror Temple A - Entrance Key",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple A - Entrance Key" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple A - Entrance Key"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "5a-1",
+                "map": "5_a_0",
                 "x": 3119,
                 "y": 454,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Mirror Temple A - Depths Key",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple A - Depths Key" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple A - Depths Key"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "5a-2",
+                "map": "5_a_1",
                 "x": 1742,
                 "y": 719,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Mirror Temple A - Search Key 1",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple A - Search Key 1" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple A - Search Key 1"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "5a-4",
+                "map": "5_a_3",
                 "x": 519,
                 "y": 519,
                 "shape": "trapezoid"
@@ -37,10 +55,16 @@
     },
     {
         "name": "Mirror Temple A - Search Key 2",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple A - Search Key 2" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple A - Search Key 2"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "5a-4",
+                "map": "5_a_3",
                 "x": 599,
                 "y": 519,
                 "shape": "trapezoid"
@@ -49,13 +73,19 @@
     },
     {
         "name": "Mirror Temple A - Search Key 3",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple A - Search Key 3" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple A - Search Key 3"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "5a-4",
+                "map": "5_a_3",
                 "x": 2015,
                 "y": 447,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     }

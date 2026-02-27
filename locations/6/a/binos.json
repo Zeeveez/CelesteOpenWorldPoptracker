@@ -1,14 +1,22 @@
 [
     {
         "name": "Reflection A - Room 04e Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 04e Binoculars" ] } ],
-        "visibility_rules": [ "binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 04e Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "binosanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 831,
                 "y": 1087,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     }

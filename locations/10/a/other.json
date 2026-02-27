@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Farewell - Level Clear",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Level Clear"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_farewell"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_8",
+                "x": 5679,
+                "y": 6309
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Crystal Heart?",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Crystal Heart?"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_empty_space"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_3",
+                "x": 6071,
+                "y": 135
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Secret Car",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Secret Car"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_empty_space,carsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_3",
+                "x": 562,
+                "y": 333,
+                "shape": "trapezoid"
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Internet Car",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Internet Car"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_farewell,carsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_4",
+                "x": 1082,
+                "y": 2022,
+                "shape": "trapezoid"
+            }
+        ]
+    }
+]

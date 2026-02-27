@@ -1,27 +1,43 @@
 [
     {
         "name": "Forsaken City C - Room 01 Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City C - Room 01 Binoculars" ] } ],
-        "visibility_rules": [ "include_c_sides,binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Forsaken City C - Room 01 Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_c_sides,binosanity"
+        ],
         "map_locations": [
             {
-                "map": "1c-1",
+                "map": "1_c_0",
                 "x": 743,
                 "y": 167,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Forsaken City C - Room 02 Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Forsaken City C - Room 02 Binoculars" ] } ],
-        "visibility_rules": [ "include_c_sides,binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Forsaken City C - Room 02 Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_c_sides,binosanity"
+        ],
         "map_locations": [
             {
-                "map": "1c-1",
+                "map": "1_c_0",
                 "x": 1655,
                 "y": 55,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     }

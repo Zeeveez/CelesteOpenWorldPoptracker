@@ -1,74 +1,68 @@
-﻿[
+[
     {
-        "name": "6a-1",
+        "name": "6_a_0",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/6/6a-1.png"
+        "img": "images/maps/6/6_a_0.png"
     },
     {
-        "name": "6a-2",
+        "name": "6_a_1",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/6/6a-2.png"
+        "img": "images/maps/6/6_a_1.png"
     },
     {
-        "name": "6a-3",
+        "name": "6_a_2",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/6/6a-3.png"
+        "img": "images/maps/6/6_a_2.png"
     },
     {
-        "name": "6a-4",
+        "name": "6_a_3",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/6/6a-4.png"
+        "img": "images/maps/6/6_a_3.png"
     },
     {
-        "name": "6a-5",
+        "name": "6_a_4",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/6/6a-5.png"
+        "img": "images/maps/6/6_a_4.png"
     },
     {
-        "name": "6a-6",
+        "name": "6_a_5",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/6/6a-6.png"
-    },
-
-
-
-    {
-        "name": "6b-1",
-        "location_size": 25,
-        "location_border_thickness": 4,
-        "img": "images/maps/6/6b-1.png"
+        "img": "images/maps/6/6_a_5.png"
     },
     {
-        "name": "6b-2",
+        "name": "6_b_0",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/6/6b-2.png"
+        "img": "images/maps/6/6_b_0.png"
     },
     {
-        "name": "6b-3",
+        "name": "6_b_1",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/6/6b-3.png"
+        "img": "images/maps/6/6_b_1.png"
     },
     {
-        "name": "6b-4",
+        "name": "6_b_2",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/6/6b-4.png"
+        "img": "images/maps/6/6_b_2.png"
     },
-
-
-
     {
-        "name": "6c-1",
+        "name": "6_b_3",
         "location_size": 25,
         "location_border_thickness": 4,
-        "img": "images/maps/6/6c-1.png"
+        "img": "images/maps/6/6_b_3.png"
+    },
+    {
+        "name": "6_c_0",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/6/6_c_0.png"
     }
 ]

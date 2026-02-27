@@ -1,6 +1,7 @@
 Tracker:AddMaps("maps/summary.json")
+
 if Tracker.ActiveVariantUID == 'full' then
-	Tracker:AddMaps("maps/prologue.json")
+	Tracker:AddMaps("maps/0.json")
 	Tracker:AddMaps("maps/1.json")
 	Tracker:AddMaps("maps/2.json")
 	Tracker:AddMaps("maps/3.json")
@@ -8,7 +9,7 @@ if Tracker.ActiveVariantUID == 'full' then
 	Tracker:AddMaps("maps/5.json")
 	Tracker:AddMaps("maps/6.json")
 	Tracker:AddMaps("maps/7.json")
-	Tracker:AddMaps("maps/epilogue.json")
 	Tracker:AddMaps("maps/8.json")
 	Tracker:AddMaps("maps/9.json")
+	Tracker:AddMaps("maps/10.json")
 end

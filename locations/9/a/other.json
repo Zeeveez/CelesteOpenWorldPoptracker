@@ -1,50 +1,61 @@
 [
     {
-        "name": "Farewell - Level Clear",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Level Clear" ] } ],
-        "visibility_rules": [ "include_farewell" ],
+        "name": "Core A - Level Clear",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Level Clear"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_core"
+        ],
         "map_locations": [
             {
-                "map": "9a-9",
-                "x": 5679,
-                "y": 6309
+                "map": "9_a_3",
+                "x": 9215,
+                "y": 161
             }
         ]
     },
     {
-        "name": "Farewell - Crystal Heart?",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Crystal Heart?" ] } ],
-        "visibility_rules": [ "include_empty_space" ],
+        "name": "Core A - Cassette",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Cassette"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_core"
+        ],
         "map_locations": [
             {
-                "map": "9a-4",
-                "x": 6071,
-                "y": 135
+                "map": "9_a_3",
+                "x": 6663,
+                "y": 111
             }
         ]
     },
     {
-        "name": "Farewell - Secret Car",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Secret Car" ] } ],
-        "visibility_rules": [ "include_empty_space,carsanity" ],
-        "map_locations": [
+        "name": "Core A - Car",
+        "sections": [
             {
-                "map": "9a-4",
-                "x": 562,
-                "y": 333,
-                "shape": "trapezoid"
+                "access_rules": [
+                    "$ACCESS_9A,^$CanAccess|Core A - Car"
+                ]
             }
-        ]
-    },
-    {
-        "name": "Farewell - Internet Car",
-        "sections": [ { "access_rules": [ "$ACCESS_9A,^$CanAccess|Farewell - Internet Car" ] } ],
-        "visibility_rules": [ "include_farewell,carsanity" ],
+        ],
+        "visibility_rules": [
+            "include_core,carsanity"
+        ],
         "map_locations": [
             {
-                "map": "9a-5",
-                "x": 1082,
-                "y": 2022,
+                "map": "9_a_0",
+                "x": 186,
+                "y": 350,
                 "shape": "trapezoid"
             }
         ]

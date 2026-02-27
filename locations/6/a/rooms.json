@@ -1,11 +1,19 @@
 [
     {
         "name": "Reflection A - Room 00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 00" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-2",
+                "map": "6_a_1",
                 "x": 282,
                 "y": 2114,
                 "shape": "diamond",
@@ -15,11 +23,19 @@
     },
     {
         "name": "Reflection A - Room 01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 01" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-2",
+                "map": "6_a_1",
                 "x": 282,
                 "y": 1690,
                 "shape": "diamond",
@@ -29,11 +45,19 @@
     },
     {
         "name": "Reflection A - Room 02",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 02" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 02"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-2",
+                "map": "6_a_1",
                 "x": 330,
                 "y": 690,
                 "shape": "diamond",
@@ -43,11 +67,19 @@
     },
     {
         "name": "Reflection A - Room 03",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 03" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 03"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-2",
+                "map": "6_a_1",
                 "x": 10,
                 "y": 1010,
                 "shape": "diamond",
@@ -57,11 +89,19 @@
     },
     {
         "name": "Reflection A - Room 02b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 02b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 02b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-2",
+                "map": "6_a_1",
                 "x": 330,
                 "y": 10,
                 "shape": "diamond",
@@ -71,11 +111,19 @@
     },
     {
         "name": "Reflection A - Room 04",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 04" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 04"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 882,
                 "y": 10,
                 "shape": "diamond",
@@ -85,11 +133,19 @@
     },
     {
         "name": "Reflection A - Room 04b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 04b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 04b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 474,
                 "y": 210,
                 "shape": "diamond",
@@ -99,11 +155,19 @@
     },
     {
         "name": "Reflection A - Room 04c",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 04c" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 04c"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 154,
                 "y": 258,
                 "shape": "diamond",
@@ -113,11 +177,19 @@
     },
     {
         "name": "Reflection A - Room 04d",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 04d" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 04d"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 1522,
                 "y": 1130,
                 "shape": "diamond",
@@ -127,11 +199,19 @@
     },
     {
         "name": "Reflection A - Room 04e",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 04e" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 04e"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 10,
                 "y": 1034,
                 "shape": "diamond",
@@ -141,11 +221,19 @@
     },
     {
         "name": "Reflection A - Room 05",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 05" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 05"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 1522,
                 "y": 674,
                 "shape": "diamond",
@@ -155,11 +243,19 @@
     },
     {
         "name": "Reflection A - Room 06",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 06" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 06"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 2634,
                 "y": 674,
                 "shape": "diamond",
@@ -169,11 +265,19 @@
     },
     {
         "name": "Reflection A - Room 07",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 07" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 07"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 3842,
                 "y": 674,
                 "shape": "diamond",
@@ -183,11 +287,19 @@
     },
     {
         "name": "Reflection A - Room 08a",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 08a" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 08a"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 4162,
                 "y": 938,
                 "shape": "diamond",
@@ -197,11 +309,19 @@
     },
     {
         "name": "Reflection A - Room 08b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 08b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 08b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 4162,
                 "y": 610,
                 "shape": "diamond",
@@ -211,11 +331,19 @@
     },
     {
         "name": "Reflection A - Room 09",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 09" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 09"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 4650,
                 "y": 626,
                 "shape": "diamond",
@@ -225,11 +353,19 @@
     },
     {
         "name": "Reflection A - Room 10a",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 10a" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 10a"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 4970,
                 "y": 890,
                 "shape": "diamond",
@@ -239,11 +375,19 @@
     },
     {
         "name": "Reflection A - Room 10b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 10b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 10b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 4970,
                 "y": 626,
                 "shape": "diamond",
@@ -253,11 +397,19 @@
     },
     {
         "name": "Reflection A - Room 11",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 11" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 11"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 5594,
                 "y": 794,
                 "shape": "diamond",
@@ -267,11 +419,19 @@
     },
     {
         "name": "Reflection A - Room 12a",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 12a" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 12a"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 6002,
                 "y": 1026,
                 "shape": "diamond",
@@ -281,11 +441,19 @@
     },
     {
         "name": "Reflection A - Room 12b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 12b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 12b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 6002,
                 "y": 754,
                 "shape": "diamond",
@@ -295,11 +463,19 @@
     },
     {
         "name": "Reflection A - Room 13",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 13" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 13"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 6522,
                 "y": 754,
                 "shape": "diamond",
@@ -309,11 +485,19 @@
     },
     {
         "name": "Reflection A - Room 14a",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 14a" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 14a"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 6842,
                 "y": 954,
                 "shape": "diamond",
@@ -323,11 +507,19 @@
     },
     {
         "name": "Reflection A - Room 14b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 14b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 14b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 6842,
                 "y": 706,
                 "shape": "diamond",
@@ -337,11 +529,19 @@
     },
     {
         "name": "Reflection A - Room 15",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 15" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 15"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 7226,
                 "y": 810,
                 "shape": "diamond",
@@ -351,11 +551,19 @@
     },
     {
         "name": "Reflection A - Room 16a",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 16a" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 16a"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 7546,
                 "y": 962,
                 "shape": "diamond",
@@ -365,11 +573,19 @@
     },
     {
         "name": "Reflection A - Room 16b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 16b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 16b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 7546,
                 "y": 778,
                 "shape": "diamond",
@@ -379,11 +595,19 @@
     },
     {
         "name": "Reflection A - Room 17",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 17" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 17"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 8154,
                 "y": 738,
                 "shape": "diamond",
@@ -393,11 +617,19 @@
     },
     {
         "name": "Reflection A - Room 18a",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 18a" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 18a"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 8474,
                 "y": 1002,
                 "shape": "diamond",
@@ -407,11 +639,19 @@
     },
     {
         "name": "Reflection A - Room 18b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 18b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 18b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 8474,
                 "y": 706,
                 "shape": "diamond",
@@ -421,11 +661,19 @@
     },
     {
         "name": "Reflection A - Room 19",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 19" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 19"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 9250,
                 "y": 738,
                 "shape": "diamond",
@@ -435,11 +683,19 @@
     },
     {
         "name": "Reflection A - Room 20",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room 20" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room 20"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-3",
+                "map": "6_a_2",
                 "x": 10410,
                 "y": 906,
                 "shape": "diamond",
@@ -449,11 +705,19 @@
     },
     {
         "name": "Reflection A - Room b-00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room b-00" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room b-00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-4",
+                "map": "6_a_3",
                 "x": 154,
                 "y": 418,
                 "shape": "diamond",
@@ -463,11 +727,19 @@
     },
     {
         "name": "Reflection A - Room b-00b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room b-00b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room b-00b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-4",
+                "map": "6_a_3",
                 "x": 330,
                 "y": 10,
                 "shape": "diamond",
@@ -477,11 +749,19 @@
     },
     {
         "name": "Reflection A - Room b-00c",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room b-00c" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room b-00c"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-4",
+                "map": "6_a_3",
                 "x": 10,
                 "y": 66,
                 "shape": "diamond",
@@ -491,11 +771,19 @@
     },
     {
         "name": "Reflection A - Room b-01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room b-01" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room b-01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-4",
+                "map": "6_a_3",
                 "x": 786,
                 "y": 418,
                 "shape": "diamond",
@@ -505,11 +793,19 @@
     },
     {
         "name": "Reflection A - Room b-02",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room b-02" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room b-02"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-4",
+                "map": "6_a_3",
                 "x": 1306,
                 "y": 682,
                 "shape": "diamond",
@@ -519,11 +815,19 @@
     },
     {
         "name": "Reflection A - Room b-02b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room b-02b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room b-02b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-4",
+                "map": "6_a_3",
                 "x": 1818,
                 "y": 2330,
                 "shape": "diamond",
@@ -533,11 +837,19 @@
     },
     {
         "name": "Reflection A - Room b-03",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room b-03" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room b-03"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-4",
+                "map": "6_a_3",
                 "x": 2306,
                 "y": 3426,
                 "shape": "diamond",
@@ -547,11 +859,19 @@
     },
     {
         "name": "Reflection A - Room boss-00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-00" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 10,
                 "y": 10,
                 "shape": "diamond",
@@ -561,11 +881,19 @@
     },
     {
         "name": "Reflection A - Room boss-01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-01" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 506,
                 "y": 194,
                 "shape": "diamond",
@@ -575,11 +903,19 @@
     },
     {
         "name": "Reflection A - Room boss-02",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-02" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-02"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 1154,
                 "y": 378,
                 "shape": "diamond",
@@ -589,11 +925,19 @@
     },
     {
         "name": "Reflection A - Room boss-03",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-03" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-03"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 1690,
                 "y": 562,
                 "shape": "diamond",
@@ -603,11 +947,19 @@
     },
     {
         "name": "Reflection A - Room boss-04",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-04" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-04"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 2202,
                 "y": 746,
                 "shape": "diamond",
@@ -617,11 +969,19 @@
     },
     {
         "name": "Reflection A - Room boss-05",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-05" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-05"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 2522,
                 "y": 746,
                 "shape": "diamond",
@@ -631,11 +991,19 @@
     },
     {
         "name": "Reflection A - Room boss-06",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-06" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-06"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 2738,
                 "y": 930,
                 "shape": "diamond",
@@ -645,11 +1013,19 @@
     },
     {
         "name": "Reflection A - Room boss-07",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-07" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-07"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 3114,
                 "y": 1114,
                 "shape": "diamond",
@@ -659,11 +1035,19 @@
     },
     {
         "name": "Reflection A - Room boss-08",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-08" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-08"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 3674,
                 "y": 1298,
                 "shape": "diamond",
@@ -673,11 +1057,19 @@
     },
     {
         "name": "Reflection A - Room boss-09",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-09" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-09"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 3906,
                 "y": 1754,
                 "shape": "diamond",
@@ -687,11 +1079,19 @@
     },
     {
         "name": "Reflection A - Room boss-10",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-10" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-10"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 4490,
                 "y": 1754,
                 "shape": "diamond",
@@ -701,11 +1101,19 @@
     },
     {
         "name": "Reflection A - Room boss-11",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-11" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-11"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 4914,
                 "y": 1754,
                 "shape": "diamond",
@@ -715,11 +1123,19 @@
     },
     {
         "name": "Reflection A - Room boss-12",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-12" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-12"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 5514,
                 "y": 1938,
                 "shape": "diamond",
@@ -729,11 +1145,19 @@
     },
     {
         "name": "Reflection A - Room boss-13",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-13" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-13"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 5754,
                 "y": 2458,
                 "shape": "diamond",
@@ -743,11 +1167,19 @@
     },
     {
         "name": "Reflection A - Room boss-14",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-14" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-14"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 6370,
                 "y": 2458,
                 "shape": "diamond",
@@ -757,11 +1189,19 @@
     },
     {
         "name": "Reflection A - Room boss-15",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-15" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-15"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 6690,
                 "y": 2458,
                 "shape": "diamond",
@@ -771,11 +1211,19 @@
     },
     {
         "name": "Reflection A - Room boss-16",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-16" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-16"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 6930,
                 "y": 2642,
                 "shape": "diamond",
@@ -785,11 +1233,19 @@
     },
     {
         "name": "Reflection A - Room boss-17",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-17" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-17"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 7658,
                 "y": 2642,
                 "shape": "diamond",
@@ -799,11 +1255,19 @@
     },
     {
         "name": "Reflection A - Room boss-18",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-18" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-18"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 8274,
                 "y": 2826,
                 "shape": "diamond",
@@ -813,11 +1277,19 @@
     },
     {
         "name": "Reflection A - Room boss-19",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-19" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-19"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 8594,
                 "y": 3474,
                 "shape": "diamond",
@@ -827,11 +1299,19 @@
     },
     {
         "name": "Reflection A - Room boss-20",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room boss-20" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room boss-20"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-5",
+                "map": "6_a_4",
                 "x": 10314,
                 "y": 3474,
                 "shape": "diamond",
@@ -841,11 +1321,19 @@
     },
     {
         "name": "Reflection A - Room after-00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room after-00" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room after-00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-6",
+                "map": "6_a_5",
                 "x": 10,
                 "y": 2266,
                 "shape": "diamond",
@@ -855,11 +1343,19 @@
     },
     {
         "name": "Reflection A - Room after-01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Reflection A - Room after-01" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Reflection A - Room after-01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "6a-6",
+                "map": "6_a_5",
                 "x": 42,
                 "y": 266,
                 "shape": "diamond",

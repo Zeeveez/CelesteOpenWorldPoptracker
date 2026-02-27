@@ -1,11 +1,19 @@
 [
     {
         "name": "Golden Ridge A - Room a-00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-00" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 10,
                 "y": 882,
                 "shape": "diamond",
@@ -15,11 +23,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-01" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 482,
                 "y": 674,
                 "shape": "diamond",
@@ -29,11 +45,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-01x",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-01x" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-01x"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 850,
                 "y": 538,
                 "shape": "diamond",
@@ -43,11 +67,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-02",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-02" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-02"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 1770,
                 "y": 586,
                 "shape": "diamond",
@@ -57,11 +89,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-03",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-03" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-03"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 2258,
                 "y": 602,
                 "shape": "diamond",
@@ -71,11 +111,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-04",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-04" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-04"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 2850,
                 "y": 602,
                 "shape": "diamond",
@@ -85,11 +133,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-05",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-05" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-05"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 3330,
                 "y": 530,
                 "shape": "diamond",
@@ -99,11 +155,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-06",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-06" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-06"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 3714,
                 "y": 458,
                 "shape": "diamond",
@@ -113,11 +177,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-07",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-07" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-07"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 4074,
                 "y": 434,
                 "shape": "diamond",
@@ -127,11 +199,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-08",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-08" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-08"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 4394,
                 "y": 290,
                 "shape": "diamond",
@@ -141,11 +221,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-10",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-10" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-10"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 4074,
                 "y": 162,
                 "shape": "diamond",
@@ -155,11 +243,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-11",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-11" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-11"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 3290,
                 "y": 138,
                 "shape": "diamond",
@@ -169,11 +265,19 @@
     },
     {
         "name": "Golden Ridge A - Room a-09",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room a-09" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room a-09"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-1",
+                "map": "4_a_0",
                 "x": 4450,
                 "y": 10,
                 "shape": "diamond",
@@ -183,11 +287,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-00" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 730,
                 "y": 658,
                 "shape": "diamond",
@@ -197,11 +309,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-01" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 1050,
                 "y": 994,
                 "shape": "diamond",
@@ -211,11 +331,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-04",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-04" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-04"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 330,
                 "y": 658,
                 "shape": "diamond",
@@ -225,11 +353,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-06",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-06" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-06"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 10,
                 "y": 474,
                 "shape": "diamond",
@@ -239,11 +375,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-07",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-07" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-07"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 10,
                 "y": 882,
                 "shape": "diamond",
@@ -253,11 +397,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-03",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-03" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-03"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 410,
                 "y": 882,
                 "shape": "diamond",
@@ -267,11 +419,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-02",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-02" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-02"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 1050,
                 "y": 658,
                 "shape": "diamond",
@@ -281,11 +441,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-sec",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-sec" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-sec"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 1426,
                 "y": 394,
                 "shape": "diamond",
@@ -295,11 +463,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-secb",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-secb" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-secb"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 1746,
                 "y": 570,
                 "shape": "diamond",
@@ -309,11 +485,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-05",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-05" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-05"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 330,
                 "y": 474,
                 "shape": "diamond",
@@ -323,11 +507,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-08b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-08b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-08b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 1106,
                 "y": 226,
                 "shape": "diamond",
@@ -337,11 +529,19 @@
     },
     {
         "name": "Golden Ridge A - Room b-08",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room b-08" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room b-08"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-2",
+                "map": "4_a_1",
                 "x": 1346,
                 "y": 10,
                 "shape": "diamond",
@@ -351,11 +551,19 @@
     },
     {
         "name": "Golden Ridge A - Room c-00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room c-00" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room c-00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 330,
                 "y": 1986,
                 "shape": "diamond",
@@ -365,11 +573,19 @@
     },
     {
         "name": "Golden Ridge A - Room c-01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room c-01" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room c-01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 10,
                 "y": 1890,
                 "shape": "diamond",
@@ -379,11 +595,19 @@
     },
     {
         "name": "Golden Ridge A - Room c-02",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room c-02" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room c-02"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 1114,
                 "y": 1922,
                 "shape": "diamond",
@@ -393,11 +617,19 @@
     },
     {
         "name": "Golden Ridge A - Room c-04",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room c-04" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room c-04"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 1394,
                 "y": 1738,
                 "shape": "diamond",
@@ -407,11 +639,19 @@
     },
     {
         "name": "Golden Ridge A - Room c-05",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room c-05" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room c-05"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 1922,
                 "y": 1594,
                 "shape": "diamond",
@@ -421,11 +661,19 @@
     },
     {
         "name": "Golden Ridge A - Room c-06",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room c-06" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room c-06"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 2426,
                 "y": 962,
                 "shape": "diamond",
@@ -435,11 +683,19 @@
     },
     {
         "name": "Golden Ridge A - Room c-06b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room c-06b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room c-06b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 2106,
                 "y": 1098,
                 "shape": "diamond",
@@ -449,11 +705,19 @@
     },
     {
         "name": "Golden Ridge A - Room c-09",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room c-09" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room c-09"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 2626,
                 "y": 778,
                 "shape": "diamond",
@@ -463,11 +727,19 @@
     },
     {
         "name": "Golden Ridge A - Room c-07",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room c-07" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room c-07"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 3354,
                 "y": 554,
                 "shape": "diamond",
@@ -477,11 +749,19 @@
     },
     {
         "name": "Golden Ridge A - Room c-08",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room c-08" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room c-08"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 3874,
                 "y": 10,
                 "shape": "diamond",
@@ -491,11 +771,19 @@
     },
     {
         "name": "Golden Ridge A - Room c-10",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room c-10" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room c-10"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-3",
+                "map": "4_a_2",
                 "x": 4194,
                 "y": 10,
                 "shape": "diamond",
@@ -505,11 +793,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-00" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 522,
                 "y": 946,
                 "shape": "diamond",
@@ -519,11 +815,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-00b",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-00b" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-00b"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 10,
                 "y": 770,
                 "shape": "diamond",
@@ -533,11 +837,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-01" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 954,
                 "y": 962,
                 "shape": "diamond",
@@ -547,11 +859,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-02",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-02" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-02"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 1274,
                 "y": 1010,
                 "shape": "diamond",
@@ -561,11 +881,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-03",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-03" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-03"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 1650,
                 "y": 1002,
                 "shape": "diamond",
@@ -575,11 +903,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-04",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-04" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-04"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 1978,
                 "y": 954,
                 "shape": "diamond",
@@ -589,11 +925,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-05",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-05" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-05"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 2794,
                 "y": 954,
                 "shape": "diamond",
@@ -603,11 +947,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-06",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-06" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-06"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 3162,
                 "y": 890,
                 "shape": "diamond",
@@ -617,11 +969,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-07",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-07" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-07"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 3730,
                 "y": 914,
                 "shape": "diamond",
@@ -631,11 +991,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-08",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-08" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-08"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 4282,
                 "y": 794,
                 "shape": "diamond",
@@ -645,11 +1013,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-09",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-09" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-09"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 4650,
                 "y": 754,
                 "shape": "diamond",
@@ -659,11 +1035,19 @@
     },
     {
         "name": "Golden Ridge A - Room d-10",
-        "sections": [ { "access_rules": [ "^$CanAccess|Golden Ridge A - Room d-10" ] } ],
-        "visibility_rules": [ "roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Room d-10"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "4a-4",
+                "map": "4_a_3",
                 "x": 6058,
                 "y": 10,
                 "shape": "diamond",

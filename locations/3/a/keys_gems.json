@@ -1,61 +1,91 @@
 [
     {
         "name": "Celestial Resort A - Front Door Key",
-        "sections": [ { "access_rules": [ "^$CanAccess|Celestial Resort A - Front Door Key" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Front Door Key"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "3a-1",
+                "map": "3_a_0",
                 "x": 1327,
                 "y": 423,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Celestial Resort A - Hallway Key 1",
-        "sections": [ { "access_rules": [ "^$CanAccess|Celestial Resort A - Hallway Key 1" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Hallway Key 1"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "3a-1",
+                "map": "3_a_0",
                 "x": 2739,
                 "y": 323,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Celestial Resort A - Hallway Key 2",
-        "sections": [ { "access_rules": [ "^$CanAccess|Celestial Resort A - Hallway Key 2" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Hallway Key 2"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "3a-1",
+                "map": "3_a_0",
                 "x": 4367,
                 "y": 319,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Celestial Resort A - Huge Mess Key",
-        "sections": [ { "access_rules": [ "^$CanAccess|Celestial Resort A - Huge Mess Key" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Huge Mess Key"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "3a-2",
+                "map": "3_a_1",
                 "x": 639,
                 "y": 551,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     },
     {
         "name": "Celestial Resort A - Presidential Suite Key",
-        "sections": [ { "access_rules": [ "^$CanAccess|Celestial Resort A - Presidential Suite Key" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Presidential Suite Key"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "3a-3",
+                "map": "3_a_2",
                 "x": 383,
                 "y": 302,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     }

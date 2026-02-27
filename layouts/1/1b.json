@@ -7,7 +7,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "1b-1"
+                        "1_b_0"
                     ]
                 }
             },
@@ -16,7 +16,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "1b-2"
+                        "1_b_1"
                     ]
                 }
             },
@@ -25,7 +25,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "1b-3"
+                        "1_b_2"
                     ]
                 }
             }

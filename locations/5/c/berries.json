@@ -1,11 +1,19 @@
 [
     {
         "name": "Mirror Temple C - Golden Strawberry",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple C - Golden Strawberry" ] } ],
-        "visibility_rules": [ "include_c_sides,include_goldens" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple C - Golden Strawberry"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_c_sides,include_goldens"
+        ],
         "map_locations": [
             {
-                "map": "5c-1",
+                "map": "5_c_0",
                 "x": 17,
                 "y": 164
             }

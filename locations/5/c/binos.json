@@ -1,14 +1,22 @@
 [
     {
         "name": "Mirror Temple C - Room 02 Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple C - Room 02 Binoculars" ] } ],
-        "visibility_rules": [ "include_c_sides,binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple C - Room 02 Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_c_sides,binosanity"
+        ],
         "map_locations": [
             {
-                "map": "5c-1",
+                "map": "5_c_0",
                 "x": 831,
                 "y": 103,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     }

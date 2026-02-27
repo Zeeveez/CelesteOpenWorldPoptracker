@@ -7,79 +7,34 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "9a-1"
+                        "9_a_0"
                     ]
                 }
             },
             {
-                "title": "Singular",
+                "title": "Into the Core",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "9a-2"
+                        "9_a_1"
                     ]
                 }
             },
             {
-                "title": "Power Source",
+                "title": "Hot and Cold",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "9a-3"
+                        "9_a_2"
                     ]
                 }
             },
             {
-                "title": "Remembered",
+                "title": "Heart of the Mountain",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "9a-4"
-                    ]
-                }
-            },
-            {
-                "title": "Event Horizon",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "9a-5"
-                    ]
-                }
-            },
-            {
-                "title": "Determination",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "9a-6"
-                    ]
-                }
-            },
-            {
-                "title": "Stubbornness",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "9a-7"
-                    ]
-                }
-            },
-            {
-                "title": "Reconciliation",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "9a-8"
-                    ]
-                }
-            },
-            {
-                "title": "Farewell",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "9a-9"
+                        "9_a_3"
                     ]
                 }
             }

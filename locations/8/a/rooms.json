@@ -1,545 +1,65 @@
 [
     {
-        "name": "Core A - Room 0x",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room 0x" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
+        "name": "Epilogue - Room outside",
+        "sections": [
             {
-                "map": "8a-1",
-                "x": 10,
-                "y": 210,
-                "shape": "diamond",
-                "size": 20
+                "access_rules": [
+                    "$ACCESS_EPILOGUE,^$CanAccess|Epilogue - Room outside"
+                ]
             }
-        ]
-    },
-    {
-        "name": "Core A - Room 00",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room 00" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "8a-1",
-                "x": 330,
-                "y": 210,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room 01",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room 01" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-1",
+                "map": "8_a_0",
                 "x": 650,
-                "y": 18,
+                "y": 98,
                 "shape": "diamond",
                 "size": 20
             }
         ]
     },
     {
-        "name": "Core A - Room 02",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room 02" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
+        "name": "Epilogue - Room bridge",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_EPILOGUE,^$CanAccess|Epilogue - Room bridge"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "8a-1",
-                "x": 1402,
-                "y": 10,
+                "map": "8_a_0",
+                "x": 970,
+                "y": 98,
                 "shape": "diamond",
                 "size": 20
             }
         ]
     },
     {
-        "name": "Core A - Room a-00",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room a-00" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
+        "name": "Epilogue - Room secret",
+        "sections": [
             {
-                "map": "8a-2",
-                "x": 10,
-                "y": 1706,
-                "shape": "diamond",
-                "size": 20
+                "access_rules": [
+                    "$ACCESS_EPILOGUE,^$CanAccess|Epilogue - Room secret"
+                ]
             }
-        ]
-    },
-    {
-        "name": "Core A - Room a-01",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room a-01" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
+        ],
+        "visibility_rules": [
+            "roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "8a-2",
-                "x": 618,
-                "y": 1634,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room a-02",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room a-02" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-2",
-                "x": 1026,
-                "y": 1578,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room a-03",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room a-03" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-2",
-                "x": 1266,
-                "y": 1186,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room b-00",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room b-00" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-2",
-                "x": 1266,
-                "y": 1002,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room b-01",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room b-01" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-2",
-                "x": 1586,
-                "y": 1002,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room b-02",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room b-02" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-2",
-                "x": 2010,
-                "y": 922,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room b-03",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room b-03" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-2",
-                "x": 2586,
-                "y": 922,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room b-04",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room b-04" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-2",
-                "x": 3034,
-                "y": 850,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room b-05",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room b-05" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-2",
-                "x": 3010,
-                "y": 666,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room b-06",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room b-06" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-2",
-                "x": 890,
-                "y": 1002,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room b-07b",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room b-07b" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-2",
-                "x": 1266,
-                "y": 330,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room b-07",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room b-07" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-2",
-                "x": 1266,
-                "y": 10,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room c-00",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room c-00" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-3",
-                "x": 10,
-                "y": 194,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room c-00b",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room c-00b" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-3",
-                "x": 834,
-                "y": 10,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room c-01",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room c-01" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-3",
-                "x": 930,
-                "y": 194,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room c-02",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room c-02" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-3",
-                "x": 1594,
-                "y": 194,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room c-03",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room c-03" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-3",
-                "x": 2554,
-                "y": 194,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room c-03b",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room c-03b" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-3",
-                "x": 2570,
-                "y": 10,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room c-04",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room c-04" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-3",
-                "x": 3490,
-                "y": 194,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-00",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-00" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 10,
-                "y": 5234,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-01",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-01" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 10,
-                "y": 4538,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-02",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-02" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 10,
-                "y": 3906,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-03",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-03" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 10,
-                "y": 3346,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-04",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-04" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 10,
-                "y": 2778,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-05",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-05" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 10,
-                "y": 2210,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-06",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-06" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 10,
-                "y": 1746,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-07",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-07" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 10,
-                "y": 258,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-08",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-08" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 10,
-                "y": 74,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-09",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-09" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 1490,
-                "y": 74,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-10",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-10" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 2098,
-                "y": 74,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-10b",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-10b" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 2922,
-                "y": 74,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-10c",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-10c" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 3818,
-                "y": 74,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room d-11",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room d-11" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 5770,
-                "y": 74,
-                "shape": "diamond",
-                "size": 20
-            }
-        ]
-    },
-    {
-        "name": "Core A - Room space",
-        "sections": [ { "access_rules": [ "$ACCESS_8A,^$CanAccess|Core A - Room space" ] } ],
-        "visibility_rules": [ "include_core,roomsanity" ],
-        "map_locations": [
-            {
-                "map": "8a-4",
-                "x": 7090,
-                "y": 10,
+                "map": "8_a_0",
+                "x": 1978,
+                "y": 98,
                 "shape": "diamond",
                 "size": 20
             }

@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Farewell - Singular",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Singular"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_empty_space"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_1",
+                "x": 31,
+                "y": 389,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Power Source",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Power Source"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_empty_space"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_2",
+                "x": 39,
+                "y": 2349,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Remembered",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Remembered"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_empty_space"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_3",
+                "x": 311,
+                "y": 2084,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Event Horizon",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Event Horizon"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_farewell"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_4",
+                "x": 39,
+                "y": 2045,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Determination",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Determination"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_farewell"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_5",
+                "x": 38,
+                "y": 1973,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Stubbornness",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Stubbornness"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_farewell"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_6",
+                "x": 878,
+                "y": 389,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Reconciliation",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Reconciliation"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_farewell"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_7",
+                "x": 39,
+                "y": 351,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Farewell - Farewell",
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_10A,^$CanAccess|Farewell - Farewell"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_farewell"
+        ],
+        "map_locations": [
+            {
+                "map": "10_a_8",
+                "x": 39,
+                "y": 7381,
+                "shape": "diamond"
+            }
+        ]
+    }
+]

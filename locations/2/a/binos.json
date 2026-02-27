@@ -1,14 +1,22 @@
 [
     {
         "name": "Old Site A - Room d3 Binoculars",
-        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Room d3 Binoculars" ] } ],
-        "visibility_rules": [ "binosanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Old Site A - Room d3 Binoculars"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "binosanity"
+        ],
         "map_locations": [
             {
-                "map": "2a-1",
+                "map": "2_a_0",
                 "x": 1919,
                 "y": 1078,
-				"shape": "trapezoid"
+                "shape": "trapezoid"
             }
         ]
     }

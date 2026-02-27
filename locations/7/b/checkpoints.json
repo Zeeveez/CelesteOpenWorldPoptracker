@@ -1,79 +1,127 @@
 [
     {
         "name": "The Summit B - 500 M",
-        "sections": [ { "access_rules": [ "$ACCESS_7B,^$CanAccess|The Summit B - 500 M" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7B,^$CanAccess|The Summit B - 500 M"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "7b-2",
+                "map": "7_b_1",
                 "x": 227,
                 "y": 2661,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "The Summit B - 1000 M",
-        "sections": [ { "access_rules": [ "$ACCESS_7B,^$CanAccess|The Summit B - 1000 M" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7B,^$CanAccess|The Summit B - 1000 M"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "7b-3",
+                "map": "7_b_2",
                 "x": 126,
                 "y": 2248,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "The Summit B - 1500 M",
-        "sections": [ { "access_rules": [ "$ACCESS_7B,^$CanAccess|The Summit B - 1500 M" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7B,^$CanAccess|The Summit B - 1500 M"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "7b-4",
+                "map": "7_b_3",
                 "x": 150,
                 "y": 1205,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "The Summit B - 2000 M",
-        "sections": [ { "access_rules": [ "$ACCESS_7B,^$CanAccess|The Summit B - 2000 M" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7B,^$CanAccess|The Summit B - 2000 M"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "7b-5",
+                "map": "7_b_4",
                 "x": 186,
                 "y": 1452,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "The Summit B - 2500 M",
-        "sections": [ { "access_rules": [ "$ACCESS_7B,^$CanAccess|The Summit B - 2500 M" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7B,^$CanAccess|The Summit B - 2500 M"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "7b-6",
+                "map": "7_b_5",
                 "x": 114,
                 "y": 1900,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "The Summit B - 3000 M",
-        "sections": [ { "access_rules": [ "$ACCESS_7B,^$CanAccess|The Summit B - 3000 M" ] } ],
-        "visibility_rules": [ "include_b_sides" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "$ACCESS_7B,^$CanAccess|The Summit B - 3000 M"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides"
+        ],
         "map_locations": [
             {
-                "map": "7b-7",
+                "map": "7_b_6",
                 "x": 251,
                 "y": 7021,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     }

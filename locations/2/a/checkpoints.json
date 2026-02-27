@@ -1,25 +1,37 @@
 [
     {
         "name": "Old Site A - Intervention",
-        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Intervention" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Old Site A - Intervention"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "2a-2",
+                "map": "2_a_1",
                 "x": 155,
                 "y": 1533,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
     {
         "name": "Old Site A - Awake",
-        "sections": [ { "access_rules": [ "^$CanAccess|Old Site A - Awake" ] } ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Old Site A - Awake"
+                ]
+            }
+        ],
         "map_locations": [
             {
-                "map": "2a-3",
+                "map": "2_a_2",
                 "x": 1047,
                 "y": 845,
-				"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     }

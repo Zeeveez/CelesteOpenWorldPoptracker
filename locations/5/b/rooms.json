@@ -1,11 +1,19 @@
 [
     {
         "name": "Mirror Temple B - Room start",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room start" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room start"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-1",
+                "map": "5_b_0",
                 "x": 10,
                 "y": 10,
                 "shape": "diamond",
@@ -15,11 +23,19 @@
     },
     {
         "name": "Mirror Temple B - Room a-00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room a-00" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room a-00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-1",
+                "map": "5_b_0",
                 "x": 1042,
                 "y": 50,
                 "shape": "diamond",
@@ -29,11 +45,19 @@
     },
     {
         "name": "Mirror Temple B - Room a-01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room a-01" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room a-01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-1",
+                "map": "5_b_0",
                 "x": 1362,
                 "y": 50,
                 "shape": "diamond",
@@ -43,11 +67,19 @@
     },
     {
         "name": "Mirror Temple B - Room a-02",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room a-02" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room a-02"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-1",
+                "map": "5_b_0",
                 "x": 2498,
                 "y": 50,
                 "shape": "diamond",
@@ -57,11 +89,19 @@
     },
     {
         "name": "Mirror Temple B - Room b-00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room b-00" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room b-00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-2",
+                "map": "5_b_1",
                 "x": 730,
                 "y": 1594,
                 "shape": "diamond",
@@ -71,11 +111,19 @@
     },
     {
         "name": "Mirror Temple B - Room b-01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room b-01" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room b-01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-2",
+                "map": "5_b_1",
                 "x": 1050,
                 "y": 1594,
                 "shape": "diamond",
@@ -85,11 +133,19 @@
     },
     {
         "name": "Mirror Temple B - Room b-04",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room b-04" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room b-04"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-2",
+                "map": "5_b_1",
                 "x": 1050,
                 "y": 1410,
                 "shape": "diamond",
@@ -99,11 +155,19 @@
     },
     {
         "name": "Mirror Temple B - Room b-02",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room b-02" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room b-02"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-2",
+                "map": "5_b_1",
                 "x": 730,
                 "y": 1226,
                 "shape": "diamond",
@@ -113,11 +177,19 @@
     },
     {
         "name": "Mirror Temple B - Room b-05",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room b-05" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room b-05"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-2",
+                "map": "5_b_1",
                 "x": 410,
                 "y": 1274,
                 "shape": "diamond",
@@ -127,11 +199,19 @@
     },
     {
         "name": "Mirror Temple B - Room b-06",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room b-06" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room b-06"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-2",
+                "map": "5_b_1",
                 "x": 10,
                 "y": 1594,
                 "shape": "diamond",
@@ -141,11 +221,19 @@
     },
     {
         "name": "Mirror Temple B - Room b-07",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room b-07" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room b-07"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-2",
+                "map": "5_b_1",
                 "x": 1858,
                 "y": 1410,
                 "shape": "diamond",
@@ -155,11 +243,19 @@
     },
     {
         "name": "Mirror Temple B - Room b-03",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room b-03" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room b-03"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-2",
+                "map": "5_b_1",
                 "x": 1050,
                 "y": 1226,
                 "shape": "diamond",
@@ -169,11 +265,19 @@
     },
     {
         "name": "Mirror Temple B - Room b-08",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room b-08" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room b-08"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-2",
+                "map": "5_b_1",
                 "x": 730,
                 "y": 1042,
                 "shape": "diamond",
@@ -183,11 +287,19 @@
     },
     {
         "name": "Mirror Temple B - Room b-09",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room b-09" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room b-09"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-2",
+                "map": "5_b_1",
                 "x": 618,
                 "y": 10,
                 "shape": "diamond",
@@ -197,11 +309,19 @@
     },
     {
         "name": "Mirror Temple B - Room c-00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room c-00" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room c-00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-3",
+                "map": "5_b_2",
                 "x": 10,
                 "y": 10,
                 "shape": "diamond",
@@ -211,11 +331,19 @@
     },
     {
         "name": "Mirror Temple B - Room c-01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room c-01" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room c-01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-3",
+                "map": "5_b_2",
                 "x": 330,
                 "y": 858,
                 "shape": "diamond",
@@ -225,11 +353,19 @@
     },
     {
         "name": "Mirror Temple B - Room c-02",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room c-02" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room c-02"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-3",
+                "map": "5_b_2",
                 "x": 650,
                 "y": 858,
                 "shape": "diamond",
@@ -239,11 +375,19 @@
     },
     {
         "name": "Mirror Temple B - Room c-03",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room c-03" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room c-03"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-3",
+                "map": "5_b_2",
                 "x": 1210,
                 "y": 834,
                 "shape": "diamond",
@@ -253,11 +397,19 @@
     },
     {
         "name": "Mirror Temple B - Room c-04",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room c-04" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room c-04"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-3",
+                "map": "5_b_2",
                 "x": 1866,
                 "y": 834,
                 "shape": "diamond",
@@ -267,11 +419,19 @@
     },
     {
         "name": "Mirror Temple B - Room d-00",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room d-00" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room d-00"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-4",
+                "map": "5_b_3",
                 "x": 10,
                 "y": 10,
                 "shape": "diamond",
@@ -281,11 +441,19 @@
     },
     {
         "name": "Mirror Temple B - Room d-01",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room d-01" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room d-01"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-4",
+                "map": "5_b_3",
                 "x": 378,
                 "y": 10,
                 "shape": "diamond",
@@ -295,11 +463,19 @@
     },
     {
         "name": "Mirror Temple B - Room d-02",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room d-02" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room d-02"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-4",
+                "map": "5_b_3",
                 "x": 1074,
                 "y": 26,
                 "shape": "diamond",
@@ -309,11 +485,19 @@
     },
     {
         "name": "Mirror Temple B - Room d-03",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room d-03" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room d-03"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-4",
+                "map": "5_b_3",
                 "x": 1874,
                 "y": 26,
                 "shape": "diamond",
@@ -323,11 +507,19 @@
     },
     {
         "name": "Mirror Temple B - Room d-04",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room d-04" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room d-04"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-4",
+                "map": "5_b_3",
                 "x": 2522,
                 "y": 98,
                 "shape": "diamond",
@@ -337,11 +529,19 @@
     },
     {
         "name": "Mirror Temple B - Room d-05",
-        "sections": [ { "access_rules": [ "^$CanAccess|Mirror Temple B - Room d-05" ] } ],
-        "visibility_rules": [ "include_b_sides,roomsanity" ],
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Mirror Temple B - Room d-05"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_b_sides,roomsanity"
+        ],
         "map_locations": [
             {
-                "map": "5b-4",
+                "map": "5_b_3",
                 "x": 2938,
                 "y": 98,
                 "shape": "diamond",
