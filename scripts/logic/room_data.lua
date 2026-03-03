@@ -4701,7 +4701,6 @@ location_access_logic = {
 	},
 	["Mirror Temple A - Room b-10_east"] = {
 		{ "Mirror Temple A - Room b-02_south", { {  } } },
-		{ "Mirror Temple A - Room b-10_west", { { 'swapblocks' } } },
 	},
 	["Mirror Temple A - Room b-02_south"] = {
 		{ "Mirror Temple A - Room b-10_east", { {  } } },
@@ -5366,15 +5365,11 @@ location_access_logic = {
 		{ "Mirror Temple A - Room b-09_north", { {  } } },
 		{ "Mirror Temple A - Room b-09_south", { {  } } },
 	},
-	["Mirror Temple A - Room b-10_west"] = {
-		{ "Mirror Temple A - Room b-10_east", { { 'swapblocks' } } },
-	},
 	["Mirror Temple A - Room b-10"] = {
-		{ "Mirror Temple A - Room b-10_west", { {  } } },
 		{ "Mirror Temple A - Room b-10_east", { {  } } },
 	},
 	["Mirror Temple A - Room b-10 Strawberry"] = {
-		{ "Mirror Temple A - Room b-10_west", { {  } } },
+		{ "Mirror Temple A - Room b-10_east", { { 'swapblocks' } } },
 	},
 	["Mirror Temple A - Room b-11"] = {
 		{ "Mirror Temple A - Room b-11_north-west", { {  } } },

@@ -94,15 +94,12 @@ def patch_door(level, room, door, field, value):
     _room = next(filter(lambda x: x['name'] == room, _level['rooms']))
     _door = next(filter(lambda x: x['name'] == door, _room['doors']))
     _door[field] = value
-def patch_region(level, room, region, field, value):
+def patch_location(level, room, region, location, field, value):
     _level = next(filter(lambda x: x['name'] == level, raw_logic['levels']))
     _room = next(filter(lambda x: x['name'] == room, _level['rooms']))
     _region = next(filter(lambda x: x['name'] == region, _room['regions']))
-    _region[field] = value
-def add_region(level, room, new_region):
-    _level = next(filter(lambda x: x['name'] == level, raw_logic['levels']))
-    _room = next(filter(lambda x: x['name'] == room, _level['rooms']))
-    _room['regions'].append(new_region)
+    _location = next(filter(lambda x: x['name'] == location, _region['locations']))
+    _location[field] = value
     
 
 patch_door('1a', '12', 'east', 'closes_behind', False)
@@ -115,9 +112,7 @@ patch_door('5a', 'b-02', 'north-west', 'closes_behind', False)
 patch_door('5a', 'b-02', 'east-lower', 'closes_behind', False)
 patch_door('5a', 'b-02', 'south-east', 'closes_behind', False)
 
-patch_region('5a', 'b-10', 'east', 'name', 'west')
-patch_region('5a', 'b-10', 'west', 'connections', [{'dest':'east','rule':[['swap_blocks']]}])
-add_region('5a','b-10',{'name':'east','connections': [{'dest':'west','rule':[['swap_blocks']]}]})
+patch_location('5a', 'b-10', 'east', 'strawberry', 'rule', [['swap_blocks']])
 
 logic = {}
 for level in raw_logic['levels']:
