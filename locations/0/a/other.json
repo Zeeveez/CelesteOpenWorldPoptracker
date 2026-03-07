@@ -18,9 +18,6 @@
     },
     {
         "name": "Prologue - Car",
-        "visibility_rules": [
-            "carsanity"
-        ],
         "sections": [
             {
                 "access_rules": [
@@ -28,11 +25,15 @@
                 ]
             }
         ],
+        "visibility_rules": [
+            "carsanity"
+        ],
         "map_locations": [
             {
                 "map": "0_a_0",
                 "x": 210,
-                "y": 326
+                "y": 326,
+                "shape": "trapezoid"
             }
         ]
     }

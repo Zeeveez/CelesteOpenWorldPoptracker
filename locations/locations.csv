@@ -1,0 +1,1217 @@
+Chapter,Room,Checkpoint,Name,Type,map,x,y
+0,3,0,Prologue - Level Clear,clear,0_a_0,934,115
+0,-1,0,Prologue - Car,car,0_a_0,210,142
+0,-1,0,Prologue - Room -1,room,0_a_0,0,184
+0,0,0,Prologue - Room 0,room,0_a_0,320,184
+0,0b,0,Prologue - Room 0b,room,0_a_0,320,0
+0,1,0,Prologue - Room 1,room,0_a_0,768,168
+0,2,0,Prologue - Room 2,room,0_a_0,1232,96
+0,3,0,Prologue - Room 3,room,0_a_0,1552,96
+1,1,0,Forsaken City A - Golden Strawberry,golden,1_a_0,23,112
+1,end,2,Forsaken City A - Winged Golden Strawberry,golden,1_a_2,93,79
+1,2,0,Forsaken City A - Room 2 Strawberry,berry,1_a_0,96,40
+1,3,0,Forsaken City A - Room 3 Strawberry,berry,1_a_0,288,128
+1,3b,0,Forsaken City A - Room 3b Strawberry,berry,1_a_0,120,64
+1,5,0,Forsaken City A - Room 5 Strawberry,berry,1_a_0,32,32
+1,5z,0,Forsaken City A - Room 5z Strawberry,berry,1_a_0,144,248
+1,5a,0,Forsaken City A - Room 5a Strawberry,berry,1_a_0,240,48
+1,6,1,Forsaken City A - Room 6 Strawberry,berry,1_a_1,280,104
+1,7zb,1,Forsaken City A - Room 7zb Strawberry,berry,1_a_1,40,40
+1,s1,1,Forsaken City A - Room s1 Strawberry,berry,1_a_1,240,96
+1,7z,1,Forsaken City A - Room 7z Strawberry,berry,1_a_1,64,96
+1,8zb,1,Forsaken City A - Room 8zb Strawberry,berry,1_a_1,176,72
+1,7a,1,Forsaken City A - Room 7a Strawberry,berry,1_a_1,336,96
+1,9z,1,Forsaken City A - Room 9z Strawberry,berry,1_a_1,104,152
+1,8b,1,Forsaken City A - Room 8b Strawberry,berry,1_a_1,192,24
+1,9,1,Forsaken City A - Room 9 Strawberry,berry,1_a_1,248,104
+1,9b,2,Forsaken City A - Room 9b Strawberry,berry,1_a_2,296,80
+1,9c,2,Forsaken City A - Room 9c Strawberry,berry,1_a_2,200,48
+1,10zb,2,Forsaken City A - Room 10zb Strawberry,berry,1_a_2,272,144
+1,11,2,Forsaken City A - Room 11 Strawberry,berry,1_a_2,264,216
+1,12z,2,Forsaken City A - Room 12z Strawberry,berry,1_a_2,64,104
+1,6,1,Forsaken City A - Crossing,checkpoint,1_a_1,31,149
+1,9b,2,Forsaken City A - Chasm,checkpoint,1_a_2,34,137
+1,end,2,Forsaken City A - Level Clear,clear,1_a_2,256,136
+1,11z,2,Forsaken City A - Cassette,cassette,1_a_2,230,31
+1,s1,1,Forsaken City A - Crystal Heart,heart,1_a_1,216,146
+1,1,0,Forsaken City A - Room 1,room,1_a_0,0,1024
+1,2,0,Forsaken City A - Room 2,room,1_a_0,240,840
+1,3,0,Forsaken City A - Room 3,room,1_a_0,496,656
+1,4,0,Forsaken City A - Room 4,room,1_a_0,736,472
+1,3b,0,Forsaken City A - Room 3b,room,1_a_0,872,288
+1,5,0,Forsaken City A - Room 5,room,1_a_0,1024,0
+1,5z,0,Forsaken City A - Room 5z,room,1_a_0,704,0
+1,5a,0,Forsaken City A - Room 5a,room,1_a_0,1344,200
+1,6,1,Forsaken City A - Room 6,room,1_a_1,640,880
+1,6z,1,Forsaken City A - Room 6z,room,1_a_1,320,880
+1,6zb,1,Forsaken City A - Room 6zb,room,1_a_1,0,880
+1,7zb,1,Forsaken City A - Room 7zb,room,1_a_1,0,696
+1,6a,1,Forsaken City A - Room 6a,room,1_a_1,960,872
+1,6b,1,Forsaken City A - Room 6b,room,1_a_1,1352,704
+1,s0,1,Forsaken City A - Room s0,room,1_a_1,1032,560
+1,s1,1,Forsaken City A - Room s1,room,1_a_1,296,424
+1,6c,1,Forsaken City A - Room 6c,room,1_a_1,1672,632
+1,7,1,Forsaken City A - Room 7,room,1_a_1,1880,416
+1,7z,1,Forsaken City A - Room 7z,room,1_a_1,1352,504
+1,8z,1,Forsaken City A - Room 8z,room,1_a_1,1400,200
+1,8zb,1,Forsaken City A - Room 8zb,room,1_a_1,1720,200
+1,8,1,Forsaken City A - Room 8,room,1_a_1,2040,232
+1,7a,1,Forsaken City A - Room 7a,room,1_a_1,2200,416
+1,9z,1,Forsaken City A - Room 9z,room,1_a_1,2040,40
+1,8b,1,Forsaken City A - Room 8b,room,1_a_1,2360,184
+1,9,1,Forsaken City A - Room 9,room,1_a_1,2584,0
+1,9b,2,Forsaken City A - Room 9b,room,1_a_2,848,1016
+1,9c,2,Forsaken City A - Room 9c,room,1_a_2,1168,1016
+1,10,2,Forsaken City A - Room 10,room,1_a_2,640,792
+1,10z,2,Forsaken City A - Room 10z,room,1_a_2,320,832
+1,10zb,2,Forsaken City A - Room 10zb,room,1_a_2,0,832
+1,11,2,Forsaken City A - Room 11,room,1_a_2,640,528
+1,11z,2,Forsaken City A - Room 11z,room,1_a_2,320,568
+1,10a,2,Forsaken City A - Room 10a,room,1_a_2,960,792
+1,12,2,Forsaken City A - Room 12,room,1_a_2,696,296
+1,12z,2,Forsaken City A - Room 12z,room,1_a_2,376,200
+1,12a,2,Forsaken City A - Room 12a,room,1_a_2,1112,184
+1,end,2,Forsaken City A - Room end,room,1_a_2,1128,0
+1,00,0,Forsaken City B - Golden Strawberry,golden,1_b_0,10,110
+1,03,0,Forsaken City B - Room 03 Binoculars,bino,1_b_0,23,215
+1,09,2,Forsaken City B - Room 09 Binoculars,bino,1_b_2,23,327
+1,04,1,Forsaken City B - Contraption,checkpoint,1_b_1,27,145
+1,08,2,Forsaken City B - Scrap Pit,checkpoint,1_b_2,27,149
+1,end,2,Forsaken City B - Level Clear,clear,1_b_2,671,64
+1,00,0,Forsaken City B - Room 00,room,1_b_0,0,840
+1,01,0,Forsaken City B - Room 01,room,1_b_0,232,656
+1,02,0,Forsaken City B - Room 02,room,1_b_0,480,472
+1,02b,0,Forsaken City B - Room 02b,room,1_b_0,744,280
+1,03,0,Forsaken City B - Room 03,room,1_b_0,1072,0
+1,04,1,Forsaken City B - Room 04,room,1_b_1,0,752
+1,05,1,Forsaken City B - Room 05,room,1_b_1,296,568
+1,05b,1,Forsaken City B - Room 05b,room,1_b_1,632,384
+1,06,1,Forsaken City B - Room 06,room,1_b_1,960,184
+1,07,1,Forsaken City B - Room 07,room,1_b_1,1304,0
+1,08,2,Forsaken City B - Room 08,room,1_b_2,0,1560
+1,08b,2,Forsaken City B - Room 08b,room,1_b_2,264,1376
+1,09,2,Forsaken City B - Room 09,room,1_b_2,640,984
+1,10,2,Forsaken City B - Room 10,room,1_b_2,960,848
+1,11,2,Forsaken City B - Room 11,room,1_b_2,1456,184
+1,end,2,Forsaken City B - Room end,room,1_b_2,1520,0
+1,00,0,Forsaken City C - Golden Strawberry,golden,1_c_0,15,103
+1,01,0,Forsaken City C - Room 01 Binoculars,bino,1_c_0,55,143
+1,02,0,Forsaken City C - Room 02 Binoculars,bino,1_c_0,23,55
+1,02,0,Forsaken City C - Level Clear,clear,1_c_0,991,48
+1,00,0,Forsaken City C - Room 00,room,1_c_0,0,24
+1,01,0,Forsaken City C - Room 01,room,1_c_0,688,24
+1,02,0,Forsaken City C - Room 02,room,1_c_0,1632,0
+10,a-00,1,Farewell - Golden Strawberry,golden,10_a_1,24,80
+10,j-19,8,Farewell - Moon Berry,berry,10_a_8,160,1520
+10,a-04,1,Farewell - Room a-04 Binoculars,bino,10_a_1,31,71
+10,b-06,1,Farewell - Room b-06 Binoculars,bino,10_a_1,23,55
+10,d-00,2,Farewell - Room d-00 Binoculars,bino,10_a_2,383,567
+10,d-04,2,Farewell - Room d-04 Binoculars,bino,10_a_2,39,63
+10,d-03,2,Farewell - Room d-03 Binoculars,bino,10_a_2,95,159
+10,d-01,2,Farewell - Room d-01 Binoculars,bino,10_a_2,1479,31
+10,d-02,2,Farewell - Room d-02 Binoculars,bino,10_a_2,271,903
+10,d-05,2,Farewell - Room d-05 Binoculars,bino,10_a_2,63,127
+10,e-00yb,2,Farewell - Room e-00yb Binoculars,bino,10_a_2,23,751
+10,e-00b,3,Farewell - Room e-00b Binoculars,bino,10_a_3,223,366
+10,e-01,3,Farewell - Room e-01 Binoculars,bino,10_a_3,127,582
+10,e-02,3,Farewell - Room e-02 Binoculars,bino,10_a_3,63,110
+10,e-04,3,Farewell - Room e-04 Binoculars,bino,10_a_3,31,142
+10,e-08,3,Farewell - Room e-08 Binoculars,bino,10_a_3,119,126
+10,f-06,4,Farewell - Room f-06 Binoculars,bino,10_a_4,183,39
+10,f-07,4,Farewell - Room f-07 Binoculars,bino,10_a_4,23,127
+10,f-08,4,Farewell - Room f-08 Binoculars,bino,10_a_4,55,103
+10,f-09,4,Farewell - Room f-09 Binoculars,bino,10_a_4,31,167
+10,g-00,4,Farewell - Room g-00 Binoculars,bino,10_a_4,255,447
+10,g-04,4,Farewell - Room g-04 Binoculars,bino,10_a_4,31,71
+10,g-06,4,Farewell - Room g-06 Binoculars,bino,10_a_4,407,471
+10,h-01,5,Farewell - Room h-01 Binoculars,bino,10_a_5,62,607
+10,h-02,5,Farewell - Room h-02 Binoculars,bino,10_a_5,38,63
+10,h-03b,5,Farewell - Room h-03b Binoculars,bino,10_a_5,22,119
+10,h-04,5,Farewell - Room h-04 Binoculars,bino,10_a_5,94,31
+10,h-05,5,Farewell - Room h-05 Binoculars,bino,10_a_5,86,47
+10,h-06b,5,Farewell - Room h-06b Binoculars,bino,10_a_5,78,711
+10,h-07,5,Farewell - Room h-07 Binoculars 1,bino,10_a_5,14,87
+10,h-07,5,Farewell - Room h-07 Binoculars 2,bino,10_a_5,582,103
+10,h-08,5,Farewell - Room h-08 Binoculars,bino,10_a_5,46,231
+10,h-09,5,Farewell - Room h-09 Binoculars,bino,10_a_5,150,63
+10,i-00b,6,Farewell - Room i-00b Binoculars,bino,10_a_6,54,79
+10,i-02,6,Farewell - Room i-02 Binoculars,bino,10_a_6,38,55
+10,i-04,6,Farewell - Room i-04 Binoculars,bino,10_a_6,46,103
+10,i-05,6,Farewell - Room i-05 Binoculars,bino,10_a_6,58,119
+10,j-16,8,Farewell - Room j-16 Binoculars,bino,10_a_8,111,2695
+10,j-19,8,Farewell - Room j-19 Binoculars,bino,10_a_8,239,4591
+10,end-golden,8,Farewell - Room end-golden Binoculars 1,bino,10_a_8,167,1927
+10,end-golden,8,Farewell - Room end-golden Binoculars 2,bino,10_a_8,191,1767
+10,end-golden,8,Farewell - Room end-golden Binoculars 3,bino,10_a_8,119,1263
+10,a-00,1,Farewell - Singular,checkpoint,10_a_1,31,125
+10,c-00,2,Farewell - Power Source,checkpoint,10_a_2,39,469
+10,e-00z,3,Farewell - Remembered,checkpoint,10_a_3,311,356
+10,f-door,4,Farewell - Event Horizon,checkpoint,10_a_4,39,85
+10,h-00b,5,Farewell - Determination,checkpoint,10_a_5,38,85
+10,i-00,6,Farewell - Stubbornness,checkpoint,10_a_6,878,93
+10,j-00,7,Farewell - Reconciliation,checkpoint,10_a_7,39,109
+10,j-16,8,Farewell - Farewell,checkpoint,10_a_8,39,2661
+10,d-04,2,Farewell - Power Source Key 1,key,10_a_2,607,95
+10,d-03,2,Farewell - Power Source Key 2,key,10_a_2,703,95
+10,d-01,2,Farewell - Power Source Key 3,key,10_a_2,911,95
+10,d-02,2,Farewell - Power Source Key 4,key,10_a_2,159,391
+10,d-05,2,Farewell - Power Source Key 5,key,10_a_2,951,39
+10,j-17,8,Farewell - Level Clear,clear,10_a_8,1055,1773
+10,e-08,3,Farewell - Crystal Heart?,heart,10_a_3,1039,55
+10,e-01,3,Farewell - Secret Car,car,10_a_3,290,37
+10,f-00,4,Farewell - Internet Car,car,10_a_4,82,118
+10,intro-00-past,0,Farewell - Room intro-00-past,room,10_a_0,0,1256
+10,intro-01-future,0,Farewell - Room intro-01-future,room,10_a_0,1288,1256
+10,intro-02-launch,0,Farewell - Room intro-02-launch,room,10_a_0,2072,184
+10,intro-03-space,0,Farewell - Room intro-03-space,room,10_a_0,1688,0
+10,a-00,1,Farewell - Room a-00,room,10_a_1,0,264
+10,a-01,1,Farewell - Room a-01,room,10_a_1,320,208
+10,a-02,1,Farewell - Room a-02,room,10_a_1,752,208
+10,a-03,1,Farewell - Room a-03,room,10_a_1,1072,144
+10,a-04,1,Farewell - Room a-04,room,10_a_1,1528,176
+10,a-05,1,Farewell - Room a-05,room,10_a_1,2320,184
+10,b-00,1,Farewell - Room b-00,room,10_a_1,3024,184
+10,b-01,1,Farewell - Room b-01,room,10_a_1,3464,152
+10,b-02,1,Farewell - Room b-02,room,10_a_1,3904,112
+10,b-03,1,Farewell - Room b-03,room,10_a_1,4224,136
+10,b-04,1,Farewell - Room b-04,room,10_a_1,4928,160
+10,b-05,1,Farewell - Room b-05,room,10_a_1,5248,64
+10,b-06,1,Farewell - Room b-06,room,10_a_1,5864,80
+10,b-07,1,Farewell - Room b-07,room,10_a_1,6616,0
+10,c-00,2,Farewell - Room c-00,room,10_a_2,0,1880
+10,c-alt-00,2,Farewell - Room c-alt-00,room,10_a_2,808,1880
+10,c-alt-01,2,Farewell - Room c-alt-01,room,10_a_2,2632,1880
+10,c-00b,2,Farewell - Room c-00b,room,10_a_2,808,2136
+10,c-01,2,Farewell - Room c-01,room,10_a_2,1792,2144
+10,c-02,2,Farewell - Room c-02,room,10_a_2,2312,2192
+10,c-03,2,Farewell - Room c-03,room,10_a_2,2952,1800
+10,d-00,2,Farewell - Room d-00,room,10_a_2,2584,1168
+10,d-01,2,Farewell - Room d-01,room,10_a_2,1056,1512
+10,d-02,2,Farewell - Room d-02,room,10_a_2,2464,224
+10,d-03,2,Farewell - Room d-03,room,10_a_2,3664,1616
+10,d-04,2,Farewell - Room d-04,room,10_a_2,3664,1240
+10,d-05,2,Farewell - Room d-05,room,10_a_2,2824,984
+10,e-00y,2,Farewell - Room e-00y,room,10_a_2,2952,0
+10,e-00yb,2,Farewell - Room e-00yb,room,10_a_2,3272,152
+10,e-00z,3,Farewell - Room e-00z,room,10_a_3,0,1728
+10,e-00,3,Farewell - Room e-00,room,10_a_3,152,1304
+10,e-00b,3,Farewell - Room e-00b,room,10_a_3,272,904
+10,e-01,3,Farewell - Room e-01,room,10_a_3,272,296
+10,e-02,3,Farewell - Room e-02,room,10_a_3,352,112
+10,e-03,3,Farewell - Room e-03,room,10_a_3,1096,32
+10,e-04,3,Farewell - Room e-04,room,10_a_3,1416,0
+10,e-05,3,Farewell - Room e-05,room,10_a_3,2216,104
+10,e-05b,3,Farewell - Room e-05b,room,10_a_3,2608,0
+10,e-05c,3,Farewell - Room e-05c,room,10_a_3,2928,96
+10,e-06,3,Farewell - Room e-06,room,10_a_3,3408,56
+10,e-07,3,Farewell - Room e-07,room,10_a_3,4280,72
+10,e-08,3,Farewell - Room e-08,room,10_a_3,5032,80
+10,f-door,4,Farewell - Room f-door,room,10_a_4,0,1960
+10,f-00,4,Farewell - Room f-00,room,10_a_4,1000,1904
+10,f-01,4,Farewell - Room f-01,room,10_a_4,1976,1736
+10,f-02,4,Farewell - Room f-02,room,10_a_4,2416,1720
+10,f-03,4,Farewell - Room f-03,room,10_a_4,3032,1736
+10,f-04,4,Farewell - Room f-04,room,10_a_4,3496,1720
+10,f-05,4,Farewell - Room f-05,room,10_a_4,4120,1464
+10,f-06,4,Farewell - Room f-06,room,10_a_4,4744,1472
+10,f-07,4,Farewell - Room f-07,room,10_a_4,5496,1480
+10,f-08,4,Farewell - Room f-08,room,10_a_4,6560,1512
+10,f-09,4,Farewell - Room f-09,room,10_a_4,7088,1336
+10,g-00,4,Farewell - Room g-00,room,10_a_4,7104,864
+10,g-01,4,Farewell - Room g-01,room,10_a_4,7104,552
+10,g-03,4,Farewell - Room g-03,room,10_a_4,7296,368
+10,g-02,4,Farewell - Room g-02,room,10_a_4,7288,184
+10,g-04,4,Farewell - Room g-04,room,10_a_4,8096,0
+10,g-05,4,Farewell - Room g-05,room,10_a_4,8968,40
+10,g-06,4,Farewell - Room g-06,room,10_a_4,9288,136
+10,h-00b,5,Farewell - Room h-00b,room,10_a_5,0,1888
+10,h-00,5,Farewell - Room h-00,room,10_a_5,1048,2072
+10,h-01,5,Farewell - Room h-01,room,10_a_5,1648,1552
+10,h-02,5,Farewell - Room h-02,room,10_a_5,1856,1368
+10,h-03,5,Farewell - Room h-03,room,10_a_5,3112,1312
+10,h-03b,5,Farewell - Room h-03b,room,10_a_5,3432,1216
+10,h-04,5,Farewell - Room h-04,room,10_a_5,4232,1232
+10,h-04b,5,Farewell - Room h-04b,room,10_a_5,4552,1880
+10,h-05,5,Farewell - Room h-05,room,10_a_5,4552,2064
+10,h-06,5,Farewell - Room h-06,room,10_a_5,5376,2080
+10,h-06b,5,Farewell - Room h-06b,room,10_a_5,6200,1344
+10,h-07,5,Farewell - Room h-07,room,10_a_5,6456,1160
+10,h-08,5,Farewell - Room h-08,room,10_a_5,8368,1088
+10,h-09,5,Farewell - Room h-09,room,10_a_5,9008,1144
+10,h-10,5,Farewell - Room h-10,room,10_a_5,10424,0
+10,i-00,6,Farewell - Room i-00,room,10_a_6,0,296
+10,i-00b,6,Farewell - Room i-00b,room,10_a_6,1384,248
+10,i-01,6,Farewell - Room i-01,room,10_a_6,1976,168
+10,i-02,6,Farewell - Room i-02,room,10_a_6,2536,120
+10,i-03,6,Farewell - Room i-03,room,10_a_6,3264,48
+10,i-04,6,Farewell - Room i-04,room,10_a_6,3816,0
+10,i-05,6,Farewell - Room i-05,room,10_a_6,4424,32
+10,j-00,7,Farewell - Room j-00,room,10_a_7,0,242
+10,j-00b,7,Farewell - Room j-00b,room,10_a_7,1152,242
+10,j-01,7,Farewell - Room j-01,room,10_a_7,2760,186
+10,j-02,7,Farewell - Room j-02,room,10_a_7,4008,186
+10,j-03,7,Farewell - Room j-03,room,10_a_7,0,686
+10,j-04,7,Farewell - Room j-04,room,10_a_7,1616,702
+10,j-05,7,Farewell - Room j-05,room,10_a_7,2456,702
+10,j-06,7,Farewell - Room j-06,room,10_a_7,3712,646
+10,j-07,7,Farewell - Room j-07,room,10_a_7,0,1106
+10,j-08,7,Farewell - Room j-08,room,10_a_7,1752,1098
+10,j-09,7,Farewell - Room j-09,room,10_a_7,3496,1114
+10,j-10,7,Farewell - Room j-10,room,10_a_7,0,1654
+10,j-11,7,Farewell - Room j-11,room,10_a_7,1744,1654
+10,j-12,7,Farewell - Room j-12,room,10_a_7,3192,1678
+10,j-13,7,Farewell - Room j-13,room,10_a_7,0,2138
+10,j-14,7,Farewell - Room j-14,room,10_a_7,2672,2138
+10,j-14b,7,Farewell - Room j-14b,room,10_a_7,4128,2074
+10,j-15,7,Farewell - Room j-15,room,10_a_7,5216,2098
+10,j-16,8,Farewell - Room j-16,room,10_a_8,0,4720
+10,j-17,8,Farewell - Room j-17,room,10_a_8,4624,4536
+10,j-18,8,Farewell - Room j-18,room,10_a_8,4624,4352
+10,j-19,8,Farewell - Room j-19,room,10_a_8,4944,0
+10,end-golden,8,Farewell - Room end-golden,room,10_a_8,6923,5480
+2,start,0,Old Site A - Golden Strawberry,golden,2_a_0,239,186
+2,1,0,Old Site A - Room 1 Strawberry,berry,2_a_0,296,64
+2,d0,0,Old Site A - Room d0 Strawberry,berry,2_a_0,152,152
+2,d3,0,Old Site A - Room d3 Strawberry,berry,2_a_0,64,416
+2,d2,0,Old Site A - Room d2 Strawberry 1,berry,2_a_0,148,20
+2,d2,0,Old Site A - Room d2 Strawberry 2,berry,2_a_0,360,28
+2,d1,0,Old Site A - Room d1 Strawberry,berry,2_a_0,120,320
+2,d6,0,Old Site A - Room d6 Strawberry,berry,2_a_0,112,56
+2,d4,0,Old Site A - Room d4 Strawberry,berry,2_a_0,264,80
+2,d5,0,Old Site A - Room d5 Strawberry,berry,2_a_0,296,88
+2,4,1,Old Site A - Room 4 Strawberry,berry,2_a_1,296,48
+2,5,1,Old Site A - Room 5 Strawberry,berry,2_a_1,24,64
+2,8,1,Old Site A - Room 8 Strawberry,berry,2_a_1,128,56
+2,9,1,Old Site A - Room 9 Strawberry,berry,2_a_1,368,280
+2,9b,1,Old Site A - Room 9b Strawberry,berry,2_a_1,312,240
+2,10,1,Old Site A - Room 10 Strawberry,berry,2_a_1,280,248
+2,12c,1,Old Site A - Room 12c Strawberry,berry,2_a_1,112,72
+2,12d,1,Old Site A - Room 12d Strawberry,berry,2_a_1,352,96
+2,end_3c,2,Old Site A - Room end_3c Strawberry,berry,2_a_2,80,24
+2,d3,0,Old Site A - Room d3 Binoculars,bino,2_a_0,279,94
+2,3,1,Old Site A - Intervention,checkpoint,2_a_1,123,149
+2,end_3,2,Old Site A - Awake,checkpoint,2_a_2,47,301
+2,end_6,2,Old Site A - Level Clear,clear,2_a_2,205,131
+2,d9,0,Old Site A - Cassette,cassette,2_a_0,55,102
+2,s2,0,Old Site A - Crystal Heart,heart,2_a_0,223,111
+2,start,0,Old Site A - Room start,room,2_a_0,0,552
+2,s0,0,Old Site A - Room s0,room,2_a_0,0,368
+2,s1,0,Old Site A - Room s1,room,2_a_0,0,184
+2,s2,0,Old Site A - Room s2,room,2_a_0,0,0
+2,0,0,Old Site A - Room 0,room,2_a_0,320,464
+2,1,0,Old Site A - Room 1,room,2_a_0,680,504
+2,d0,0,Old Site A - Room d0,room,2_a_0,680,800
+2,d7,0,Old Site A - Room d7,room,2_a_0,1000,1168
+2,d8,0,Old Site A - Room d8,room,2_a_0,1320,1168
+2,d3,0,Old Site A - Room d3,room,2_a_0,1640,984
+2,d2,0,Old Site A - Room d2,room,2_a_0,1000,984
+2,d9,0,Old Site A - Room d9,room,2_a_0,808,1472
+2,d1,0,Old Site A - Room d1,room,2_a_0,360,800
+2,d6,0,Old Site A - Room d6,room,2_a_0,360,1168
+2,d4,0,Old Site A - Room d4,room,2_a_0,1000,800
+2,d5,0,Old Site A - Room d5,room,2_a_0,1320,800
+2,3x,0,Old Site A - Room 3x,room,2_a_0,360,280
+2,3,1,Old Site A - Room 3,room,2_a_1,32,1384
+2,4,1,Old Site A - Room 4,room,2_a_1,72,1200
+2,5,1,Old Site A - Room 5,room,2_a_1,72,1016
+2,6,1,Old Site A - Room 6,room,2_a_1,72,832
+2,7,1,Old Site A - Room 7,room,2_a_1,72,648
+2,8,1,Old Site A - Room 8,room,2_a_1,0,328
+2,9,1,Old Site A - Room 9,room,2_a_1,392,328
+2,9b,1,Old Site A - Room 9b,room,2_a_1,176,0
+2,10,1,Old Site A - Room 10,room,2_a_1,648,648
+2,2,0,Old Site A - Room 2,room,2_a_0,999,643
+2,2,1,Old Site A - Room 2,room,2_a_1,712,1608
+2,11,1,Old Site A - Room 11,room,2_a_1,1096,1904
+2,12b,1,Old Site A - Room 12b,room,2_a_1,1528,1904
+2,12c,1,Old Site A - Room 12c,room,2_a_1,1768,1544
+2,12d,1,Old Site A - Room 12d,room,2_a_1,1864,2088
+2,12,1,Old Site A - Room 12,room,2_a_1,2120,1896
+2,13,1,Old Site A - Room 13,room,2_a_1,2584,1904
+2,end_0,2,Old Site A - Room end_0,room,2_a_2,0,544
+2,end_s0,2,Old Site A - Room end_s0,room,2_a_2,0,184
+2,end_s1,2,Old Site A - Room end_s1,room,2_a_2,0,0
+2,end_1,2,Old Site A - Room end_1,room,2_a_2,320,544
+2,end_2,2,Old Site A - Room end_2,room,2_a_2,680,544
+2,end_3,2,Old Site A - Room end_3,room,2_a_2,1000,544
+2,end_4,2,Old Site A - Room end_4,room,2_a_2,1384,704
+2,end_3b,2,Old Site A - Room end_3b,room,2_a_2,1816,704
+2,end_3cb,2,Old Site A - Room end_3cb,room,2_a_2,2056,520
+2,end_3c,2,Old Site A - Room end_3c,room,2_a_2,2056,336
+2,end_5,2,Old Site A - Room end_5,room,2_a_2,2408,696
+2,end_6,2,Old Site A - Room end_6,room,2_a_2,2872,704
+2,start,0,Old Site B - Golden Strawberry,golden,2_b_0,239,122
+2,10,2,Old Site B - Room 10 Binoculars,bino,2_b_2,239,271
+2,11,2,Old Site B - Room 11 Binoculars,bino,2_b_2,15,471
+2,03,1,Old Site B - Combination Lock,checkpoint,2_b_1,243,153
+2,08b,2,Old Site B - Dream Altar,checkpoint,2_b_2,35,153
+2,end,2,Old Site B - Level Clear,clear,2_b_2,159,56
+2,start,0,Old Site B - Room start,room,2_b_0,0,616
+2,00,0,Old Site B - Room 00,room,2_b_0,320,616
+2,01,0,Old Site B - Room 01,room,2_b_0,696,552
+2,01b,0,Old Site B - Room 01b,room,2_b_0,936,368
+2,02b,0,Old Site B - Room 02b,room,2_b_0,1352,184
+2,02,0,Old Site B - Room 02,room,2_b_0,1920,0
+2,03,1,Old Site B - Room 03,room,2_b_1,24,712
+2,04,1,Old Site B - Room 04,room,2_b_1,240,520
+2,05,1,Old Site B - Room 05,room,2_b_1,0,320
+2,06,1,Old Site B - Room 06,room,2_b_1,256,120
+2,07,1,Old Site B - Room 07,room,2_b_1,592,0
+2,08b,2,Old Site B - Room 08b,room,2_b_2,0,1504
+2,08,2,Old Site B - Room 08,room,2_b_2,320,1304
+2,09,2,Old Site B - Room 09,room,2_b_2,576,1032
+2,10,2,Old Site B - Room 10,room,2_b_2,1192,1008
+2,11,2,Old Site B - Room 11,room,2_b_2,1448,464
+2,end,2,Old Site B - Room end,room,2_b_2,1664,0
+2,00,0,Old Site C - Golden Strawberry,golden,2_c_0,46,118
+2,02,0,Old Site C - Room 02 Binoculars,bino,2_c_0,31,151
+2,02,0,Old Site C - Level Clear,clear,2_c_0,1351,40
+2,00,0,Old Site C - Room 00,room,2_c_0,0,80
+2,01,0,Old Site C - Room 01,room,2_c_0,320,0
+2,02,0,Old Site C - Room 02,room,2_c_0,736,56
+3,s0,0,Celestial Resort A - Golden Strawberry,golden,3_a_0,15,96
+3,s2,0,Celestial Resort A - Room s2 Strawberry 1,berry,3_a_0,368,352
+3,s2,0,Celestial Resort A - Room s2 Strawberry 2,berry,3_a_0,88,72
+3,s3,0,Celestial Resort A - Room s3 Strawberry,berry,3_a_0,232,56
+3,00-a,0,Celestial Resort A - Room 00-a Strawberry,berry,3_a_0,376,120
+3,00-b,0,Celestial Resort A - Room 00-b Strawberry,berry,3_a_0,88,72
+3,04-b,0,Celestial Resort A - Room 04-b Strawberry,berry,3_a_0,296,128
+3,06-a,0,Celestial Resort A - Room 06-a Strawberry,berry,3_a_0,272,80
+3,07-b,0,Celestial Resort A - Room 07-b Strawberry,berry,3_a_0,272,32
+3,06-b,0,Celestial Resort A - Room 06-b Strawberry,berry,3_a_0,120,144
+3,06-c,0,Celestial Resort A - Room 06-c Strawberry,berry,3_a_0,224,32
+3,05-c,0,Celestial Resort A - Room 05-c Strawberry,berry,3_a_0,176,328
+3,12-y,1,Celestial Resort A - Room 12-y Strawberry,berry,3_a_1,272,40
+3,10-y,1,Celestial Resort A - Room 10-y Strawberry,berry,3_a_1,112,48
+3,12-c,1,Celestial Resort A - Room 12-c Strawberry,berry,3_a_1,160,152
+3,11-d,1,Celestial Resort A - Room 11-d Strawberry,berry,3_a_1,288,120
+3,13-b,1,Celestial Resort A - Room 13-b Strawberry,berry,3_a_1,296,140
+3,13-x,1,Celestial Resort A - Room 13-x Strawberry,berry,3_a_1,136,136
+3,08-x,1,Celestial Resort A - Room 08-x Strawberry,berry,3_a_1,160,104
+3,06-d,2,Celestial Resort A - Room 06-d Strawberry,berry,3_a_2,296,40
+3,04-c,2,Celestial Resort A - Room 04-c Strawberry,berry,3_a_2,288,72
+3,03-b,2,Celestial Resort A - Room 03-b Strawberry 1,berry,3_a_2,56,32
+3,03-b,2,Celestial Resort A - Room 03-b Strawberry 2,berry,3_a_2,192,88
+3,roof03,3,Celestial Resort A - Room roof03 Strawberry,berry,3_a_3,584,48
+3,roof06,3,Celestial Resort A - Room roof06 Strawberry 1,berry,3_a_3,408,44
+3,roof06,3,Celestial Resort A - Room roof06 Strawberry 2,berry,3_a_3,1048,144
+3,08-a,1,Celestial Resort A - Huge Mess,checkpoint,3_a_1,51,109
+3,09-d,2,Celestial Resort A - Elevator Shaft,checkpoint,3_a_2,35,332
+3,00-d,3,Celestial Resort A - Presidential Suite,checkpoint,3_a_3,283,61
+3,s3,0,Celestial Resort A - Front Door Key,key,3_a_0,103,239
+3,02-b,0,Celestial Resort A - Hallway Key 1,key,3_a_0,203,139
+3,07-b,0,Celestial Resort A - Hallway Key 2,key,3_a_0,231,135
+3,09-b,1,Celestial Resort A - Huge Mess Key,key,3_a_1,319,183
+3,02-c,2,Celestial Resort A - Presidential Suite Key,key,3_a_2,63,118
+3,roof07,3,Celestial Resort A - Level Clear,clear,3_a_3,177,73
+3,01-c,2,Celestial Resort A - Cassette,cassette,3_a_2,23,78
+3,11-c,1,Celestial Resort A - Crystal Heart,heart,3_a_1,159,136
+3,s0,0,Celestial Resort A - Room s0,room,3_a_0,0,496
+3,s1,0,Celestial Resort A - Room s1,room,3_a_0,320,296
+3,s2,0,Celestial Resort A - Room s2,room,3_a_0,720,296
+3,s3,0,Celestial Resort A - Room s3,room,3_a_0,1224,184
+3,0x-a,0,Celestial Resort A - Room 0x-a,room,3_a_0,1576,368
+3,00-a,0,Celestial Resort A - Room 00-a,room,3_a_0,1896,368
+3,02-a,0,Celestial Resort A - Room 02-a,room,3_a_0,2536,368
+3,02-b,0,Celestial Resort A - Room 02-b,room,3_a_0,2536,184
+3,01-b,0,Celestial Resort A - Room 01-b,room,3_a_0,2216,184
+3,00-b,0,Celestial Resort A - Room 00-b,room,3_a_0,1896,184
+3,00-c,0,Celestial Resort A - Room 00-c,room,3_a_0,1896,0
+3,0x-b,0,Celestial Resort A - Room 0x-b,room,3_a_0,1576,184
+3,03-a,0,Celestial Resort A - Room 03-a,room,3_a_0,2856,368
+3,04-b,0,Celestial Resort A - Room 04-b,room,3_a_0,3176,184
+3,05-a,0,Celestial Resort A - Room 05-a,room,3_a_0,3496,368
+3,06-a,0,Celestial Resort A - Room 06-a,room,3_a_0,3816,368
+3,07-a,0,Celestial Resort A - Room 07-a,room,3_a_0,4136,368
+3,07-b,0,Celestial Resort A - Room 07-b,room,3_a_0,4136,184
+3,06-b,0,Celestial Resort A - Room 06-b,room,3_a_0,3816,184
+3,06-c,0,Celestial Resort A - Room 06-c,room,3_a_0,3816,0
+3,05-c,0,Celestial Resort A - Room 05-c,room,3_a_0,3496,0
+3,08-c,0,Celestial Resort A - Room 08-c,room,3_a_0,4456,0
+3,08-b,0,Celestial Resort A - Room 08-b,room,3_a_0,4456,184
+3,08-a,1,Celestial Resort A - Room 08-a,room,3_a_1,0,552
+3,09-b,1,Celestial Resort A - Room 09-b,room,3_a_1,320,368
+3,11-x,1,Celestial Resort A - Room 11-x,room,3_a_1,960,736
+3,11-y,1,Celestial Resort A - Room 11-y,room,3_a_1,960,920
+3,12-y,1,Celestial Resort A - Room 12-y,room,3_a_1,1280,920
+3,11-z,1,Celestial Resort A - Room 11-z,room,3_a_1,960,1104
+3,10-z,1,Celestial Resort A - Room 10-z,room,3_a_1,640,1104
+3,10-y,1,Celestial Resort A - Room 10-y,room,3_a_1,640,920
+3,10-x,1,Celestial Resort A - Room 10-x,room,3_a_1,640,736
+3,10-c,1,Celestial Resort A - Room 10-c,room,3_a_1,640,184
+3,11-c,1,Celestial Resort A - Room 11-c,room,3_a_1,960,184
+3,12-c,1,Celestial Resort A - Room 12-c,room,3_a_1,1280,184
+3,12-d,1,Celestial Resort A - Room 12-d,room,3_a_1,1280,0
+3,11-d,1,Celestial Resort A - Room 11-d,room,3_a_1,960,0
+3,10-d,1,Celestial Resort A - Room 10-d,room,3_a_1,640,0
+3,11-b,1,Celestial Resort A - Room 11-b,room,3_a_1,960,368
+3,12-b,1,Celestial Resort A - Room 12-b,room,3_a_1,1280,368
+3,13-b,1,Celestial Resort A - Room 13-b,room,3_a_1,1600,368
+3,13-a,1,Celestial Resort A - Room 13-a,room,3_a_1,1600,552
+3,13-x,1,Celestial Resort A - Room 13-x,room,3_a_1,1600,736
+3,12-x,1,Celestial Resort A - Room 12-x,room,3_a_1,1280,736
+3,11-a,1,Celestial Resort A - Room 11-a,room,3_a_1,960,552
+3,08-x,1,Celestial Resort A - Room 08-x,room,3_a_1,0,736
+3,09-d,2,Celestial Resort A - Room 09-d,room,3_a_2,2560,0
+3,08-d,2,Celestial Resort A - Room 08-d,room,3_a_2,2240,0
+3,06-d,2,Celestial Resort A - Room 06-d,room,3_a_2,1600,0
+3,04-d,2,Celestial Resort A - Room 04-d,room,3_a_2,960,0
+3,04-c,2,Celestial Resort A - Room 04-c,room,3_a_2,960,184
+3,02-c,2,Celestial Resort A - Room 02-c,room,3_a_2,320,184
+3,03-b,2,Celestial Resort A - Room 03-b,room,3_a_2,640,368
+3,01-c,2,Celestial Resort A - Room 01-c,room,3_a_2,0,184
+3,02-d,2,Celestial Resort A - Room 02-d,room,3_a_2,0,0
+3,00-d,3,Celestial Resort A - Room 00-d,room,3_a_3,0,184
+3,roof00,3,Celestial Resort A - Room roof00,room,3_a_3,0,0
+3,roof01,3,Celestial Resort A - Room roof01,room,3_a_3,808,0
+3,roof02,3,Celestial Resort A - Room roof02,room,3_a_3,1224,0
+3,roof03,3,Celestial Resort A - Room roof03,room,3_a_3,1688,0
+3,roof04,3,Celestial Resort A - Room roof04,room,3_a_3,2664,0
+3,roof05,3,Celestial Resort A - Room roof05,room,3_a_3,3000,0
+3,roof06b,3,Celestial Resort A - Room roof06b,room,3_a_3,3816,0
+3,roof06,3,Celestial Resort A - Room roof06,room,3_a_3,4424,0
+3,roof07,3,Celestial Resort A - Room roof07,room,3_a_3,6456,0
+3,00,0,Celestial Resort B - Golden Strawberry,golden,3_b_0,29,92
+3,back,0,Celestial Resort B - Room back Binoculars,bino,3_b_0,1263,87
+3,12,2,Celestial Resort B - Room 12 Binoculars,bino,3_b_2,38,63
+3,06,1,Celestial Resort B - Staff Quarters,checkpoint,3_b_1,29,141
+3,11,2,Celestial Resort B - Library,checkpoint,3_b_2,46,81
+3,16,3,Celestial Resort B - Rooftop,checkpoint,3_b_3,74,124
+3,end,3,Celestial Resort B - Level Clear,clear,3_b_3,494,87
+3,00,0,Celestial Resort B - Room 00,room,3_b_0,1672,24
+3,back,0,Celestial Resort B - Room back,room,3_b_0,0,24
+3,01,0,Celestial Resort B - Room 01,room,3_b_0,1992,24
+3,02,0,Celestial Resort B - Room 02,room,3_b_0,2512,0
+3,03,0,Celestial Resort B - Room 03,room,3_b_0,3272,0
+3,04,0,Celestial Resort B - Room 04,room,3_b_0,3600,0
+3,05,0,Celestial Resort B - Room 05,room,3_b_0,3928,0
+3,06,1,Celestial Resort B - Room 06,room,3_b_1,0,776
+3,07,1,Celestial Resort B - Room 07,room,3_b_1,464,776
+3,08,1,Celestial Resort B - Room 08,room,3_b_1,784,560
+3,09,1,Celestial Resort B - Room 09,room,3_b_1,912,376
+3,10,1,Celestial Resort B - Room 10,room,3_b_1,1504,0
+3,11,2,Celestial Resort B - Room 11,room,3_b_2,0,104
+3,13,2,Celestial Resort B - Room 13,room,3_b_2,432,32
+3,14,2,Celestial Resort B - Room 14,room,3_b_2,1056,0
+3,15,2,Celestial Resort B - Room 15,room,3_b_2,1488,64
+3,12,2,Celestial Resort B - Room 12,room,3_b_2,1808,88
+3,16,3,Celestial Resort B - Room 16,room,3_b_3,0,184
+3,17,3,Celestial Resort B - Room 17,room,3_b_3,0,0
+3,18,3,Celestial Resort B - Room 18,room,3_b_3,664,0
+3,19,3,Celestial Resort B - Room 19,room,3_b_3,1432,0
+3,21,3,Celestial Resort B - Room 21,room,3_b_3,1864,0
+3,20,3,Celestial Resort B - Room 20,room,3_b_3,2640,0
+3,end,3,Celestial Resort B - Room end,room,3_b_3,3024,184
+3,00,0,Celestial Resort C - Golden Strawberry,golden,3_c_0,33,96
+3,02,0,Celestial Resort C - Room 02 Binoculars,bino,3_c_0,55,79
+3,02,0,Celestial Resort C - Level Clear,clear,3_c_0,1479,80
+3,00,0,Celestial Resort C - Room 00,room,3_c_0,0,288
+3,01,0,Celestial Resort C - Room 01,room,3_c_0,232,104
+3,02,0,Celestial Resort C - Room 02,room,3_c_0,576,0
+4,a-00,0,Golden Ridge A - Golden Strawberry,golden,4_a_0,24,233
+4,a-01x,0,Golden Ridge A - Room a-01x Strawberry,berry,4_a_0,256,72
+4,a-02,0,Golden Ridge A - Room a-02 Strawberry,berry,4_a_0,312,176
+4,a-03,0,Golden Ridge A - Room a-03 Strawberry,berry,4_a_0,344,40
+4,a-04,0,Golden Ridge A - Room a-04 Strawberry,berry,4_a_0,448,80
+4,a-06,0,Golden Ridge A - Room a-06 Strawberry,berry,4_a_0,160,160
+4,a-07,0,Golden Ridge A - Room a-07 Strawberry,berry,4_a_0,192,48
+4,a-10,0,Golden Ridge A - Room a-10 Strawberry,berry,4_a_0,184,104
+4,a-09,0,Golden Ridge A - Room a-09 Strawberry,berry,4_a_0,184,112
+4,b-01,1,Golden Ridge A - Room b-01 Strawberry 1,berry,4_a_1,344,48
+4,b-01,1,Golden Ridge A - Room b-01 Strawberry 2,berry,4_a_1,416,72
+4,b-04,1,Golden Ridge A - Room b-04 Strawberry,berry,4_a_1,192,40
+4,b-07,1,Golden Ridge A - Room b-07 Strawberry,berry,4_a_1,328,80
+4,b-03,1,Golden Ridge A - Room b-03 Strawberry,berry,4_a_1,160,72
+4,b-02,1,Golden Ridge A - Room b-02 Strawberry 1,berry,4_a_1,336,216
+4,b-02,1,Golden Ridge A - Room b-02 Strawberry 2,berry,4_a_1,280,48
+4,b-secb,1,Golden Ridge A - Room b-secb Strawberry,berry,4_a_1,72,48
+4,b-08,1,Golden Ridge A - Room b-08 Strawberry,berry,4_a_1,568,48
+4,c-00,2,Golden Ridge A - Room c-00 Strawberry,berry,4_a_2,424,208
+4,c-01,2,Golden Ridge A - Room c-01 Strawberry,berry,4_a_2,208,40
+4,c-05,2,Golden Ridge A - Room c-05 Strawberry,berry,4_a_2,656,80
+4,c-06,2,Golden Ridge A - Room c-06 Strawberry,berry,4_a_2,224,152
+4,c-06b,2,Golden Ridge A - Room c-06b Strawberry,berry,4_a_2,24,136
+4,c-08,2,Golden Ridge A - Room c-08 Strawberry,berry,4_a_2,40,280
+4,c-10,2,Golden Ridge A - Room c-10 Strawberry,berry,4_a_2,56,128
+4,d-00b,3,Golden Ridge A - Room d-00b Strawberry,berry,4_a_3,480,160
+4,d-01,3,Golden Ridge A - Room d-01 Strawberry,berry,4_a_3,208,160
+4,d-04,3,Golden Ridge A - Room d-04 Strawberry,berry,4_a_3,608,16
+4,d-07,3,Golden Ridge A - Room d-07 Strawberry,berry,4_a_3,128,40
+4,d-09,3,Golden Ridge A - Room d-09 Strawberry,berry,4_a_3,1096,128
+4,a-11,0,Golden Ridge A - Room a-11 Binoculars,bino,4_a_0,751,103
+4,b-02,1,Golden Ridge A - Room b-02 Binoculars,bino,4_a_1,23,207
+4,d-00b,3,Golden Ridge A - Room d-00b Binoculars,bino,4_a_3,471,327
+4,b-00,1,Golden Ridge A - Shrine,checkpoint,4_a_1,235,437
+4,c-00,2,Golden Ridge A - Old Trail,checkpoint,4_a_2,27,181
+4,d-00,3,Golden Ridge A - Cliff Face,checkpoint,4_a_3,43,149
+4,d-10,3,Golden Ridge A - Level Clear,clear,4_a_3,175,804
+4,a-11,0,Golden Ridge A - Cassette,cassette,4_a_0,39,135
+4,b-sec,1,Golden Ridge A - Crystal Heart,heart,4_a_1,159,49
+4,a-00,0,Golden Ridge A - Room a-00,room,4_a_0,0,872
+4,a-01,0,Golden Ridge A - Room a-01,room,4_a_0,472,664
+4,a-01x,0,Golden Ridge A - Room a-01x,room,4_a_0,840,528
+4,a-02,0,Golden Ridge A - Room a-02,room,4_a_0,1760,576
+4,a-03,0,Golden Ridge A - Room a-03,room,4_a_0,2248,592
+4,a-04,0,Golden Ridge A - Room a-04,room,4_a_0,2840,592
+4,a-05,0,Golden Ridge A - Room a-05,room,4_a_0,3320,520
+4,a-06,0,Golden Ridge A - Room a-06,room,4_a_0,3704,448
+4,a-07,0,Golden Ridge A - Room a-07,room,4_a_0,4064,424
+4,a-08,0,Golden Ridge A - Room a-08,room,4_a_0,4384,280
+4,a-10,0,Golden Ridge A - Room a-10,room,4_a_0,4064,152
+4,a-11,0,Golden Ridge A - Room a-11,room,4_a_0,3280,128
+4,a-09,0,Golden Ridge A - Room a-09,room,4_a_0,4440,0
+4,b-00,1,Golden Ridge A - Room b-00,room,4_a_1,720,648
+4,b-01,1,Golden Ridge A - Room b-01,room,4_a_1,1040,984
+4,b-04,1,Golden Ridge A - Room b-04,room,4_a_1,320,648
+4,b-06,1,Golden Ridge A - Room b-06,room,4_a_1,0,464
+4,b-07,1,Golden Ridge A - Room b-07,room,4_a_1,0,872
+4,b-03,1,Golden Ridge A - Room b-03,room,4_a_1,400,872
+4,b-02,1,Golden Ridge A - Room b-02,room,4_a_1,1040,648
+4,b-sec,1,Golden Ridge A - Room b-sec,room,4_a_1,1416,384
+4,b-secb,1,Golden Ridge A - Room b-secb,room,4_a_1,1736,560
+4,b-05,1,Golden Ridge A - Room b-05,room,4_a_1,320,464
+4,b-08b,1,Golden Ridge A - Room b-08b,room,4_a_1,1096,216
+4,b-08,1,Golden Ridge A - Room b-08,room,4_a_1,1336,0
+4,c-00,2,Golden Ridge A - Room c-00,room,4_a_2,320,1976
+4,c-01,2,Golden Ridge A - Room c-01,room,4_a_2,0,1880
+4,c-02,2,Golden Ridge A - Room c-02,room,4_a_2,1104,1912
+4,c-04,2,Golden Ridge A - Room c-04,room,4_a_2,1384,1728
+4,c-05,2,Golden Ridge A - Room c-05,room,4_a_2,1912,1584
+4,c-06,2,Golden Ridge A - Room c-06,room,4_a_2,2416,952
+4,c-06b,2,Golden Ridge A - Room c-06b,room,4_a_2,2096,1088
+4,c-09,2,Golden Ridge A - Room c-09,room,4_a_2,2616,768
+4,c-07,2,Golden Ridge A - Room c-07,room,4_a_2,3344,544
+4,c-08,2,Golden Ridge A - Room c-08,room,4_a_2,3864,0
+4,c-10,2,Golden Ridge A - Room c-10,room,4_a_2,4184,0
+4,d-00,3,Golden Ridge A - Room d-00,room,4_a_3,512,936
+4,d-00b,3,Golden Ridge A - Room d-00b,room,4_a_3,0,760
+4,d-01,3,Golden Ridge A - Room d-01,room,4_a_3,944,952
+4,d-02,3,Golden Ridge A - Room d-02,room,4_a_3,1264,1000
+4,d-03,3,Golden Ridge A - Room d-03,room,4_a_3,1640,992
+4,d-04,3,Golden Ridge A - Room d-04,room,4_a_3,1968,944
+4,d-05,3,Golden Ridge A - Room d-05,room,4_a_3,2784,944
+4,d-06,3,Golden Ridge A - Room d-06,room,4_a_3,3152,880
+4,d-07,3,Golden Ridge A - Room d-07,room,4_a_3,3720,904
+4,d-08,3,Golden Ridge A - Room d-08,room,4_a_3,4272,784
+4,d-09,3,Golden Ridge A - Room d-09,room,4_a_3,4640,744
+4,d-10,3,Golden Ridge A - Room d-10,room,4_a_3,6048,0
+4,a-00,0,Golden Ridge B - Golden Strawberry,golden,4_b_0,16,119
+4,b-02,1,Golden Ridge B - Room b-02 Binoculars,bino,4_b_1,287,879
+4,c-03,2,Golden Ridge B - Room c-03 Binoculars,bino,4_b_2,279,990
+4,d-01,3,Golden Ridge B - Room d-01 Binoculars,bino,4_b_3,70,191
+4,end,3,Golden Ridge B - Room end Binoculars,bino,4_b_3,86,207
+4,b-00,1,Golden Ridge B - Stepping Stones,checkpoint,4_b_1,35,93
+4,c-00,2,Golden Ridge B - Gusty Canyon,checkpoint,4_b_2,43,100
+4,d-00,3,Golden Ridge B - Eye of the Storm,checkpoint,4_b_3,42,69
+4,end,3,Golden Ridge B - Level Clear,clear,4_b_3,438,152
+4,a-00,0,Golden Ridge B - Room a-00,room,4_b_0,0,240
+4,a-01,0,Golden Ridge B - Room a-01,room,4_b_0,504,144
+4,a-02,0,Golden Ridge B - Room a-02,room,4_b_0,1128,32
+4,a-03,0,Golden Ridge B - Room a-03,room,4_b_0,1632,16
+4,a-04,0,Golden Ridge B - Room a-04,room,4_b_0,2776,0
+4,b-00,1,Golden Ridge B - Room b-00,room,4_b_1,0,1392
+4,b-01,1,Golden Ridge B - Room b-01,room,4_b_1,424,1272
+4,b-02,1,Golden Ridge B - Room b-02,room,4_b_1,808,368
+4,b-03,1,Golden Ridge B - Room b-03,room,4_b_1,1072,184
+4,b-04,1,Golden Ridge B - Room b-04,room,4_b_1,1432,0
+4,c-00,2,Golden Ridge B - Room c-00,room,4_b_2,0,1032
+4,c-01,2,Golden Ridge B - Room c-01,room,4_b_2,968,1024
+4,c-02,2,Golden Ridge B - Room c-02,room,4_b_2,1688,1024
+4,c-03,2,Golden Ridge B - Room c-03,room,4_b_2,2648,184
+4,c-04,2,Golden Ridge B - Room c-04,room,4_b_2,2744,0
+4,d-00,3,Golden Ridge B - Room d-00,room,4_b_3,0,112
+4,d-01,3,Golden Ridge B - Room d-01,room,4_b_3,896,64
+4,d-02,3,Golden Ridge B - Room d-02,room,4_b_3,1888,72
+4,d-03,3,Golden Ridge B - Room d-03,room,4_b_3,2616,64
+4,end,3,Golden Ridge B - Room end,room,4_b_3,4488,0
+4,00,0,Golden Ridge C - Golden Strawberry,golden,4_c_0,16,88
+4,01,0,Golden Ridge C - Room 01 Binoculars,bino,4_c_0,71,463
+4,02,0,Golden Ridge C - Room 02 Binoculars,bino,4_c_0,23,55
+4,02,0,Golden Ridge C - Level Clear,clear,4_c_0,2431,104
+4,00,0,Golden Ridge C - Room 00,room,4_c_0,0,424
+4,01,0,Golden Ridge C - Room 01,room,4_c_0,696,32
+4,02,0,Golden Ridge C - Room 02,room,4_c_0,1016,0
+5,a-00b,0,Mirror Temple A - Golden Strawberry,golden,5_a_0,367,139
+5,a-00x,0,Mirror Temple A - Room a-00x Strawberry,berry,5_a_0,664,400
+5,a-01,0,Mirror Temple A - Room a-01 Strawberry 1,berry,5_a_0,48,48
+5,a-01,0,Mirror Temple A - Room a-01 Strawberry 2,berry,5_a_0,232,352
+5,a-02,0,Mirror Temple A - Room a-02 Strawberry,berry,5_a_0,296,88
+5,a-03,0,Mirror Temple A - Room a-03 Strawberry,berry,5_a_0,160,32
+5,a-04,0,Mirror Temple A - Room a-04 Strawberry,berry,5_a_0,40,128
+5,a-05,0,Mirror Temple A - Room a-05 Strawberry,berry,5_a_0,232,72
+5,a-06,0,Mirror Temple A - Room a-06 Strawberry,berry,5_a_0,184,80
+5,a-07,0,Mirror Temple A - Room a-07 Strawberry,berry,5_a_0,40,52
+5,a-11,0,Mirror Temple A - Room a-11 Strawberry,berry,5_a_0,40,72
+5,a-15,0,Mirror Temple A - Room a-15 Strawberry,berry,5_a_0,288,144
+5,a-14,0,Mirror Temple A - Room a-14 Strawberry,berry,5_a_0,184,32
+5,b-18,1,Mirror Temple A - Room b-18 Strawberry,berry,5_a_1,280,48
+5,b-01c,1,Mirror Temple A - Room b-01c Strawberry,berry,5_a_1,232,32
+5,b-20,1,Mirror Temple A - Room b-20 Strawberry 1,berry,5_a_1,240,64
+5,b-20,1,Mirror Temple A - Room b-20 Strawberry 2,berry,5_a_1,504,64
+5,b-21,1,Mirror Temple A - Room b-21 Strawberry,berry,5_a_1,88,48
+5,b-03,1,Mirror Temple A - Room b-03 Strawberry,berry,5_a_1,120,24
+5,b-05,1,Mirror Temple A - Room b-05 Strawberry,berry,5_a_1,288,96
+5,b-10,1,Mirror Temple A - Room b-10 Strawberry,berry,5_a_1,40,80
+5,b-12,1,Mirror Temple A - Room b-12 Strawberry,berry,5_a_1,160,120
+5,b-17,1,Mirror Temple A - Room b-17 Strawberry 2,berry,5_a_1,272,216
+5,b-17,1,Mirror Temple A - Room b-17 Strawberry 1,berry,5_a_1,152,40
+5,c-08,2,Mirror Temple A - Room c-08 Strawberry,berry,5_a_2,336,128
+5,d-04,3,Mirror Temple A - Room d-04 Strawberry 2,berry,5_a_3,392,216
+5,d-04,3,Mirror Temple A - Room d-04 Strawberry 1,berry,5_a_3,368,32
+5,d-15,3,Mirror Temple A - Room d-15 Strawberry 2,berry,5_a_3,400,328
+5,d-15,3,Mirror Temple A - Room d-15 Strawberry 1,berry,5_a_3,56,352
+5,d-13,3,Mirror Temple A - Room d-13 Strawberry,berry,5_a_3,88,120
+5,d-19,3,Mirror Temple A - Room d-19 Strawberry,berry,5_a_3,184,40
+5,e-06,4,Mirror Temple A - Room e-06 Strawberry,berry,5_a_4,432,48
+5,b-22,1,Mirror Temple A - Room b-22 Binoculars,bino,5_a_1,30,95
+5,b-00,1,Mirror Temple A - Depths,checkpoint,5_a_1,50,93
+5,c-00,2,Mirror Temple A - Unravelling,checkpoint,5_a_2,159,45
+5,d-00,3,Mirror Temple A - Search,checkpoint,5_a_3,159,469
+5,e-00,4,Mirror Temple A - Rescue,checkpoint,5_a_4,159,97
+5,a-08,0,Mirror Temple A - Entrance Key,key,5_a_0,255,254
+5,b-04,1,Mirror Temple A - Depths Key,key,5_a_1,158,55
+5,d-04,3,Mirror Temple A - Search Key 1,key,5_a_3,199,151
+5,d-04,3,Mirror Temple A - Search Key 2,key,5_a_3,279,151
+5,d-15,3,Mirror Temple A - Search Key 3,key,5_a_3,399,263
+5,e-11,4,Mirror Temple A - Level Clear,clear,5_a_4,1087,106
+5,b-22,1,Mirror Temple A - Cassette,cassette,5_a_1,166,47
+5,b-15,1,Mirror Temple A - Crystal Heart,heart,5_a_1,174,65
+5,a-00x,0,Mirror Temple A - Room a-00x,room,5_a_0,0,704
+5,a-00b,0,Mirror Temple A - Room a-00b,room,5_a_0,696,840
+5,a-00d,0,Mirror Temple A - Room a-00d,room,5_a_0,1152,840
+5,a-00c,0,Mirror Temple A - Room a-00c,room,5_a_0,1568,768
+5,a-00,0,Mirror Temple A - Room a-00,room,5_a_0,2080,792
+5,a-01,0,Mirror Temple A - Room a-01,room,5_a_0,2560,544
+5,a-02,0,Mirror Temple A - Room a-02,room,5_a_0,2968,1168
+5,a-03,0,Mirror Temple A - Room a-03,room,5_a_0,2648,1168
+5,a-04,0,Mirror Temple A - Room a-04,room,5_a_0,2328,1168
+5,a-05,0,Mirror Temple A - Room a-05,room,5_a_0,2576,1352
+5,a-06,0,Mirror Temple A - Room a-06,room,5_a_0,3040,1480
+5,a-07,0,Mirror Temple A - Room a-07,room,5_a_0,2256,1480
+5,a-08,0,Mirror Temple A - Room a-08,room,5_a_0,2864,200
+5,a-10,0,Mirror Temple A - Room a-10,room,5_a_0,2544,272
+5,a-09,0,Mirror Temple A - Room a-09,room,5_a_0,2224,272
+5,a-11,0,Mirror Temple A - Room a-11,room,5_a_0,1904,272
+5,a-12,0,Mirror Temple A - Room a-12,room,5_a_0,3184,272
+5,a-15,0,Mirror Temple A - Room a-15,room,5_a_0,3408,88
+5,a-14,0,Mirror Temple A - Room a-14,room,5_a_0,2992,0
+5,a-13,0,Mirror Temple A - Room a-13,room,5_a_0,3056,824
+5,b-00,1,Mirror Temple A - Room b-00,room,5_a_1,0,1312
+5,b-18,1,Mirror Temple A - Room b-18,room,5_a_1,0,1128
+5,b-01,1,Mirror Temple A - Room b-01,room,5_a_1,568,1128
+5,b-01c,1,Mirror Temple A - Room b-01c,room,5_a_1,824,1496
+5,b-20,1,Mirror Temple A - Room b-20,room,5_a_1,568,944
+5,b-21,1,Mirror Temple A - Room b-21,room,5_a_1,248,872
+5,b-01b,1,Mirror Temple A - Room b-01b,room,5_a_1,1216,1128
+5,b-02,1,Mirror Temple A - Room b-02,room,5_a_1,1584,880
+5,b-03,1,Mirror Temple A - Room b-03,room,5_a_1,1264,760
+5,b-05,1,Mirror Temple A - Room b-05,room,5_a_1,1904,768
+5,b-04,1,Mirror Temple A - Room b-04,room,5_a_1,1584,664
+5,b-07,1,Mirror Temple A - Room b-07,room,5_a_1,1264,504
+5,b-08,1,Mirror Temple A - Room b-08,room,5_a_1,1584,384
+5,b-09,1,Mirror Temple A - Room b-09,room,5_a_1,1904,584
+5,b-10,1,Mirror Temple A - Room b-10,room,5_a_1,1384,1560
+5,b-11,1,Mirror Temple A - Room b-11,room,5_a_1,1904,1216
+5,b-12,1,Mirror Temple A - Room b-12,room,5_a_1,1904,1560
+5,b-13,1,Mirror Temple A - Room b-13,room,5_a_1,2224,1312
+5,b-17,1,Mirror Temple A - Room b-17,room,5_a_1,2544,1312
+5,b-22,1,Mirror Temple A - Room b-22,room,5_a_1,2952,1392
+5,b-06,1,Mirror Temple A - Room b-06,room,5_a_1,1904,1032
+5,b-19,1,Mirror Temple A - Room b-19,room,5_a_1,2992,1032
+5,b-14,1,Mirror Temple A - Room b-14,room,5_a_1,4952,1032
+5,b-15,1,Mirror Temple A - Room b-15,room,5_a_1,5272,1080
+5,b-16,1,Mirror Temple A - Room b-16,room,5_a_1,4952,0
+5,void,2,Mirror Temple A - Room void,room,5_a_2,1440,0
+5,c-00,2,Mirror Temple A - Room c-00,room,5_a_2,0,120
+5,c-01,2,Mirror Temple A - Room c-01,room,5_a_2,320,968
+5,c-01b,2,Mirror Temple A - Room c-01b,room,5_a_2,864,968
+5,c-01c,2,Mirror Temple A - Room c-01c,room,5_a_2,1184,968
+5,c-08b,2,Mirror Temple A - Room c-08b,room,5_a_2,1592,968
+5,c-08,2,Mirror Temple A - Room c-08,room,5_a_2,1968,968
+5,c-10,2,Mirror Temple A - Room c-10,room,5_a_2,2344,968
+5,c-12,2,Mirror Temple A - Room c-12,room,5_a_2,2664,968
+5,c-07,2,Mirror Temple A - Room c-07,room,5_a_2,2984,968
+5,c-11,2,Mirror Temple A - Room c-11,room,5_a_2,3456,968
+5,c-09,2,Mirror Temple A - Room c-09,room,5_a_2,3776,968
+5,c-13,2,Mirror Temple A - Room c-13,room,5_a_2,4096,968
+5,d-00,3,Mirror Temple A - Room d-00,room,5_a_3,1136,736
+5,d-01,3,Mirror Temple A - Room d-01,room,5_a_3,976,184
+5,d-09,3,Mirror Temple A - Room d-09,room,5_a_3,656,184
+5,d-04,3,Mirror Temple A - Room d-04,room,5_a_3,320,368
+5,d-05,3,Mirror Temple A - Room d-05,room,5_a_3,784,736
+5,d-06,3,Mirror Temple A - Room d-06,room,5_a_3,432,736
+5,d-07,3,Mirror Temple A - Room d-07,room,5_a_3,1456,736
+5,d-02,3,Mirror Temple A - Room d-02,room,5_a_3,784,1072
+5,d-03,3,Mirror Temple A - Room d-03,room,5_a_3,448,1072
+5,d-15,3,Mirror Temple A - Room d-15,room,5_a_3,1616,184
+5,d-13,3,Mirror Temple A - Room d-13,room,5_a_3,1920,736
+5,d-19,3,Mirror Temple A - Room d-19,room,5_a_3,0,584
+5,d-19b,3,Mirror Temple A - Room d-19b,room,5_a_3,0,184
+5,d-10,3,Mirror Temple A - Room d-10,room,5_a_3,320,184
+5,d-20,3,Mirror Temple A - Room d-20,room,5_a_3,592,0
+5,e-00,4,Mirror Temple A - Room e-00,room,5_a_4,0,104
+5,e-01,4,Mirror Temple A - Room e-01,room,5_a_4,568,104
+5,e-02,4,Mirror Temple A - Room e-02,room,5_a_4,888,104
+5,e-03,4,Mirror Temple A - Room e-03,room,5_a_4,1264,104
+5,e-04,4,Mirror Temple A - Room e-04,room,5_a_4,1776,104
+5,e-06,4,Mirror Temple A - Room e-06,room,5_a_4,2272,104
+5,e-05,4,Mirror Temple A - Room e-05,room,5_a_4,2936,104
+5,e-07,4,Mirror Temple A - Room e-07,room,5_a_4,3256,104
+5,e-08,4,Mirror Temple A - Room e-08,room,5_a_4,3944,104
+5,e-09,4,Mirror Temple A - Room e-09,room,5_a_4,4512,104
+5,e-10,4,Mirror Temple A - Room e-10,room,5_a_4,4952,32
+5,e-11,4,Mirror Temple A - Room e-11,room,5_a_4,5664,0
+5,start,0,Mirror Temple B - Golden Strawberry,golden,5_b_0,940,137
+5,b-09,1,Mirror Temple B - Room b-09 Binoculars,bino,5_b_1,199,1007
+5,b-00,1,Mirror Temple B - Central Chamber,checkpoint,5_b_1,159,117
+5,c-00,2,Mirror Temple B - Through the Mirror,checkpoint,5_b_2,159,73
+5,d-00,3,Mirror Temple B - Mix Master,checkpoint,5_b_3,31,145
+5,b-02,1,Mirror Temple B - Central Chamber Key 1,key,5_b_1,71,279
+5,b-02,1,Mirror Temple B - Central Chamber Key 2,key,5_b_1,247,279
+5,d-05,3,Mirror Temple B - Level Clear,clear,5_b_3,727,120
+5,start,0,Mirror Temple B - Room start,room,5_b_0,0,0
+5,a-00,0,Mirror Temple B - Room a-00,room,5_b_0,1032,40
+5,a-01,0,Mirror Temple B - Room a-01,room,5_b_0,1352,40
+5,a-02,0,Mirror Temple B - Room a-02,room,5_b_0,2488,40
+5,b-00,1,Mirror Temple B - Room b-00,room,5_b_1,720,1584
+5,b-01,1,Mirror Temple B - Room b-01,room,5_b_1,1040,1584
+5,b-04,1,Mirror Temple B - Room b-04,room,5_b_1,1040,1400
+5,b-02,1,Mirror Temple B - Room b-02,room,5_b_1,720,1216
+5,b-05,1,Mirror Temple B - Room b-05,room,5_b_1,400,1264
+5,b-06,1,Mirror Temple B - Room b-06,room,5_b_1,0,1584
+5,b-07,1,Mirror Temple B - Room b-07,room,5_b_1,1848,1400
+5,b-03,1,Mirror Temple B - Room b-03,room,5_b_1,1040,1216
+5,b-08,1,Mirror Temple B - Room b-08,room,5_b_1,720,1032
+5,b-09,1,Mirror Temple B - Room b-09,room,5_b_1,608,0
+5,c-00,2,Mirror Temple B - Room c-00,room,5_b_2,0,0
+5,c-01,2,Mirror Temple B - Room c-01,room,5_b_2,320,848
+5,c-02,2,Mirror Temple B - Room c-02,room,5_b_2,640,848
+5,c-03,2,Mirror Temple B - Room c-03,room,5_b_2,1200,824
+5,c-04,2,Mirror Temple B - Room c-04,room,5_b_2,1856,824
+5,d-00,3,Mirror Temple B - Room d-00,room,5_b_3,0,0
+5,d-01,3,Mirror Temple B - Room d-01,room,5_b_3,368,0
+5,d-02,3,Mirror Temple B - Room d-02,room,5_b_3,1064,16
+5,d-03,3,Mirror Temple B - Room d-03,room,5_b_3,1864,16
+5,d-04,3,Mirror Temple B - Room d-04,room,5_b_3,2512,88
+5,d-05,3,Mirror Temple B - Room d-05,room,5_b_3,2928,88
+5,00,0,Mirror Temple C - Golden Strawberry,golden,5_c_0,17,124
+5,02,0,Mirror Temple C - Room 02 Binoculars,bino,5_c_0,23,87
+5,02,0,Mirror Temple C - Level Clear,clear,5_c_0,1527,40
+5,00,0,Mirror Temple C - Room 00,room,5_c_0,0,40
+5,01,0,Mirror Temple C - Room 01,room,5_c_0,488,0
+5,02,0,Mirror Temple C - Room 02,room,5_c_0,808,16
+6,00,1,Reflection A - Golden Strawberry,golden,6_a_1,519,121
+6,04e,2,Reflection A - Room 04e Binoculars,bino,6_a_2,831,63
+6,04,2,Reflection A - Hollows,checkpoint,6_a_2,399,1161
+6,b-00,3,Reflection A - Reflection,checkpoint,6_a_3,47,137
+6,boss-00,4,Reflection A - Rock Bottom,checkpoint,6_a_4,35,125
+6,after-00,5,Reflection A - Resolution,checkpoint,6_a_5,167,325
+6,after-02,5,Reflection A - Level Clear,clear,6_a_5,-1,-1
+6,04e,2,Reflection A - Cassette,cassette,6_a_2,47,95
+6,04c,2,Reflection A - Crystal Heart,heart,6_a_2,263,96
+6,00,1,Reflection A - Room 00,room,6_a_1,272,2104
+6,01,1,Reflection A - Room 01,room,6_a_1,272,1680
+6,02,1,Reflection A - Room 02,room,6_a_1,320,680
+6,03,1,Reflection A - Room 03,room,6_a_1,0,1000
+6,02b,1,Reflection A - Room 02b,room,6_a_1,320,0
+6,04,2,Reflection A - Room 04,room,6_a_2,872,0
+6,04b,2,Reflection A - Room 04b,room,6_a_2,464,200
+6,04c,2,Reflection A - Room 04c,room,6_a_2,144,248
+6,04d,2,Reflection A - Room 04d,room,6_a_2,1512,1120
+6,04e,2,Reflection A - Room 04e,room,6_a_2,0,1024
+6,05,2,Reflection A - Room 05,room,6_a_2,1512,664
+6,06,2,Reflection A - Room 06,room,6_a_2,2624,664
+6,07,2,Reflection A - Room 07,room,6_a_2,3832,664
+6,08a,2,Reflection A - Room 08a,room,6_a_2,4152,928
+6,08b,2,Reflection A - Room 08b,room,6_a_2,4152,600
+6,09,2,Reflection A - Room 09,room,6_a_2,4640,616
+6,10a,2,Reflection A - Room 10a,room,6_a_2,4960,880
+6,10b,2,Reflection A - Room 10b,room,6_a_2,4960,616
+6,11,2,Reflection A - Room 11,room,6_a_2,5584,784
+6,12a,2,Reflection A - Room 12a,room,6_a_2,5992,1016
+6,12b,2,Reflection A - Room 12b,room,6_a_2,5992,744
+6,13,2,Reflection A - Room 13,room,6_a_2,6512,744
+6,14a,2,Reflection A - Room 14a,room,6_a_2,6832,944
+6,14b,2,Reflection A - Room 14b,room,6_a_2,6832,696
+6,15,2,Reflection A - Room 15,room,6_a_2,7216,800
+6,16a,2,Reflection A - Room 16a,room,6_a_2,7536,952
+6,16b,2,Reflection A - Room 16b,room,6_a_2,7536,768
+6,17,2,Reflection A - Room 17,room,6_a_2,8144,728
+6,18a,2,Reflection A - Room 18a,room,6_a_2,8464,992
+6,18b,2,Reflection A - Room 18b,room,6_a_2,8464,696
+6,19,2,Reflection A - Room 19,room,6_a_2,9240,728
+6,20,2,Reflection A - Room 20,room,6_a_2,10400,896
+6,b-00,3,Reflection A - Room b-00,room,6_a_3,144,408
+6,b-00b,3,Reflection A - Room b-00b,room,6_a_3,320,0
+6,b-00c,3,Reflection A - Room b-00c,room,6_a_3,0,56
+6,b-01,3,Reflection A - Room b-01,room,6_a_3,776,408
+6,b-02,3,Reflection A - Room b-02,room,6_a_3,1296,672
+6,b-02b,3,Reflection A - Room b-02b,room,6_a_3,1808,2320
+6,b-03,3,Reflection A - Room b-03,room,6_a_3,2296,3416
+6,boss-00,4,Reflection A - Room boss-00,room,6_a_4,0,0
+6,boss-01,4,Reflection A - Room boss-01,room,6_a_4,496,184
+6,boss-02,4,Reflection A - Room boss-02,room,6_a_4,1144,368
+6,boss-03,4,Reflection A - Room boss-03,room,6_a_4,1680,552
+6,boss-04,4,Reflection A - Room boss-04,room,6_a_4,2192,736
+6,boss-05,4,Reflection A - Room boss-05,room,6_a_4,2512,736
+6,boss-06,4,Reflection A - Room boss-06,room,6_a_4,2728,920
+6,boss-07,4,Reflection A - Room boss-07,room,6_a_4,3104,1104
+6,boss-08,4,Reflection A - Room boss-08,room,6_a_4,3664,1288
+6,boss-09,4,Reflection A - Room boss-09,room,6_a_4,3896,1744
+6,boss-10,4,Reflection A - Room boss-10,room,6_a_4,4480,1744
+6,boss-11,4,Reflection A - Room boss-11,room,6_a_4,4904,1744
+6,boss-12,4,Reflection A - Room boss-12,room,6_a_4,5504,1928
+6,boss-13,4,Reflection A - Room boss-13,room,6_a_4,5744,2448
+6,boss-14,4,Reflection A - Room boss-14,room,6_a_4,6360,2448
+6,boss-15,4,Reflection A - Room boss-15,room,6_a_4,6680,2448
+6,boss-16,4,Reflection A - Room boss-16,room,6_a_4,6920,2632
+6,boss-17,4,Reflection A - Room boss-17,room,6_a_4,7648,2632
+6,boss-18,4,Reflection A - Room boss-18,room,6_a_4,8264,2816
+6,boss-19,4,Reflection A - Room boss-19,room,6_a_4,8584,3464
+6,boss-20,4,Reflection A - Room boss-20,room,6_a_4,10304,3464
+6,after-00,5,Reflection A - Room after-00,room,6_a_5,0,2256
+6,after-01,5,Reflection A - Room after-01,room,6_a_5,32,256
+6,a-00,0,Reflection B - Golden Strawberry,golden,6_b_0,271,464
+6,a-02,0,Reflection B - Room a-02 Binoculars,bino,6_b_0,295,231
+6,a-06,0,Reflection B - Room a-06 Binoculars,bino,6_b_0,47,55
+6,b-00,1,Reflection B - Reflection,checkpoint,6_b_1,47,69
+6,c-00,2,Reflection B - Rock Bottom,checkpoint,6_b_2,31,112
+6,d-00,3,Reflection B - Reprieve,checkpoint,6_b_3,31,73
+6,d-05,3,Reflection B - Level Clear,clear,6_b_3,999,104
+6,a-00,0,Reflection B - Room a-00,room,6_b_0,0,968
+6,a-01,0,Reflection B - Room a-01,room,6_b_0,144,552
+6,a-02,0,Reflection B - Room a-02,room,6_b_0,128,272
+6,a-03,0,Reflection B - Room a-03,room,6_b_0,400,88
+6,a-04,0,Reflection B - Room a-04,room,6_b_0,1032,88
+6,a-05,0,Reflection B - Room a-05,room,6_b_0,1680,56
+6,a-06,0,Reflection B - Room a-06,room,6_b_0,2736,0
+6,b-00,1,Reflection B - Room b-00,room,6_b_1,0,0
+6,b-01,1,Reflection B - Room b-01,room,6_b_1,496,264
+6,b-02,1,Reflection B - Room b-02,room,6_b_1,816,984
+6,b-03,1,Reflection B - Room b-03,room,6_b_1,1136,1704
+6,b-04,1,Reflection B - Room b-04,room,6_b_1,1456,2328
+6,b-05,1,Reflection B - Room b-05,room,6_b_1,1776,2952
+6,b-06,1,Reflection B - Room b-06,room,6_b_1,2096,3576
+6,b-07,1,Reflection B - Room b-07,room,6_b_1,2416,4232
+6,b-08,1,Reflection B - Room b-08,room,6_b_1,2736,4856
+6,b-10,1,Reflection B - Room b-10,room,6_b_1,3056,5520
+6,c-00,2,Reflection B - Room c-00,room,6_b_2,0,0
+6,c-01,2,Reflection B - Room c-01,room,6_b_2,584,56
+6,c-02,2,Reflection B - Room c-02,room,6_b_2,1168,56
+6,c-03,2,Reflection B - Room c-03,room,6_b_2,1912,144
+6,c-04,2,Reflection B - Room c-04,room,6_b_2,2704,160
+6,d-00,3,Reflection B - Room d-00,room,6_b_3,0,184
+6,d-01,3,Reflection B - Room d-01,room,6_b_3,896,0
+6,d-02,3,Reflection B - Room d-02,room,6_b_3,1808,88
+6,d-03,3,Reflection B - Room d-03,room,6_b_3,2528,136
+6,d-04,3,Reflection B - Room d-04,room,6_b_3,2848,616
+6,d-05,3,Reflection B - Room d-05,room,6_b_3,4752,616
+6,00,0,Reflection C - Golden Strawberry,golden,6_c_0,26,57
+6,02,0,Reflection C - Room 02 Binoculars 1,bino,6_c_0,263,135
+6,02,0,Reflection C - Room 02 Binoculars 2,bino,6_c_0,607,615
+6,02,0,Reflection C - Level Clear,clear,6_c_0,1639,544
+6,00,0,Reflection C - Room 00,room,6_c_0,0,8
+6,01,0,Reflection C - Room 01,room,6_c_0,624,0
+6,02,0,Reflection C - Room 02,room,6_c_0,944,672
+7,a-00,0,The Summit A - Golden Strawberry,golden,7_a_0,286,131
+7,a-02b,0,The Summit A - Room a-02b Strawberry,berry,7_a_0,240,128
+7,a-04b,0,The Summit A - Room a-04b Strawberry 1,berry,7_a_0,88,88
+7,a-04b,0,The Summit A - Room a-04b Strawberry 2,berry,7_a_0,280,136
+7,a-05,0,The Summit A - Room a-05 Strawberry,berry,7_a_0,384,32
+7,b-02,1,The Summit A - Room b-02 Strawberry,berry,7_a_1,128,232
+7,b-02b,1,The Summit A - Room b-02b Strawberry,berry,7_a_1,272,40
+7,b-02e,1,The Summit A - Room b-02e Strawberry,berry,7_a_1,32,64
+7,b-04,1,The Summit A - Room b-04 Strawberry,berry,7_a_1,192,80
+7,b-08,1,The Summit A - Room b-08 Strawberry,berry,7_a_1,540,24
+7,b-09,1,The Summit A - Room b-09 Strawberry,berry,7_a_1,368,632
+7,c-03b,2,The Summit A - Room c-03b Strawberry,berry,7_a_2,64,32
+7,c-05,2,The Summit A - Room c-05 Strawberry,berry,7_a_2,160,40
+7,c-06b,2,The Summit A - Room c-06b Strawberry,berry,7_a_2,56,360
+7,c-07b,2,The Summit A - Room c-07b Strawberry,berry,7_a_2,272,264
+7,c-08,2,The Summit A - Room c-08 Strawberry,berry,7_a_2,312,32
+7,c-09,2,The Summit A - Room c-09 Strawberry,berry,7_a_2,240,568
+7,d-00,3,The Summit A - Room d-00 Strawberry,berry,7_a_3,280,32
+7,d-01c,3,The Summit A - Room d-01c Strawberry,berry,7_a_3,64,112
+7,d-01d,3,The Summit A - Room d-01d Strawberry,berry,7_a_3,300,64
+7,d-03,3,The Summit A - Room d-03 Strawberry,berry,7_a_3,416,144
+7,d-04,3,The Summit A - Room d-04 Strawberry,berry,7_a_3,144,64
+7,d-07,3,The Summit A - Room d-07 Strawberry,berry,7_a_3,56,120
+7,d-08,3,The Summit A - Room d-08 Strawberry,berry,7_a_3,272,136
+7,d-10b,3,The Summit A - Room d-10b Strawberry,berry,7_a_3,288,320
+7,e-02,4,The Summit A - Room e-02 Strawberry,berry,7_a_4,480,64
+7,e-05,4,The Summit A - Room e-05 Strawberry,berry,7_a_4,928,144
+7,e-07,4,The Summit A - Room e-07 Strawberry,berry,7_a_4,76,180
+7,e-09,4,The Summit A - Room e-09 Strawberry,berry,7_a_4,48,72
+7,e-11,4,The Summit A - Room e-11 Strawberry,berry,7_a_4,536,168
+7,e-12,4,The Summit A - Room e-12 Strawberry,berry,7_a_4,184,72
+7,e-10,4,The Summit A - Room e-10 Strawberry,berry,7_a_4,632,124
+7,e-13,4,The Summit A - Room e-13 Strawberry,berry,7_a_4,272,664
+7,f-00,5,The Summit A - Room f-00 Strawberry,berry,7_a_5,816,160
+7,f-01,5,The Summit A - Room f-01 Strawberry,berry,7_a_5,40,48
+7,f-07,5,The Summit A - Room f-07 Strawberry,berry,7_a_5,40,40
+7,f-08b,5,The Summit A - Room f-08b Strawberry,berry,7_a_5,336,24
+7,f-08c,5,The Summit A - Room f-08c Strawberry,berry,7_a_5,720,80
+7,f-11,5,The Summit A - Room f-11 Strawberry 1,berry,7_a_5,192,1216
+7,f-11,5,The Summit A - Room f-11 Strawberry 2,berry,7_a_5,40,720
+7,f-11,5,The Summit A - Room f-11 Strawberry 3,berry,7_a_5,280,720
+7,g-00b,6,The Summit A - Room g-00b Strawberry 1,berry,7_a_6,328,2688
+7,g-00b,6,The Summit A - Room g-00b Strawberry 2,berry,7_a_6,344,2224
+7,g-00b,6,The Summit A - Room g-00b Strawberry 3,berry,7_a_6,424,1496
+7,g-01,6,The Summit A - Room g-01 Strawberry 1,berry,7_a_6,72,2840
+7,g-01,6,The Summit A - Room g-01 Strawberry 2,berry,7_a_6,1120,2680
+7,g-01,6,The Summit A - Room g-01 Strawberry 3,berry,7_a_6,824,2512
+7,g-03,6,The Summit A - Room g-03 Strawberry,berry,7_a_6,672,2688
+7,b-01,1,The Summit A - Room b-01 Binoculars,bino,7_a_1,15,159
+7,b-02,1,The Summit A - Room b-02 Binoculars,bino,7_a_1,23,367
+7,b-02b,1,The Summit A - Room b-02b Binoculars,bino,7_a_1,287,399
+7,c-03b,2,The Summit A - Room c-03b Binoculars,bino,7_a_2,431,174
+7,c-05,2,The Summit A - Room c-05 Binoculars,bino,7_a_2,31,310
+7,c-06c,2,The Summit A - Room c-06c Binoculars,bino,7_a_2,63,62
+7,c-07b,2,The Summit A - Room c-07b Binoculars,bino,7_a_2,247,390
+7,g-03,6,The Summit A - Room g-03 Binoculars,bino,7_a_6,503,3023
+7,b-00,1,The Summit A - 500 M,checkpoint,7_a_1,171,197
+7,c-00,2,The Summit A - 1000 M,checkpoint,7_a_2,127,132
+7,d-00,3,The Summit A - 1500 M,checkpoint,7_a_3,159,149
+7,e-00b,4,The Summit A - 2000 M,checkpoint,7_a_4,146,149
+7,f-00,5,The Summit A - 2500 M,checkpoint,7_a_5,131,173
+7,g-00,6,The Summit A - 3000 M,checkpoint,7_a_6,451,1805
+7,f-07,5,The Summit A - 2500 M Key,key,7_a_5,279,39
+7,a-06,0,The Summit A - Gem 1,gem,7_a_0,391,312
+7,b-02d,1,The Summit A - Gem 2,gem,7_a_1,279,160
+7,c-06c,2,The Summit A - Gem 3,gem,7_a_2,71,119
+7,d-05b,3,The Summit A - Gem 4,gem,7_a_3,135,144
+7,e-01c,4,The Summit A - Gem 5,gem,7_a_4,158,111
+7,f-02b,5,The Summit A - Gem 6,gem,7_a_5,1127,40
+7,g-03,6,The Summit A - Level Clear,clear,7_a_6,1828,391
+7,d-03b,3,The Summit A - Cassette,cassette,7_a_3,1055,39
+7,g-00b,6,The Summit A - Crystal Heart,heart,7_a_6,479,3089
+7,a-00,0,The Summit A - Room a-00,room,7_a_0,0,1400
+7,a-01,0,The Summit A - Room a-01,room,7_a_0,688,1224
+7,a-02,0,The Summit A - Room a-02,room,7_a_0,1008,1032
+7,a-02b,0,The Summit A - Room a-02b,room,7_a_0,856,800
+7,a-03,0,The Summit A - Room a-03,room,7_a_0,1368,920
+7,a-04,0,The Summit A - Room a-04,room,7_a_0,2032,736
+7,a-04b,0,The Summit A - Room a-04b,room,7_a_0,1984,552
+7,a-05,0,The Summit A - Room a-05,room,7_a_0,2352,648
+7,a-06,0,The Summit A - Room a-06,room,7_a_0,3120,0
+7,b-00,1,The Summit A - Room b-00,room,7_a_1,0,2312
+7,b-01,1,The Summit A - Room b-01,room,7_a_1,32,2128
+7,b-02,1,The Summit A - Room b-02,room,7_a_1,640,1848
+7,b-02b,1,The Summit A - Room b-02b,room,7_a_1,320,1440
+7,b-02e,1,The Summit A - Room b-02e,room,7_a_1,0,1440
+7,b-02c,1,The Summit A - Room b-02c,room,7_a_1,640,1440
+7,b-02d,1,The Summit A - Room b-02d,room,7_a_1,640,1624
+7,b-03,1,The Summit A - Room b-03,room,7_a_1,960,1688
+7,b-04,1,The Summit A - Room b-04,room,7_a_1,1280,1752
+7,b-05,1,The Summit A - Room b-05,room,7_a_1,1016,1496
+7,b-06,1,The Summit A - Room b-06,room,7_a_1,1384,1256
+7,b-07,1,The Summit A - Room b-07,room,7_a_1,1704,1160
+7,b-08,1,The Summit A - Room b-08,room,7_a_1,2024,1104
+7,b-09,1,The Summit A - Room b-09,room,7_a_1,2824,0
+7,c-00,2,The Summit A - Room c-00,room,7_a_2,0,2672
+7,c-01,2,The Summit A - Room c-01,room,7_a_2,720,2232
+7,c-02,2,The Summit A - Room c-02,room,7_a_2,760,2024
+7,c-03,2,The Summit A - Room c-03,room,7_a_2,992,1816
+7,c-03b,2,The Summit A - Room c-03b,room,7_a_2,512,1816
+7,c-04,2,The Summit A - Room c-04,room,7_a_2,1976,1712
+7,c-05,2,The Summit A - Room c-05,room,7_a_2,2624,1536
+7,c-06,2,The Summit A - Room c-06,room,7_a_2,1984,1160
+7,c-06b,2,The Summit A - Room c-06b,room,7_a_2,2304,1160
+7,c-06c,2,The Summit A - Room c-06c,room,7_a_2,2624,1256
+7,c-07,2,The Summit A - Room c-07,room,7_a_2,2064,944
+7,c-07b,2,The Summit A - Room c-07b,room,7_a_2,1744,656
+7,c-08,2,The Summit A - Room c-08,room,7_a_2,3104,880
+7,c-09,2,The Summit A - Room c-09,room,7_a_2,4064,0
+7,d-00,3,The Summit A - Room d-00,room,7_a_3,0,1040
+7,d-01,3,The Summit A - Room d-01,room,7_a_3,184,856
+7,d-01b,3,The Summit A - Room d-01b,room,7_a_3,728,856
+7,d-01c,3,The Summit A - Room d-01c,room,7_a_3,728,1040
+7,d-01d,3,The Summit A - Room d-01d,room,7_a_3,728,1224
+7,d-02,3,The Summit A - Room d-02,room,7_a_3,1048,856
+7,d-03,3,The Summit A - Room d-03,room,7_a_3,1368,856
+7,d-03b,3,The Summit A - Room d-03b,room,7_a_3,1416,672
+7,d-04,3,The Summit A - Room d-04,room,7_a_3,2424,856
+7,d-05,3,The Summit A - Room d-05,room,7_a_3,2744,856
+7,d-05b,3,The Summit A - Room d-05b,room,7_a_3,3600,976
+7,d-06,3,The Summit A - Room d-06,room,7_a_3,3512,672
+7,d-07,3,The Summit A - Room d-07,room,7_a_3,3192,672
+7,d-08,3,The Summit A - Room d-08,room,7_a_3,3920,856
+7,d-09,3,The Summit A - Room d-09,room,7_a_3,4008,672
+7,d-10,3,The Summit A - Room d-10,room,7_a_3,4240,856
+7,d-10b,3,The Summit A - Room d-10b,room,7_a_3,4328,496
+7,d-11,3,The Summit A - Room d-11,room,7_a_3,4664,0
+7,e-00b,4,The Summit A - Room e-00b,room,7_a_4,768,2840
+7,e-00,4,The Summit A - Room e-00,room,7_a_4,904,2656
+7,e-01,4,The Summit A - Room e-01,room,7_a_4,536,2656
+7,e-01b,4,The Summit A - Room e-01b,room,7_a_4,0,2656
+7,e-01c,4,The Summit A - Room e-01c,room,7_a_4,136,2472
+7,e-02,4,The Summit A - Room e-02,room,7_a_4,928,2472
+7,e-03,4,The Summit A - Room e-03,room,7_a_4,1448,2472
+7,e-04,4,The Summit A - Room e-04,room,7_a_4,1768,2392
+7,e-05,4,The Summit A - Room e-05,room,7_a_4,2312,2376
+7,e-06,4,The Summit A - Room e-06,room,7_a_4,3264,2312
+7,e-07,4,The Summit A - Room e-07,room,7_a_4,4288,1648
+7,e-08,4,The Summit A - Room e-08,room,7_a_4,4288,1424
+7,e-09,4,The Summit A - Room e-09,room,7_a_4,3968,1424
+7,e-11,4,The Summit A - Room e-11,room,7_a_4,4176,1200
+7,e-12,4,The Summit A - Room e-12,room,7_a_4,4224,992
+7,e-10,4,The Summit A - Room e-10,room,7_a_4,4608,1424
+7,e-10b,4,The Summit A - Room e-10b,room,7_a_4,5712,1208
+7,e-13,4,The Summit A - Room e-13,room,7_a_4,6280,0
+7,f-00,5,The Summit A - Room f-00,room,7_a_5,320,1808
+7,f-01,5,The Summit A - Room f-01,room,7_a_5,0,1704
+7,f-02,5,The Summit A - Room f-02,room,7_a_5,1736,1808
+7,f-02b,5,The Summit A - Room f-02b,room,7_a_5,2008,1624
+7,f-04,5,The Summit A - Room f-04,room,7_a_5,2056,1808
+7,f-03,5,The Summit A - Room f-03,room,7_a_5,2632,1808
+7,f-05,5,The Summit A - Room f-05,room,7_a_5,3224,1808
+7,f-06,5,The Summit A - Room f-06,room,7_a_5,3216,1992
+7,f-07,5,The Summit A - Room f-07,room,7_a_5,3224,1584
+7,f-08,5,The Summit A - Room f-08,room,7_a_5,3544,1808
+7,f-08b,5,The Summit A - Room f-08b,room,7_a_5,3544,1624
+7,f-08d,5,The Summit A - Room f-08d,room,7_a_5,3928,1624
+7,f-08c,5,The Summit A - Room f-08c,room,7_a_5,4312,1624
+7,f-09,5,The Summit A - Room f-09,room,7_a_5,4064,1808
+7,f-10,5,The Summit A - Room f-10,room,7_a_5,4728,1808
+7,f-10b,5,The Summit A - Room f-10b,room,7_a_5,5096,1808
+7,f-11,5,The Summit A - Room f-11,room,7_a_5,5768,0
+7,g-00,6,The Summit A - Room g-00,room,7_a_6,160,10720
+7,g-00b,6,The Summit A - Room g-00b,room,7_a_6,240,7464
+7,g-01,6,The Summit A - Room g-01,room,7_a_6,0,4208
+7,g-02,6,The Summit A - Room g-02,room,7_a_6,904,3256
+7,g-03,6,The Summit A - Room g-03,room,7_a_6,904,0
+7,a-00,0,The Summit B - Golden Strawberry,golden,7_b_0,288,126
+7,b-01,1,The Summit B - Room b-01 Binoculars,bino,7_b_1,279,687
+7,b-02,1,The Summit B - Room b-02 Binoculars,bino,7_b_1,919,87
+7,b-00,1,The Summit B - 500 M,checkpoint,7_b_1,227,405
+7,c-01,2,The Summit B - 1000 M,checkpoint,7_b_2,126,144
+7,d-00,3,The Summit B - 1500 M,checkpoint,7_b_3,150,141
+7,e-00,4,The Summit B - 2000 M,checkpoint,7_b_4,186,124
+7,f-00,5,The Summit B - 2500 M,checkpoint,7_b_5,114,148
+7,g-00,6,The Summit B - 3000 M,checkpoint,7_b_6,195,2261
+7,g-03,6,The Summit B - Level Clear,clear,7_b_6,407,48
+7,a-00,0,The Summit B - Room a-00,room,7_b_0,0,1256
+7,a-01,0,The Summit B - Room a-01,room,7_b_0,704,960
+7,a-02,0,The Summit B - Room a-02,room,7_b_0,1152,1136
+7,a-03,0,The Summit B - Room a-03,room,7_b_0,2096,0
+7,b-00,1,The Summit B - Room b-00,room,7_b_1,0,2256
+7,b-01,1,The Summit B - Room b-01,room,7_b_1,0,1520
+7,b-02,1,The Summit B - Room b-02,room,7_b_1,0,1336
+7,b-03,1,The Summit B - Room b-03,room,7_b_1,1528,0
+7,c-01,2,The Summit B - Room c-01,room,7_b_2,0,2104
+7,c-00,2,The Summit B - Room c-00,room,7_b_2,1488,1920
+7,c-02,2,The Summit B - Room c-02,room,7_b_2,1912,1736
+7,c-03,2,The Summit B - Room c-03,room,7_b_2,2600,0
+7,d-00,3,The Summit B - Room d-00,room,7_b_3,0,1064
+7,d-01,3,The Summit B - Room d-01,room,7_b_3,1016,1048
+7,d-02,3,The Summit B - Room d-02,room,7_b_3,1632,1048
+7,d-03,3,The Summit B - Room d-03,room,7_b_3,2256,0
+7,e-00,4,The Summit B - Room e-00,room,7_b_4,0,1328
+7,e-01,4,The Summit B - Room e-01,room,7_b_4,632,1144
+7,e-02,4,The Summit B - Room e-02,room,7_b_4,1440,960
+7,e-03,4,The Summit B - Room e-03,room,7_b_4,2208,0
+7,f-00,5,The Summit B - Room f-00,room,7_b_5,0,1752
+7,f-01,5,The Summit B - Room f-01,room,7_b_5,688,1680
+7,f-02,5,The Summit B - Room f-02,room,7_b_5,1600,1648
+7,f-03,5,The Summit B - Room f-03,room,7_b_5,2216,0
+7,g-00,6,The Summit B - Room g-00,room,7_b_6,56,4760
+7,g-01,6,The Summit B - Room g-01,room,7_b_6,0,3552
+7,g-02,6,The Summit B - Room g-02,room,7_b_6,0,856
+7,g-03,6,The Summit B - Room g-03,room,7_b_6,976,0
+7,01,0,The Summit C - Golden Strawberry,golden,7_c_0,16,760
+7,01,0,The Summit C - Room 01 Binoculars,bino,7_c_0,207,759
+7,03,0,The Summit C - Room 03 Binoculars,bino,7_c_0,127,119
+7,03,0,The Summit C - Level Clear,clear,7_c_0,3431,105
+7,01,0,The Summit C - Room 01,room,7_c_0,0,448
+7,02,0,The Summit C - Room 02,room,7_c_0,608,200
+7,03,0,The Summit C - Room 03,room,7_c_0,1248,0
+8,outside,0,Epilogue - Room outside,room,8_a_0,640,88
+8,bridge,0,Epilogue - Room bridge,room,8_a_0,960,88
+8,secret,0,Epilogue - Room secret,room,8_a_0,1968,88
+9,a-00,1,Core A - Golden Strawberry,golden,9_a_1,47,127
+9,b-06,1,Core A - Room b-06 Strawberry,berry,9_a_1,120,64
+9,c-00b,2,Core A - Room c-00b Strawberry,berry,9_a_2,344,48
+9,c-02,2,Core A - Room c-02 Strawberry,berry,9_a_2,784,24
+9,c-03b,2,Core A - Room c-03b Strawberry,berry,9_a_2,712,104
+9,d-06,3,Core A - Room d-06 Strawberry,berry,9_a_3,272,136
+9,a-00,1,Core A - Into the Core,checkpoint,9_a_1,19,137
+9,c-00,2,Core A - Hot and Cold,checkpoint,9_a_2,59,141
+9,d-00,3,Core A - Heart of the Mountain,checkpoint,9_a_3,43,253
+9,space,3,Core A - Level Clear,clear,9_a_3,2135,161
+9,d-11,3,Core A - Cassette,cassette,9_a_3,903,47
+9,0x,0,Core A - Car,car,9_a_0,186,150
+9,0x,0,Core A - Room 0x,room,9_a_0,0,200
+9,00,0,Core A - Room 00,room,9_a_0,320,200
+9,01,0,Core A - Room 01,room,9_a_0,640,8
+9,02,0,Core A - Room 02,room,9_a_0,1392,0
+9,a-00,1,Core A - Room a-00,room,9_a_1,0,1696
+9,a-01,1,Core A - Room a-01,room,9_a_1,608,1624
+9,a-02,1,Core A - Room a-02,room,9_a_1,1016,1568
+9,a-03,1,Core A - Room a-03,room,9_a_1,1256,1176
+9,b-00,1,Core A - Room b-00,room,9_a_1,1256,992
+9,b-01,1,Core A - Room b-01,room,9_a_1,1576,992
+9,b-02,1,Core A - Room b-02,room,9_a_1,2000,912
+9,b-03,1,Core A - Room b-03,room,9_a_1,2576,912
+9,b-04,1,Core A - Room b-04,room,9_a_1,3024,840
+9,b-05,1,Core A - Room b-05,room,9_a_1,3000,656
+9,b-06,1,Core A - Room b-06,room,9_a_1,880,992
+9,b-07b,1,Core A - Room b-07b,room,9_a_1,1256,320
+9,b-07,1,Core A - Room b-07,room,9_a_1,1256,0
+9,c-00,2,Core A - Room c-00,room,9_a_2,0,184
+9,c-00b,2,Core A - Room c-00b,room,9_a_2,824,0
+9,c-01,2,Core A - Room c-01,room,9_a_2,920,184
+9,c-02,2,Core A - Room c-02,room,9_a_2,1584,184
+9,c-03,2,Core A - Room c-03,room,9_a_2,2544,184
+9,c-03b,2,Core A - Room c-03b,room,9_a_2,2560,0
+9,c-04,2,Core A - Room c-04,room,9_a_2,3480,184
+9,d-00,3,Core A - Room d-00,room,9_a_3,0,5224
+9,d-01,3,Core A - Room d-01,room,9_a_3,0,4528
+9,d-02,3,Core A - Room d-02,room,9_a_3,0,3896
+9,d-03,3,Core A - Room d-03,room,9_a_3,0,3336
+9,d-04,3,Core A - Room d-04,room,9_a_3,0,2768
+9,d-05,3,Core A - Room d-05,room,9_a_3,0,2200
+9,d-06,3,Core A - Room d-06,room,9_a_3,0,1736
+9,d-07,3,Core A - Room d-07,room,9_a_3,0,248
+9,d-08,3,Core A - Room d-08,room,9_a_3,0,64
+9,d-09,3,Core A - Room d-09,room,9_a_3,1480,64
+9,d-10,3,Core A - Room d-10,room,9_a_3,2088,64
+9,d-10b,3,Core A - Room d-10b,room,9_a_3,2912,64
+9,d-10c,3,Core A - Room d-10c,room,9_a_3,3808,64
+9,d-11,3,Core A - Room d-11,room,9_a_3,5760,64
+9,space,3,Core A - Room space,room,9_a_3,7080,0
+9,a-00,1,Core B - Golden Strawberry,golden,9_b_1,94,110
+9,a-00,1,Core B - Into the Core,checkpoint,9_b_1,16,121
+9,b-00,2,Core B - Burning or Freezing,checkpoint,9_b_2,50,128
+9,c-01,3,Core B - Heartbeat,checkpoint,9_b_3,54,525
+9,space,3,Core B - Level Clear,clear,9_b_3,1894,160
+9,00,0,Core B - Room 00,room,9_b_0,0,0
+9,01,0,Core B - Room 01,room,9_b_0,320,0
+9,a-00,1,Core B - Room a-00,room,9_b_1,0,232
+9,a-01,1,Core B - Room a-01,room,9_b_1,672,232
+9,a-02,1,Core B - Room a-02,room,9_b_1,1352,232
+9,a-03,1,Core B - Room a-03,room,9_b_1,1368,48
+9,a-04,1,Core B - Room a-04,room,9_b_1,2112,48
+9,a-05,1,Core B - Room a-05,room,9_b_1,2760,0
+9,b-00,2,Core B - Room b-00,room,9_b_2,0,312
+9,b-01,2,Core B - Room b-01,room,9_b_2,320,312
+9,b-02,2,Core B - Room b-02,room,9_b_2,1192,312
+9,b-03,2,Core B - Room b-03,room,9_b_2,2104,216
+9,b-04,2,Core B - Room b-04,room,9_b_2,3112,104
+9,b-05,2,Core B - Room b-05,room,9_b_2,3800,0
+9,c-01,3,Core B - Room c-01,room,9_b_3,0,3240
+9,c-02,3,Core B - Room c-02,room,9_b_3,0,2720
+9,c-03,3,Core B - Room c-03,room,9_b_3,40,1952
+9,c-04,3,Core B - Room c-04,room,9_b_3,40,312
+9,c-05,3,Core B - Room c-05,room,9_b_3,40,128
+9,c-06,3,Core B - Room c-06,room,9_b_3,1488,128
+9,c-08,3,Core B - Room c-08,room,9_b_3,2240,88
+9,c-07,3,Core B - Room c-07,room,9_b_3,2776,112
+9,space,3,Core B - Room space,room,9_b_3,3312,0
+9,00,0,Core C - Golden Strawberry,golden,9_c_0,31,70
+9,01,0,Core C - Room 01 Binoculars,bino,9_c_0,15,47
+9,02,0,Core C - Room 02 Binoculars,bino,9_c_0,15,55
+9,02,0,Core C - Level Clear,clear,9_c_0,5111,104
+9,intro,0,Core C - Room intro,room,9_c_0,0,0
+9,00,0,Core C - Room 00,room,9_c_0,320,0
+9,01,0,Core C - Room 01,room,9_c_0,952,0
+9,02,0,Core C - Room 02,room,9_c_0,2072,0
