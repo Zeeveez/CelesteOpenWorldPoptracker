@@ -10,7 +10,7 @@
                     "content": [
                         {
                             "type": "layout",
-                            "key": "7a"
+                            "key": "7_a"
                         }
                     ]
                 }
@@ -23,7 +23,7 @@
                     "content": [
                         {
                             "type": "layout",
-                            "key": "7b"
+                            "key": "7_b"
                         }
                     ]
                 }
@@ -36,7 +36,7 @@
                     "content": [
                         {
                             "type": "layout",
-                            "key": "7c"
+                            "key": "7_c"
                         }
                     ]
                 }
