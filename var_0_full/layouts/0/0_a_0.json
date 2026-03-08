@@ -1,0 +1,61 @@
+{
+    "0_a_0": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "-1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "0_a_0_-1"
+                    ]
+                }
+            },
+            {
+                "title": "0",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "0_a_0_0"
+                    ]
+                }
+            },
+            {
+                "title": "0b",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "0_a_0_0b"
+                    ]
+                }
+            },
+            {
+                "title": "1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "0_a_0_1"
+                    ]
+                }
+            },
+            {
+                "title": "2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "0_a_0_2"
+                    ]
+                }
+            },
+            {
+                "title": "3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "0_a_0_3"
+                    ]
+                }
+            }
+        ]
+    }
+}

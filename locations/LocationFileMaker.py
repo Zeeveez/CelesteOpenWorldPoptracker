@@ -178,8 +178,15 @@ def make_location_obj(row):
             )
         )
 
-    room_x = int(room['x']) if row['Type'] != 'room' else 0
-    room_y = int(room['y']) if row['Type'] != 'room' else 0
+
+    if row['Type'] == 'room':
+        room_x = int(row['x'])
+        row['x'] = '0'
+        room_y = int(row['y'])
+        row['y'] = '0'
+    else:
+        room_x = int(room['x'])
+        room_y = int(room['y'])
     room_marker_offset = 10 if row['Type'] == 'room' else 0
 
     obj = {
@@ -228,21 +235,28 @@ def make_location_obj(row):
             'map': f'{row['Chapter']}_{row['Side']}_{row['Checkpoint']}',
             'x': int(row['x']) + room_marker_offset + room_x,
             'y': int(row['y']) + room_marker_offset + room_y
+        },
+        {
+            'map': f'{row['Chapter']}_{row['Side']}_{row['Checkpoint']}_{row['Room']}',
+            'x': int(row['x']) + room_marker_offset,
+            'y': int(row['y']) + room_marker_offset
         }
     ]
-    if row['Type'] == 'room':
-        obj['map_locations'][0]['shape'] = 'diamond'
-        obj['map_locations'][0]['size'] = 20
-    if row['Type'] == 'checkpoint':
-        obj['map_locations'][0]['shape'] = 'diamond'
-    if row['Type'] == 'car':
-        obj['map_locations'][0]['shape'] = 'trapezoid'
-    if row['Type'] == 'bino':
-        obj['map_locations'][0]['shape'] = 'trapezoid'
-    if row['Type'] == 'gem':
-        obj['map_locations'][0]['shape'] = 'trapezoid'
-    if row['Type'] == 'key':
-        obj['map_locations'][0]['shape'] = 'trapezoid'
+
+    for i in range(len(obj['map_locations'])):
+        if row['Type'] == 'room':
+            obj['map_locations'][i]['shape'] = 'diamond'
+            obj['map_locations'][i]['size'] = 20
+        if row['Type'] == 'checkpoint':
+            obj['map_locations'][i]['shape'] = 'diamond'
+        if row['Type'] == 'car':
+            obj['map_locations'][i]['shape'] = 'trapezoid'
+        if row['Type'] == 'bino':
+            obj['map_locations'][i]['shape'] = 'trapezoid'
+        if row['Type'] == 'gem':
+            obj['map_locations'][i]['shape'] = 'trapezoid'
+        if row['Type'] == 'key':
+            obj['map_locations'][i]['shape'] = 'trapezoid'
 
     return obj
 
@@ -320,7 +334,7 @@ def make_summary_checkpoint_obj(data, _chapter, _side, type_set):
                 }]
         out += [obj]
 
-    #out = list(filter(lambda o: len(o['sections']), out))
+    out = list(filter(lambda o: len(o['sections']), out))
     return out
 
 def make_summary(data, _chapter):

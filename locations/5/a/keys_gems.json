@@ -14,6 +14,12 @@
                 "x": 3119,
                 "y": 454,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "5_a_0_a-08",
+                "x": 255,
+                "y": 254,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -31,6 +37,12 @@
                 "map": "5_a_1",
                 "x": 1742,
                 "y": 719,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "5_a_1_b-04",
+                "x": 158,
+                "y": 55,
                 "shape": "trapezoid"
             }
         ]
@@ -50,6 +62,12 @@
                 "x": 519,
                 "y": 519,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "5_a_3_d-04",
+                "x": 199,
+                "y": 151,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -68,6 +86,12 @@
                 "x": 599,
                 "y": 519,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "5_a_3_d-04",
+                "x": 279,
+                "y": 151,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -85,6 +109,12 @@
                 "map": "5_a_3",
                 "x": 2015,
                 "y": 447,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "5_a_3_d-15",
+                "x": 399,
+                "y": 263,
                 "shape": "trapezoid"
             }
         ]

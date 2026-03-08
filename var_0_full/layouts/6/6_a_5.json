@@ -1,0 +1,34 @@
+{
+    "6_a_5": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "after-00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_5_after-00"
+                    ]
+                }
+            },
+            {
+                "title": "after-01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_5_after-01"
+                    ]
+                }
+            },
+            {
+                "title": "after-02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_5_after-02"
+                    ]
+                }
+            }
+        ]
+    }
+}

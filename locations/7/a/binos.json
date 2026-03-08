@@ -17,6 +17,12 @@
                 "x": 47,
                 "y": 2287,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_1_b-01",
+                "x": 15,
+                "y": 159,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -37,6 +43,12 @@
                 "map": "7_a_1",
                 "x": 663,
                 "y": 2215,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_1_b-02",
+                "x": 23,
+                "y": 367,
                 "shape": "trapezoid"
             }
         ]
@@ -59,6 +71,12 @@
                 "x": 607,
                 "y": 1839,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_1_b-02b",
+                "x": 287,
+                "y": 399,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -79,6 +97,12 @@
                 "map": "7_a_2",
                 "x": 943,
                 "y": 1990,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_2_c-03b",
+                "x": 431,
+                "y": 174,
                 "shape": "trapezoid"
             }
         ]
@@ -101,6 +125,12 @@
                 "x": 2655,
                 "y": 1846,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_2_c-05",
+                "x": 31,
+                "y": 310,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -121,6 +151,12 @@
                 "map": "7_a_2",
                 "x": 2687,
                 "y": 1318,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_2_c-06c",
+                "x": 63,
+                "y": 62,
                 "shape": "trapezoid"
             }
         ]
@@ -143,6 +179,12 @@
                 "x": 1991,
                 "y": 1046,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_2_c-07b",
+                "x": 247,
+                "y": 390,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -162,6 +204,12 @@
             {
                 "map": "7_a_6",
                 "x": 1407,
+                "y": 3023,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_6_g-03",
+                "x": 503,
                 "y": 3023,
                 "shape": "trapezoid"
             }

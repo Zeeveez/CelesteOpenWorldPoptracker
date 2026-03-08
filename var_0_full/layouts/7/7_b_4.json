@@ -1,0 +1,43 @@
+{
+    "7_b_4": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "e-00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_b_4_e-00"
+                    ]
+                }
+            },
+            {
+                "title": "e-01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_b_4_e-01"
+                    ]
+                }
+            },
+            {
+                "title": "e-02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_b_4_e-02"
+                    ]
+                }
+            },
+            {
+                "title": "e-03",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_b_4_e-03"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "9_c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Begin",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "9_c_0"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "9_c_0"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

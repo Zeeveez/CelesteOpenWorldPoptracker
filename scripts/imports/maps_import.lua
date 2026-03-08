@@ -1,6 +1,6 @@
 Tracker:AddMaps("maps/summary.json")
 
-if Tracker.ActiveVariantUID == 'full' then
+if Tracker.ActiveVariantUID == 'var_1_chapters' then
 	Tracker:AddMaps("maps/0.json")
 	Tracker:AddMaps("maps/1.json")
 	Tracker:AddMaps("maps/2.json")
@@ -12,4 +12,27 @@ if Tracker.ActiveVariantUID == 'full' then
 	Tracker:AddMaps("maps/8.json")
 	Tracker:AddMaps("maps/9.json")
 	Tracker:AddMaps("maps/10.json")
+elseif Tracker.ActiveVariantUID == 'var_0_full' then
+	Tracker:AddMaps("maps/0.json")
+	Tracker:AddMaps("maps/0_rooms.json")
+	Tracker:AddMaps("maps/1.json")
+	Tracker:AddMaps("maps/1_rooms.json")
+	Tracker:AddMaps("maps/2.json")
+	Tracker:AddMaps("maps/2_rooms.json")
+	Tracker:AddMaps("maps/3.json")
+	Tracker:AddMaps("maps/3_rooms.json")
+	Tracker:AddMaps("maps/4.json")
+	Tracker:AddMaps("maps/4_rooms.json")
+	Tracker:AddMaps("maps/5.json")
+	Tracker:AddMaps("maps/5_rooms.json")
+	Tracker:AddMaps("maps/6.json")
+	Tracker:AddMaps("maps/6_rooms.json")
+	Tracker:AddMaps("maps/7.json")
+	Tracker:AddMaps("maps/7_rooms.json")
+	Tracker:AddMaps("maps/8.json")
+	Tracker:AddMaps("maps/8_rooms.json")
+	Tracker:AddMaps("maps/9.json")
+	Tracker:AddMaps("maps/9_rooms.json")
+	Tracker:AddMaps("maps/10.json")
+	Tracker:AddMaps("maps/10_rooms.json")
 end

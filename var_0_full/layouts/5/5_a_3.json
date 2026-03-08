@@ -1,0 +1,142 @@
+{
+    "5_a_3": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "d-00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-00"
+                    ]
+                }
+            },
+            {
+                "title": "d-01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-01"
+                    ]
+                }
+            },
+            {
+                "title": "d-09",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-09"
+                    ]
+                }
+            },
+            {
+                "title": "d-04",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-04"
+                    ]
+                }
+            },
+            {
+                "title": "d-05",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-05"
+                    ]
+                }
+            },
+            {
+                "title": "d-06",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-06"
+                    ]
+                }
+            },
+            {
+                "title": "d-07",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-07"
+                    ]
+                }
+            },
+            {
+                "title": "d-02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-02"
+                    ]
+                }
+            },
+            {
+                "title": "d-03",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-03"
+                    ]
+                }
+            },
+            {
+                "title": "d-15",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-15"
+                    ]
+                }
+            },
+            {
+                "title": "d-13",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-13"
+                    ]
+                }
+            },
+            {
+                "title": "d-19",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-19"
+                    ]
+                }
+            },
+            {
+                "title": "d-19b",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-19b"
+                    ]
+                }
+            },
+            {
+                "title": "d-10",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-10"
+                    ]
+                }
+            },
+            {
+                "title": "d-20",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_a_3_d-20"
+                    ]
+                }
+            }
+        ]
+    }
+}

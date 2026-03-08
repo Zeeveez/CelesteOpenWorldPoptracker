@@ -1,0 +1,169 @@
+{
+    "1_a_1": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "6",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_6"
+                    ]
+                }
+            },
+            {
+                "title": "6z",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_6z"
+                    ]
+                }
+            },
+            {
+                "title": "6zb",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_6zb"
+                    ]
+                }
+            },
+            {
+                "title": "7zb",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_7zb"
+                    ]
+                }
+            },
+            {
+                "title": "6a",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_6a"
+                    ]
+                }
+            },
+            {
+                "title": "6b",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_6b"
+                    ]
+                }
+            },
+            {
+                "title": "s0",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_s0"
+                    ]
+                }
+            },
+            {
+                "title": "s1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_s1"
+                    ]
+                }
+            },
+            {
+                "title": "6c",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_6c"
+                    ]
+                }
+            },
+            {
+                "title": "7",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_7"
+                    ]
+                }
+            },
+            {
+                "title": "7z",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_7z"
+                    ]
+                }
+            },
+            {
+                "title": "8z",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_8z"
+                    ]
+                }
+            },
+            {
+                "title": "8zb",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_8zb"
+                    ]
+                }
+            },
+            {
+                "title": "8",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_8"
+                    ]
+                }
+            },
+            {
+                "title": "7a",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_7a"
+                    ]
+                }
+            },
+            {
+                "title": "9z",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_9z"
+                    ]
+                }
+            },
+            {
+                "title": "8b",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_8b"
+                    ]
+                }
+            },
+            {
+                "title": "9",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_a_1_9"
+                    ]
+                }
+            }
+        ]
+    }
+}

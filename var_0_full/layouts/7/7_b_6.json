@@ -1,0 +1,43 @@
+{
+    "7_b_6": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "g-00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_b_6_g-00"
+                    ]
+                }
+            },
+            {
+                "title": "g-01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_b_6_g-01"
+                    ]
+                }
+            },
+            {
+                "title": "g-02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_b_6_g-02"
+                    ]
+                }
+            },
+            {
+                "title": "g-03",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_b_6_g-03"
+                    ]
+                }
+            }
+        ]
+    }
+}

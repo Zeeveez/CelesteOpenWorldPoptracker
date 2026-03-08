@@ -1,0 +1,16 @@
+{
+    "6_a_0": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "start",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_0_start"
+                    ]
+                }
+            }
+        ]
+    }
+}

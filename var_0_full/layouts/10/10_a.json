@@ -1,0 +1,178 @@
+{
+    "10_a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "10_a_0"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "10_a_0"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Singular",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "10_a_1"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "10_a_1"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Power Source",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "10_a_2"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "10_a_2"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Remembered",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "10_a_3"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "10_a_3"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Event Horizon",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "10_a_4"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "10_a_4"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Determination",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "10_a_5"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "10_a_5"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Stubbornness",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "10_a_6"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "10_a_6"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Reconciliation",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "10_a_7"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "10_a_7"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Farewell",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "10_a_8"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "10_a_8"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

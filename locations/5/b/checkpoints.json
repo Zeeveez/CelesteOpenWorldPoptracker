@@ -17,6 +17,12 @@
                 "x": 879,
                 "y": 1701,
                 "shape": "diamond"
+            },
+            {
+                "map": "5_b_1_b-00",
+                "x": 159,
+                "y": 117,
+                "shape": "diamond"
             }
         ]
     },
@@ -38,6 +44,12 @@
                 "x": 159,
                 "y": 73,
                 "shape": "diamond"
+            },
+            {
+                "map": "5_b_2_c-00",
+                "x": 159,
+                "y": 73,
+                "shape": "diamond"
             }
         ]
     },
@@ -56,6 +68,12 @@
         "map_locations": [
             {
                 "map": "5_b_3",
+                "x": 31,
+                "y": 145,
+                "shape": "diamond"
+            },
+            {
+                "map": "5_b_3_d-00",
                 "x": 31,
                 "y": 145,
                 "shape": "diamond"

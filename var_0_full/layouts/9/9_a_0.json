@@ -1,0 +1,43 @@
+{
+    "9_a_0": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "0x",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_a_0_0x"
+                    ]
+                }
+            },
+            {
+                "title": "00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_a_0_00"
+                    ]
+                }
+            },
+            {
+                "title": "01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_a_0_01"
+                    ]
+                }
+            },
+            {
+                "title": "02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_a_0_02"
+                    ]
+                }
+            }
+        ]
+    }
+}

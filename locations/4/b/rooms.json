@@ -18,6 +18,13 @@
                 "y": 250,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_0_a-00",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -38,6 +45,13 @@
                 "map": "4_b_0",
                 "x": 514,
                 "y": 154,
+                "shape": "diamond",
+                "size": 20
+            },
+            {
+                "map": "4_b_0_a-01",
+                "x": 10,
+                "y": 10,
                 "shape": "diamond",
                 "size": 20
             }
@@ -62,6 +76,13 @@
                 "y": 42,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_0_a-02",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -84,6 +105,13 @@
                 "y": 26,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_0_a-03",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -103,6 +131,13 @@
             {
                 "map": "4_b_0",
                 "x": 2786,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            },
+            {
+                "map": "4_b_0_a-04",
+                "x": 10,
                 "y": 10,
                 "shape": "diamond",
                 "size": 20
@@ -128,6 +163,13 @@
                 "y": 1402,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_1_b-00",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -148,6 +190,13 @@
                 "map": "4_b_1",
                 "x": 434,
                 "y": 1282,
+                "shape": "diamond",
+                "size": 20
+            },
+            {
+                "map": "4_b_1_b-01",
+                "x": 10,
+                "y": 10,
                 "shape": "diamond",
                 "size": 20
             }
@@ -172,6 +221,13 @@
                 "y": 378,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_1_b-02",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -194,6 +250,13 @@
                 "y": 194,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_1_b-03",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -213,6 +276,13 @@
             {
                 "map": "4_b_1",
                 "x": 1442,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            },
+            {
+                "map": "4_b_1_b-04",
+                "x": 10,
                 "y": 10,
                 "shape": "diamond",
                 "size": 20
@@ -238,6 +308,13 @@
                 "y": 1042,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_2_c-00",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -258,6 +335,13 @@
                 "map": "4_b_2",
                 "x": 978,
                 "y": 1034,
+                "shape": "diamond",
+                "size": 20
+            },
+            {
+                "map": "4_b_2_c-01",
+                "x": 10,
+                "y": 10,
                 "shape": "diamond",
                 "size": 20
             }
@@ -282,6 +366,13 @@
                 "y": 1034,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_2_c-02",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -304,6 +395,13 @@
                 "y": 194,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_2_c-03",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -323,6 +421,13 @@
             {
                 "map": "4_b_2",
                 "x": 2754,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            },
+            {
+                "map": "4_b_2_c-04",
+                "x": 10,
                 "y": 10,
                 "shape": "diamond",
                 "size": 20
@@ -348,6 +453,13 @@
                 "y": 122,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_3_d-00",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -368,6 +480,13 @@
                 "map": "4_b_3",
                 "x": 906,
                 "y": 74,
+                "shape": "diamond",
+                "size": 20
+            },
+            {
+                "map": "4_b_3_d-01",
+                "x": 10,
+                "y": 10,
                 "shape": "diamond",
                 "size": 20
             }
@@ -392,6 +511,13 @@
                 "y": 82,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_3_d-02",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -414,6 +540,13 @@
                 "y": 74,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "4_b_3_d-03",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -433,6 +566,13 @@
             {
                 "map": "4_b_3",
                 "x": 4498,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
+            },
+            {
+                "map": "4_b_3_end",
+                "x": 10,
                 "y": 10,
                 "shape": "diamond",
                 "size": 20

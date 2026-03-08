@@ -1,0 +1,20 @@
+{
+    "0": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "A",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "0_a"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

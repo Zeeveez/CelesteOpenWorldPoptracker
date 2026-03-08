@@ -1,0 +1,26 @@
+{
+    "8_a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Begin",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "8_a_0"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "8_a_0"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

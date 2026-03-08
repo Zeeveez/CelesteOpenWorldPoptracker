@@ -1,0 +1,43 @@
+{
+    "5_b_0": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "start",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_b_0_start"
+                    ]
+                }
+            },
+            {
+                "title": "a-00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_b_0_a-00"
+                    ]
+                }
+            },
+            {
+                "title": "a-01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_b_0_a-01"
+                    ]
+                }
+            },
+            {
+                "title": "a-02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_b_0_a-02"
+                    ]
+                }
+            }
+        ]
+    }
+}

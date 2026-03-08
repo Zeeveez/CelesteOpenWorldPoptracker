@@ -1,0 +1,392 @@
+[
+    {
+        "name": "2_a_0_start",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/start.png"
+    },
+    {
+        "name": "2_a_0_s0",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/s0.png"
+    },
+    {
+        "name": "2_a_0_s1",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/s1.png"
+    },
+    {
+        "name": "2_a_0_s2",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/s2.png"
+    },
+    {
+        "name": "2_a_0_0",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/0.png"
+    },
+    {
+        "name": "2_a_0_1",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/1.png"
+    },
+    {
+        "name": "2_a_0_d0",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/d0.png"
+    },
+    {
+        "name": "2_a_0_d7",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/d7.png"
+    },
+    {
+        "name": "2_a_0_d8",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/d8.png"
+    },
+    {
+        "name": "2_a_0_d3",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/d3.png"
+    },
+    {
+        "name": "2_a_0_d2",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/d2.png"
+    },
+    {
+        "name": "2_a_0_d9",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/d9.png"
+    },
+    {
+        "name": "2_a_0_d1",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/d1.png"
+    },
+    {
+        "name": "2_a_0_d6",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/d6.png"
+    },
+    {
+        "name": "2_a_0_d4",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/d4.png"
+    },
+    {
+        "name": "2_a_0_d5",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/d5.png"
+    },
+    {
+        "name": "2_a_0_3x",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/3x.png"
+    },
+    {
+        "name": "2_a_1_3",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/3.png"
+    },
+    {
+        "name": "2_a_1_4",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/4.png"
+    },
+    {
+        "name": "2_a_1_5",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/5.png"
+    },
+    {
+        "name": "2_a_1_6",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/6.png"
+    },
+    {
+        "name": "2_a_1_7",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/7.png"
+    },
+    {
+        "name": "2_a_1_8",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/8.png"
+    },
+    {
+        "name": "2_a_1_9",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/9.png"
+    },
+    {
+        "name": "2_a_1_9b",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/9b.png"
+    },
+    {
+        "name": "2_a_1_10",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/10.png"
+    },
+    {
+        "name": "2_a_1_2",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/2.png"
+    },
+    {
+        "name": "2_a_1_11",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/11.png"
+    },
+    {
+        "name": "2_a_1_12b",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/12b.png"
+    },
+    {
+        "name": "2_a_1_12c",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/12c.png"
+    },
+    {
+        "name": "2_a_1_12d",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/12d.png"
+    },
+    {
+        "name": "2_a_1_12",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/12.png"
+    },
+    {
+        "name": "2_a_1_13",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/13.png"
+    },
+    {
+        "name": "2_a_2_end_0",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_0.png"
+    },
+    {
+        "name": "2_a_2_end_s0",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_s0.png"
+    },
+    {
+        "name": "2_a_2_end_s1",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_s1.png"
+    },
+    {
+        "name": "2_a_2_end_1",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_1.png"
+    },
+    {
+        "name": "2_a_2_end_2",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_2.png"
+    },
+    {
+        "name": "2_a_2_end_3",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_3.png"
+    },
+    {
+        "name": "2_a_2_end_4",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_4.png"
+    },
+    {
+        "name": "2_a_2_end_3b",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_3b.png"
+    },
+    {
+        "name": "2_a_2_end_3cb",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_3cb.png"
+    },
+    {
+        "name": "2_a_2_end_3c",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_3c.png"
+    },
+    {
+        "name": "2_a_2_end_5",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_5.png"
+    },
+    {
+        "name": "2_a_2_end_6",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/a/end_6.png"
+    },
+    {
+        "name": "2_b_0_start",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/start.png"
+    },
+    {
+        "name": "2_b_0_00",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/00.png"
+    },
+    {
+        "name": "2_b_0_01",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/01.png"
+    },
+    {
+        "name": "2_b_0_01b",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/01b.png"
+    },
+    {
+        "name": "2_b_0_02b",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/02b.png"
+    },
+    {
+        "name": "2_b_0_02",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/02.png"
+    },
+    {
+        "name": "2_b_1_03",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/03.png"
+    },
+    {
+        "name": "2_b_1_04",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/04.png"
+    },
+    {
+        "name": "2_b_1_05",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/05.png"
+    },
+    {
+        "name": "2_b_1_06",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/06.png"
+    },
+    {
+        "name": "2_b_1_07",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/07.png"
+    },
+    {
+        "name": "2_b_2_08b",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/08b.png"
+    },
+    {
+        "name": "2_b_2_08",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/08.png"
+    },
+    {
+        "name": "2_b_2_09",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/09.png"
+    },
+    {
+        "name": "2_b_2_10",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/10.png"
+    },
+    {
+        "name": "2_b_2_11",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/11.png"
+    },
+    {
+        "name": "2_b_2_end",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/b/end.png"
+    },
+    {
+        "name": "2_c_0_00",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/c/00.png"
+    },
+    {
+        "name": "2_c_0_01",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/c/01.png"
+    },
+    {
+        "name": "2_c_0_02",
+        "location_size": 25,
+        "location_border_thickness": 4,
+        "img": "images/maps/2/c/02.png"
+    }
+]

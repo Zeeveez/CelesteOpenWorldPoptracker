@@ -14,6 +14,12 @@
                 "x": 3503,
                 "y": 1623,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_5_f-07",
+                "x": 279,
+                "y": 39,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -30,6 +36,12 @@
             {
                 "map": "7_a_0",
                 "x": 3511,
+                "y": 312,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_0_a-06",
+                "x": 391,
                 "y": 312,
                 "shape": "trapezoid"
             }
@@ -50,6 +62,12 @@
                 "x": 919,
                 "y": 1784,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_1_b-02d",
+                "x": 279,
+                "y": 160,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -67,6 +85,12 @@
                 "map": "7_a_2",
                 "x": 2695,
                 "y": 1375,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_2_c-06c",
+                "x": 71,
+                "y": 119,
                 "shape": "trapezoid"
             }
         ]
@@ -86,6 +110,12 @@
                 "x": 3735,
                 "y": 1120,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_3_d-05b",
+                "x": 135,
+                "y": 144,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -104,6 +134,12 @@
                 "x": 294,
                 "y": 2583,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_4_e-01c",
+                "x": 158,
+                "y": 111,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -121,6 +157,12 @@
                 "map": "7_a_5",
                 "x": 3135,
                 "y": 1664,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_5_f-02b",
+                "x": 1127,
+                "y": 40,
                 "shape": "trapezoid"
             }
         ]

@@ -17,6 +17,12 @@
                 "x": 1919,
                 "y": 1078,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "2_a_0_d3",
+                "x": 279,
+                "y": 94,
+                "shape": "trapezoid"
             }
         ]
     }

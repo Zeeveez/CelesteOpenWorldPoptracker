@@ -17,6 +17,12 @@
                 "x": 1095,
                 "y": 1247,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "4_b_1_b-02",
+                "x": 287,
+                "y": 879,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -37,6 +43,12 @@
                 "map": "4_b_2",
                 "x": 2927,
                 "y": 1174,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "4_b_2_c-03",
+                "x": 279,
+                "y": 990,
                 "shape": "trapezoid"
             }
         ]
@@ -59,6 +71,12 @@
                 "x": 966,
                 "y": 255,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "4_b_3_d-01",
+                "x": 70,
+                "y": 191,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -78,6 +96,12 @@
             {
                 "map": "4_b_3",
                 "x": 4574,
+                "y": 207,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "4_b_3_end",
+                "x": 86,
                 "y": 207,
                 "shape": "trapezoid"
             }

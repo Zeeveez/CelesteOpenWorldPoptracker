@@ -1,0 +1,25 @@
+{
+    "9_b_0": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_0_00"
+                    ]
+                }
+            },
+            {
+                "title": "01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_0_01"
+                    ]
+                }
+            }
+        ]
+    }
+}

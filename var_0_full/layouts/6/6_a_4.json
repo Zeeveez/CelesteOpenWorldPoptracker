@@ -1,0 +1,196 @@
+{
+    "6_a_4": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "boss-00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-00"
+                    ]
+                }
+            },
+            {
+                "title": "boss-01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-01"
+                    ]
+                }
+            },
+            {
+                "title": "boss-02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-02"
+                    ]
+                }
+            },
+            {
+                "title": "boss-03",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-03"
+                    ]
+                }
+            },
+            {
+                "title": "boss-04",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-04"
+                    ]
+                }
+            },
+            {
+                "title": "boss-05",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-05"
+                    ]
+                }
+            },
+            {
+                "title": "boss-06",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-06"
+                    ]
+                }
+            },
+            {
+                "title": "boss-07",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-07"
+                    ]
+                }
+            },
+            {
+                "title": "boss-08",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-08"
+                    ]
+                }
+            },
+            {
+                "title": "boss-09",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-09"
+                    ]
+                }
+            },
+            {
+                "title": "boss-10",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-10"
+                    ]
+                }
+            },
+            {
+                "title": "boss-11",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-11"
+                    ]
+                }
+            },
+            {
+                "title": "boss-12",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-12"
+                    ]
+                }
+            },
+            {
+                "title": "boss-13",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-13"
+                    ]
+                }
+            },
+            {
+                "title": "boss-14",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-14"
+                    ]
+                }
+            },
+            {
+                "title": "boss-15",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-15"
+                    ]
+                }
+            },
+            {
+                "title": "boss-16",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-16"
+                    ]
+                }
+            },
+            {
+                "title": "boss-17",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-17"
+                    ]
+                }
+            },
+            {
+                "title": "boss-18",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-18"
+                    ]
+                }
+            },
+            {
+                "title": "boss-19",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-19"
+                    ]
+                }
+            },
+            {
+                "title": "boss-20",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_a_4_boss-20"
+                    ]
+                }
+            }
+        ]
+    }
+}

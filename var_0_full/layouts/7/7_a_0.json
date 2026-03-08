@@ -1,0 +1,88 @@
+{
+    "7_a_0": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "a-00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_a_0_a-00"
+                    ]
+                }
+            },
+            {
+                "title": "a-01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_a_0_a-01"
+                    ]
+                }
+            },
+            {
+                "title": "a-02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_a_0_a-02"
+                    ]
+                }
+            },
+            {
+                "title": "a-02b",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_a_0_a-02b"
+                    ]
+                }
+            },
+            {
+                "title": "a-03",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_a_0_a-03"
+                    ]
+                }
+            },
+            {
+                "title": "a-04",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_a_0_a-04"
+                    ]
+                }
+            },
+            {
+                "title": "a-04b",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_a_0_a-04b"
+                    ]
+                }
+            },
+            {
+                "title": "a-05",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_a_0_a-05"
+                    ]
+                }
+            },
+            {
+                "title": "a-06",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_a_0_a-06"
+                    ]
+                }
+            }
+        ]
+    }
+}

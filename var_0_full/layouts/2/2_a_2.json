@@ -1,0 +1,115 @@
+{
+    "2_a_2": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "end_0",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_0"
+                    ]
+                }
+            },
+            {
+                "title": "end_s0",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_s0"
+                    ]
+                }
+            },
+            {
+                "title": "end_s1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_s1"
+                    ]
+                }
+            },
+            {
+                "title": "end_1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_1"
+                    ]
+                }
+            },
+            {
+                "title": "end_2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_2"
+                    ]
+                }
+            },
+            {
+                "title": "end_3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_3"
+                    ]
+                }
+            },
+            {
+                "title": "end_4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_4"
+                    ]
+                }
+            },
+            {
+                "title": "end_3b",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_3b"
+                    ]
+                }
+            },
+            {
+                "title": "end_3cb",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_3cb"
+                    ]
+                }
+            },
+            {
+                "title": "end_3c",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_3c"
+                    ]
+                }
+            },
+            {
+                "title": "end_5",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_5"
+                    ]
+                }
+            },
+            {
+                "title": "end_6",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2_end_6"
+                    ]
+                }
+            }
+        ]
+    }
+}

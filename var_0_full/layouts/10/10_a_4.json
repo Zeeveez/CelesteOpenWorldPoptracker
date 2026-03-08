@@ -1,0 +1,169 @@
+{
+    "10_a_4": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "f-door",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_f-door"
+                    ]
+                }
+            },
+            {
+                "title": "f-00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_f-00"
+                    ]
+                }
+            },
+            {
+                "title": "f-01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_f-01"
+                    ]
+                }
+            },
+            {
+                "title": "f-02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_f-02"
+                    ]
+                }
+            },
+            {
+                "title": "f-03",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_f-03"
+                    ]
+                }
+            },
+            {
+                "title": "f-04",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_f-04"
+                    ]
+                }
+            },
+            {
+                "title": "f-05",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_f-05"
+                    ]
+                }
+            },
+            {
+                "title": "f-06",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_f-06"
+                    ]
+                }
+            },
+            {
+                "title": "f-07",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_f-07"
+                    ]
+                }
+            },
+            {
+                "title": "f-08",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_f-08"
+                    ]
+                }
+            },
+            {
+                "title": "f-09",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_f-09"
+                    ]
+                }
+            },
+            {
+                "title": "g-00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_g-00"
+                    ]
+                }
+            },
+            {
+                "title": "g-01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_g-01"
+                    ]
+                }
+            },
+            {
+                "title": "g-03",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_g-03"
+                    ]
+                }
+            },
+            {
+                "title": "g-02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_g-02"
+                    ]
+                }
+            },
+            {
+                "title": "g-04",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_g-04"
+                    ]
+                }
+            },
+            {
+                "title": "g-05",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_g-05"
+                    ]
+                }
+            },
+            {
+                "title": "g-06",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "10_a_4_g-06"
+                    ]
+                }
+            }
+        ]
+    }
+}

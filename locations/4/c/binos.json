@@ -17,6 +17,12 @@
                 "x": 767,
                 "y": 495,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "4_c_0_01",
+                "x": 71,
+                "y": 463,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -36,6 +42,12 @@
             {
                 "map": "4_c_0",
                 "x": 1039,
+                "y": 55,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "4_c_0_02",
+                "x": 23,
                 "y": 55,
                 "shape": "trapezoid"
             }

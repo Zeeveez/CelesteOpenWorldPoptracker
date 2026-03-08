@@ -18,6 +18,13 @@
                 "y": 98,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "8_a_0_outside",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -40,6 +47,13 @@
                 "y": 98,
                 "shape": "diamond",
                 "size": 20
+            },
+            {
+                "map": "8_a_0_bridge",
+                "x": 10,
+                "y": 10,
+                "shape": "diamond",
+                "size": 20
             }
         ]
     },
@@ -60,6 +74,13 @@
                 "map": "8_a_0",
                 "x": 1978,
                 "y": 98,
+                "shape": "diamond",
+                "size": 20
+            },
+            {
+                "map": "8_a_0_secret",
+                "x": 10,
+                "y": 10,
                 "shape": "diamond",
                 "size": 20
             }

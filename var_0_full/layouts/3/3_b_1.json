@@ -1,0 +1,52 @@
+{
+    "3_b_1": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "06",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_b_1_06"
+                    ]
+                }
+            },
+            {
+                "title": "07",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_b_1_07"
+                    ]
+                }
+            },
+            {
+                "title": "08",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_b_1_08"
+                    ]
+                }
+            },
+            {
+                "title": "09",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_b_1_09"
+                    ]
+                }
+            },
+            {
+                "title": "10",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_b_1_10"
+                    ]
+                }
+            }
+        ]
+    }
+}

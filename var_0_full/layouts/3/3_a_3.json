@@ -1,0 +1,97 @@
+{
+    "3_a_3": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "00-d",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_a_3_00-d"
+                    ]
+                }
+            },
+            {
+                "title": "roof00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_a_3_roof00"
+                    ]
+                }
+            },
+            {
+                "title": "roof01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_a_3_roof01"
+                    ]
+                }
+            },
+            {
+                "title": "roof02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_a_3_roof02"
+                    ]
+                }
+            },
+            {
+                "title": "roof03",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_a_3_roof03"
+                    ]
+                }
+            },
+            {
+                "title": "roof04",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_a_3_roof04"
+                    ]
+                }
+            },
+            {
+                "title": "roof05",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_a_3_roof05"
+                    ]
+                }
+            },
+            {
+                "title": "roof06b",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_a_3_roof06b"
+                    ]
+                }
+            },
+            {
+                "title": "roof06",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_a_3_roof06"
+                    ]
+                }
+            },
+            {
+                "title": "roof07",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "3_a_3_roof07"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "1_b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "1_b_0"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "1_b_0"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Contraption",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "1_b_1"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "1_b_1"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Scrap Pit",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "1_b_2"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "1_b_2"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

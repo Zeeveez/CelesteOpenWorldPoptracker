@@ -1,0 +1,61 @@
+{
+    "9_b_2": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "b-00",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_2_b-00"
+                    ]
+                }
+            },
+            {
+                "title": "b-01",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_2_b-01"
+                    ]
+                }
+            },
+            {
+                "title": "b-02",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_2_b-02"
+                    ]
+                }
+            },
+            {
+                "title": "b-03",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_2_b-03"
+                    ]
+                }
+            },
+            {
+                "title": "b-04",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_2_b-04"
+                    ]
+                }
+            },
+            {
+                "title": "b-05",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_2_b-05"
+                    ]
+                }
+            }
+        ]
+    }
+}

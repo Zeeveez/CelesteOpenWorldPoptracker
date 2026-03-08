@@ -17,6 +17,12 @@
                 "x": 4031,
                 "y": 231,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "4_a_0_a-11",
+                "x": 751,
+                "y": 103,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -38,6 +44,12 @@
                 "x": 1063,
                 "y": 855,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "4_a_1_b-02",
+                "x": 23,
+                "y": 207,
+                "shape": "trapezoid"
             }
         ]
     },
@@ -58,6 +70,12 @@
                 "map": "4_a_3",
                 "x": 471,
                 "y": 1087,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "4_a_3_d-00b",
+                "x": 471,
+                "y": 327,
                 "shape": "trapezoid"
             }
         ]

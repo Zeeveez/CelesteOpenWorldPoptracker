@@ -1,0 +1,64 @@
+{
+    "1_a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "1_a_0"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "1_a_0"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Crossing",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "1_a_1"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "1_a_1"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chasm",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "1_a_2"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "1_a_2"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

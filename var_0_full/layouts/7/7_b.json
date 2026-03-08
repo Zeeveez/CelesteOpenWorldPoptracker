@@ -1,0 +1,140 @@
+{
+    "7_b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "7_b_0"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "7_b_0"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "500 M",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "7_b_1"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "7_b_1"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "1000 M",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "7_b_2"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "7_b_2"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "1500 M",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "7_b_3"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "7_b_3"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "2000 M",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "7_b_4"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "7_b_4"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "2500 M",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "7_b_5"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "7_b_5"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "3000 M",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "7_b_6"
+                            ]
+                        },
+                        {
+                            "type": "layout",
+                            "key": "7_b_6"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

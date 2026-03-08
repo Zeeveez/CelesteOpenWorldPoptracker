@@ -17,6 +17,12 @@
                 "x": 2982,
                 "y": 1487,
                 "shape": "trapezoid"
+            },
+            {
+                "map": "5_a_1_b-22",
+                "x": 30,
+                "y": 95,
+                "shape": "trapezoid"
             }
         ]
     }
