@@ -5836,6 +5836,7 @@ location_access_logic = {
 	["Mirror Temple B - Room b-01_north"] = {
 		{ "Mirror Temple B - Room b-04_east", { {  } } },
 		{ "Mirror Temple B - Room b-01_west", { { 'swapblocks', 'dashrefills' } } },
+		{ "Mirror Temple B - Room b-06_east", { { 'custom', 'redboosters', 'mirrortempleb-centralchamberkey2' } } },
 	},
 	["Mirror Temple B - Room b-07_south"] = {
 		{ "Mirror Temple B - Room b-01_east", { {  } } },

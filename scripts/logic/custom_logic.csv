@@ -225,6 +225,7 @@ Mirror Temple B - Room b-04_east,Mirror Temple B - Room b-04_west,"swap_blocks",
 Mirror Temple B - Room b-02_center,Mirror Temple B - Room b-02_north,,,1
 Mirror Temple B - Room b-05_north,Mirror Temple B - Room b-05_south,"swap_blocks,coins",,1
 Mirror Temple B - Room b-03_main,Mirror Temple B - Room b-03_north,"red_boosters",,1
+Mirror Temple B - Room b-06_east,Mirror Temple B - Room b-01_north,"red_boosters,mirrortempleb-centralchamberkey2",,1
 Mirror Temple B - Room b-08_east,Mirror Temple B - Room b-08_north,"dash_switches,swap_blocks,springs",,1
 Mirror Temple B - Room c-00_mirror,Mirror Temple B - Room c-00_bottom,"dash_refills",,1
 Mirror Temple B - Room c-02_west,Mirror Temple B - Room c-02_east,"dash_switches,dash_refills",,1
