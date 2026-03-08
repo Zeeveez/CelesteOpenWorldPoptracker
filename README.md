@@ -31,7 +31,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 ![Image of Celeste (Open World) PopTracker Broadcast Window](/images/docs/broadcast.png)
 
 - Toggleable auto-tabbing
-- Access Logic
+- Access Logic:
 	- Randomiser Logic (Shown in green)
 	- Custom Logic/Sequence Breaks (Shown in yellow; See Notes)
 
