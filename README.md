@@ -38,7 +38,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 
 ### Full Tracker View
 
-![Image of Celeste (Open World) PopTracker - Full Tracker](/images/docs/poptracker_room_.png)
+![Image of Celeste (Open World) PopTracker - Full Tracker](/images/docs/poptracker_room.png)
 
 
 ### Tracker Key
