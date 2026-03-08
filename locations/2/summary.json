@@ -1,6 +1,6 @@
 [
     {
-        "name": "Old Site A - Summary",
+        "name": "Old Site - Summary",
         "children": [
             {
                 "name": "Old Site A - Level Clear",
@@ -54,7 +54,7 @@
                 ]
             },
             {
-                "name": "Old Site A - Golden Strawberry",
+                "name": "Old Site A - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -72,7 +72,7 @@
                 ]
             },
             {
-                "name": "Old Site B - Golden Strawberry",
+                "name": "Old Site B - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -90,7 +90,7 @@
                 ]
             },
             {
-                "name": "Old Site C - Golden Strawberry",
+                "name": "Old Site C - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -165,12 +165,12 @@
                         "ref": "Old Site A - Room d3 Strawberry/"
                     },
                     {
-                        "name": "Old Site A - Room d2 Strawberry 2",
-                        "ref": "Old Site A - Room d2 Strawberry 2/"
-                    },
-                    {
                         "name": "Old Site A - Room d2 Strawberry 1",
                         "ref": "Old Site A - Room d2 Strawberry 1/"
+                    },
+                    {
+                        "name": "Old Site A - Room d2 Strawberry 2",
+                        "ref": "Old Site A - Room d2 Strawberry 2/"
                     },
                     {
                         "name": "Old Site A - Room d1 Strawberry",
@@ -227,7 +227,7 @@
                 ]
             },
             {
-                "name": "Old Site A - Checkpoint 1 Strawberries",
+                "name": "Old Site A - Start - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -251,12 +251,12 @@
                         "ref": "Old Site A - Room d3 Strawberry/"
                     },
                     {
-                        "name": "Old Site A - Room d2 Strawberry 2",
-                        "ref": "Old Site A - Room d2 Strawberry 2/"
-                    },
-                    {
                         "name": "Old Site A - Room d2 Strawberry 1",
                         "ref": "Old Site A - Room d2 Strawberry 1/"
+                    },
+                    {
+                        "name": "Old Site A - Room d2 Strawberry 2",
+                        "ref": "Old Site A - Room d2 Strawberry 2/"
                     },
                     {
                         "name": "Old Site A - Room d1 Strawberry",
@@ -277,7 +277,7 @@
                 ]
             },
             {
-                "name": "Old Site A - Checkpoint 2 Strawberries",
+                "name": "Old Site A - Intervention - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -323,7 +323,7 @@
                 ]
             },
             {
-                "name": "Old Site A - Checkpoint 3 Strawberries",
+                "name": "Old Site A - Awake - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -341,7 +341,7 @@
                 ]
             },
             {
-                "name": "Old Site A - Checkpoint 1 Rooms",
+                "name": "Old Site A - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -420,11 +420,15 @@
                     {
                         "name": "Old Site A - Room 3x",
                         "ref": "Old Site A - Room 3x/"
+                    },
+                    {
+                        "name": "Old Site A - Room 2",
+                        "ref": "Old Site A - Room 2/"
                     }
                 ]
             },
             {
-                "name": "Old Site A - Checkpoint 2 Rooms",
+                "name": "Old Site A - Intervention - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -507,7 +511,7 @@
                 ]
             },
             {
-                "name": "Old Site A - Checkpoint 3 Rooms",
+                "name": "Old Site A - Awake - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -574,7 +578,7 @@
                 ]
             },
             {
-                "name": "Old Site B - Checkpoint 1 Rooms",
+                "name": "Old Site B - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -613,7 +617,7 @@
                 ]
             },
             {
-                "name": "Old Site B - Checkpoint 2 Rooms",
+                "name": "Old Site B - Combination Lock - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -652,7 +656,7 @@
                 ]
             },
             {
-                "name": "Old Site B - Checkpoint 3 Rooms",
+                "name": "Old Site B - Dream Altar - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -695,7 +699,7 @@
                 ]
             },
             {
-                "name": "Old Site C - Checkpoint 1 Rooms",
+                "name": "Old Site C - Begin - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -722,7 +726,7 @@
                 ]
             },
             {
-                "name": "Old Site A - Checkpoint 1 Other",
+                "name": "Old Site A - Start - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -741,7 +745,7 @@
                 ]
             },
             {
-                "name": "Old Site B - Checkpoint 3 Other",
+                "name": "Old Site B - Dream Altar - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -764,7 +768,7 @@
                 ]
             },
             {
-                "name": "Old Site C - Checkpoint 1 Other",
+                "name": "Old Site C - Begin - Other",
                 "map_locations": [
                     {
                         "map": "summary",

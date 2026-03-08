@@ -20,7 +20,7 @@
                 ]
             },
             {
-                "name": "Farewell - Golden Strawberry",
+                "name": "Farewell - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -38,7 +38,7 @@
                 ]
             },
             {
-                "name": "Farewell - Crystal Heart?",
+                "name": "Farewell - Crystal Heart",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -72,7 +72,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 9 Strawberries",
+                "name": "Farewell - Farewell - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -90,7 +90,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 1 Rooms",
+                "name": "Farewell - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -121,7 +121,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 2 Rooms",
+                "name": "Farewell - Singular - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -196,7 +196,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 3 Rooms",
+                "name": "Farewell - Power Source - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -275,7 +275,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 4 Rooms",
+                "name": "Farewell - Remembered - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -346,7 +346,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 5 Rooms",
+                "name": "Farewell - Event Horizon - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -437,7 +437,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 6 Rooms",
+                "name": "Farewell - Determination - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -516,7 +516,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 7 Rooms",
+                "name": "Farewell - Stubbornness - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -563,7 +563,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 8 Rooms",
+                "name": "Farewell - Reconciliation - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -654,7 +654,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 9 Rooms",
+                "name": "Farewell - Farewell - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -693,7 +693,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 2 Other",
+                "name": "Farewell - Singular - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -716,7 +716,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 3 Other",
+                "name": "Farewell - Power Source - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -779,7 +779,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 4 Other",
+                "name": "Farewell - Remembered - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -818,7 +818,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 5 Other",
+                "name": "Farewell - Event Horizon - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -865,7 +865,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 6 Other",
+                "name": "Farewell - Determination - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -920,7 +920,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 7 Other",
+                "name": "Farewell - Stubbornness - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -951,7 +951,7 @@
                 ]
             },
             {
-                "name": "Farewell - Checkpoint 9 Other",
+                "name": "Farewell - Farewell - Other",
                 "map_locations": [
                     {
                         "map": "summary",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Reflection A - Summary",
+        "name": "Reflection - Summary",
         "children": [
             {
                 "name": "Reflection A - Level Clear",
@@ -54,7 +54,7 @@
                 ]
             },
             {
-                "name": "Reflection A - Golden Strawberry",
+                "name": "Reflection A - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -72,7 +72,7 @@
                 ]
             },
             {
-                "name": "Reflection B - Golden Strawberry",
+                "name": "Reflection B - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -90,7 +90,7 @@
                 ]
             },
             {
-                "name": "Reflection C - Golden Strawberry",
+                "name": "Reflection C - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -142,7 +142,7 @@
                 ]
             },
             {
-                "name": "Reflection A - Checkpoint 2 Rooms",
+                "name": "Reflection A - Lake - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -177,7 +177,7 @@
                 ]
             },
             {
-                "name": "Reflection A - Checkpoint 3 Rooms",
+                "name": "Reflection A - Hollows - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -304,7 +304,7 @@
                 ]
             },
             {
-                "name": "Reflection A - Checkpoint 4 Rooms",
+                "name": "Reflection A - Reflection - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -351,7 +351,7 @@
                 ]
             },
             {
-                "name": "Reflection A - Checkpoint 5 Rooms",
+                "name": "Reflection A - Rock Bottom - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -454,7 +454,7 @@
                 ]
             },
             {
-                "name": "Reflection A - Checkpoint 6 Rooms",
+                "name": "Reflection A - Resolution - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -481,7 +481,7 @@
                 ]
             },
             {
-                "name": "Reflection B - Checkpoint 1 Rooms",
+                "name": "Reflection B - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -524,7 +524,7 @@
                 ]
             },
             {
-                "name": "Reflection B - Checkpoint 2 Rooms",
+                "name": "Reflection B - Reflection - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -583,7 +583,7 @@
                 ]
             },
             {
-                "name": "Reflection B - Checkpoint 3 Rooms",
+                "name": "Reflection B - Rock Bottom - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -622,7 +622,7 @@
                 ]
             },
             {
-                "name": "Reflection B - Checkpoint 4 Rooms",
+                "name": "Reflection B - Reprieve - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -665,7 +665,7 @@
                 ]
             },
             {
-                "name": "Reflection C - Checkpoint 1 Rooms",
+                "name": "Reflection C - Begin - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -692,7 +692,7 @@
                 ]
             },
             {
-                "name": "Reflection A - Checkpoint 3 Other",
+                "name": "Reflection A - Hollows - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -711,7 +711,7 @@
                 ]
             },
             {
-                "name": "Reflection B - Checkpoint 1 Other",
+                "name": "Reflection B - Start - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -734,7 +734,7 @@
                 ]
             },
             {
-                "name": "Reflection C - Checkpoint 1 Other",
+                "name": "Reflection C - Begin - Other",
                 "map_locations": [
                     {
                         "map": "summary",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "The Summit A - Summary",
+        "name": "The Summit - Summary",
         "children": [
             {
                 "name": "The Summit A - Level Clear",
@@ -54,7 +54,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Golden Strawberry",
+                "name": "The Summit A - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -72,7 +72,7 @@
                 ]
             },
             {
-                "name": "The Summit B - Golden Strawberry",
+                "name": "The Summit B - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -90,7 +90,7 @@
                 ]
             },
             {
-                "name": "The Summit C - Golden Strawberry",
+                "name": "The Summit C - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -343,7 +343,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 1 Strawberries",
+                "name": "The Summit A - Start - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -373,7 +373,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 2 Strawberries",
+                "name": "The Summit A - 500 M - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -411,7 +411,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 3 Strawberries",
+                "name": "The Summit A - 1000 M - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -449,7 +449,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 4 Strawberries",
+                "name": "The Summit A - 1500 M - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -495,7 +495,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 5 Strawberries",
+                "name": "The Summit A - 2000 M - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -541,7 +541,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 6 Strawberries",
+                "name": "The Summit A - 2500 M - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -587,7 +587,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 7 Strawberries",
+                "name": "The Summit A - 3000 M - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -629,7 +629,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 1 Rooms",
+                "name": "The Summit A - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -680,7 +680,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 2 Rooms",
+                "name": "The Summit A - 500 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -755,7 +755,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 3 Rooms",
+                "name": "The Summit A - 1000 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -830,7 +830,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 4 Rooms",
+                "name": "The Summit A - 1500 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -921,7 +921,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 5 Rooms",
+                "name": "The Summit A - 2000 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1012,7 +1012,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 6 Rooms",
+                "name": "The Summit A - 2500 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1099,7 +1099,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 7 Rooms",
+                "name": "The Summit A - 3000 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1138,7 +1138,7 @@
                 ]
             },
             {
-                "name": "The Summit B - Checkpoint 1 Rooms",
+                "name": "The Summit B - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1169,7 +1169,7 @@
                 ]
             },
             {
-                "name": "The Summit B - Checkpoint 2 Rooms",
+                "name": "The Summit B - 500 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1204,7 +1204,7 @@
                 ]
             },
             {
-                "name": "The Summit B - Checkpoint 3 Rooms",
+                "name": "The Summit B - 1000 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1239,7 +1239,7 @@
                 ]
             },
             {
-                "name": "The Summit B - Checkpoint 4 Rooms",
+                "name": "The Summit B - 1500 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1274,7 +1274,7 @@
                 ]
             },
             {
-                "name": "The Summit B - Checkpoint 5 Rooms",
+                "name": "The Summit B - 2000 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1309,7 +1309,7 @@
                 ]
             },
             {
-                "name": "The Summit B - Checkpoint 6 Rooms",
+                "name": "The Summit B - 2500 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1344,7 +1344,7 @@
                 ]
             },
             {
-                "name": "The Summit B - Checkpoint 7 Rooms",
+                "name": "The Summit B - 3000 M - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1379,7 +1379,7 @@
                 ]
             },
             {
-                "name": "The Summit C - Checkpoint 1 Rooms",
+                "name": "The Summit C - Begin - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1406,7 +1406,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 1 Other",
+                "name": "The Summit A - Start - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1425,7 +1425,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 2 Other",
+                "name": "The Summit A - 500 M - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1456,7 +1456,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 3 Other",
+                "name": "The Summit A - 1000 M - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1491,7 +1491,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 4 Other",
+                "name": "The Summit A - 1500 M - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1510,7 +1510,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 5 Other",
+                "name": "The Summit A - 2000 M - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1529,7 +1529,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 6 Other",
+                "name": "The Summit A - 2500 M - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1552,7 +1552,7 @@
                 ]
             },
             {
-                "name": "The Summit A - Checkpoint 7 Other",
+                "name": "The Summit A - 3000 M - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1571,7 +1571,7 @@
                 ]
             },
             {
-                "name": "The Summit B - Checkpoint 2 Other",
+                "name": "The Summit B - 500 M - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1594,7 +1594,7 @@
                 ]
             },
             {
-                "name": "The Summit C - Checkpoint 1 Other",
+                "name": "The Summit C - Begin - Other",
                 "map_locations": [
                     {
                         "map": "summary",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Golden Ridge A - Summary",
+        "name": "Golden Ridge - Summary",
         "children": [
             {
                 "name": "Golden Ridge A - Level Clear",
@@ -54,7 +54,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Golden Strawberry",
+                "name": "Golden Ridge A - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -72,7 +72,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge B - Golden Strawberry",
+                "name": "Golden Ridge B - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -90,7 +90,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge C - Golden Strawberry",
+                "name": "Golden Ridge C - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -271,7 +271,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Checkpoint 1 Strawberries",
+                "name": "Golden Ridge A - Start - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -317,7 +317,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Checkpoint 2 Strawberries",
+                "name": "Golden Ridge A - Shrine - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -367,7 +367,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Checkpoint 3 Strawberries",
+                "name": "Golden Ridge A - Old Trail - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -409,7 +409,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Checkpoint 4 Strawberries",
+                "name": "Golden Ridge A - Cliff Face - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -443,7 +443,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Checkpoint 1 Rooms",
+                "name": "Golden Ridge A - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -510,7 +510,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Checkpoint 2 Rooms",
+                "name": "Golden Ridge A - Shrine - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -577,7 +577,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Checkpoint 3 Rooms",
+                "name": "Golden Ridge A - Old Trail - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -640,7 +640,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Checkpoint 4 Rooms",
+                "name": "Golden Ridge A - Cliff Face - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -707,7 +707,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge B - Checkpoint 1 Rooms",
+                "name": "Golden Ridge B - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -742,7 +742,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge B - Checkpoint 2 Rooms",
+                "name": "Golden Ridge B - Stepping Stones - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -781,7 +781,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge B - Checkpoint 3 Rooms",
+                "name": "Golden Ridge B - Gusty Canyon - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -820,7 +820,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge B - Checkpoint 4 Rooms",
+                "name": "Golden Ridge B - Eye of the Storm - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -859,7 +859,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge C - Checkpoint 1 Rooms",
+                "name": "Golden Ridge C - Begin - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -886,7 +886,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Checkpoint 1 Other",
+                "name": "Golden Ridge A - Start - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -905,7 +905,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Checkpoint 2 Other",
+                "name": "Golden Ridge A - Shrine - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -924,7 +924,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Checkpoint 4 Other",
+                "name": "Golden Ridge A - Cliff Face - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -943,7 +943,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge B - Checkpoint 2 Other",
+                "name": "Golden Ridge B - Stepping Stones - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -962,7 +962,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge B - Checkpoint 3 Other",
+                "name": "Golden Ridge B - Gusty Canyon - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -981,7 +981,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge B - Checkpoint 4 Other",
+                "name": "Golden Ridge B - Eye of the Storm - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1004,7 +1004,7 @@
                 ]
             },
             {
-                "name": "Golden Ridge C - Checkpoint 1 Other",
+                "name": "Golden Ridge C - Begin - Other",
                 "map_locations": [
                     {
                         "map": "summary",

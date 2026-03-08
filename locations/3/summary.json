@@ -1,6 +1,6 @@
 [
     {
-        "name": "Celestial Resort A - Summary",
+        "name": "Celestial Resort - Summary",
         "children": [
             {
                 "name": "Celestial Resort A - Level Clear",
@@ -54,7 +54,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Golden Strawberry",
+                "name": "Celestial Resort A - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -72,7 +72,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort B - Golden Strawberry",
+                "name": "Celestial Resort B - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -90,7 +90,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort C - Golden Strawberry",
+                "name": "Celestial Resort C - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -255,7 +255,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 1 Strawberries",
+                "name": "Celestial Resort A - Start - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -313,7 +313,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 2 Strawberries",
+                "name": "Celestial Resort A - Huge Mess - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -355,7 +355,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 3 Strawberries",
+                "name": "Celestial Resort A - Elevator Shaft - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 4 Strawberries",
+                "name": "Celestial Resort A - Presidential Suite - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -411,7 +411,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 1 Rooms",
+                "name": "Celestial Resort A - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -518,7 +518,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 2 Rooms",
+                "name": "Celestial Resort A - Huge Mess - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -629,7 +629,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 3 Rooms",
+                "name": "Celestial Resort A - Elevator Shaft - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -684,7 +684,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 4 Rooms",
+                "name": "Celestial Resort A - Presidential Suite - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -743,7 +743,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort B - Checkpoint 1 Rooms",
+                "name": "Celestial Resort B - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -786,7 +786,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort B - Checkpoint 2 Rooms",
+                "name": "Celestial Resort B - Staff Quarters - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -825,7 +825,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort B - Checkpoint 3 Rooms",
+                "name": "Celestial Resort B - Library - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -864,7 +864,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort B - Checkpoint 4 Rooms",
+                "name": "Celestial Resort B - Rooftop - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -911,7 +911,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort C - Checkpoint 1 Rooms",
+                "name": "Celestial Resort C - Begin - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -938,7 +938,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 1 Other",
+                "name": "Celestial Resort A - Start - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -965,7 +965,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 2 Other",
+                "name": "Celestial Resort A - Huge Mess - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -984,7 +984,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Checkpoint 3 Other",
+                "name": "Celestial Resort A - Elevator Shaft - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1003,7 +1003,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort B - Checkpoint 1 Other",
+                "name": "Celestial Resort B - Start - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1022,7 +1022,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort B - Checkpoint 3 Other",
+                "name": "Celestial Resort B - Library - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1041,7 +1041,7 @@
                 ]
             },
             {
-                "name": "Celestial Resort C - Checkpoint 1 Other",
+                "name": "Celestial Resort C - Begin - Other",
                 "map_locations": [
                     {
                         "map": "summary",

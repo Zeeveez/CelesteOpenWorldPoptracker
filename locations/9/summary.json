@@ -1,6 +1,6 @@
 [
     {
-        "name": "Core A - Summary",
+        "name": "Core - Summary",
         "children": [
             {
                 "name": "Core A - Level Clear",
@@ -54,7 +54,7 @@
                 ]
             },
             {
-                "name": "Core A - Golden Strawberry",
+                "name": "Core A - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -72,7 +72,7 @@
                 ]
             },
             {
-                "name": "Core B - Golden Strawberry",
+                "name": "Core B - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -90,7 +90,7 @@
                 ]
             },
             {
-                "name": "Core C - Golden Strawberry",
+                "name": "Core C - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -158,7 +158,7 @@
                 ]
             },
             {
-                "name": "Core A - Checkpoint 2 Strawberries",
+                "name": "Core A - Into the Core - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -176,7 +176,7 @@
                 ]
             },
             {
-                "name": "Core A - Checkpoint 3 Strawberries",
+                "name": "Core A - Hot and Cold - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -202,7 +202,7 @@
                 ]
             },
             {
-                "name": "Core A - Checkpoint 4 Strawberries",
+                "name": "Core A - Heart of the Mountain - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -220,7 +220,7 @@
                 ]
             },
             {
-                "name": "Core A - Checkpoint 1 Rooms",
+                "name": "Core A - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -251,7 +251,7 @@
                 ]
             },
             {
-                "name": "Core A - Checkpoint 2 Rooms",
+                "name": "Core A - Into the Core - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -322,7 +322,7 @@
                 ]
             },
             {
-                "name": "Core A - Checkpoint 3 Rooms",
+                "name": "Core A - Hot and Cold - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -369,7 +369,7 @@
                 ]
             },
             {
-                "name": "Core A - Checkpoint 4 Rooms",
+                "name": "Core A - Heart of the Mountain - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -448,7 +448,7 @@
                 ]
             },
             {
-                "name": "Core B - Checkpoint 1 Rooms",
+                "name": "Core B - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -471,7 +471,7 @@
                 ]
             },
             {
-                "name": "Core B - Checkpoint 2 Rooms",
+                "name": "Core B - Into the Core - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -514,7 +514,7 @@
                 ]
             },
             {
-                "name": "Core B - Checkpoint 3 Rooms",
+                "name": "Core B - Burning or Freezing - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -557,7 +557,7 @@
                 ]
             },
             {
-                "name": "Core B - Checkpoint 4 Rooms",
+                "name": "Core B - Heartbeat - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -612,7 +612,7 @@
                 ]
             },
             {
-                "name": "Core C - Checkpoint 1 Rooms",
+                "name": "Core C - Begin - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -643,7 +643,7 @@
                 ]
             },
             {
-                "name": "Core A - Checkpoint 1 Other",
+                "name": "Core A - Start - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -662,7 +662,7 @@
                 ]
             },
             {
-                "name": "Core C - Checkpoint 1 Other",
+                "name": "Core C - Begin - Other",
                 "map_locations": [
                     {
                         "map": "summary",

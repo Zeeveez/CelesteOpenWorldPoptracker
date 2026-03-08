@@ -1,6 +1,6 @@
 [
     {
-        "name": "Mirror Temple A - Summary",
+        "name": "Mirror Temple - Summary",
         "children": [
             {
                 "name": "Mirror Temple A - Level Clear",
@@ -54,7 +54,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Golden Strawberry",
+                "name": "Mirror Temple A - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -72,7 +72,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple B - Golden Strawberry",
+                "name": "Mirror Temple B - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -90,7 +90,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple C - Golden Strawberry",
+                "name": "Mirror Temple C - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -279,7 +279,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 1 Strawberries",
+                "name": "Mirror Temple A - Start - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -341,7 +341,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 2 Strawberries",
+                "name": "Mirror Temple A - Depths - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -399,7 +399,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 3 Strawberries",
+                "name": "Mirror Temple A - Unravelling - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -417,7 +417,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 4 Strawberries",
+                "name": "Mirror Temple A - Search - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -455,7 +455,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 5 Strawberries",
+                "name": "Mirror Temple A - Rescue - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -473,7 +473,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 1 Rooms",
+                "name": "Mirror Temple A - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -568,7 +568,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 2 Rooms",
+                "name": "Mirror Temple A - Depths - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -687,7 +687,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 3 Rooms",
+                "name": "Mirror Temple A - Unravelling - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -758,7 +758,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 4 Rooms",
+                "name": "Mirror Temple A - Search - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -837,7 +837,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 5 Rooms",
+                "name": "Mirror Temple A - Rescue - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -904,7 +904,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple B - Checkpoint 1 Rooms",
+                "name": "Mirror Temple B - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -935,7 +935,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple B - Checkpoint 2 Rooms",
+                "name": "Mirror Temple B - Central Chamber - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -994,7 +994,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple B - Checkpoint 3 Rooms",
+                "name": "Mirror Temple B - Through the Mirror - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1033,7 +1033,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple B - Checkpoint 4 Rooms",
+                "name": "Mirror Temple B - Mix Master - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1076,7 +1076,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple C - Checkpoint 1 Rooms",
+                "name": "Mirror Temple C - Begin - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1103,7 +1103,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 1 Other",
+                "name": "Mirror Temple A - Start - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1122,7 +1122,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 2 Other",
+                "name": "Mirror Temple A - Depths - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1145,7 +1145,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Checkpoint 4 Other",
+                "name": "Mirror Temple A - Search - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1172,7 +1172,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple B - Checkpoint 2 Other",
+                "name": "Mirror Temple B - Central Chamber - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -1199,7 +1199,7 @@
                 ]
             },
             {
-                "name": "Mirror Temple C - Checkpoint 1 Other",
+                "name": "Mirror Temple C - Begin - Other",
                 "map_locations": [
                     {
                         "map": "summary",

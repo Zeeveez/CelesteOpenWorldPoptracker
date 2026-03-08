@@ -1,6 +1,6 @@
 [
     {
-        "name": "Forsaken City A - Summary",
+        "name": "Forsaken City - Summary",
         "children": [
             {
                 "name": "Forsaken City A - Level Clear",
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "name": "Forsaken City B - Golden Strawberry",
+                "name": "Forsaken City B - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -94,7 +94,7 @@
                 ]
             },
             {
-                "name": "Forsaken City C - Golden Strawberry",
+                "name": "Forsaken City C - Golden Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -239,7 +239,7 @@
                 ]
             },
             {
-                "name": "Forsaken City A - Checkpoint 1 Strawberries",
+                "name": "Forsaken City A - Start - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -277,7 +277,7 @@
                 ]
             },
             {
-                "name": "Forsaken City A - Checkpoint 2 Strawberries",
+                "name": "Forsaken City A - Crossing - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -327,7 +327,7 @@
                 ]
             },
             {
-                "name": "Forsaken City A - Checkpoint 3 Strawberries",
+                "name": "Forsaken City A - Chasm - Strawberries",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -361,7 +361,7 @@
                 ]
             },
             {
-                "name": "Forsaken City A - Checkpoint 1 Rooms",
+                "name": "Forsaken City A - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -408,7 +408,7 @@
                 ]
             },
             {
-                "name": "Forsaken City A - Checkpoint 2 Rooms",
+                "name": "Forsaken City A - Crossing - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -499,7 +499,7 @@
                 ]
             },
             {
-                "name": "Forsaken City A - Checkpoint 3 Rooms",
+                "name": "Forsaken City A - Chasm - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -566,7 +566,7 @@
                 ]
             },
             {
-                "name": "Forsaken City B - Checkpoint 1 Rooms",
+                "name": "Forsaken City B - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -601,7 +601,7 @@
                 ]
             },
             {
-                "name": "Forsaken City B - Checkpoint 2 Rooms",
+                "name": "Forsaken City B - Contraption - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -640,7 +640,7 @@
                 ]
             },
             {
-                "name": "Forsaken City B - Checkpoint 3 Rooms",
+                "name": "Forsaken City B - Scrap Pit - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -683,7 +683,7 @@
                 ]
             },
             {
-                "name": "Forsaken City C - Checkpoint 1 Rooms",
+                "name": "Forsaken City C - Begin - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -710,7 +710,7 @@
                 ]
             },
             {
-                "name": "Forsaken City B - Checkpoint 1 Other",
+                "name": "Forsaken City B - Start - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -729,7 +729,7 @@
                 ]
             },
             {
-                "name": "Forsaken City B - Checkpoint 3 Other",
+                "name": "Forsaken City B - Scrap Pit - Other",
                 "map_locations": [
                     {
                         "map": "summary",
@@ -748,7 +748,7 @@
                 ]
             },
             {
-                "name": "Forsaken City C - Checkpoint 1 Other",
+                "name": "Forsaken City C - Begin - Other",
                 "map_locations": [
                     {
                         "map": "summary",

@@ -3,7 +3,7 @@
         "name": "Epilogue - Summary",
         "children": [
             {
-                "name": "Epilogue - Rooms",
+                "name": "Epilogue - Start - Rooms",
                 "map_locations": [
                     {
                         "map": "summary",
