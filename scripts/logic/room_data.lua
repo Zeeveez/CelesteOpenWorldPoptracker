@@ -7439,10 +7439,6 @@ location_access_logic = {
 		{ "The Summit A - Room b-02b_south", { {  } } },
 		{ "The Summit A - Room b-02_south", { { 'trafficblocks', 'dashrefills' }, { 'custom', 'dashrefills' } } },
 	},
-	["The Summit A - Room b-02d_south"] = {
-		{ "The Summit A - Room b-02_north", { {  } } },
-		{ "The Summit A - Room b-02d_north", { { 'dashrefills' }, { 'custom' } } },
-	},
 	["The Summit A - Room b-02_north"] = {
 		{ "The Summit A - Room b-02d_south", { {  } } },
 		{ "The Summit A - Room b-02_north-west", { {  } } },
@@ -8212,6 +8208,9 @@ location_access_logic = {
 		{ "The Summit A - Room b-02c_west", { {  } } },
 		{ "The Summit A - Room b-02c_east", { {  } } },
 		{ "The Summit A - Room b-02c_south-east", { {  } } },
+	},
+	["The Summit A - Room b-02d_south"] = {
+		{ "The Summit A - Room b-02d_north", { { 'dashrefills' }, { 'custom' } } },
 	},
 	["The Summit A - Room b-02d"] = {
 		{ "The Summit A - Room b-02d_north", { {  } } },

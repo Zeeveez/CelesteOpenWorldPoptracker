@@ -111,6 +111,7 @@ patch_door('4b', 'c-00', 'west', 'closes_behind', False)
 patch_door('5a', 'b-02', 'north-west', 'closes_behind', False)
 patch_door('5a', 'b-02', 'east-lower', 'closes_behind', False)
 patch_door('5a', 'b-02', 'south-east', 'closes_behind', False)
+patch_door('7a', 'b-02', 'north', 'closes_behind', True)
 
 patch_location('5a', 'b-10', 'east', 'strawberry', 'rule', [['swap_blocks']])
 
