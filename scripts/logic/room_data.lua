@@ -1798,7 +1798,7 @@ location_access_logic = {
 		{ "Old Site B - Room 03_west", { {  } } },
 	},
 	["Old Site B - Room 04_top"] = {
-		{ "Old Site B - Room 04_bottom", { { 'dreamblocks', 'dashrefills' } } },
+		{ "Old Site B - Room 04_bottom", { { 'dreamblocks', 'dashrefills' }, { 'custom', 'dreamblocks' } } },
 	},
 	["Old Site B - Room 04"] = {
 		{ "Old Site B - Room 04_bottom", { {  } } },
