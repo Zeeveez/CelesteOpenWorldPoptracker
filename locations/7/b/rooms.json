@@ -710,8 +710,8 @@
         "map_locations": [
             {
                 "map": "7_b_6",
-                "x": 66,
-                "y": 4770,
+                "x": 38,
+                "y": 2765,
                 "shape": "diamond",
                 "size": 20
             },
@@ -739,8 +739,8 @@
         "map_locations": [
             {
                 "map": "7_b_6",
-                "x": 10,
-                "y": 3562,
+                "x": 5,
+                "y": 2065,
                 "shape": "diamond",
                 "size": 20
             },
@@ -768,8 +768,8 @@
         "map_locations": [
             {
                 "map": "7_b_6",
-                "x": 10,
-                "y": 866,
+                "x": 5,
+                "y": 502,
                 "shape": "diamond",
                 "size": 20
             },
@@ -797,8 +797,8 @@
         "map_locations": [
             {
                 "map": "7_b_6",
-                "x": 986,
-                "y": 10,
+                "x": 571,
+                "y": 5,
                 "shape": "diamond",
                 "size": 20
             },

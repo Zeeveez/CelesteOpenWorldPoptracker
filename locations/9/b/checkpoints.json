@@ -41,8 +41,8 @@
         "map_locations": [
             {
                 "map": "9_b_2",
-                "x": 50,
-                "y": 440,
+                "x": 42,
+                "y": 372,
                 "shape": "diamond"
             },
             {
@@ -68,8 +68,8 @@
         "map_locations": [
             {
                 "map": "9_b_3",
-                "x": 54,
-                "y": 3765,
+                "x": 41,
+                "y": 2873,
                 "shape": "diamond"
             },
             {

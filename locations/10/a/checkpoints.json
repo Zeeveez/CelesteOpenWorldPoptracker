@@ -14,8 +14,8 @@
         "map_locations": [
             {
                 "map": "10_a_1",
-                "x": 31,
-                "y": 389,
+                "x": 18,
+                "y": 229,
                 "shape": "diamond"
             },
             {
@@ -41,8 +41,8 @@
         "map_locations": [
             {
                 "map": "10_a_2",
-                "x": 39,
-                "y": 2349,
+                "x": 30,
+                "y": 1853,
                 "shape": "diamond"
             },
             {
@@ -68,8 +68,8 @@
         "map_locations": [
             {
                 "map": "10_a_3",
-                "x": 311,
-                "y": 2084,
+                "x": 197,
+                "y": 1322,
                 "shape": "diamond"
             },
             {
@@ -95,8 +95,8 @@
         "map_locations": [
             {
                 "map": "10_a_4",
-                "x": 39,
-                "y": 2045,
+                "x": 13,
+                "y": 723,
                 "shape": "diamond"
             },
             {
@@ -122,8 +122,8 @@
         "map_locations": [
             {
                 "map": "10_a_5",
-                "x": 38,
-                "y": 1973,
+                "x": 11,
+                "y": 606,
                 "shape": "diamond"
             },
             {
@@ -149,8 +149,8 @@
         "map_locations": [
             {
                 "map": "10_a_6",
-                "x": 878,
-                "y": 389,
+                "x": 669,
+                "y": 296,
                 "shape": "diamond"
             },
             {
@@ -176,8 +176,8 @@
         "map_locations": [
             {
                 "map": "10_a_7",
-                "x": 39,
-                "y": 351,
+                "x": 23,
+                "y": 214,
                 "shape": "diamond"
             },
             {
@@ -203,14 +203,14 @@
         "map_locations": [
             {
                 "map": "10_a_8",
-                "x": 39,
-                "y": 7381,
+                "x": 21,
+                "y": 4063,
                 "shape": "diamond"
             },
             {
                 "map": "10_a_8_j-16",
-                "x": 39,
-                "y": 2661,
+                "x": 26,
+                "y": 1774,
                 "shape": "diamond"
             }
         ]

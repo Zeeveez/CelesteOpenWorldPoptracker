@@ -14,8 +14,8 @@
         "map_locations": [
             {
                 "map": "7_c_0",
-                "x": 10,
-                "y": 458,
+                "x": 8,
+                "y": 386,
                 "shape": "diamond",
                 "size": 20
             },
@@ -43,8 +43,8 @@
         "map_locations": [
             {
                 "map": "7_c_0",
-                "x": 618,
-                "y": 210,
+                "x": 521,
+                "y": 177,
                 "shape": "diamond",
                 "size": 20
             },
@@ -72,8 +72,8 @@
         "map_locations": [
             {
                 "map": "7_c_0",
-                "x": 1258,
-                "y": 10,
+                "x": 1061,
+                "y": 8,
                 "shape": "diamond",
                 "size": 20
             },

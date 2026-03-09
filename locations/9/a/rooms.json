@@ -710,8 +710,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 10,
-                "y": 5234,
+                "x": 4,
+                "y": 2286,
                 "shape": "diamond",
                 "size": 20
             },
@@ -739,8 +739,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 10,
-                "y": 4538,
+                "x": 4,
+                "y": 1982,
                 "shape": "diamond",
                 "size": 20
             },
@@ -768,8 +768,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 10,
-                "y": 3906,
+                "x": 4,
+                "y": 1706,
                 "shape": "diamond",
                 "size": 20
             },
@@ -797,8 +797,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 10,
-                "y": 3346,
+                "x": 4,
+                "y": 1461,
                 "shape": "diamond",
                 "size": 20
             },
@@ -826,8 +826,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 10,
-                "y": 2778,
+                "x": 4,
+                "y": 1213,
                 "shape": "diamond",
                 "size": 20
             },
@@ -855,8 +855,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 10,
-                "y": 2210,
+                "x": 4,
+                "y": 965,
                 "shape": "diamond",
                 "size": 20
             },
@@ -884,8 +884,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 10,
-                "y": 1746,
+                "x": 4,
+                "y": 762,
                 "shape": "diamond",
                 "size": 20
             },
@@ -913,8 +913,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 10,
-                "y": 258,
+                "x": 4,
+                "y": 112,
                 "shape": "diamond",
                 "size": 20
             },
@@ -942,8 +942,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 10,
-                "y": 74,
+                "x": 4,
+                "y": 32,
                 "shape": "diamond",
                 "size": 20
             },
@@ -971,8 +971,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 1490,
-                "y": 74,
+                "x": 650,
+                "y": 32,
                 "shape": "diamond",
                 "size": 20
             },
@@ -1000,8 +1000,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 2098,
-                "y": 74,
+                "x": 916,
+                "y": 32,
                 "shape": "diamond",
                 "size": 20
             },
@@ -1029,8 +1029,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 2922,
-                "y": 74,
+                "x": 1276,
+                "y": 32,
                 "shape": "diamond",
                 "size": 20
             },
@@ -1058,8 +1058,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 3818,
-                "y": 74,
+                "x": 1667,
+                "y": 32,
                 "shape": "diamond",
                 "size": 20
             },
@@ -1087,8 +1087,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 5770,
-                "y": 74,
+                "x": 2520,
+                "y": 32,
                 "shape": "diamond",
                 "size": 20
             },
@@ -1116,8 +1116,8 @@
         "map_locations": [
             {
                 "map": "9_a_3",
-                "x": 7090,
-                "y": 10,
+                "x": 3097,
+                "y": 4,
                 "shape": "diamond",
                 "size": 20
             },

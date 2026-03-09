@@ -449,8 +449,8 @@
         "map_locations": [
             {
                 "map": "4_b_3",
-                "x": 10,
-                "y": 122,
+                "x": 8,
+                "y": 99,
                 "shape": "diamond",
                 "size": 20
             },
@@ -478,8 +478,8 @@
         "map_locations": [
             {
                 "map": "4_b_3",
-                "x": 906,
-                "y": 74,
+                "x": 737,
+                "y": 60,
                 "shape": "diamond",
                 "size": 20
             },
@@ -507,8 +507,8 @@
         "map_locations": [
             {
                 "map": "4_b_3",
-                "x": 1898,
-                "y": 82,
+                "x": 1545,
+                "y": 66,
                 "shape": "diamond",
                 "size": 20
             },
@@ -536,8 +536,8 @@
         "map_locations": [
             {
                 "map": "4_b_3",
-                "x": 2626,
-                "y": 74,
+                "x": 2137,
+                "y": 60,
                 "shape": "diamond",
                 "size": 20
             },
@@ -565,8 +565,8 @@
         "map_locations": [
             {
                 "map": "4_b_3",
-                "x": 4498,
-                "y": 10,
+                "x": 3662,
+                "y": 8,
                 "shape": "diamond",
                 "size": 20
             },

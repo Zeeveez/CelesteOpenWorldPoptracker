@@ -4,6 +4,16 @@ import math
 import csv
 import os
 
+def load_csv(path):
+    with open(path, newline='') as csvfile:
+        reader = csv.DictReader(csvfile, delimiter=',')
+        return [row for row in reader]
+
+def write_file(data, path):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, 'w') as f:
+        f.write(json.dumps(data, indent=4))
+
 TYPE_SETS = (
     ('berries',('berry','golden')),
     ('checkpoints',('checkpoint')),
@@ -13,6 +23,7 @@ TYPE_SETS = (
     ('rooms',('room'))
 )
 
+MAX_MAP_DIMENSION = 4096
 SUMMARY_CHAPTER_OFFSET = 135
 SUMMARY_CHECKPOINT_SIZE = 10
 SUMMARY_CHECKPOINT_THICKNESS = 2
@@ -148,15 +159,7 @@ CHAPTER_INFO = (
     }
 )
 
-def load_csv(path):
-    with open(path, newline='') as csvfile:
-        reader = csv.DictReader(csvfile, delimiter=',')
-        return [row for row in reader]
-
-def write_file(data, path):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, 'w') as f:
-        f.write(json.dumps(data, indent=4))
+MAP_SIZES = { row['ID']: row for row in load_csv('./locations/original_map_sizes.csv') }
 
 def make_location_obj(row):
     if row['Name'] == 'Reflection A - Level Clear':
@@ -230,16 +233,25 @@ def make_location_obj(row):
         obj['visibility_rules'] = [','.join(visibility_rules)]
 
 
+    checkpoint_map = f'{row['Chapter']}_{row['Side']}_{row['Checkpoint']}'
+    checkpoint_map_size = MAP_SIZES[checkpoint_map]
+    largest_checkpoint_map_dim = max(map(int, [checkpoint_map_size["Width"], checkpoint_map_size["Height"]]))
+    checkpoint_map_scale_factor = 1 if largest_checkpoint_map_dim < MAX_MAP_DIMENSION else MAX_MAP_DIMENSION / largest_checkpoint_map_dim
+    room_map = f'{row['Chapter']}_{row['Side']}_{row['Checkpoint']}_{row['Room']}'
+    room_map_size = MAP_SIZES[room_map]
+    largest_room_map_dim = max(map(int, [room_map_size["Width"], room_map_size["Height"]]))
+    room_map_scale_factor = 1 if largest_room_map_dim < MAX_MAP_DIMENSION else MAX_MAP_DIMENSION / largest_room_map_dim
+
     obj['map_locations'] = [
         {
-            'map': f'{row['Chapter']}_{row['Side']}_{row['Checkpoint']}',
-            'x': int(row['x']) + room_marker_offset + room_x,
-            'y': int(row['y']) + room_marker_offset + room_y
+            'map': checkpoint_map,
+            'x': int((int(row['x']) + room_marker_offset + room_x) * checkpoint_map_scale_factor),
+            'y': int((int(row['y']) + room_marker_offset + room_y) * checkpoint_map_scale_factor)
         },
         {
-            'map': f'{row['Chapter']}_{row['Side']}_{row['Checkpoint']}_{row['Room']}',
-            'x': int(row['x']) + room_marker_offset,
-            'y': int(row['y']) + room_marker_offset
+            'map': room_map,
+            'x': int((int(row['x']) + room_marker_offset) * room_map_scale_factor),
+            'y': int((int(row['y']) + room_marker_offset) * room_map_scale_factor)
         }
     ]
 

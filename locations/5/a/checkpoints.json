@@ -11,8 +11,8 @@
         "map_locations": [
             {
                 "map": "5_a_1",
-                "x": 50,
-                "y": 1405,
+                "x": 34,
+                "y": 973,
                 "shape": "diamond"
             },
             {
@@ -35,8 +35,8 @@
         "map_locations": [
             {
                 "map": "5_a_2",
-                "x": 159,
-                "y": 165,
+                "x": 137,
+                "y": 142,
                 "shape": "diamond"
             },
             {
@@ -83,8 +83,8 @@
         "map_locations": [
             {
                 "map": "5_a_4",
-                "x": 159,
-                "y": 201,
+                "x": 94,
+                "y": 119,
                 "shape": "diamond"
             },
             {

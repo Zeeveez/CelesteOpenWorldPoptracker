@@ -14,8 +14,8 @@
         "map_locations": [
             {
                 "map": "6_b_1",
-                "x": 47,
-                "y": 69,
+                "x": 33,
+                "y": 49,
                 "shape": "diamond"
             },
             {
@@ -68,8 +68,8 @@
         "map_locations": [
             {
                 "map": "6_b_3",
-                "x": 31,
-                "y": 257,
+                "x": 21,
+                "y": 179,
                 "shape": "diamond"
             },
             {

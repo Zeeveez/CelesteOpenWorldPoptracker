@@ -14,8 +14,8 @@
         "map_locations": [
             {
                 "map": "9_c_0",
-                "x": 967,
-                "y": 47,
+                "x": 539,
+                "y": 26,
                 "shape": "trapezoid"
             },
             {
@@ -41,14 +41,14 @@
         "map_locations": [
             {
                 "map": "9_c_0",
-                "x": 2087,
-                "y": 55,
+                "x": 1163,
+                "y": 30,
                 "shape": "trapezoid"
             },
             {
                 "map": "9_c_0_02",
-                "x": 15,
-                "y": 55,
+                "x": 11,
+                "y": 42,
                 "shape": "trapezoid"
             }
         ]

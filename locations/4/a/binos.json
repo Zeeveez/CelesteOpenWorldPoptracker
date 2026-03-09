@@ -14,8 +14,8 @@
         "map_locations": [
             {
                 "map": "4_a_0",
-                "x": 4031,
-                "y": 231,
+                "x": 3445,
+                "y": 197,
                 "shape": "trapezoid"
             },
             {
@@ -68,8 +68,8 @@
         "map_locations": [
             {
                 "map": "4_a_3",
-                "x": 471,
-                "y": 1087,
+                "x": 260,
+                "y": 601,
                 "shape": "trapezoid"
             },
             {

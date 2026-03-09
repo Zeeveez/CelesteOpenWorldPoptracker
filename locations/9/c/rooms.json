@@ -14,8 +14,8 @@
         "map_locations": [
             {
                 "map": "9_c_0",
-                "x": 10,
-                "y": 10,
+                "x": 5,
+                "y": 5,
                 "shape": "diamond",
                 "size": 20
             },
@@ -43,8 +43,8 @@
         "map_locations": [
             {
                 "map": "9_c_0",
-                "x": 330,
-                "y": 10,
+                "x": 184,
+                "y": 5,
                 "shape": "diamond",
                 "size": 20
             },
@@ -72,8 +72,8 @@
         "map_locations": [
             {
                 "map": "9_c_0",
-                "x": 962,
-                "y": 10,
+                "x": 536,
+                "y": 5,
                 "shape": "diamond",
                 "size": 20
             },
@@ -101,15 +101,15 @@
         "map_locations": [
             {
                 "map": "9_c_0",
-                "x": 2082,
-                "y": 10,
+                "x": 1161,
+                "y": 5,
                 "shape": "diamond",
                 "size": 20
             },
             {
                 "map": "9_c_0_02",
-                "x": 10,
-                "y": 10,
+                "x": 7,
+                "y": 7,
                 "shape": "diamond",
                 "size": 20
             }
