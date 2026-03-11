@@ -5,6 +5,9 @@ def load_raw_data(url):
     return json.loads(requests.get(url).text)
 
 raw_data = load_raw_data('https://raw.githubusercontent.com/berrycamp/berrycamp.github.io/refs/heads/dev/data/celeste.json')
+raw_data['chapters'][5]['sides'][0]['checkpoints'][1]['roomOrder'].pop()
+raw_data['chapters'][5]['sides'][0]['checkpoints'][2]['roomOrder'].insert(0, 'void')
+
 for i in range(raw_data['chapterCount']):
     chapter = raw_data['chapters'][i]
     chapter_maps = []
