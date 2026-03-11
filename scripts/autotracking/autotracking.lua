@@ -148,6 +148,11 @@ function onClear(slot_data)
     end
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
+    PLAYER_ALIAS = Archipelago:GetPlayerAlias(Archipelago.PlayerNumber)
+    if PLAYER_ALIAS:sub(-1) == ')' then
+        PLAYER_ALIAS = PLAYER_ALIAS:match('.*%((.*)%)')
+    end
+
     SLOT_DATA = slot_data
     if Archipelago.PlayerNumber > -1 then
         if #ALL_LOCATIONS > 0 then
@@ -162,8 +167,8 @@ function onClear(slot_data)
         end
 
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
-        ROOMS_ID_1_0 = "Celeste_Open_Room_"..Archipelago:GetPlayerAlias(Archipelago.PlayerNumber)
-        ROOMS_ID_1_1 = "Celeste_Open_Room_"..TEAM_NUMBER.."_"..Archipelago:GetPlayerAlias(Archipelago.PlayerNumber)
+        ROOMS_ID_1_0 = "Celeste_Open_Room_"..PLAYER_ALIAS
+        ROOMS_ID_1_1 = "Celeste_Open_Room_"..TEAM_NUMBER.."_"..PLAYER_ALIAS
         Archipelago:SetNotify({HINTS_ID, ROOMS_ID_1_0, ROOMS_ID_1_1})
         Archipelago:Get({HINTS_ID})
     end
