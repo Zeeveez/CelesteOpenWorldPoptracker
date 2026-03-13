@@ -160,5 +160,5 @@ function ACCESS_10A()
 end
 
 function ACCESS_EPILOGUE()
-    return HAVE_STRAWBERRIES() and GOAL_AREA_COMPLETE()
+    return HAVE_STRAWBERRIES() and Tracker:FindObjectForCode("grannyshousekeys").Active
 end
