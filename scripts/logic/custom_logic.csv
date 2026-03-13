@@ -235,7 +235,7 @@ Mirror Temple B - Room c-04_west,Mirror Temple B - Room c-04_east,,,1
 Mirror Temple B - Room d-01_west,Mirror Temple B - Room d-01_east,"theo_crystal,dash_switches",,1
 Mirror Temple B - Room d-02_west,Mirror Temple B - Room d-02_east,"theo_crystal,dash_switches",,1
 Reflection A - Room 00_east,Reflection A - Room 00_west,,,1
-Reflection A - Room 04_south-west,Reflection A - Room 04_east,,,1
+Reflection A - Room 04_south,Reflection A - Room 04_east,,,1
 Reflection A - Room 04_east,Reflection A - Room 04_north-west,,,1
 Reflection A - Room 04e_east,Reflection A - Cassette,"pink_cassette_blocks,dash_refills",,1
 Reflection A - Room 08a_west,Reflection A - Room 08a_east,"kevin_blocks",,1

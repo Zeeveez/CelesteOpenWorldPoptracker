@@ -6232,7 +6232,8 @@ location_access_logic = {
 	},
 	["Reflection A - Room 04_east"] = {
 		{ "Reflection A - Room 05_west", { {  } } },
-		{ "Reflection A - Room 04_south-west", { { 'feathers' }, { 'custom' } } },
+		{ "Reflection A - Room 04_south-west", { { 'feathers' } } },
+		{ "Reflection A - Room 04_south", { { 'custom' } } },
 	},
 	["Reflection A - Room 04e_east"] = {
 		{ "Reflection A - Room 04_south-west", { {  } } },
