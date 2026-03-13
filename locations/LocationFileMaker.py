@@ -203,37 +203,63 @@ def make_location_obj(row):
         ]
     }
 
-    visibility_rules = []
-
     if row['Chapter'] in ('7','9','10'):
         obj['sections'][0]['access_rules'][0] = f'$ACCESS_{row['Chapter']}{row['Side'].upper()},{obj['sections'][0]['access_rules'][0]}'
     if row['Chapter'] == '8':
         obj['sections'][0]['access_rules'][0] = f'$ACCESS_EPILOGUE,{obj['sections'][0]['access_rules'][0]}'
 
-    if row['Chapter'] == '9':
-        visibility_rules += ['include_core']
-    if row['Chapter'] == '10':
-        visibility_rules += ['include_farewell'] if int(row['Checkpoint']) >= 4 or row['Type'] == 'golden' else ['include_empty_space']
-        
-    if row['Side'] == 'b':
-        visibility_rules += ['include_b_sides']
-    if row['Side'] == 'c':
-        visibility_rules += ['include_c_sides']
-
+    base_visibility_rules = []
     if row['Type'] == 'room':
-        visibility_rules += ['roomsanity']
-    if row['Type'] == 'golden' or row['Room'] == 'end-golden':
-        visibility_rules += ['include_goldens']
-    if row['Room'] == 'end-golden' or (row['Type'] == 'golden' and row['Chapter'] == '10'):
-        visibility_rules += ['goal_area_farewell_golden']
+        base_visibility_rules += ['roomsanity']
+    if row['Type'] == 'golden' and row['Chapter'] != '10':
+        base_visibility_rules += ['include_goldens']
     if row['Type'] == 'car':
-        visibility_rules += ['carsanity']
+        base_visibility_rules += ['carsanity']
     if row['Type'] == 'bino':
-        visibility_rules += ['binosanity']
+        base_visibility_rules += ['binosanity']
+
+    visibility_rules = []
+
+    if row['Chapter'] == '7' and row['Side'] == 'b':
+        visibility_rules += [['include_b_sides'] + base_visibility_rules]
+        visibility_rules += [['goal_area_the_summit_b_side'] + base_visibility_rules]
+    elif row['Chapter'] == '7' and row['Side'] == 'c':
+        visibility_rules += [['include_c_sides'] + base_visibility_rules]
+        visibility_rules += [['goal_area_the_summit_c_side'] + base_visibility_rules]
+
+    elif row['Chapter'] == '9' and row['Side'] == 'a':
+        visibility_rules += [['include_core'] + base_visibility_rules]
+        visibility_rules += [['goal_area_core_a_side'] + base_visibility_rules]
+    elif row['Chapter'] == '9' and row['Side'] == 'b':
+        visibility_rules += [['include_core,include_b_sides'] + base_visibility_rules]
+        visibility_rules += [['goal_area_core_b_side'] + base_visibility_rules]
+    elif row['Chapter'] == '9' and row['Side'] == 'c':
+        visibility_rules += [['include_core,include_c_sides'] + base_visibility_rules]
+        visibility_rules += [['goal_area_core_c_side'] + base_visibility_rules]
+
+    elif row['Chapter'] == '10' and (row['Room'] == 'end-golden' or row['Type'] == 'golden'):
+        visibility_rules += [['goal_area_farewell_golden'] + base_visibility_rules]
+    elif row['Chapter'] == '10' and int(row['Checkpoint']) < 4:
+        visibility_rules += [['include_empty_space'] + base_visibility_rules]
+        visibility_rules += [['goal_area_empty_space'] + base_visibility_rules]
+        visibility_rules += [['include_farewell'] + base_visibility_rules]
+        visibility_rules += [['goal_area_farewell'] + base_visibility_rules]
+        visibility_rules += [['goal_area_farewell_golden'] + base_visibility_rules]
+    elif row['Chapter'] == '10' and row['Room'] != 'end-golden' and row['Type'] != 'golden':
+        visibility_rules += [['include_farewell'] + base_visibility_rules]
+        visibility_rules += [['goal_area_farewell'] + base_visibility_rules]
+        visibility_rules += [['goal_area_farewell_golden'] + base_visibility_rules]
+
+    elif row['Side'] == 'b':
+        visibility_rules += [['include_b_sides'] + base_visibility_rules]
+    elif row['Side'] == 'c':
+        visibility_rules += [['include_c_sides'] + base_visibility_rules]
+
+    elif len(base_visibility_rules):
+        visibility_rules += [base_visibility_rules]
 
     if len(visibility_rules):
-        obj['visibility_rules'] = [','.join(visibility_rules)]
-
+        obj['visibility_rules'] = list(map(lambda vis_rule: ','.join(vis_rule), visibility_rules))
 
     checkpoint_map = f'{row['Chapter']}_{row['Side']}_{row['Checkpoint']}'
     checkpoint_map_size = MAP_SIZES[checkpoint_map]

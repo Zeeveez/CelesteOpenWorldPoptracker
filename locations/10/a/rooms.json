@@ -9,7 +9,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -38,7 +42,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -67,7 +75,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -96,7 +108,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -125,7 +141,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -154,7 +174,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -183,7 +207,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -212,7 +240,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -241,7 +273,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -270,7 +306,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -299,7 +339,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -328,7 +372,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -357,7 +405,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -386,7 +438,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -415,7 +471,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -444,7 +504,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -473,7 +537,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -502,7 +570,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -531,7 +603,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -560,7 +636,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -589,7 +669,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -618,7 +702,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -647,7 +735,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -676,7 +768,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -705,7 +801,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -734,7 +834,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -763,7 +867,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -792,7 +900,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -821,7 +933,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -850,7 +966,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -879,7 +999,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -908,7 +1032,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -937,7 +1065,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -966,7 +1098,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -995,7 +1131,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1024,7 +1164,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1053,7 +1197,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1082,7 +1230,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1111,7 +1263,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1140,7 +1296,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1169,7 +1329,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1198,7 +1362,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1227,7 +1395,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1256,7 +1428,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1285,7 +1461,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1314,7 +1494,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,roomsanity"
+            "include_empty_space,roomsanity",
+            "goal_area_empty_space,roomsanity",
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1343,7 +1527,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1372,7 +1558,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1401,7 +1589,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1430,7 +1620,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1459,7 +1651,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1488,7 +1682,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1517,7 +1713,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1546,7 +1744,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1575,7 +1775,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1604,7 +1806,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1633,7 +1837,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1662,7 +1868,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1691,7 +1899,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1720,7 +1930,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1749,7 +1961,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1778,7 +1992,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1807,7 +2023,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1836,7 +2054,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1865,7 +2085,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1894,7 +2116,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1923,7 +2147,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1952,7 +2178,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -1981,7 +2209,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2010,7 +2240,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2039,7 +2271,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2068,7 +2302,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2097,7 +2333,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2126,7 +2364,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2155,7 +2395,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2184,7 +2426,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2213,7 +2457,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2242,7 +2488,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2271,7 +2519,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2300,7 +2550,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2329,7 +2581,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2358,7 +2612,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2387,7 +2643,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2416,7 +2674,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2445,7 +2705,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2474,7 +2736,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2503,7 +2767,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2532,7 +2798,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2561,7 +2829,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2590,7 +2860,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2619,7 +2891,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2648,7 +2922,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2677,7 +2953,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2706,7 +2984,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2735,7 +3015,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2764,7 +3046,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2793,7 +3077,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2822,7 +3108,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2851,7 +3139,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2880,7 +3170,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2909,7 +3201,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2938,7 +3232,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2967,7 +3263,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -2996,7 +3294,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -3025,7 +3325,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -3054,7 +3356,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -3083,7 +3387,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -3112,7 +3418,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity"
+            "include_farewell,roomsanity",
+            "goal_area_farewell,roomsanity",
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {
@@ -3141,7 +3449,7 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,roomsanity,include_goldens,goal_area_farewell_golden"
+            "goal_area_farewell_golden,roomsanity"
         ],
         "map_locations": [
             {

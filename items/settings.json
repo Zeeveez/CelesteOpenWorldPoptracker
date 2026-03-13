@@ -14,46 +14,55 @@
             {
                 "img": "images/icons/7a.png",
                 "name": "Goal - 7A",
+                "inherit_codes": false,
                 "codes": "goal_area"
             },
             {
                 "img": "images/icons/7b.png",
                 "name": "Goal - 7B",
-                "codes": "goal_area"
+                "inherit_codes": false,
+                "codes": "goal_area,goal_area_the_summit_b_side"
             },
             {
                 "img": "images/icons/7c.png",
                 "name": "Goal - 7C",
-                "codes": "goal_area"
+                "inherit_codes": false,
+                "codes": "goal_area,goal_area_the_summit_c_side"
             },
             {
                 "img": "images/icons/8a.png",
                 "name": "Goal - 8A",
-                "codes": "goal_area"
+                "inherit_codes": false,
+                "codes": "goal_area,goal_area_core_a_side"
             },
             {
                 "img": "images/icons/8b.png",
                 "name": "Goal - 8B",
-                "codes": "goal_area"
+                "inherit_codes": false,
+                "codes": "goal_area,goal_area_core_b_side"
             },
             {
                 "img": "images/icons/8c.png",
                 "name": "Goal - 8C",
-                "codes": "goal_area"
+                "inherit_codes": false,
+                "codes": "goal_area,goal_area_core_c_side"
             },
             {
                 "img": "images/icons/empty-space.png",
                 "name": "Goal - Empty Space",
-                "codes": "goal_area"
+                "inherit_codes": false,
+                "codes": "goal_area,goal_area_empty_space"
             },
             {
                 "img": "images/icons/9.png",
                 "name": "Goal - Farewell",
-                "codes": "goal_area"
+                "inherit_codes": false,
+                "codes": "goal_area,goal_area_farewell"
             },
             {
                 "img": "images/icons/9-golden.png",
                 "name": "Goal - Farewell Golden",
+                "inherit_codes": false,
                 "codes": "goal_area,goal_area_farewell_golden"
             }
         ]

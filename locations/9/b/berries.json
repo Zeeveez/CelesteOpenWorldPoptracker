@@ -9,7 +9,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core,include_b_sides,include_goldens"
+            "include_core,include_b_sides,include_goldens",
+            "goal_area_core_b_side,include_goldens"
         ],
         "map_locations": [
             {

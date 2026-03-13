@@ -9,7 +9,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core"
+            "include_core",
+            "goal_area_core_a_side"
         ],
         "map_locations": [
             {
@@ -34,7 +35,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core"
+            "include_core",
+            "goal_area_core_a_side"
         ],
         "map_locations": [
             {
@@ -59,7 +61,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core,carsanity"
+            "include_core,carsanity",
+            "goal_area_core_a_side,carsanity"
         ],
         "map_locations": [
             {

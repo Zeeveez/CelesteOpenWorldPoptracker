@@ -9,7 +9,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core,include_goldens"
+            "include_core,include_goldens",
+            "goal_area_core_a_side,include_goldens"
         ],
         "map_locations": [
             {
@@ -34,7 +35,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core"
+            "include_core",
+            "goal_area_core_a_side"
         ],
         "map_locations": [
             {
@@ -59,7 +61,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core"
+            "include_core",
+            "goal_area_core_a_side"
         ],
         "map_locations": [
             {
@@ -84,7 +87,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core"
+            "include_core",
+            "goal_area_core_a_side"
         ],
         "map_locations": [
             {
@@ -109,7 +113,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core"
+            "include_core",
+            "goal_area_core_a_side"
         ],
         "map_locations": [
             {
@@ -134,7 +139,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core"
+            "include_core",
+            "goal_area_core_a_side"
         ],
         "map_locations": [
             {

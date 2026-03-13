@@ -9,7 +9,8 @@
             }
         ],
         "visibility_rules": [
-            "include_c_sides,binosanity"
+            "include_c_sides,binosanity",
+            "goal_area_the_summit_c_side,binosanity"
         ],
         "map_locations": [
             {
@@ -36,7 +37,8 @@
             }
         ],
         "visibility_rules": [
-            "include_c_sides,binosanity"
+            "include_c_sides,binosanity",
+            "goal_area_the_summit_c_side,binosanity"
         ],
         "map_locations": [
             {

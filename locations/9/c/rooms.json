@@ -9,7 +9,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core,include_c_sides,roomsanity"
+            "include_core,include_c_sides,roomsanity",
+            "goal_area_core_c_side,roomsanity"
         ],
         "map_locations": [
             {
@@ -38,7 +39,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core,include_c_sides,roomsanity"
+            "include_core,include_c_sides,roomsanity",
+            "goal_area_core_c_side,roomsanity"
         ],
         "map_locations": [
             {
@@ -67,7 +69,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core,include_c_sides,roomsanity"
+            "include_core,include_c_sides,roomsanity",
+            "goal_area_core_c_side,roomsanity"
         ],
         "map_locations": [
             {
@@ -96,7 +99,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core,include_c_sides,roomsanity"
+            "include_core,include_c_sides,roomsanity",
+            "goal_area_core_c_side,roomsanity"
         ],
         "map_locations": [
             {

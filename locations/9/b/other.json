@@ -9,7 +9,8 @@
             }
         ],
         "visibility_rules": [
-            "include_core,include_b_sides"
+            "include_core,include_b_sides",
+            "goal_area_core_b_side"
         ],
         "map_locations": [
             {

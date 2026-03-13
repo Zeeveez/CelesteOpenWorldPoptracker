@@ -9,7 +9,8 @@
             }
         ],
         "visibility_rules": [
-            "include_b_sides"
+            "include_b_sides",
+            "goal_area_the_summit_b_side"
         ],
         "map_locations": [
             {

@@ -9,7 +9,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -36,7 +40,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -63,7 +71,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -90,7 +102,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -117,7 +133,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -144,7 +164,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -171,7 +195,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -198,7 +226,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -225,7 +257,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -252,7 +288,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -279,7 +319,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -306,7 +350,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -333,7 +381,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -360,7 +412,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space,binosanity"
+            "include_empty_space,binosanity",
+            "goal_area_empty_space,binosanity",
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -387,7 +443,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -414,7 +472,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -441,7 +501,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -468,7 +530,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -495,7 +559,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -522,7 +588,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -549,7 +617,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -576,7 +646,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -603,7 +675,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -630,7 +704,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -657,7 +733,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -684,7 +762,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -711,7 +791,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -738,7 +820,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -765,7 +849,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -792,7 +878,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -819,7 +907,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -846,7 +936,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -873,7 +965,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -900,7 +994,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -927,7 +1023,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -954,7 +1052,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -981,7 +1081,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,binosanity"
+            "include_farewell,binosanity",
+            "goal_area_farewell,binosanity",
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -1008,7 +1110,7 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,include_goldens,goal_area_farewell_golden,binosanity"
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -1035,7 +1137,7 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,include_goldens,goal_area_farewell_golden,binosanity"
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -1062,7 +1164,7 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,include_goldens,goal_area_farewell_golden,binosanity"
+            "goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {

@@ -9,7 +9,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space"
+            "include_empty_space",
+            "goal_area_empty_space",
+            "include_farewell",
+            "goal_area_farewell",
+            "goal_area_farewell_golden"
         ],
         "map_locations": [
             {
@@ -36,7 +40,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space"
+            "include_empty_space",
+            "goal_area_empty_space",
+            "include_farewell",
+            "goal_area_farewell",
+            "goal_area_farewell_golden"
         ],
         "map_locations": [
             {
@@ -63,7 +71,11 @@
             }
         ],
         "visibility_rules": [
-            "include_empty_space"
+            "include_empty_space",
+            "goal_area_empty_space",
+            "include_farewell",
+            "goal_area_farewell",
+            "goal_area_farewell_golden"
         ],
         "map_locations": [
             {
@@ -90,7 +102,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell"
+            "include_farewell",
+            "goal_area_farewell",
+            "goal_area_farewell_golden"
         ],
         "map_locations": [
             {
@@ -117,7 +131,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell"
+            "include_farewell",
+            "goal_area_farewell",
+            "goal_area_farewell_golden"
         ],
         "map_locations": [
             {
@@ -144,7 +160,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell"
+            "include_farewell",
+            "goal_area_farewell",
+            "goal_area_farewell_golden"
         ],
         "map_locations": [
             {
@@ -171,7 +189,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell"
+            "include_farewell",
+            "goal_area_farewell",
+            "goal_area_farewell_golden"
         ],
         "map_locations": [
             {
@@ -198,7 +218,9 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell"
+            "include_farewell",
+            "goal_area_farewell",
+            "goal_area_farewell_golden"
         ],
         "map_locations": [
             {
