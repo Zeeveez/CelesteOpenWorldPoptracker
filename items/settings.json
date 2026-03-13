@@ -4,6 +4,7 @@
         "type": "consumable",
         "img": "images/icons/strawberry.png",
         "codes": "strawberries_required",
+        "max_quantity": 202,
         "overlay_font_size": 24
     },
     {
