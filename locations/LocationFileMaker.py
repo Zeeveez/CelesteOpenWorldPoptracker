@@ -224,6 +224,8 @@ def make_location_obj(row):
         visibility_rules += ['roomsanity']
     if row['Type'] == 'golden' or row['Room'] == 'end-golden':
         visibility_rules += ['include_goldens']
+    if row['Room'] == 'end-golden' or (row['Type'] == 'golden' and row['Chapter'] == '10'):
+        visibility_rules += ['goal_area_farewell_golden']
     if row['Type'] == 'car':
         visibility_rules += ['carsanity']
     if row['Type'] == 'bino':

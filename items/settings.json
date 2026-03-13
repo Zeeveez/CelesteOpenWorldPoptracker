@@ -54,7 +54,7 @@
             {
                 "img": "images/icons/9-golden.png",
                 "name": "Goal - Farewell Golden",
-                "codes": "goal_area"
+                "codes": "goal_area,goal_area_farewell_golden"
             }
         ]
     },

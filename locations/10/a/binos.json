@@ -1008,7 +1008,7 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,include_goldens,binosanity"
+            "include_farewell,include_goldens,goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -1035,7 +1035,7 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,include_goldens,binosanity"
+            "include_farewell,include_goldens,goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {
@@ -1062,7 +1062,7 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,include_goldens,binosanity"
+            "include_farewell,include_goldens,goal_area_farewell_golden,binosanity"
         ],
         "map_locations": [
             {

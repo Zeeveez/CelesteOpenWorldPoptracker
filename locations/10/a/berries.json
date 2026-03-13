@@ -9,7 +9,7 @@
             }
         ],
         "visibility_rules": [
-            "include_farewell,include_goldens"
+            "include_farewell,include_goldens,goal_area_farewell_golden"
         ],
         "map_locations": [
             {
