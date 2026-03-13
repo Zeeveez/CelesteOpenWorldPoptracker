@@ -358,3 +358,6 @@ Core A - Room b-01_east,Core A - Room b-01_west,,,1
 Core A - Room b-02_west,Core A - Room b-02_east,,,1
 Core A - Room b-03_west,Core A - Room b-03_east,,,1
 Core A - Room b-07b_bottom,Core A - Room b-07b_top,"core_toggles",,1
+Farewell - Room intro-01-future_west,Farewell - Room intro-02-launch_bottom,,,1
+Farewell - Room intro-01-future_west,Farewell - Room intro-03-space_west,,,1
+Farewell - Room a-00_west,Farewell - Room a-00_east,,,1

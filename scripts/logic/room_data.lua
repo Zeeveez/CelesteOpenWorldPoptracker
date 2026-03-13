@@ -10131,10 +10131,12 @@ location_access_logic = {
 	["Farewell - Room intro-02-launch_bottom"] = {
 		{ "Farewell - Room intro-01-future_east", { {  } } },
 		{ "Farewell - Room intro-02-launch_top", { {  } } },
+		{ "Farewell - Room intro-01-future_west", { { 'custom' } } },
 	},
 	["Farewell - Room intro-03-space_west"] = {
 		{ "Farewell - Room intro-02-launch_top", { {  } } },
 		{ "Farewell - Room intro-03-space_east", { {  } } },
+		{ "Farewell - Room intro-01-future_west", { { 'custom' } } },
 	},
 	["Farewell - Room a-00_west"] = {
 		{ "Farewell - Room intro-03-space_east", { {  } } },
@@ -10151,7 +10153,7 @@ location_access_logic = {
 	},
 	["Farewell - Room a-00_east"] = {
 		{ "Farewell - Room a-01_west", { {  } } },
-		{ "Farewell - Room a-00_west", { { 'doubledashrefills' } } },
+		{ "Farewell - Room a-00_west", { { 'doubledashrefills' }, { 'custom' } } },
 	},
 	["Farewell - Room a-02_west"] = {
 		{ "Farewell - Room a-01_east", { {  } } },
