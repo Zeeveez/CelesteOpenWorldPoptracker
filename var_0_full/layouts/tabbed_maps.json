@@ -153,6 +153,15 @@
                         }
                     ]
                 }
+            },
+            {
+                "title": "Hints",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "supplementary"
+                    ]
+                }
             }
         ]
     }

@@ -1,4 +1,5 @@
 Tracker:AddMaps("maps/summary.json")
+Tracker:AddMaps("maps/other.json")
 
 if Tracker.ActiveVariantUID == 'var_1_chapters' then
 	Tracker:AddMaps("maps/0.json")
