@@ -1,0 +1,48 @@
+{
+    "settings_popup": {
+        "type": "container",
+        "background": "#443a3a",
+        "content": {
+            "type": "layout",
+            "key": "tracker_settings"
+        }
+    },
+    "tracker_settings": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "5",
+                "rows": [
+                    [
+                        "strawberries_required",
+                        "goal_area",
+                        "lock_goal_area",
+                        "",
+                        "",
+                        ""
+                    ],
+                    [
+                        "include_b_sides",
+                        "include_c_sides",
+                        "include_core",
+                        "include_farewell",
+                        "include_goldens",
+                        ""
+                    ],
+                    [
+                        "carsanity",
+                        "roomsanity",
+                        "keysanity",
+                        "gemsanity",
+                        "binosanity",
+                        "checkpointsanity"
+                    ]
+                ]
+            }
+        ]
+    }
+}

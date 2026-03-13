@@ -1,7 +1,7 @@
 {
     "tracker_broadcast": {
         "type": "container",
-        "background": "#877373",
+        "background": "#443a3a",
         "content": {
             "type": "layout",
             "key": "tracker_unlocks"

@@ -1,5 +1,10 @@
 Tracker:AddLayouts("layouts/items.json")
 Tracker:AddLayouts("layouts/tracker.json")
+Tracker:AddLayouts("layouts/tracker_collectables.json")
+Tracker:AddLayouts("layouts/tracker_unlocks.json")
+Tracker:AddLayouts("layouts/tracker_keys_gems.json")
+Tracker:AddLayouts("layouts/tracker_checkpoints.json")
+Tracker:AddLayouts("layouts/tracker_settings.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 Tracker:AddLayouts("layouts/tabbed_maps.json")
 

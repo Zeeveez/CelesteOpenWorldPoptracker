@@ -1,0 +1,24 @@
+{
+    "tracker_keys_gems": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "3",
+                "rows": [
+                    [ "celestialresorta-icon", "mirrortemplea-icon", "thesummita-icon", "farewell-icon" ],
+                    [ "celestialresorta-frontdoorkey", "mirrortemplea-entrancekey", "thesummita-2500mkey", "farewell-powersourcekey1" ],
+                    [ "celestialresorta-hallwaykey1", "mirrortemplea-depthskey", "thesummita-gem1", "farewell-powersourcekey2" ],
+                    [ "celestialresorta-hallwaykey2", "mirrortemplea-searchkey1", "thesummita-gem2", "farewell-powersourcekey3" ],
+                    [ "celestialresorta-hugemesskey", "mirrortemplea-searchkey2", "thesummita-gem3", "farewell-powersourcekey4" ],
+                    [ "celestialresorta-presidentialsuitekey", "mirrortemplea-searchkey3", "thesummita-gem4", "farewell-powersourcekey5" ],
+                    [ "", "mirrortempleb-centralchamberkey1", "thesummita-gem5", "" ],
+                    [ "", "mirrortempleb-centralchamberkey2", "thesummita-gem6", "" ]
+                ]
+            }
+        ]
+    }
+}

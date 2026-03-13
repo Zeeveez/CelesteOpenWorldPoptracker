@@ -56,15 +56,6 @@
                                 "type": "layout",
                                 "key": "tracker_checkpoints"
                             }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Settings",
-                            "dock": "left",
-                            "content": {
-                                "type": "layout",
-                                "key": "tracker_settings"
-                            }
                         }
                     ]
                 }
