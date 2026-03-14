@@ -63,6 +63,8 @@ function LoadDeathLinkSetting(slot_data, death_link_key, amnesty_key, code)
             local count = slot_data[amnesty_key]
             if obj and active then
                 obj.AcquiredCount = count
+            else
+                obj.AcquiredCount = 0
             end
         end
     end
