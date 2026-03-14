@@ -146,13 +146,13 @@
     {
         "name": "Keysanity",
         "type": "toggle",
-        "img": "images/icons/key.png",
+        "img": "images/icons/keys_gems/key.png",
         "codes": "keysanity"
     },
     {
         "name": "Gemsanity",
         "type": "toggle",
-        "img": "images/icons/gem-1.png",
+        "img": "images/icons/keys_gems/gem-1.png",
         "codes": "gemsanity"
     },
     {
@@ -171,7 +171,9 @@
     {
         "name": "Death Link (and Amnesty)",
         "type": "consumable",
-        "img": "images/icons/death_trap_link/death_link_amnesty.png",
+        "img": "images/icons/death_trap_link/link_on.png",
+        "disabled_img": "images/icons/death_trap_link/link_off.png",
+        "disabled_img_mods": "none",
         "codes": "death_link_amnesty",
         "max_quantity": 30,
         "overlay_font_size": 16
@@ -180,7 +182,9 @@
     {
         "name": "Trap Link",
         "type": "toggle",
-        "img": "images/icons/death_trap_link/trap_link.png",
+        "img": "images/icons/death_trap_link/link_on.png",
+        "disabled_img": "images/icons/death_trap_link/link_off.png",
+        "disabled_img_mods": "none",
         "codes": "trap_link"
     },
     {
