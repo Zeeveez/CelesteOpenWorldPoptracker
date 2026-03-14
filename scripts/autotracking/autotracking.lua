@@ -191,6 +191,25 @@ function onClear(slot_data)
     LoadToggleSetting(slot_data, 'gemsanity', 'gemsanity')
     LoadToggleSetting(slot_data, 'binosanity', 'binosanity')
     LoadToggleSetting(slot_data, 'checkpointsanity', 'checkpointsanity')
+    
+    LoadDeathLinkSetting(slot_data, 'death_link', 'death_link_amnesty', 'death_link_amnesty')
+
+    LoadToggleSetting(slot_data, 'trap_link', 'trap_link')
+    if slot_data['active_traps'] then
+        LoadConsumableSetting(slot_data['active_traps'], '32', 'baldtrap')
+        LoadConsumableSetting(slot_data['active_traps'], '33', 'literaturetrap')
+        LoadConsumableSetting(slot_data['active_traps'], '34', 'stuntrap')
+        LoadConsumableSetting(slot_data['active_traps'], '35', 'invisibletrap')
+        LoadConsumableSetting(slot_data['active_traps'], '36', 'fasttrap')
+        LoadConsumableSetting(slot_data['active_traps'], '37', 'slowtrap')
+        LoadConsumableSetting(slot_data['active_traps'], '38', 'icetrap')
+        -- No trap with ID 39
+        LoadConsumableSetting(slot_data['active_traps'], '40', 'reversetrap')
+        LoadConsumableSetting(slot_data['active_traps'], '41', 'screenfliptrap')
+        LoadConsumableSetting(slot_data['active_traps'], '42', 'laughtertrap')
+        LoadConsumableSetting(slot_data['active_traps'], '43', 'hiccuptrap')
+        LoadConsumableSetting(slot_data['active_traps'], '44', 'zoomtrap')
+    end
 
     MANUAL_CHECKED = true
 end

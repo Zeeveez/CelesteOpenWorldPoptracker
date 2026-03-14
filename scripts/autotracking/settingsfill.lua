@@ -14,7 +14,7 @@ function LoadToggleSetting(slot_data, key, code)
     if slot_data then
         if slot_data[key] then
             local obj = Tracker:FindObjectForCode(code)
-            local active = slot_data[key] == 1
+            local active = slot_data[key] ~= 0
             if obj then
                 obj.Active = active
             end
@@ -50,6 +50,19 @@ function LoadGoalAreaSetting(slot_data)
             local stage = goal_area_stages[slot_data['goal_area']]
             if obj then
                 obj.CurrentStage = stage
+            end
+        end
+    end
+end
+
+function LoadDeathLinkSetting(slot_data, death_link_key, amnesty_key, code)
+    if slot_data then
+        if slot_data[death_link_key] and slot_data[amnesty_key] then
+            local obj = Tracker:FindObjectForCode(code)
+            local active = slot_data[death_link_key] == 1
+            local count = slot_data[amnesty_key]
+            if obj and active then
+                obj.AcquiredCount = count
             end
         end
     end

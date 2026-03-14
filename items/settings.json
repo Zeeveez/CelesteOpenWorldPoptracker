@@ -166,5 +166,117 @@
         "type": "toggle",
         "img": "images/icons/checkpoint.png",
         "codes": "checkpointsanity"
+    },
+
+    {
+        "name": "Death Link (and Amnesty)",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "death_link_amnesty",
+        "max_quantity": 30,
+        "overlay_font_size": 24
+    },
+
+    {
+        "name": "Trap Link",
+        "type": "toggle",
+        "img": "images/icons/strawberry.png",
+        "codes": "trap_link"
+    },
+    {
+        "name": "Bald Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "baldtrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Literature Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "literaturetrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Stun Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "stuntrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Invisible Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "invisibletrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Fast Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "fasttrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Slow Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "slowtrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Ice Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "icetrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Reverse Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "reversetrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Screen Flip Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "screenfliptrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Laughter Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "laughtertrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Hiccup Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "hiccuptrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Zoom Trap",
+        "type": "consumable",
+        "img": "images/icons/strawberry.png",
+        "codes": "zoomtrap",
+        "max_quantity": 4,
+        "overlay_font_size": 24
     }
 ]
