@@ -2,7 +2,7 @@
     {
         "name": "Strawberries Required",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/collectables/strawberry.png",
         "codes": "strawberries_required",
         "max_quantity": 202,
         "overlay_font_size": 24
@@ -13,55 +13,55 @@
         "allow_disabled": false,
         "stages": [
             {
-                "img": "images/icons/7a.png",
+                "img": "images/icons/chapters/7a.png",
                 "name": "Goal - 7A",
                 "inherit_codes": false,
                 "codes": "goal_area"
             },
             {
-                "img": "images/icons/7b.png",
+                "img": "images/icons/chapters/7b.png",
                 "name": "Goal - 7B",
                 "inherit_codes": false,
                 "codes": "goal_area,goal_area_the_summit_b_side"
             },
             {
-                "img": "images/icons/7c.png",
+                "img": "images/icons/chapters/7c.png",
                 "name": "Goal - 7C",
                 "inherit_codes": false,
                 "codes": "goal_area,goal_area_the_summit_c_side"
             },
             {
-                "img": "images/icons/8a.png",
+                "img": "images/icons/chapters/8a.png",
                 "name": "Goal - 8A",
                 "inherit_codes": false,
                 "codes": "goal_area,goal_area_core_a_side"
             },
             {
-                "img": "images/icons/8b.png",
+                "img": "images/icons/chapters/8b.png",
                 "name": "Goal - 8B",
                 "inherit_codes": false,
                 "codes": "goal_area,goal_area_core_b_side"
             },
             {
-                "img": "images/icons/8c.png",
+                "img": "images/icons/chapters/8c.png",
                 "name": "Goal - 8C",
                 "inherit_codes": false,
                 "codes": "goal_area,goal_area_core_c_side"
             },
             {
-                "img": "images/icons/empty-space.png",
+                "img": "images/icons/chapters/empty-space.png",
                 "name": "Goal - Empty Space",
                 "inherit_codes": false,
                 "codes": "goal_area,goal_area_empty_space"
             },
             {
-                "img": "images/icons/9.png",
+                "img": "images/icons/chapters/9.png",
                 "name": "Goal - Farewell",
                 "inherit_codes": false,
                 "codes": "goal_area,goal_area_farewell"
             },
             {
-                "img": "images/icons/9-golden.png",
+                "img": "images/icons/chapters/9-golden.png",
                 "name": "Goal - Farewell Golden",
                 "inherit_codes": false,
                 "codes": "goal_area,goal_area_farewell_golden"
@@ -86,19 +86,19 @@
     {
         "name": "Include B-Sides",
         "type": "toggle",
-        "img": "images/icons/b-sides.png",
+        "img": "images/icons/chapters/b-sides.png",
         "codes": "include_b_sides"
     },
     {
         "name": "Include C-Sides",
         "type": "toggle",
-        "img": "images/icons/c-sides.png",
+        "img": "images/icons/chapters/c-sides.png",
         "codes": "include_c_sides"
     },
     {
         "name": "Include Core",
         "type": "toggle",
-        "img": "images/icons/8a.png",
+        "img": "images/icons/chapters/8a.png",
         "codes": "include_core"
     },
     {
@@ -107,17 +107,17 @@
         "allow_disabled": false,
         "stages": [
             {
-                "img": "images/icons/9-off.png",
+                "img": "images/icons/chapters/9-off.png",
                 "name": "Include Farewell - No",
                 "codes": "include_farewell_setting"
             },
             {
-                "img": "images/icons/empty-space.png",
+                "img": "images/icons/chapters/empty-space.png",
                 "name": "Include Farewell - Empty Space",
                 "codes": "include_farewell_setting,include_empty_space"
             },
             {
-                "img": "images/icons/9.png",
+                "img": "images/icons/chapters/9.png",
                 "name": "Include Farewell - Yes",
                 "codes": "include_farewell_setting,include_farewell"
             }

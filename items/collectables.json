@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Strawberry",
+        "type": "consumable",
+        "img": "images/icons/collectables/strawberry.png",
+        "codes": "strawberry",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Raspberry",
+        "type": "consumable",
+        "img": "images/icons/collectables/raspberry.png",
+        "codes": "raspberry",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Granny's House Keys",
+        "type": "toggle",
+        "img": "images/icons/keys_gems/key.png",
+        "codes": "grannyshousekeys"
+    }
+]
