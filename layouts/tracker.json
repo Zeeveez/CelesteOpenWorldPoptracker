@@ -23,20 +23,11 @@
                     "content": [
                         {
                             "type": "group",
-                            "header": "Collectables",
+                            "header": "Progress",
                             "dock": "left",
                             "content": {
                                 "type": "layout",
                                 "key": "tracker_collectables"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Goal",
-                            "dock": "left",
-                            "content": {
-                                "type": "layout",
-                                "key": "tracker_goal"
                             }
                         },
                         {
@@ -64,6 +55,24 @@
                             "content": {
                                 "type": "layout",
                                 "key": "tracker_checkpoints"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Goal",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "tracker_goal"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "*-sanity",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "tracker_sanity"
                             }
                         }
                     ]

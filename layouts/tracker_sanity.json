@@ -1,5 +1,5 @@
 {
-    "tracker_goal": {
+    "tracker_sanity": {
         "type": "array",
         "orientation": "horizontal",
         "content": [
@@ -10,13 +10,22 @@
                 "item_size": "4",
                 "rows": [
                     [
-                        "strawberries_required"
+                        "carsanity"
                     ],
                     [
-                        "goal_area"
+                        "roomsanity"
                     ],
                     [
-                        "lock_goal_area"
+                        "keysanity"
+                    ],
+                    [
+                        "gemsanity"
+                    ],
+                    [
+                        "binosanity"
+                    ],
+                    [
+                        "checkpointsanity"
                     ]
                 ]
             }
