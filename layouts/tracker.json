@@ -32,6 +32,15 @@
                         },
                         {
                             "type": "group",
+                            "header": "Goal",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "tracker_goal"
+                            }
+                        },
+                        {
+                            "type": "group",
                             "header": "Items (By Introduction)",
                             "dock": "left",
                             "content": {

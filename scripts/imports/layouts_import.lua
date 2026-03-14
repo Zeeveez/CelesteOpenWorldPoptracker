@@ -1,5 +1,6 @@
 Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/tracker_collectables.json")
+Tracker:AddLayouts("layouts/tracker_goal.json")
 Tracker:AddLayouts("layouts/tracker_unlocks.json")
 Tracker:AddLayouts("layouts/tracker_keys_gems.json")
 Tracker:AddLayouts("layouts/tracker_checkpoints.json")

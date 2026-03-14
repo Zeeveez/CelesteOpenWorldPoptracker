@@ -71,7 +71,7 @@
     {
         "name": "Lock Goal Area",
         "type": "toggle",
-        "img": "images/icons/key.png",
+        "img": "images/icons/locked_door.png",
         "codes": "lock_goal_area"
     },
     {
@@ -171,112 +171,112 @@
     {
         "name": "Death Link (and Amnesty)",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/death_link_amnesty.png",
         "codes": "death_link_amnesty",
         "max_quantity": 30,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
 
     {
         "name": "Trap Link",
         "type": "toggle",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/trap_link.png",
         "codes": "trap_link"
     },
     {
         "name": "Bald Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/baldtrap.png",
         "codes": "baldtrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
     {
         "name": "Literature Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/literaturetrap.png",
         "codes": "literaturetrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
     {
         "name": "Stun Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/stuntrap.png",
         "codes": "stuntrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
     {
         "name": "Invisible Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/invisibletrap.png",
         "codes": "invisibletrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
     {
         "name": "Fast Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/fasttrap.png",
         "codes": "fasttrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
     {
         "name": "Slow Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/slowtrap.png",
         "codes": "slowtrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
     {
         "name": "Ice Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/icetrap.png",
         "codes": "icetrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
     {
         "name": "Reverse Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/reversetrap.png",
         "codes": "reversetrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
     {
         "name": "Screen Flip Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/screenfliptrap.png",
         "codes": "screenfliptrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
     {
         "name": "Laughter Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/laughtertrap.png",
         "codes": "laughtertrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
     {
         "name": "Hiccup Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/hiccuptrap.png",
         "codes": "hiccuptrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     },
     {
         "name": "Zoom Trap",
         "type": "consumable",
-        "img": "images/icons/strawberry.png",
+        "img": "images/icons/death_trap_link/zoomtrap.png",
         "codes": "zoomtrap",
         "max_quantity": 4,
-        "overlay_font_size": 24
+        "overlay_font_size": 16
     }
 ]
