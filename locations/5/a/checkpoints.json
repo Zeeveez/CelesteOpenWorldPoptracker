@@ -13,12 +13,14 @@
                 "map": "5_a_1",
                 "x": 34,
                 "y": 973,
+                "size": 68,
                 "shape": "diamond"
             },
             {
                 "map": "5_a_1_b-00",
                 "x": 50,
                 "y": 93,
+                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -37,12 +39,14 @@
                 "map": "5_a_2",
                 "x": 137,
                 "y": 142,
+                "size": 68,
                 "shape": "diamond"
             },
             {
                 "map": "5_a_2_c-00",
                 "x": 159,
                 "y": 45,
+                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -61,12 +65,14 @@
                 "map": "5_a_3",
                 "x": 1295,
                 "y": 1205,
+                "size": 38,
                 "shape": "diamond"
             },
             {
                 "map": "5_a_3_d-00",
                 "x": 159,
                 "y": 469,
+                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -85,12 +91,14 @@
                 "map": "5_a_4",
                 "x": 94,
                 "y": 119,
+                "size": 68,
                 "shape": "diamond"
             },
             {
                 "map": "5_a_4_e-00",
                 "x": 159,
                 "y": 97,
+                "size": 25,
                 "shape": "diamond"
             }
         ]

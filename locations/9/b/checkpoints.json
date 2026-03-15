@@ -17,12 +17,14 @@
                 "map": "9_b_1",
                 "x": 16,
                 "y": 353,
+                "size": 55,
                 "shape": "diamond"
             },
             {
                 "map": "9_b_1_a-00",
                 "x": 16,
                 "y": 121,
+                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -45,12 +47,14 @@
                 "map": "9_b_2",
                 "x": 42,
                 "y": 372,
+                "size": 68,
                 "shape": "diamond"
             },
             {
                 "map": "9_b_2_b-00",
                 "x": 50,
                 "y": 128,
+                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -73,12 +77,14 @@
                 "map": "9_b_3",
                 "x": 41,
                 "y": 2873,
+                "size": 68,
                 "shape": "diamond"
             },
             {
                 "map": "9_b_3_c-01",
                 "x": 54,
                 "y": 525,
+                "size": 25,
                 "shape": "diamond"
             }
         ]

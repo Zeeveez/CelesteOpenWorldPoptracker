@@ -16,12 +16,14 @@
                 "map": "4_a_0",
                 "x": 3445,
                 "y": 197,
+                "size": 68,
                 "shape": "trapezoid"
             },
             {
                 "map": "4_a_0_a-11",
                 "x": 751,
                 "y": 103,
+                "size": 25,
                 "shape": "trapezoid"
             }
         ]
@@ -43,12 +45,14 @@
                 "map": "4_a_1",
                 "x": 1063,
                 "y": 855,
+                "size": 35,
                 "shape": "trapezoid"
             },
             {
                 "map": "4_a_1_b-02",
                 "x": 23,
                 "y": 207,
+                "size": 25,
                 "shape": "trapezoid"
             }
         ]
@@ -70,12 +74,14 @@
                 "map": "4_a_3",
                 "x": 260,
                 "y": 601,
+                "size": 68,
                 "shape": "trapezoid"
             },
             {
                 "map": "4_a_3_d-00b",
                 "x": 471,
                 "y": 327,
+                "size": 25,
                 "shape": "trapezoid"
             }
         ]

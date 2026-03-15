@@ -24,6 +24,7 @@ TYPE_SETS = (
 )
 
 MAX_MAP_DIMENSION = 4096
+MAP_MARKER_ZOOM_THRESHOLD = 1500
 SUMMARY_CHAPTER_OFFSET = 135
 SUMMARY_CHECKPOINT_SIZE = 10
 SUMMARY_CHECKPOINT_THICKNESS = 2
@@ -190,7 +191,6 @@ def make_location_obj(row):
     else:
         room_x = int(room['x'])
         room_y = int(room['y'])
-    room_marker_offset = 10 if row['Type'] == 'room' else 0
 
     obj = {
         'name': row['Name'],
@@ -265,28 +265,38 @@ def make_location_obj(row):
     checkpoint_map_size = MAP_SIZES[checkpoint_map]
     largest_checkpoint_map_dim = max(map(int, [checkpoint_map_size["Width"], checkpoint_map_size["Height"]]))
     checkpoint_map_scale_factor = 1 if largest_checkpoint_map_dim < MAX_MAP_DIMENSION else MAX_MAP_DIMENSION / largest_checkpoint_map_dim
+    largest_checkpoint_map_dim_post_scale = largest_checkpoint_map_dim * checkpoint_map_scale_factor
     room_map = f'{row['Chapter']}_{row['Side']}_{row['Checkpoint']}_{row['Room']}'
     room_map_size = MAP_SIZES[room_map]
     largest_room_map_dim = max(map(int, [room_map_size["Width"], room_map_size["Height"]]))
     room_map_scale_factor = 1 if largest_room_map_dim < MAX_MAP_DIMENSION else MAX_MAP_DIMENSION / largest_room_map_dim
+    largest_room_map_dim_post_scale = largest_room_map_dim * room_map_scale_factor
 
+    checkpoint_map_zoom_factor = 1 if largest_checkpoint_map_dim_post_scale < MAP_MARKER_ZOOM_THRESHOLD else largest_checkpoint_map_dim_post_scale / MAP_MARKER_ZOOM_THRESHOLD
+    room_map_zoom_factor = 1 if largest_room_map_dim_post_scale < MAP_MARKER_ZOOM_THRESHOLD else largest_room_map_dim_post_scale / MAP_MARKER_ZOOM_THRESHOLD
+
+    marker_size = 20 if row['Type'] == 'room' else 25
+    marker_offset = marker_size / 2 if row['Type'] == 'room' else 0
+    checkpoint_room_marker_offset = marker_offset * checkpoint_map_zoom_factor
+    room_room_marker_offset = marker_offset * room_map_zoom_factor
     obj['map_locations'] = [
         {
             'map': checkpoint_map,
-            'x': int((int(row['x']) + room_marker_offset + room_x) * checkpoint_map_scale_factor),
-            'y': int((int(row['y']) + room_marker_offset + room_y) * checkpoint_map_scale_factor)
+            'x': int((int(row['x']) + checkpoint_room_marker_offset + room_x) * checkpoint_map_scale_factor),
+            'y': int((int(row['y']) + checkpoint_room_marker_offset + room_y) * checkpoint_map_scale_factor),
+            'size': int(marker_size * checkpoint_map_zoom_factor)
         },
         {
             'map': room_map,
-            'x': int((int(row['x']) + room_marker_offset) * room_map_scale_factor),
-            'y': int((int(row['y']) + room_marker_offset) * room_map_scale_factor)
+            'x': int((int(row['x']) + room_room_marker_offset) * room_map_scale_factor),
+            'y': int((int(row['y']) + room_room_marker_offset) * room_map_scale_factor),
+            'size': int(marker_size * room_map_zoom_factor)
         }
     ]
 
     for i in range(len(obj['map_locations'])):
         if row['Type'] == 'room':
             obj['map_locations'][i]['shape'] = 'diamond'
-            obj['map_locations'][i]['size'] = 20
         if row['Type'] == 'checkpoint':
             obj['map_locations'][i]['shape'] = 'diamond'
         if row['Type'] == 'car':

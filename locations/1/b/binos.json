@@ -16,12 +16,14 @@
                 "map": "1_b_0",
                 "x": 1095,
                 "y": 215,
+                "size": 25,
                 "shape": "trapezoid"
             },
             {
                 "map": "1_b_0_03",
                 "x": 23,
                 "y": 215,
+                "size": 25,
                 "shape": "trapezoid"
             }
         ]
@@ -43,12 +45,14 @@
                 "map": "1_b_2",
                 "x": 663,
                 "y": 1311,
+                "size": 38,
                 "shape": "trapezoid"
             },
             {
                 "map": "1_b_2_09",
                 "x": 23,
                 "y": 327,
+                "size": 25,
                 "shape": "trapezoid"
             }
         ]

@@ -16,12 +16,14 @@
                 "map": "6_c_0",
                 "x": 1207,
                 "y": 807,
+                "size": 45,
                 "shape": "trapezoid"
             },
             {
                 "map": "6_c_0_02",
                 "x": 263,
                 "y": 135,
+                "size": 29,
                 "shape": "trapezoid"
             }
         ]
@@ -43,12 +45,14 @@
                 "map": "6_c_0",
                 "x": 1551,
                 "y": 1287,
+                "size": 45,
                 "shape": "trapezoid"
             },
             {
                 "map": "6_c_0_02",
                 "x": 607,
                 "y": 615,
+                "size": 29,
                 "shape": "trapezoid"
             }
         ]

@@ -13,12 +13,14 @@
                 "map": "7_a_1",
                 "x": 171,
                 "y": 2509,
+                "size": 54,
                 "shape": "diamond"
             },
             {
                 "map": "7_a_1_b-00",
                 "x": 171,
                 "y": 197,
+                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -37,12 +39,14 @@
                 "map": "7_a_2",
                 "x": 118,
                 "y": 2619,
+                "size": 68,
                 "shape": "diamond"
             },
             {
                 "map": "7_a_2_c-00",
                 "x": 127,
                 "y": 132,
+                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -61,12 +65,14 @@
                 "map": "7_a_3",
                 "x": 130,
                 "y": 977,
+                "size": 68,
                 "shape": "diamond"
             },
             {
                 "map": "7_a_3_d-00",
                 "x": 159,
                 "y": 149,
+                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -85,12 +91,14 @@
                 "map": "7_a_4",
                 "x": 567,
                 "y": 1855,
+                "size": 68,
                 "shape": "diamond"
             },
             {
                 "map": "7_a_4_e-00b",
                 "x": 146,
                 "y": 149,
+                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -109,12 +117,14 @@
                 "map": "7_a_5",
                 "x": 303,
                 "y": 1332,
+                "size": 68,
                 "shape": "diamond"
             },
             {
                 "map": "7_a_5_f-00",
                 "x": 131,
                 "y": 173,
+                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -133,12 +143,14 @@
                 "map": "7_a_6",
                 "x": 199,
                 "y": 4084,
+                "size": 68,
                 "shape": "diamond"
             },
             {
                 "map": "7_a_6_g-00",
                 "x": 451,
                 "y": 1805,
+                "size": 30,
                 "shape": "diamond"
             }
         ]

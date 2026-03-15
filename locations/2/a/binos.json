@@ -16,12 +16,14 @@
                 "map": "2_a_0",
                 "x": 1919,
                 "y": 1078,
+                "size": 32,
                 "shape": "trapezoid"
             },
             {
                 "map": "2_a_0_d3",
                 "x": 279,
                 "y": 94,
+                "size": 25,
                 "shape": "trapezoid"
             }
         ]
