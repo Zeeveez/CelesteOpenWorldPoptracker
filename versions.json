@@ -1,6 +1,53 @@
 {
     "versions": [
         {
+            "package_version": "1.2.2",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.2.zip",
+            "sha256": "51F0AFEB4AEDB4215ACC4E2C04E6BD2BA51E7BF3CA8308DB68E9CD0433CE48EA",
+            "changelog": [
+                "Update auto-tabbing to support !alias",
+                "More consistently moved void to start of Unravelling",
+                "Added DTS OOL up to start of Singular",
+                "Added hints tab with dash sequence for Pointless Machines and Heavy and Frail",
+                "Added OOL connection from 6A 04_south to 04_east for OOL crystal heart and 05 access",
+                "Only enable FWG berry if goal == FWG",
+                "Update visibility rules for The Summit B/C, Core B/C, and Farewell for when there is a disconnect between includes and the goal",
+                "Move settings under settings button in top bar to reduce horizontal screen real estate requirement (goal and sanity settings are in both so they remain clearly visible, as is auto-tab)",
+                "Set max required strawberry count to 202",
+                "Corrected Epilogue access to only require strawberries and house keys (This doesn't matter in practice as you get the keys from your goal, but if for example keys are sent via admin, the tracker will now correctly show Epilogue as accessible)",
+                "Updated image for locked goal area",
+                "Added death and trap settings to settings pane for reference",
+                "Updated OOL from 7A b-03 east to b-03 north to be itemless",
+                "Apply scaling to locations based on map dimensions due to zoom not scaling location markers"
+            ]
+        },
+        {
+            "package_version": "1.2.1",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.1.zip",
+            "sha256": "6527D6094F5E230217CA97CE508FAA3D4622F79B1FADE7F3B049CF51DCC931B3",
+            "changelog": [
+                "Resized all map images to be <=4096x4096",
+                "Patch b-02 north door to close behind",
+                "OOL 2B-room 04 without dash refills",
+                "Fixed 5a-void map",
+                "Fixed location of Farewell - Level Clear"
+            ]
+        },
+        {
+            "package_version": "1.2.0",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.0.zip",
+            "sha256": "FC1689001AF78A00E2F9179DFC25CCF6AD161FC935E1445C0E5731E4001A7362",
+            "changelog": [
+                "Reset hint highlights on clear",
+                "Clean up 5A b-10 berry patch",
+                "Add OOL connection from 5B b-06_east to b-01_north with red boosters and key 2",
+                "Add checkpoint/screen split view",
+                "Reprocessed all images for size",
+                "Patch b-02 north door to close behind",
+                "OOL 2B-room 04 without dash refills"
+            ]
+        },
+        {
             "package_version": "1.1.4",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.1.4.zip",
             "sha256": "DA0E799F523B78E8B05B76DD40E51AB1B1ABAAAB12BA4BC085135F054D14EF70",
