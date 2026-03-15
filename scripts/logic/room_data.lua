@@ -8221,7 +8221,7 @@ location_access_logic = {
 		{ "The Summit A - Room b-02d_south", { {  } } },
 	},
 	["The Summit A - Room b-03_north"] = {
-		{ "The Summit A - Room b-03_east", { { 'trafficblocks', 'dashrefills' }, { 'custom', 'trafficblocks' } } },
+		{ "The Summit A - Room b-03_east", { { 'trafficblocks', 'dashrefills' }, { 'custom' } } },
 	},
 	["The Summit A - Room b-03"] = {
 		{ "The Summit A - Room b-03_west", { {  } } },
