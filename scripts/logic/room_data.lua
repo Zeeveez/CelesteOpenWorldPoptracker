@@ -3200,7 +3200,7 @@ location_access_logic = {
 		{ "Celestial Resort B - Room back_east", { {  } } },
 	},
 	["Celestial Resort B - Room 01_east"] = {
-		{ "Celestial Resort B - Room 01_west", { { 'dashrefills' } } },
+		{ "Celestial Resort B - Room 01_west", { { 'dashrefills' }, { 'custom' } } },
 	},
 	["Celestial Resort B - Room 01"] = {
 		{ "Celestial Resort B - Room 01_west", { {  } } },
