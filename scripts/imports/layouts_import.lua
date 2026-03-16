@@ -61,7 +61,7 @@ if Tracker.ActiveVariantUID == 'var_1_chapters' or Tracker.ActiveVariantUID == '
 	
 	Tracker:AddLayouts("layouts/10/10.json")
 	Tracker:AddLayouts("layouts/10/10_a.json")
-elseif Tracker.ActiveVariantUID == 'var_0_full' or  Tracker.ActiveVariantUID == 'var_3_full_vert' then
+elseif Tracker.ActiveVariantUID == 'var_0_full' then
 	Tracker:AddLayouts("layouts/0/0.json")
 	Tracker:AddLayouts("layouts/0/0_a.json")
 	Tracker:AddLayouts("layouts/0/0_a_0.json")
