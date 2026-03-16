@@ -54,6 +54,8 @@ Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"blue_cassette_b
 Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"pink_cassette_blocks",,1
 Old Site A - Room 0_south-east,Old Site A - Room 0_north-west,,,1
 Old Site A - Room d0_east,Old Site A - Room d0_west,,,1
+Old Site A - Room d0_north-west,Old Site A - Room d0_north-east,,,1
+Old Site A - Room d0_north-east,Old Site A - Room d0 Strawberry,,,1
 Old Site A - Room d7_west,Old Site A - Room d7_east,,,1
 Old Site A - Room d7_east,Old Site A - Room d7_west,,,1
 Old Site A - Room d8_west,Old Site A - Room d8_south-east,,,1

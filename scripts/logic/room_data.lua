@@ -1092,7 +1092,7 @@ location_access_logic = {
 	},
 	["Old Site A - Room d0_north-east"] = {
 		{ "Old Site A - Room d4_west", { {  } } },
-		{ "Old Site A - Room d0_north-west", { { 'dreamblocks' } } },
+		{ "Old Site A - Room d0_north-west", { { 'dreamblocks' }, { 'custom' } } },
 	},
 	["Old Site A - Room d6_west"] = {
 		{ "Old Site A - Room d1_south-west", { {  } } },
@@ -1407,6 +1407,7 @@ location_access_logic = {
 	},
 	["Old Site A - Room d0 Strawberry"] = {
 		{ "Old Site A - Room d0_north", { { 'dreamblocks' } } },
+		{ "Old Site A - Room d0_north-east", { { 'custom' } } },
 	},
 	["Old Site A - Room d7"] = {
 		{ "Old Site A - Room d7_west", { {  } } },
