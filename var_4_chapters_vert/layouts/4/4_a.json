@@ -1,0 +1,43 @@
+{
+    "4_a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "4_a_0"
+                    ]
+                }
+            },
+            {
+                "title": "Shrine",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "4_a_1"
+                    ]
+                }
+            },
+            {
+                "title": "Old Trail",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "4_a_2"
+                    ]
+                }
+            },
+            {
+                "title": "Cliff Face",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "4_a_3"
+                    ]
+                }
+            }
+        ]
+    }
+}

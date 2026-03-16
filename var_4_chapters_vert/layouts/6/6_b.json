@@ -1,0 +1,43 @@
+{
+    "6_b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_b_0"
+                    ]
+                }
+            },
+            {
+                "title": "Reflection",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_b_1"
+                    ]
+                }
+            },
+            {
+                "title": "Rock Bottom",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_b_2"
+                    ]
+                }
+            },
+            {
+                "title": "Reprieve",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "6_b_3"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "tracker_unlocks": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "3",
+                "rows": [
+                    [ "forsakencitya-icon", "springs", "trafficblocks", "dashrefills", "", "" ],
+                    [ "oldsitea-icon", "dreamblocks", "coins", "strawberryseeds", "", "" ],
+                    [ "celestialresorta-icon", "sinkingplatforms", "movingplatforms", "", "", "" ],
+                    [ "goldenridgea-icon", "blueclouds", "pinkclouds", "blueboosters", "moveblocks", "whiteblock" ],
+                    [ "mirrortemplea-icon", "swapblocks", "redboosters", "dashswitches", "seekers", "theocrystal" ],
+                    [ "reflectiona-icon", "feathers", "bumpers", "kevins", "badelineboosters", "" ],
+                    [ "thesummita-icon", "", "", "", "", "" ],
+                    [ "corea-icon", "fireandiceballs", "coreblocks", "coretoggles", "", "" ],
+                    [ "farewell-icon", "doubledashrefills", "pufferfish", "jellyfish", "breakerboxes", "bird" ]
+                ]
+            }
+        ]
+    }
+}

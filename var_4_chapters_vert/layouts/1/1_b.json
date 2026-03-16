@@ -1,0 +1,34 @@
+{
+    "1_b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_b_0"
+                    ]
+                }
+            },
+            {
+                "title": "Contraption",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_b_1"
+                    ]
+                }
+            },
+            {
+                "title": "Scrap Pit",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_b_2"
+                    ]
+                }
+            }
+        ]
+    }
+}

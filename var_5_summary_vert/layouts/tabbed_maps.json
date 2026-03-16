@@ -1,0 +1,25 @@
+{
+    "tabbed_maps": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Summary",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "summary"
+                    ]
+                }
+            },
+            {
+                "title": "Hints",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "supplementary"
+                    ]
+                }
+            }
+        ]
+    }
+}

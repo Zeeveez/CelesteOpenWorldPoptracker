@@ -1,0 +1,43 @@
+{
+    "9_b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_0"
+                    ]
+                }
+            },
+            {
+                "title": "Into the Core",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_1"
+                    ]
+                }
+            },
+            {
+                "title": "Burning or Freezing",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_2"
+                    ]
+                }
+            },
+            {
+                "title": "Heartbeat",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "9_b_3"
+                    ]
+                }
+            }
+        ]
+    }
+}

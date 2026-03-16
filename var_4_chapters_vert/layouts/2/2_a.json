@@ -1,0 +1,34 @@
+{
+    "2_a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_0"
+                    ]
+                }
+            },
+            {
+                "title": "Intervention",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_1"
+                    ]
+                }
+            },
+            {
+                "title": "Awake",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_a_2"
+                    ]
+                }
+            }
+        ]
+    }
+}

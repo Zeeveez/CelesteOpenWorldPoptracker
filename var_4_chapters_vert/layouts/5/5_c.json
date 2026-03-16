@@ -1,0 +1,16 @@
+{
+    "5_c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "5_c_0"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "2_b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_b_0"
+                    ]
+                }
+            },
+            {
+                "title": "Combination Lock",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_b_1"
+                    ]
+                }
+            },
+            {
+                "title": "Dream Altar",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "2_b_2"
+                    ]
+                }
+            }
+        ]
+    }
+}

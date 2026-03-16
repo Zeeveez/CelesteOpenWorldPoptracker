@@ -1,0 +1,16 @@
+{
+    "7_c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "7_c_0"
+                    ]
+                }
+            }
+        ]
+    }
+}

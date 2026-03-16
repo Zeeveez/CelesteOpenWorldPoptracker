@@ -12,7 +12,7 @@ Tracker:AddLayouts("layouts/broadcast.json")
 
 Tracker:AddLayouts("layouts/tabbed_maps.json")
 
-if Tracker.ActiveVariantUID == 'var_1_chapters' then
+if Tracker.ActiveVariantUID == 'var_1_chapters' or Tracker.ActiveVariantUID == 'var_4_chapters_vert' then
 	Tracker:AddLayouts("layouts/0/0.json")
 	Tracker:AddLayouts("layouts/0/0_a.json")
 
@@ -61,7 +61,7 @@ if Tracker.ActiveVariantUID == 'var_1_chapters' then
 	
 	Tracker:AddLayouts("layouts/10/10.json")
 	Tracker:AddLayouts("layouts/10/10_a.json")
-elseif Tracker.ActiveVariantUID == 'var_0_full' then
+elseif Tracker.ActiveVariantUID == 'var_0_full' or  Tracker.ActiveVariantUID == 'var_3_full_vert' then
 	Tracker:AddLayouts("layouts/0/0.json")
 	Tracker:AddLayouts("layouts/0/0_a.json")
 	Tracker:AddLayouts("layouts/0/0_a_0.json")
