@@ -926,7 +926,7 @@ location_access_logic = {
 		{ "Forsaken City C - Room 01_west", { {  } } },
 	},
 	["Forsaken City C - Room 02_goal"] = {
-		{ "Forsaken City C - Room 02_west", { { 'coins', 'trafficblocks' } } },
+		{ "Forsaken City C - Room 02_west", { { 'coins', 'trafficblocks' }, { 'custom', 'trafficblocks' } } },
 	},
 	["Forsaken City C - Room 02"] = {
 		{ "Forsaken City C - Room 02_west", { {  } } },

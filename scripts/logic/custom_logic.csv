@@ -52,6 +52,7 @@ Forsaken City B - Room 08b_west,Forsaken City B - Room 08b_east,"traffic_blocks"
 Forsaken City B - Room 09_west,Forsaken City B - Room 09_east,,,1
 Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"blue_cassette_blocks",,1
 Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"pink_cassette_blocks",,1
+Forsaken City C - Room 02_west,Forsaken City C - Room 02_goal,"traffic_blocks",,1
 Old Site A - Room 0_south-east,Old Site A - Room 0_north-west,,,1
 Old Site A - Room d0_east,Old Site A - Room d0_west,,,1
 Old Site A - Room d0_north-west,Old Site A - Room d0_north-east,,,1
