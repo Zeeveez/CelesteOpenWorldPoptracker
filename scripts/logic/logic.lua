@@ -1,6 +1,6 @@
 require("scripts/logic/room_data")
 
-function MeetsRequirements(possible_requirements, seen_rooms, ignore_clutter, include_custom)
+function MeetsRequirements(possible_requirements, seen_rooms, include_custom, finding_clutter)
     for _, item_code in ipairs(possible_requirements) do
         -- If doing a no-custom check and custom found, return false
         if item_code == 'custom' then
@@ -13,14 +13,20 @@ function MeetsRequirements(possible_requirements, seen_rooms, ignore_clutter, in
         -- Because of how free movement is in Huge Mess we can largely ignore clutter
         -- but we do have to at least check for access to a single piece to handle room-08x berry        
         if item_code == 'brownclutter' then
-            if ignore_clutter then goto continue end
-            return CanAccessLocation("Celestial Resort A - Brown Clutter", {}, true, include_custom)
+            if finding_clutter then return false end
+            if not CanAccessLocation("Celestial Resort A - Brown Clutter", {}, include_custom, true) then
+                return false
+            end
         elseif item_code == 'greenclutter' then
-            if ignore_clutter then goto continue end
-            return CanAccessLocation("Celestial Resort A - Green Clutter", {}, true, include_custom)
+            if finding_clutter then return false end
+            if not CanAccessLocation("Celestial Resort A - Green Clutter", {}, include_custom, true) then
+                return false
+            end
         elseif item_code == 'pinkclutter' then
-            if ignore_clutter then goto continue end
-            return CanAccessLocation("Celestial Resort A - Pink Clutter", {}, true, include_custom)
+            if finding_clutter then return false end
+            if not CanAccessLocation("Celestial Resort A - Pink Clutter", {}, include_custom, true) then
+                return false
+            end
 
         else
             local item_count = Tracker:ProviderCountForCode(item_code)
@@ -33,20 +39,20 @@ function MeetsRequirements(possible_requirements, seen_rooms, ignore_clutter, in
     return true
 end
 
-function MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, ignore_clutter, include_custom)
+function MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, include_custom, finding_clutter)
     if #list_of_possible_requirements == 0 then
         return true
     end
 
     for _, possible_requirements in ipairs(list_of_possible_requirements) do
-        if MeetsRequirements(possible_requirements, seen_rooms, ignore_clutter, include_custom) then
+        if MeetsRequirements(possible_requirements, seen_rooms, include_custom, finding_clutter) then
             return true
         end
     end
     return false
 end
 
-function CanAccessLocation(location_name, seen_rooms, ignore_clutter, include_custom)
+function CanAccessLocation(location_name, seen_rooms, include_custom, finding_clutter)
     local queue = {}
     table.insert(queue, location_name)
 
@@ -67,7 +73,7 @@ function CanAccessLocation(location_name, seen_rooms, ignore_clutter, include_cu
         for _, possible_room_requirements in ipairs(access_logic) do
             local previous_room = possible_room_requirements[1]
             local list_of_possible_requirements = possible_room_requirements[2]
-            if MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, ignore_clutter, include_custom) then
+            if MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, include_custom, finding_clutter) then
                 table.insert(queue, previous_room)
             end
         end
@@ -81,7 +87,7 @@ function CanAccess(location_name)
     if CanAccessLocation(location_name, {}, false, false) then
         return true -- In logic
     end
-    if CanAccessLocation(location_name, {}, false, true) then
+    if CanAccessLocation(location_name, {}, true, false) then
         return 5 -- Sequence break - Custom Logic
     end
     return false
