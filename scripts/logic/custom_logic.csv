@@ -264,6 +264,7 @@ Reflection A - Room boss-11_west,Reflection A - Room boss-11_east,,,1
 Reflection A - Room boss-12_west,Reflection A - Room boss-12_east,,,1
 Reflection A - Room boss-18_west,Reflection A - Room boss-18_east,"feathers",,1
 Reflection A - Room boss-19_west,Reflection A - Room boss-19_east,"feathers",,1
+Reflection A - Room after-01_bottom,Reflection A - Room after-01_goal,,,1
 Reflection B - Room a-03_west,Reflection B - Room a-03_east,"kevin_blocks,coins,feathers",,1
 Reflection B - Room c-00_west,Reflection B - Room c-00_east,,,1
 Reflection B - Room c-04_west,Reflection B - Room c-04_east,"dash_refills,feathers",,1

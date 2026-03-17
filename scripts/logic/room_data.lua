@@ -6967,7 +6967,7 @@ location_access_logic = {
 		{ "Reflection A - Room after-00_bottom", { {  } } },
 	},
 	["Reflection A - Room after-01_goal"] = {
-		{ "Reflection A - Room after-01_bottom", { { 'badelineboosters' } } },
+		{ "Reflection A - Room after-01_bottom", { { 'badelineboosters' }, { 'custom' } } },
 	},
 	["Reflection A - Room after-01"] = {
 		{ "Reflection A - Room after-01_bottom", { {  } } },
