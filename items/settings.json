@@ -81,6 +81,13 @@
         "initial_active_state": true,
         "codes": "auto_tab"
     },
+    {
+        "name": "Auto-Zoom",
+        "type": "toggle",
+        "img": "images/icons/auto-zoom.png",
+        "initial_active_state": true,
+        "codes": "auto_zoom"
+    },
 
 
     {
