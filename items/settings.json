@@ -133,7 +133,7 @@
     {
         "name": "Include Goldens",
         "type": "toggle",
-        "img": "images/icons/golden_strawberry.png",
+        "img": "images/icons/collectables/golden_strawberry.png",
         "codes": "include_goldens"
     },
 
