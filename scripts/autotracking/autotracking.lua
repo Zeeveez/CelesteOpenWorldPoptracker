@@ -12,16 +12,6 @@ SLOT_DATA = {}
 MANUAL_CHECKED = true
 ROOM_SEED = "default"
 
-if Highlight then
-    HIGHTLIGHT_LEVEL= {
-        [0] = Highlight.Unspecified,
-        [10] = Highlight.NoPriority,
-        [20] = Highlight.Avoid,
-        [30] = Highlight.Priority,
-        [40] = Highlight.None,
-    }
-end
-
 function dump_table(o, depth)
     if depth == nil then
         depth = 0
@@ -106,17 +96,15 @@ function onClear(slot_data)
     --SLOT_DATA = slot_data
     CUR_INDEX = -1
     -- reset locations
-    for _, location_array in pairs(LOCATION_MAPPING) do
-        for _, location in pairs(location_array) do
-            if location then
-                local location_obj = Tracker:FindObjectForCode(location)
-                if location_obj then
-                    location_obj.Highlight = Highlight.None
-                    if location:sub(1, 1) == "@" then
-                        location_obj.AvailableChestCount = location_obj.ChestCount
-                    else
-                        location_obj.Active = false
-                    end
+    for _, location in pairs(LOCATION_MAPPING) do
+        if location then
+            local location_obj = Tracker:FindObjectForCode(location)
+            if location_obj then
+                location_obj.Highlight = Highlight.None
+                if location:sub(1, 1) == "@" then
+                    location_obj.AvailableChestCount = location_obj.ChestCount
+                else
+                    location_obj.Active = false
                 end
             end
         end
@@ -260,42 +248,27 @@ end
 --called when a location gets cleared
 function onLocation(location_id, location_name)
     MANUAL_CHECKED = false
-    local location_array = LOCATION_MAPPING[location_id]
-    if not location_array or not location_array[1] then
+    local location = LOCATION_MAPPING[location_id]
+    if not location then
         print(string.format("onLocation: could not find location mapping for id %s", location_id))
         return
     end
 
-    for _, location in pairs(location_array) do
-        local location_obj = Tracker:FindObjectForCode(location)
-        -- print(location, location_obj)
-        if location_obj then
-            if location:sub(1, 1) == "@" then
-                location_obj.AvailableChestCount = location_obj.AvailableChestCount - 1
-            else
-                location_obj.Active = true
-            end
+    local location_obj = Tracker:FindObjectForCode(location)
+    -- print(location, location_obj)
+    if location_obj then
+        if location:sub(1, 1) == "@" then
+            location_obj.AvailableChestCount = location_obj.AvailableChestCount - 1
         else
-            print(string.format("onLocation: could not find location_object for code %s", location))
+            location_obj.Active = true
         end
+    else
+        print(string.format("onLocation: could not find location_object for code %s", location))
     end
     MANUAL_CHECKED = true
 end
 
 
-
---doc
---hint layout
--- {
---     ["receiving_player"] = 1,
---     ["class"] = Hint,
---     ["finding_player"] = 1,
---     ["location"] = 67361,
---     ["found"] = false,
---     ["item_flags"] = 2,
---     ["entrance"] = ,
---     ["item"] = 66062,
--- } 
 
 require("scripts/autotracking/autotabbing/autotabbing")
 require("scripts/autotracking/hints")

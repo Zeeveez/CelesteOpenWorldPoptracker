@@ -1,56 +1,71 @@
-function onHintNotify(key, value, old_value)
-    if key ~= HINTS_ID then
-        return
-    end
+-- AP World Hint Documentation:
+-- https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/network%20protocol.md#hint
 
+-- Hint layout:
+-- {
+--     ["receiving_player"] = 1,
+--     ["finding_player"] = 1,
+
+--     ["location"] = 67361,
+--     ["item"] = 66062,
+
+--     ["found"] = false,
+
+--     ["entrance"] = "",
+
+--     ["item_flags"] = 2,
+
+--     ["status"] = 0, -- Highlight.Unspecified (See below)
+-- } 
+
+if Highlight then
+    -- https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/network%20protocol.md#hintstatus
+    HIGHLIGHT_LEVEL = {
+        [0] = Highlight.Unspecified,
+        [10] = Highlight.NoPriority,
+        [20] = Highlight.Avoid,
+        [30] = Highlight.Priority,
+        [40] = Highlight.None, -- Found
+    }
+end
+
+function onHintNotify(key, value, old_value)
+    if key ~= HINTS_ID then return end
     if value ~= old_value then
-        Tracker.BulkUpdate = true
-        for _, hint in ipairs(value) do
-            if hint.finding_player == Archipelago.PlayerNumber then
-                if not hint.found then
-                    updateHints(hint.location, hint.status)
-                elseif hint.found then
-                    updateHints(hint.location, hint.status)
-                end
-            end
-        end
-        Tracker.BulkUpdate = false
+        processHints(value)
     end
 end
 
 function onHintNotifyLaunch(key, value)
-    if key ~= HINTS_ID then
-        return
-    end
+    if key ~= HINTS_ID then return end
+    processHints(value)
+end
 
+function processHints(hints)
     Tracker.BulkUpdate = true
-    for _, hint in ipairs(value) do
-        if hint.finding_player == Archipelago.PlayerNumber then
-            if not hint.found then
-                updateHints(hint.location, hint.status)
-            else if hint.found then
-                updateHints(hint.location, hint.status)
-            end end
-        end
+    for _, hint in ipairs(hints) do
+        processHint(hint)
     end
     Tracker.BulkUpdate = false
 end
 
-function updateHints(locationID, status)
-    if Highlight then
-        print(locationID, status)
-        local location_table = LOCATION_MAPPING[locationID]
-        for _, location in ipairs(location_table) do
-            if location:sub(1, 1) == "@" then
-                local obj = Tracker:FindObjectForCode(location)
+function processHint(hint)
+    if not Highlight then return end
+    if hint.finding_player ~= Archipelago.PlayerNumber then return end
 
-                if obj then
-                    obj.Highlight = HIGHTLIGHT_LEVEL[status]
-                else
-                    print(string.format("No object found for code: %s", location))
-                end
-            end
-        end
+    local location = LOCATION_MAPPING[hint.location]
+    if not location then return end
+    
+    local location_obj = Tracker:FindObjectForCode(location)
+    if not location_obj then
+        print(string.format("No object found for code: %s", location))
+        return
+    end
+
+    if hint.found then
+        location_obj.Highlight = Highlight.None
+    elseif hint.status
+        location_obj.Highlight = HIGHLIGHT_LEVEL[hint.status]
     end
 end
 
