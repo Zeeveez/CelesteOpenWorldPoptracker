@@ -64,7 +64,7 @@ function processHint(hint)
 
     if hint.found then
         location_obj.Highlight = Highlight.None
-    elseif hint.status
+    elseif hint.status then
         location_obj.Highlight = HIGHLIGHT_LEVEL[hint.status]
     end
 end
