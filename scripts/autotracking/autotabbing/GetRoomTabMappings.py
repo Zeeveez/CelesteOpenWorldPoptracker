@@ -67,11 +67,16 @@ with open('./scripts/autotracking/autotabbing/room_zooms.lua','w') as f:
         map_id = f'{row['Chapter']}_{row['Side']}_{row['Checkpoint']}'
 
         map_size = MAP_SIZES[map_id]
-        largest_map_dim = max(map(int, [map_size["Width"], map_size["Height"]]))
-        map_scale_factor = 1 if largest_map_dim < MAX_MAP_DIMENSION else MAX_MAP_DIMENSION / largest_map_dim
-
+        largest_original_map_dim = max(map(int, [map_size["Width"], map_size["Height"]]))
+        map_scale_factor = 1 if largest_original_map_dim < MAX_MAP_DIMENSION else MAX_MAP_DIMENSION / largest_original_map_dim
         cx = int((int(room_location['x']) + int(row['Width']) / 2) * map_scale_factor)
         cy = int((int(room_location['y']) + int(row['Height']) / 2) * map_scale_factor)
-        zoom = 3
+
+        largest_scaled_map_dim = "Width" if int(map_size['Width']) > int(map_size['Height']) else 'Height'
+        largest_room_map_dim = int(row[largest_scaled_map_dim])
+        largest_checkpoint_map_dim = int(map_size[largest_scaled_map_dim])
+        perc_all_screen = largest_room_map_dim / largest_checkpoint_map_dim
+        zoom = 1 / perc_all_screen / 1.5
+
         f.write(f'\t["{room_id}"] = {{ "{map_id}", "{cx},{cy}", "{zoom}" }},\n')
     f.write(f'}}')

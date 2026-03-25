@@ -15,9 +15,8 @@ function applyAutoZoom(value)
     map_id = instruction[1]
     centre = instruction[2]
     zoom = instruction[3]
-    Tracker:UiHint("Zoom "..map_id, "1")
     Tracker:UiHint("Pan "..map_id, centre)
-    --Tracker:UiHint("Zoom "..map_id, zoom)
+    Tracker:UiHint("Zoom "..map_id, zoom)
 end
 
 function onRoomNotify(key, value, old_value)
