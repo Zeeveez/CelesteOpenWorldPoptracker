@@ -212,15 +212,16 @@ Mirror Temple A - Room b-15_west,Mirror Temple A - Crystal Heart,,,1
 Mirror Temple A - Room c-01b_west,Mirror Temple A - Room c-01b_east,"swap_blocks",,1
 Mirror Temple A - Room c-01b_west,Mirror Temple A - Room c-01b_east,"red_boosters",,1
 Mirror Temple A - Room c-01c_west,Mirror Temple A - Room c-01c_east,"red_boosters",,1
-Mirror Temple A - Room d-09_east,Mirror Temple A - Room d-09_west,,,1
-Mirror Temple A - Room d-05_north,Mirror Temple A - Room d-05_west,,,1
-Mirror Temple A - Room d-06_south-west,Mirror Temple A - Room d-06_north-west,,,1
 Mirror Temple A - Room d-02_east,Mirror Temple A - Room d-02_west,,,1
 Mirror Temple A - Room d-03_east,Mirror Temple A - Room d-03_west,"coins",,1
 Mirror Temple A - Room d-04_east,Mirror Temple A - Room d-04_west,,,1
+Mirror Temple A - Room d-04_south-east,Mirror Temple A - Room d-04 Strawberry 2,,,1
+Mirror Temple A - Room d-05_north,Mirror Temple A - Room d-05_west,,,1
+Mirror Temple A - Room d-06_south-west,Mirror Temple A - Room d-06_north-west,,,1
+Mirror Temple A - Room d-09_east,Mirror Temple A - Room d-09_west,,,1
+Mirror Temple A - Room d-10_west,Mirror Temple A - Room d-10_east,,,1
 Mirror Temple A - Room d-15_center,Mirror Temple A - Room d-15 Strawberry 2,"dash_refills",,1
 Mirror Temple A - Room d-19_east,Mirror Temple A - Room d-19_west,,,1
-Mirror Temple A - Room d-10_west,Mirror Temple A - Room d-10_east,,,1
 Mirror Temple A - Room e-01_west,Mirror Temple A - Room e-01_east,"theo_crystal",,1
 Mirror Temple A - Room e-06_west,Mirror Temple A - Room e-06_east,"theo_crystal,dash_switches",,1
 Mirror Temple A - Room e-05_west,Mirror Temple A - Room e-05_east,"theo_crystal,coins",,1

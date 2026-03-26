@@ -5587,7 +5587,7 @@ location_access_logic = {
 		{ "Mirror Temple A - Room d-04_south-west-right", { {  } } },
 	},
 	["Mirror Temple A - Room d-04 Strawberry 2"] = {
-		{ "Mirror Temple A - Room d-04_south-east", { { 'redboosters', 'swapblocks' } } },
+		{ "Mirror Temple A - Room d-04_south-east", { { 'redboosters', 'swapblocks' }, { 'custom' } } },
 	},
 	["Mirror Temple A - Room d-04 Strawberry 1"] = {
 		{ "Mirror Temple A - Room d-04_north", { {  } } },
