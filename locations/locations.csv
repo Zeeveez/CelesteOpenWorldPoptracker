@@ -1128,6 +1128,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 8,a,0,outside,Epilogue - Room outside,room,640,88
 8,a,0,bridge,Epilogue - Room bridge,room,960,88
 8,a,0,secret,Epilogue - Room secret,room,1968,88
+8,a,0,outside,Epilogue - Level Clear,clear,177,101
 9,a,1,a-00,Core A - Golden Strawberry,golden,47,127
 9,a,1,b-06,Core A - Room b-06 Strawberry,berry,120,64
 9,a,2,c-00b,Core A - Room c-00b Strawberry,berry,344,48

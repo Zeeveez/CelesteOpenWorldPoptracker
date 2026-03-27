@@ -116,6 +116,7 @@ Tracker:AddLocations("locations/7/c/other.json")
 Tracker:AddLocations("locations/7/c/rooms.json")
 Tracker:AddLocations("locations/7/summary.json")
 
+Tracker:AddLocations("locations/8/a/other.json")
 Tracker:AddLocations("locations/8/a/rooms.json")
 Tracker:AddLocations("locations/8/summary.json")
 

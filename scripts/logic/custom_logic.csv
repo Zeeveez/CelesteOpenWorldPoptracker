@@ -1,4 +1,5 @@
 from,to,access,notes,custom
+Epilogue - Room outside,Epilogue - Level Clear,,"Go Mode",0
 Farewell - Crystal Heart?,Farewell - Room f-door_west,"include_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two",0
 Farewell - Level Clear,Farewell - Room end-golden_bottom,"trafficblocks,dashrefills,doubledashrefills,dreamblocks,swapblocks,moveblocks,blueboosters,springs,feathers,coins,redboosters,kevins,coreblocks,fireandiceballs,badelineboosters,bird,breakerboxes,pufferfish,jellyfish,pinkcassetteblocks,bluecassetteblocks,yellowcassetteblocks,greencassetteblocks,farewell-powersourcekey1,farewell-powersourcekey2,farewell-powersourcekey3,farewell-powersourcekey4,farewell-powersourcekey5","Source puts golden room as Farewell C, hack in connection between the two",0
 Forsaken City A - Room 2_west,Forsaken City A - Room 2 Strawberry,,,1
