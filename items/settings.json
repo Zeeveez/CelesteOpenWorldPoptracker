@@ -153,13 +153,13 @@
     {
         "name": "Keysanity",
         "type": "toggle",
-        "img": "images/icons/keys_gems/key.png",
+        "img": "images/icons/items/keys_gems/key.png",
         "codes": "keysanity"
     },
     {
         "name": "Gemsanity",
         "type": "toggle",
-        "img": "images/icons/keys_gems/gem-1.png",
+        "img": "images/icons/items/keys_gems/gem-1.png",
         "codes": "gemsanity"
     },
     {

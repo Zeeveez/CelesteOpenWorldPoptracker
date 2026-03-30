@@ -15,7 +15,7 @@
                     [ "dashrefills", "strawberryseeds", "", "blueboosters", "dashswitches", "kevins", "", "coretoggles", "jellyfish", "yellowcassetteblocks" ],
                     [ "", "", "", "moveblocks", "seekers", "badelineboosters", "", "", "breakerboxes", "greencassetteblocks" ],
                     [ "", "", "", "whiteblock", "theocrystal", "", "", "", "bird", "" ],
-                    [ "", "", "", "", "torch", "", "", "", "", "" ]
+                    [ "", "", "", "", "torches", "", "", "", "", "" ]
                 ]
             }
         ]
