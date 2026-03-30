@@ -194,23 +194,3 @@ ITEM_MAPPING = {
 	[CELESTE_BASE + GEM_BASE + 0x04] = { "thesummita-gem5", "toggle" },
 	[CELESTE_BASE + GEM_BASE + 0x05] = { "thesummita-gem6", "toggle" },
 }
-
--- AP slot data contains "active_traps" key mapping string IDs (minus the base) to:
--- 0: none
--- 1: low
--- 2: medium
--- 4: high
-TRAP_STRING_MAPPING = {
-	["32"] = { "baldtrap", "consumable" },
-	["33"] = { "literaturetrap", "consumable" },
-	["34"] = { "stuntrap", "consumable" },
-	["35"] = { "invisibletrap", "consumable" },
-	["36"] = { "fasttrap", "consumable" },
-	["38"] = { "slowtrap", "consumable" },
-	["39"] = { "icetrap", "consumable" },
-	["40"] = { "reversetrap", "consumable" },
-	["41"] = { "screenfliptrap", "consumable" },
-	["42"] = { "laughtertrap", "consumable" },
-	["43"] = { "hiccuptrap", "consumable" },
-	["44"] = { "zoomtrap", "consumable" },
-}
