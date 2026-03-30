@@ -72,8 +72,9 @@ function preOnClear()
             table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
         end
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
-        Archipelago:SetNotify({HINTS_ID})
-        Archipelago:Get({HINTS_ID})
+        STATUS_ID = "_read_client_status_"..TEAM_NUMBER.."_"..PLAYER_ID
+        Archipelago:SetNotify({HINTS_ID, STATUS_ID})
+        Archipelago:Get({HINTS_ID, STATUS_ID})
     end
 
 
@@ -148,11 +149,12 @@ function onClear(slot_data)
         for _, value in pairs(Archipelago.CheckedLocations) do
             table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
         end
-
+        
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
+        STATUS_ID = "_read_client_status_"..TEAM_NUMBER.."_"..PLAYER_ID
         ROOMS_ID_1_0 = "Celeste_Open_Room_"..PLAYER_ALIAS
         ROOMS_ID_1_1 = "Celeste_Open_Room_"..TEAM_NUMBER.."_"..PLAYER_ALIAS
-        Archipelago:SetNotify({HINTS_ID, ROOMS_ID_1_0, ROOMS_ID_1_1})
+        Archipelago:SetNotify({HINTS_ID, STATUS_ID, ROOMS_ID_1_0, ROOMS_ID_1_1})
         Archipelago:Get({HINTS_ID})
     end
     ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)
@@ -265,4 +267,5 @@ end
 
 
 require("scripts/autotracking/autotabbing/autotabbing")
+require("scripts/autotracking/autostatus/autostatus")
 require("scripts/autotracking/hints")
