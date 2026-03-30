@@ -76,7 +76,7 @@ with open('./scripts/autotracking/autotabbing/room_zooms.lua','w') as f:
         largest_room_map_dim = int(row[largest_scaled_map_dim])
         largest_checkpoint_map_dim = int(map_size[largest_scaled_map_dim])
         perc_all_screen = largest_room_map_dim / largest_checkpoint_map_dim
-        zoom = 1 / perc_all_screen / 1.5
+        zoom = 1 / perc_all_screen / 2.5
 
         f.write(f'\t["{room_id}"] = {{ "{map_id}", "{cx},{cy}", "{zoom}" }},\n')
     f.write(f'}}')
