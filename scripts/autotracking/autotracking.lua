@@ -1,7 +1,7 @@
 
 require("scripts/autotracking/ap_mapping/item_mapping")
 require("scripts/autotracking/ap_mapping/location_mapping")
-require("scripts/autotracking/settingsfill")
+require("scripts/autotracking/slot_data_fill/slot_data_fill")
 
 CUR_INDEX = -1
 --SLOT_DATA = nil
@@ -159,42 +159,7 @@ function onClear(slot_data)
     end
     ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)
     
-    LoadConsumableSetting(slot_data, 'strawberries_required', 'strawberries_required')
-    LoadGoalAreaSetting(slot_data)
-    LoadToggleSetting(slot_data, 'lock_goal_area', 'lock_goal_area')
-
-    LoadToggleSetting(slot_data, 'include_b_sides', 'include_b_sides')
-    LoadToggleSetting(slot_data, 'include_c_sides', 'include_c_sides')
-    LoadToggleSetting(slot_data, 'include_core', 'include_core')
-    LoadToggleSetting(slot_data, 'include_c_sides', 'include_c_sides')
-    LoadProgressiveSetting(slot_data, 'include_farewell', 'include_farewell_setting')
-    LoadToggleSetting(slot_data, 'include_goldens', 'include_goldens')
-        
-    LoadToggleSetting(slot_data, 'carsanity', 'carsanity')
-    LoadToggleSetting(slot_data, 'roomsanity', 'roomsanity')
-    LoadToggleSetting(slot_data, 'keysanity', 'keysanity')
-    LoadToggleSetting(slot_data, 'gemsanity', 'gemsanity')
-    LoadToggleSetting(slot_data, 'binosanity', 'binosanity')
-    LoadToggleSetting(slot_data, 'checkpointsanity', 'checkpointsanity')
-    
-    LoadDeathLinkSetting(slot_data, 'death_link', 'death_link_amnesty', 'death_link_amnesty')
-
-    LoadToggleSetting(slot_data, 'trap_link', 'trap_link')
-    if slot_data['active_traps'] then
-        LoadConsumableSetting(slot_data['active_traps'], '32', 'baldtrap')
-        LoadConsumableSetting(slot_data['active_traps'], '33', 'literaturetrap')
-        LoadConsumableSetting(slot_data['active_traps'], '34', 'stuntrap')
-        LoadConsumableSetting(slot_data['active_traps'], '35', 'invisibletrap')
-        LoadConsumableSetting(slot_data['active_traps'], '36', 'fasttrap')
-        LoadConsumableSetting(slot_data['active_traps'], '37', 'slowtrap')
-        LoadConsumableSetting(slot_data['active_traps'], '38', 'icetrap')
-        -- No trap with ID 39
-        LoadConsumableSetting(slot_data['active_traps'], '40', 'reversetrap')
-        LoadConsumableSetting(slot_data['active_traps'], '41', 'screenfliptrap')
-        LoadConsumableSetting(slot_data['active_traps'], '42', 'laughtertrap')
-        LoadConsumableSetting(slot_data['active_traps'], '43', 'hiccuptrap')
-        LoadConsumableSetting(slot_data['active_traps'], '44', 'zoomtrap')
-    end
+    FillSlotData(slot_data)
 
     MANUAL_CHECKED = true
 end
