@@ -1,6 +1,30 @@
 {
     "versions": [
         {
+            "package_version": "1.2.3",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.3.zip",
+            "sha256": "A5501ECB5F4BF29F62510207F1AA69B171FD9475C43FA41847E16014E92D69F4",
+            "changelog": [
+                "Issue#007: OOL Itemless 2a d0 berry and d4 access",
+                "Issue#008: OOL Itemless 7a a02_west -> a02_east",
+                "Issue#009: OOL Itemless 3b 01_west -> 01_east itemless/with springs but no dash refills",
+                "Issue#010: Coinless 1c 02_west -> 02_goal",
+                "Issue#011: Coinless 7c 02_west -> 02_east",
+                "Issue#012: OOL 7a a-04b Strawberry 1 with springs only",
+                "Issue#013: OOL Itemless 1b 02b_west -> 02b_east",
+                "Issue#014: OOL Itemless 7a f-01 Strawberry",
+                "Issue#016: OOL Itemless 5a d-04 Strawberry 2",
+                "Fix torches not appearing in the item tracker",
+                "Added new layouts with vertical item trackers",
+                "Added auto-zoom/pan (zoom requires PopTracker 0.35.0 or higher, pan is supported in 0.34.0 but will reset current zoom)",
+                "Fixed clutter logic for Huge Mess (previously showing key accessible with just coins despite no OOL rule for doing 11-d with no dash refills)",
+                "Added OOL for itemless 6A - after-01_bottom -> after-01_goal",
+                "Restore Include Golden manual toggle",
+                "Code cleanup",
+                "Added level clear indicator for Epilogue as a 'GO MODE' indicator"
+            ]
+        },
+        {
             "package_version": "1.2.2",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.2.zip",
             "sha256": "51F0AFEB4AEDB4215ACC4E2C04E6BD2BA51E7BF3CA8308DB68E9CD0433CE48EA",
