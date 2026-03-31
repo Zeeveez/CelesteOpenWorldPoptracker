@@ -1,8 +1,8 @@
 # PopTracker for Celeste (Open World)
 
-A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://github.com/ArchipelagoMW/Archipelago)
+A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://github.com/ArchipelagoMW/Archipelago)
 
-![Image of Celeste (Open World) PopTracker - Summary Only](/images/docs/var_2_summary.png)
+![Image of Celeste (Open World) PopTracker - Summary Only (Horizontal)](/images/docs/var_2_summary.png)
 
 
 ## Requirements
@@ -12,7 +12,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 
 ## Installation and Usage
 
-1. Download the required release from the GitHub Releases
+1. Download the required release from the [GitHub Releases](https://github.com/Zeeveez/CelesteOpenWorldPoptracker/releases)
 1. Move the downloaded `.zip` file into your PopTracker packs
 1. Launch PopTracker and select the Celeste (Open World) - Archipelago Tracker, choosing the variant you prefer
 1. To connect to an Archipelago host for auto-tracking, click on the AP button in the top bar and enter the host details
