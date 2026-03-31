@@ -2,10 +2,11 @@
 
 A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://github.com/ArchipelagoMW/Archipelago)
 
-![Image of Celeste (Open World) PopTracker - Summary Only](/images/docs/poptracker.png)
+![Image of Celeste (Open World) PopTracker - Summary Only](/images/docs/var_2_summary.png)
+
 ## Requirements
 
-[PopTracker](https://github.com/black-sliver/PopTracker)
+- [PopTracker](https://github.com/black-sliver/PopTracker) (latest version recommended)
 
 
 ## Installation and Usage
@@ -19,27 +20,24 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 ## Features
 
 - Archipelago autotracking support
-- Three different views of varying detail:
-	- Full Tracker
-		- Has tabs to view the summary, each chapter, and each room within each checkpoint
-	- Summary and Chapters
-		- Shows the summary tab and each chapter tab, as well as a tab for each checkpoint
-	- Summary Only
-		- Shows only the summary page
-- Broadcast view for items display:
+- Five different views of varying detail/layout and broadcast view:
 
-![Image of Celeste (Open World) PopTracker Broadcast Window](/images/docs/broadcast.png)
+|Details|Horizontal|Vertical|
+|-------|----------|--------|
+|Summary Only|![Image of Celeste (Open World) PopTracker - Summary Only (Horizontal)](/images/docs/var_2_summary.png)|![Image of Celeste (Open World) PopTracker - Summary Only (Vertical)](/images/docs/var_5_summary_vert_.png)|
+|Summary and Checkpoints|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Horizontal)](/images/docs/var_1_chapters.png)|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Vertical)](/images/docs/var_4_chapters_vert_.png)|
+|Full Tracker|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Horizontal)](/images/docs/var_0_full.png)|N/A|
+|Broadcast View|![Image of Celeste (Open World) PopTracker Broadcast Window (Horizontal)](/images/docs/broadcast.png)|![Image of Celeste (Open World) PopTracker Broadcast Window (Vertical)](/images/docs/broadcast_vert.png)|
 
-- Toggleable auto-tabbing
+- Settings view to see more information from the slot, including trap settings:
+
+![Image of Celeste (Open World) PopTracker Settings Window](/images/docs/settings.png)
+
+- Toggleable auto-tabbing and auto-pan/zoom
+	- Auto-Pan/Zoom in PopTracker v0.34 will reset zoom to default during pan, upgrade to v0.35 or later for full functionality
 - Access Logic:
 	- Randomiser Logic (Shown in green)
 	- Custom Logic/Sequence Breaks (Shown in yellow; See Notes)
-
-
-### Full Tracker View
-
-![Image of Celeste (Open World) PopTracker - Full Tracker](/images/docs/poptracker_room.png)
-
 
 ### Tracker Key
 
@@ -57,7 +55,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 	- end-golden is so far away in 9A-9 that it had to be adjusted to appear much closer than it actually is for the map to be useful
 - Pack size/map scale/load times:
 	- There are a lot of images as part of the pack, and some of them are quite large; load times for the non-Summary Only variants can be a few seconds
-	- The main maps are shown by checkpoint so you have context of what's around you; on larger maps some icons may be hard to see
+	- The main maps are shown by checkpoint so you have context of what's around you
 - Custom logic/sequence breaks:
 	- The sequence breaks implemented into the tracker is a non-exhaustive list and does not capture everything from the min-items worksheet
 
