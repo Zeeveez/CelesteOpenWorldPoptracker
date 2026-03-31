@@ -4,6 +4,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 
 ![Image of Celeste (Open World) PopTracker - Summary Only](/images/docs/var_2_summary.png)
 
+
 ## Requirements
 
 - [PopTracker](https://github.com/black-sliver/PopTracker) (latest version recommended)
@@ -21,23 +22,37 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 
 - Archipelago autotracking support
 - Five different views of varying detail/layout and broadcast view:
-
-|Details|Horizontal|Vertical|
-|-------|----------|--------|
-|Summary Only|![Image of Celeste (Open World) PopTracker - Summary Only (Horizontal)](/images/docs/var_2_summary.png)|![Image of Celeste (Open World) PopTracker - Summary Only (Vertical)](/images/docs/var_5_summary_vert_.png)|
-|Summary and Checkpoints|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Horizontal)](/images/docs/var_1_chapters.png)|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Vertical)](/images/docs/var_4_chapters_vert_.png)|
-|Full Tracker|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Horizontal)](/images/docs/var_0_full.png)|N/A|
-|Broadcast View|![Image of Celeste (Open World) PopTracker Broadcast Window (Horizontal)](/images/docs/broadcast.png)|![Image of Celeste (Open World) PopTracker Broadcast Window (Vertical)](/images/docs/broadcast_vert.png)|
-
-- Settings view to see more information from the slot, including trap settings:
-
-![Image of Celeste (Open World) PopTracker Settings Window](/images/docs/settings.png)
-
+	- Summary Only (Horizontal and Vertical layouts)
+	- Summary and Checkpoints (Horizontal and Vertical layouts)
+	- Full Tracker (Summary, Checkpoints, and Rooms) (Horizontal layout only)
+- Settings view to see more information from the slot, including trap settings
+- Broadcast view containing only interactable items
 - Toggleable auto-tabbing and auto-pan/zoom
 	- Auto-Pan/Zoom in PopTracker v0.34 will reset zoom to default during pan, upgrade to v0.35 or later for full functionality
 - Access Logic:
 	- Randomiser Logic (Shown in green)
 	- Custom Logic/Sequence Breaks (Shown in yellow; See Notes)
+
+
+## Tracker Views
+
+### Main Tracker
+
+|Details|Horizontal|Vertical|
+|-------|----------|--------|
+|Summary Only|![Image of Celeste (Open World) PopTracker - Summary Only (Horizontal)](/images/docs/var_2_summary.png)|![Image of Celeste (Open World) PopTracker - Summary Only (Vertical)](/images/docs/var_5_summary_vert.png)|
+|Summary and Checkpoints|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Horizontal)](/images/docs/var_1_chapters.png)|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Vertical)](/images/docs/var_4_chapters_vert.png)|
+|Full Tracker|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Horizontal)](/images/docs/var_0_full.png)|N/A|
+
+### Broadcast
+
+|Horizontal|Vertical|
+|----------|--------|
+|![Image of Celeste (Open World) PopTracker Broadcast Window (Horizontal)](/images/docs/broadcast.png)|![Image of Celeste (Open World) PopTracker Broadcast Window (Vertical)](/images/docs/broadcast_vert.png)|
+
+### Settings
+
+![Image of Celeste (Open World) PopTracker Settings Window](/images/docs/settings.png)
 
 ### Tracker Key
 
