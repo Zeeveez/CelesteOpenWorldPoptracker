@@ -85,7 +85,7 @@
         "name": "Auto-Zoom",
         "type": "toggle",
         "img": "images/icons/auto-zoom.png",
-        "initial_active_state": true,
+        "initial_active_state": false,
         "codes": "auto_zoom"
     },
 
