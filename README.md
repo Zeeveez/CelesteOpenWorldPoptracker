@@ -39,7 +39,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 ### Main Tracker
 
 |Details|Horizontal|Vertical|
-|-------|----------|--------|
+|-------|:----------:|:--------:|
 |Summary Only|![Image of Celeste (Open World) PopTracker - Summary Only (Horizontal)](/images/docs/var_2_summary.png)|![Image of Celeste (Open World) PopTracker - Summary Only (Vertical)](/images/docs/var_5_summary_vert.png)|
 |Summary and Checkpoints|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Horizontal)](/images/docs/var_1_chapters.png)|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Vertical)](/images/docs/var_4_chapters_vert.png)|
 |Full Tracker|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Horizontal)](/images/docs/var_0_full.png)|N/A|
@@ -47,7 +47,7 @@ A PopTracker pack for [the Celeste (Open World) Archipelago Randomizer](https://
 ### Broadcast
 
 |Horizontal|Vertical|
-|----------|--------|
+|:----------:|:--------:|
 |![Image of Celeste (Open World) PopTracker Broadcast Window (Horizontal)](/images/docs/broadcast.png)|![Image of Celeste (Open World) PopTracker Broadcast Window (Vertical)](/images/docs/broadcast_vert.png)|
 
 ### Settings
