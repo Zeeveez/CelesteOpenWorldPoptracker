@@ -73,7 +73,6 @@ function processHint(hint)
         return
     end
 
-    print(dump_table(hint))
     if hint.found then
         location_obj.Highlight = Highlight.None
     elseif hint.status == 0 then

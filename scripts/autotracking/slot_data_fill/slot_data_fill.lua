@@ -29,8 +29,6 @@ function FillSlotData(slot_data)
         end
         ::continue::
     end
-
-    LoadDeathLinkSetting(slot_data, 'death_link', 'death_link_amnesty', 'death_link_amnesty')
 end
 
 function GetSlotDataValue(slot_data, path)
