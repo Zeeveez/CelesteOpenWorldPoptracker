@@ -17,7 +17,8 @@
                     [ "reflectiona-icon", "feathers", "bumpers", "kevins", "badelineboosters", "", "" ],
                     [ "thesummita-icon", "", "", "", "", "", "" ],
                     [ "corea-icon", "fireandiceballs", "coreblocks", "coretoggles", "", "", "" ],
-                    [ "farewell-icon", "doubledashrefills", "pufferfish", "jellyfish", "breakerboxes", "bird", "" ]
+                    [ "farewell-icon", "doubledashrefills", "pufferfish", "jellyfish", "breakerboxes", "bird", "" ],
+                    [ "", "pinkcassetteblocks", "bluecassetteblocks", "yellowcassetteblocks", "greencassetteblocks", "", "" ]
                 ]
             }
         ]
