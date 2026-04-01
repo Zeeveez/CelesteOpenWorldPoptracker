@@ -10162,14 +10162,14 @@ location_access_logic = {
 	},
 	["Farewell - Room a-01_east"] = {
 		{ "Farewell - Room a-02_west", { {  } } },
-		{ "Farewell - Room a-01_west", { { 'doubledashrefills', 'dashrefills' } } },
+		{ "Farewell - Room a-01_west", { { 'doubledashrefills', 'dashrefills' }, { 'custom', 'dashrefills' } } },
 	},
 	["Farewell - Room a-03_west"] = {
 		{ "Farewell - Room a-02_east", { {  } } },
 	},
 	["Farewell - Room a-02_east"] = {
 		{ "Farewell - Room a-03_west", { {  } } },
-		{ "Farewell - Room a-02_west", { { 'doubledashrefills', 'swapblocks' } } },
+		{ "Farewell - Room a-02_west", { { 'doubledashrefills', 'swapblocks' }, { 'custom' } } },
 	},
 	["Farewell - Room a-04_west"] = {
 		{ "Farewell - Room a-03_east", { {  } } },
@@ -10183,14 +10183,14 @@ location_access_logic = {
 	},
 	["Farewell - Room a-04_east"] = {
 		{ "Farewell - Room a-05_west", { {  } } },
-		{ "Farewell - Room a-04_west", { { 'doubledashrefills', 'springs' } } },
+		{ "Farewell - Room a-04_west", { { 'doubledashrefills', 'springs' }, { 'custom' } } },
 	},
 	["Farewell - Room b-00_west"] = {
 		{ "Farewell - Room a-05_east", { {  } } },
 	},
 	["Farewell - Room a-05_east"] = {
 		{ "Farewell - Room b-00_west", { {  } } },
-		{ "Farewell - Room a-05_west", { { 'coins', 'springs' } } },
+		{ "Farewell - Room a-05_west", { { 'coins', 'springs' }, { 'custom', 'springs' } } },
 	},
 	["Farewell - Room b-01_west"] = {
 		{ "Farewell - Room b-00_east", { {  } } },
