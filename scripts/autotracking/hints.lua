@@ -21,11 +21,22 @@
 if Highlight then
     -- https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/network%20protocol.md#hintstatus
     HIGHLIGHT_LEVEL = {
+        -- Status Based
         [0] = Highlight.Unspecified,
         [10] = Highlight.NoPriority,
         [20] = Highlight.Avoid,
         [30] = Highlight.Priority,
         [40] = Highlight.None, -- Found
+
+        -- Item Flag Based
+        [100] = Highlight.Unspecified, -- No flags
+        [101] = Highlight.Priority, -- 0b001 - Advancement
+        [102] = Highlight.NoPriority, -- 0b010 - Useful
+        [103] = Highlight.Priority, -- 0b011 - Advancement + Useful
+        [104] = Highlight.Avoid, -- 0b100 - Trap
+        [105] = Highlight.Priority, -- 0b101 - Advancement + Trap
+        [106] = Highlight.NoPriority, -- 0b110 - Useful + Trap
+        [107] = Highlight.Priority, -- 0b111 - Advancement + Useful + Trap
     }
 end
 
@@ -62,9 +73,12 @@ function processHint(hint)
         return
     end
 
+    print(dump_table(hint))
     if hint.found then
         location_obj.Highlight = Highlight.None
-    elseif hint.status then
+    elseif hint.status == 0 then
+        location_obj.Highlight = HIGHLIGHT_LEVEL[100 + hint.item_flags]
+    else
         location_obj.Highlight = HIGHLIGHT_LEVEL[hint.status]
     end
 end
