@@ -175,6 +175,7 @@ Golden Ridge B - Room b-03_west,Golden Ridge B - Room b-03_east,"coins,blue_boos
 Golden Ridge B - Room c-03_bottom,Golden Ridge B - Room c-03_top,"move_blocks",,1
 Golden Ridge B - Room d-02_west,Golden Ridge B - Room d-02_east,"blue_boosters,coins",,1
 Golden Ridge C - Room 02_west,Golden Ridge C - Room 02_goal,"blue_boosters",,1
+Mirror Temple A - Room a-00_west,Mirror Temple A - Room a-00_east,"swap_blocks,dash_switches",,1
 Mirror Temple A - Room a-02_west,Mirror Temple A - Room a-02 Strawberry,,,1
 Mirror Temple A - Room a-04_east,Mirror Temple A - Room a-04 Strawberry,,,1
 Mirror Temple A - Room a-05_center,Mirror Temple A - Room a-05_south-west,,,1

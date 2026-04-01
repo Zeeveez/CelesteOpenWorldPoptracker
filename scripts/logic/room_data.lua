@@ -5097,7 +5097,7 @@ location_access_logic = {
 		{ "Mirror Temple A - Room a-00c_east", { {  } } },
 	},
 	["Mirror Temple A - Room a-00_east"] = {
-		{ "Mirror Temple A - Room a-00_west", { { 'redboosters', 'dashswitches' } } },
+		{ "Mirror Temple A - Room a-00_west", { { 'redboosters', 'dashswitches' }, { 'custom', 'swapblocks', 'dashswitches' } } },
 	},
 	["Mirror Temple A - Room a-00"] = {
 		{ "Mirror Temple A - Room a-00_west", { {  } } },
