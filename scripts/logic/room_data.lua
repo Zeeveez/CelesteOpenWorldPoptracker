@@ -6691,7 +6691,7 @@ location_access_logic = {
 		{ "Reflection A - Room 04e_east", { {  } } },
 	},
 	["Reflection A - Cassette"] = {
-		{ "Reflection A - Room 04e_east", { { 'pinkcassetteblocks', 'bluecassetteblocks', 'dashrefills' }, { 'custom', 'pinkcassetteblocks', 'dashrefills' } } },
+		{ "Reflection A - Room 04e_east", { { 'pinkcassetteblocks', 'bluecassetteblocks', 'dashrefills' }, { 'custom', 'pinkcassetteblocks', 'dashrefills' }, { 'custom', 'INREVIEW', 'kevins' } } },
 	},
 	["Reflection A - Room 05"] = {
 		{ "Reflection A - Room 05_west", { {  } } },
@@ -6707,14 +6707,14 @@ location_access_logic = {
 		{ "Reflection A - Room 07_north-east", { {  } } },
 	},
 	["Reflection A - Room 08a_east"] = {
-		{ "Reflection A - Room 08a_west", { { 'kevins', 'dashrefills' }, { 'custom', 'kevinblocks' }, { 'custom', 'dashrefills' } } },
+		{ "Reflection A - Room 08a_west", { { 'kevins', 'dashrefills' }, { 'custom', 'kevins' }, { 'custom', 'dashrefills' } } },
 	},
 	["Reflection A - Room 08a"] = {
 		{ "Reflection A - Room 08a_west", { {  } } },
 		{ "Reflection A - Room 08a_east", { {  } } },
 	},
 	["Reflection A - Room 08b_east"] = {
-		{ "Reflection A - Room 08b_west", { { 'kevins', 'feathers' }, { 'custom', 'kevinblocks' }, { 'custom', 'feathers' } } },
+		{ "Reflection A - Room 08b_west", { { 'kevins', 'feathers' }, { 'custom', 'kevins' }, { 'custom', 'feathers' } } },
 	},
 	["Reflection A - Room 08b"] = {
 		{ "Reflection A - Room 08b_west", { {  } } },
@@ -6754,7 +6754,7 @@ location_access_logic = {
 		{ "Reflection A - Room 12a_east", { {  } } },
 	},
 	["Reflection A - Room 12b_east"] = {
-		{ "Reflection A - Room 12b_west", { { 'kevins', 'bumpers' }, { 'custom', 'kevinblocks' }, { 'custom', 'bumpers' } } },
+		{ "Reflection A - Room 12b_west", { { 'kevins', 'bumpers' }, { 'custom', 'kevins' }, { 'custom', 'bumpers' } } },
 	},
 	["Reflection A - Room 12b"] = {
 		{ "Reflection A - Room 12b_west", { {  } } },
@@ -7003,7 +7003,7 @@ location_access_logic = {
 	},
 	["Reflection B - Room a-03_east"] = {
 		{ "Reflection B - Room a-04_west", { {  } } },
-		{ "Reflection B - Room a-03_west", { { 'kevins', 'coins' }, { 'custom', 'kevinblocks', 'coins', 'feathers' } } },
+		{ "Reflection B - Room a-03_west", { { 'kevins', 'coins' }, { 'custom', 'kevins', 'coins', 'feathers' } } },
 	},
 	["Reflection B - Room a-05_west"] = {
 		{ "Reflection B - Room a-04_east", { {  } } },
@@ -8388,7 +8388,7 @@ location_access_logic = {
 		{ "The Summit A - Room c-09_top", { {  } } },
 	},
 	["The Summit A - Room d-00_top"] = {
-		{ "The Summit A - Room d-00_bottom", { { 'dashrefills' } } },
+		{ "The Summit A - Room d-00_bottom", { { 'dashrefills' }, { 'custom' } } },
 	},
 	["The Summit A - Room d-00"] = {
 		{ "The Summit A - Room d-00_bottom", { {  } } },
