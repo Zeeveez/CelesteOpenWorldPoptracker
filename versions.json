@@ -1,6 +1,19 @@
 {
     "versions": [
         {
+            "package_version": "1.2.4",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.4.zip",
+            "sha256": "0B08B973ABFF5641E7F591BD782D0E0F01A012D6846EE37CDC412B4715F01FD5",
+            "changelog": [
+                "Fix cassette blocks missing from item tracker in vertical layouts",
+                "OOL 5A a-00 with swap blocks and dash switches",
+                "Issue#017: OOL Itemless 7A d-00_bottom -> d-00_top",
+                "Corrections to kevin OOL item references",
+                "Farewell OOL additions",
+                "Update hints to use item_flags where no status available"
+            ]
+        },
+        {
             "package_version": "1.2.3",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.3.zip",
             "sha256": "A5501ECB5F4BF29F62510207F1AA69B171FD9475C43FA41847E16014E92D69F4",
