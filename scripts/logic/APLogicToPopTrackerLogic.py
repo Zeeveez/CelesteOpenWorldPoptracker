@@ -134,11 +134,56 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
         else:
             add_connection(logic, row['from'], row['to'], [['custom']] if int(row['custom']) else [])
 
+
+KEY_LOCATION_MAPPING = {
+    "celestialresorta-frontdoorkey": "Celestial Resort A - Front Door Key",
+	"celestialresorta-hallwaykey1": "Celestial Resort A - Hallway Key 1",
+	"celestialresorta-hallwaykey2": "Celestial Resort A - Hallway Key 2",
+	"celestialresorta-hugemesskey": "Celestial Resort A - Huge Mess Key",
+	"celestialresorta-presidentialsuitekey": "Celestial Resort A - Presidential Suite Key",
+	"mirrortemplea-entrancekey": "Mirror Temple A - Entrance Key",
+	"mirrortemplea-depthskey": "Mirror Temple A - Depths Key",
+	"mirrortemplea-searchkey1": "Mirror Temple A - Search Key 1",
+	"mirrortemplea-searchkey2": "Mirror Temple A - Search Key 2",
+	"mirrortemplea-searchkey3": "Mirror Temple A - Search Key 3",
+	"mirrortempleb-centralchamberkey1": "Mirror Temple B - Central Chamber Key 1",
+	"mirrortempleb-centralchamberkey2": "Mirror Temple B - Central Chamber Key 2",
+	"thesummita-2500mkey": "The Summit A - 2500 M Key",
+	"farewell-powersourcekey1": "Farewell - Power Source Key 1",
+	"farewell-powersourcekey2": "Farewell - Power Source Key 2",
+	"farewell-powersourcekey3": "Farewell - Power Source Key 3",
+	"farewell-powersourcekey4": "Farewell - Power Source Key 4",
+	"farewell-powersourcekey5": "Farewell - Power Source Key 5"
+}
+
+def expand_key_rules(rule, keysanity = False):
+    expanded_rules = [[]]
+    for rule_part in rule:
+        if False:#rule_part in KEY_LOCATION_MAPPING:
+            for j in range(len(expanded_rules)):
+                expanded_rules += [expanded_rules[j] + ['@' + KEY_LOCATION_MAPPING[rule_part]]]
+                if not expanded_rules[-1][0] == '!keysanity':
+                    expanded_rules[-1] = ['!keysanity'] + expanded_rules[-1]
+                expanded_rules[j] += [rule_part]
+        else:
+            for expanded_rule in expanded_rules:
+                expanded_rule += [rule_part]
+    return expanded_rules
+
 with open('./scripts/logic/room_data.lua','w') as f:
     f.write('location_access_logic = {\n')
     for room in logic:
         f.write(f'\t["{room}"] = {{\n')
         for source in logic[room]:
-            f.write(f'\t\t{{ "{source}", {str(logic[room][source]).replace('[','{ ').replace(']',' }')} }},\n')
+            output_rules = []
+            for rule in logic[room][source]: 
+                expanded_rules = expand_key_rules(rule)
+                output_rules += expanded_rules
+            f.write(f'\t\t{{ "{source}", {str(output_rules)
+                .replace('[','{ ')
+                .replace(']',' }')
+                .replace('{ { \'', '{\n\t\t\t{ \'')
+                .replace('}, {', '},\n\t\t\t{')
+                .replace('\' } }', '\' }\n\t\t}')} }},\n')
         f.write(f'\t}},\n')
     f.write(f'}}')

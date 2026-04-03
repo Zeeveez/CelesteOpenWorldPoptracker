@@ -27,13 +27,13 @@ function MeetsRequirements(possible_requirements, seen_rooms, include_custom, fi
             if not CanAccessLocation("Celestial Resort A - Pink Clutter", {}, include_custom, true) then
                 return false
             end
-
         else
             local dont_want = item_code:sub(1, 1) == '!'
             local search_code = item_code
             if dont_want then
                 search_code = search_code:sub(2)
             end
+
             local item_count = Tracker:ProviderCountForCode(search_code)
             
             local has = item_count ~= 0
