@@ -27,8 +27,7 @@
                         "x": 1150,
                         "y": 285,
                         "size": 10,
-                        "shape": "diamond",
-                        "border_thickness": 2
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [

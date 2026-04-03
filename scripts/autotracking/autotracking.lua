@@ -233,4 +233,4 @@ end
 
 require("scripts/autotracking/autotabbing/autotabbing")
 require("scripts/autotracking/autostatus/autostatus")
-require("scripts/autotracking/hints")
+require("scripts/autotracking/hints/hints")

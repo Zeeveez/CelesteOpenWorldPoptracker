@@ -27,7 +27,6 @@ MAX_MAP_DIMENSION = 4096
 MAP_MARKER_ZOOM_THRESHOLD = 1500
 SUMMARY_CHAPTER_OFFSET = 135
 SUMMARY_CHECKPOINT_SIZE = 10
-SUMMARY_CHECKPOINT_THICKNESS = 2
 SUMMARY_CHECKPOINT_GAP = 15
 SUMMARY_TYPE_SETS = (
     {
@@ -40,9 +39,9 @@ SUMMARY_TYPE_SETS = (
     {
         'name': 'Golden Strawberries',
         'types': ['golden'],
-        'a': { 'x': 70, 'y': 155, 'size': 10, 'border_thickness': 2 },
-        'b': { 'x': 70, 'y': 370, 'size': 10, 'border_thickness': 2 },
-        'c': { 'x': 70, 'y': 470, 'size': 10, 'border_thickness': 2 },
+        'a': { 'x': 70, 'y': 155, 'size': 10 },
+        'b': { 'x': 70, 'y': 370, 'size': 10 },
+        'c': { 'x': 70, 'y': 470, 'size': 10 },
     },
     {
         'name': 'Cassette',
@@ -339,7 +338,6 @@ def make_summary_obj(data, _chapter, _side, type_set):
         }],
         'sections': []
     }
-    if 'border_thickness' in type_set[_side]: obj['map_locations'][0]['border_thickness'] = type_set[_side]['border_thickness']
 
     for _type in type_set['types']:
         for row in data:
@@ -369,7 +367,6 @@ def make_summary_checkpoint_obj(data, _chapter, _side, type_set):
             'sections': []
         }
         if 'shape' in type_set[_side]: obj['map_locations'][0]['shape'] = type_set[_side]['shape']
-        obj['map_locations'][0]['border_thickness'] = SUMMARY_CHECKPOINT_THICKNESS
 
         for _type in type_set['types']:
             for row in data:

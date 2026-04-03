@@ -2,25 +2,25 @@
     {
         "name": "8_a_0_outside",
         "location_size": 25,
-        "location_border_thickness": 4,
+        "location_border_thickness": 2,
         "img": "images/maps/8/a/outside.png"
     },
     {
         "name": "8_a_0_inside",
         "location_size": 25,
-        "location_border_thickness": 4,
+        "location_border_thickness": 2,
         "img": "images/maps/8/a/inside.png"
     },
     {
         "name": "8_a_0_bridge",
         "location_size": 25,
-        "location_border_thickness": 4,
+        "location_border_thickness": 2,
         "img": "images/maps/8/a/bridge.png"
     },
     {
         "name": "8_a_0_secret",
         "location_size": 25,
-        "location_border_thickness": 4,
+        "location_border_thickness": 2,
         "img": "images/maps/8/a/secret.png"
     }
 ]

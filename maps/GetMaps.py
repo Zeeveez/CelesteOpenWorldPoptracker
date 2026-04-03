@@ -18,7 +18,7 @@ for i in range(raw_data['chapterCount']):
             chapter_maps.append({
                 'name': f'{i}_{side['id']}_{k}',
                 'location_size': 25,
-                'location_border_thickness': 4,
+                'location_border_thickness': 2,
                 'img': f'images/maps/{i}/{i}_{side['id']}_{k}.png'
             })
             checkpoint = side['checkpoints'][k]
@@ -26,7 +26,7 @@ for i in range(raw_data['chapterCount']):
                 chapter_room_maps.append({
                     'name': f'{i}_{side['id']}_{k}_{room}',
                     'location_size': 25,
-                    'location_border_thickness': 4,
+                    'location_border_thickness': 2,
                     'img': f'images/maps/{i}/{side['id']}/{room}.png'
                 })
     with open(f'./maps/{i}.json','w') as f:

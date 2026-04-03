@@ -60,8 +60,7 @@
                         "map": "summary",
                         "x": 1285,
                         "y": 155,
-                        "size": 10,
-                        "border_thickness": 2
+                        "size": 10
                     }
                 ],
                 "sections": [
@@ -78,8 +77,7 @@
                         "map": "summary",
                         "x": 1285,
                         "y": 370,
-                        "size": 10,
-                        "border_thickness": 2
+                        "size": 10
                     }
                 ],
                 "sections": [
@@ -96,8 +94,7 @@
                         "map": "summary",
                         "x": 1285,
                         "y": 470,
-                        "size": 10,
-                        "border_thickness": 2
+                        "size": 10
                     }
                 ],
                 "sections": [
@@ -164,8 +161,7 @@
                         "map": "summary",
                         "x": 1278,
                         "y": 270,
-                        "size": 10,
-                        "border_thickness": 2
+                        "size": 10
                     }
                 ],
                 "sections": [
@@ -182,8 +178,7 @@
                         "map": "summary",
                         "x": 1293,
                         "y": 270,
-                        "size": 10,
-                        "border_thickness": 2
+                        "size": 10
                     }
                 ],
                 "sections": [
@@ -208,8 +203,7 @@
                         "map": "summary",
                         "x": 1308,
                         "y": 270,
-                        "size": 10,
-                        "border_thickness": 2
+                        "size": 10
                     }
                 ],
                 "sections": [
@@ -227,8 +221,7 @@
                         "x": 1263,
                         "y": 285,
                         "size": 10,
-                        "shape": "diamond",
-                        "border_thickness": 2
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
@@ -258,8 +251,7 @@
                         "x": 1278,
                         "y": 285,
                         "size": 10,
-                        "shape": "diamond",
-                        "border_thickness": 2
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
@@ -329,8 +321,7 @@
                         "x": 1293,
                         "y": 285,
                         "size": 10,
-                        "shape": "diamond",
-                        "border_thickness": 2
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
@@ -376,8 +367,7 @@
                         "x": 1308,
                         "y": 285,
                         "size": 10,
-                        "shape": "diamond",
-                        "border_thickness": 2
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
@@ -455,8 +445,7 @@
                         "x": 1263,
                         "y": 430,
                         "size": 10,
-                        "shape": "diamond",
-                        "border_thickness": 2
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
@@ -478,8 +467,7 @@
                         "x": 1278,
                         "y": 430,
                         "size": 10,
-                        "shape": "diamond",
-                        "border_thickness": 2
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
@@ -521,8 +509,7 @@
                         "x": 1293,
                         "y": 430,
                         "size": 10,
-                        "shape": "diamond",
-                        "border_thickness": 2
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
@@ -564,8 +551,7 @@
                         "x": 1308,
                         "y": 430,
                         "size": 10,
-                        "shape": "diamond",
-                        "border_thickness": 2
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
@@ -619,8 +605,7 @@
                         "x": 1285,
                         "y": 530,
                         "size": 10,
-                        "shape": "diamond",
-                        "border_thickness": 2
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
@@ -650,8 +635,7 @@
                         "x": 1263,
                         "y": 300,
                         "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
+                        "shape": "trapezoid"
                     }
                 ],
                 "sections": [
@@ -669,8 +653,7 @@
                         "x": 1285,
                         "y": 545,
                         "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
+                        "shape": "trapezoid"
                     }
                 ],
                 "sections": [

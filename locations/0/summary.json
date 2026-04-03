@@ -27,8 +27,7 @@
                         "x": 70,
                         "y": 285,
                         "size": 10,
-                        "shape": "diamond",
-                        "border_thickness": 2
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
@@ -66,8 +65,7 @@
                         "x": 70,
                         "y": 300,
                         "size": 10,
-                        "shape": "trapezoid",
-                        "border_thickness": 2
+                        "shape": "trapezoid"
                     }
                 ],
                 "sections": [
