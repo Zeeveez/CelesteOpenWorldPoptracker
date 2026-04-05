@@ -10828,7 +10828,8 @@ location_access_logic = {
 	["The Summit B - Room d-02_east"] = {
 		{ "The Summit B - Room d-03_bottom", { {  } } },
 		{ "The Summit B - Room d-02_west", {
-			{ 'springs', 'movingplatforms', 'coins' }
+			{ 'springs', 'movingplatforms', 'coins' },
+			{ 'custom', 'springs', 'coins' }
 		} },
 	},
 	["The Summit B - Room e-00_west"] = {

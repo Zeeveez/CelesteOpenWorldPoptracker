@@ -359,6 +359,7 @@ The Summit A - Room g-01_c16,The Summit A - Room g-01_top,"springs,coins,dash_re
 The Summit A - Room g-02_bottom,The Summit A - Room g-02_top,,,1
 The Summit B - Room d-00_west,The Summit B - Room d-00_east,,,1
 The Summit B - Room d-01_west,The Summit B - Room d-01_east,,,1
+The Summit B - Room d-02_west,The Summit B - Room d-02_east,"springs,coins",,1
 The Summit B - Room e-00_west,The Summit B - Room e-00_east,"blue_clouds",,1
 The Summit B - Room e-03_bottom,The Summit B - Room e-03_top,"blue_clouds,coins,badeline_boosters",,1
 The Summit B - Room f-00_west,The Summit B - Room f-00_east,"swap_blocks",,1
