@@ -8019,7 +8019,7 @@ location_access_logic = {
 		{ "Reflection A - Room 04e_east", {
 			{ 'pinkcassetteblocks', 'bluecassetteblocks', 'dashrefills' },
 			{ 'custom', 'pinkcassetteblocks', 'dashrefills' },
-			{ 'custom', 'INREVIEW', 'kevins' }
+			{ 'custom', 'kevins' }
 		} },
 	},
 	["Reflection A - Room 05"] = {
