@@ -13142,7 +13142,8 @@ location_access_logic = {
 	["Farewell - Room h-00_east"] = {
 		{ "Farewell - Room h-01_west", { {  } } },
 		{ "Farewell - Room h-00_west", {
-			{ 'dashrefills', 'swapblocks' }
+			{ 'dashrefills', 'swapblocks' },
+			{ 'custom', 'swapblocks' }
 		} },
 	},
 	["Farewell - Room h-02_west"] = {
