@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - 500 M"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - 500 M"
                 ]
             }
         ],
@@ -30,7 +30,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - 1000 M"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - 1000 M"
                 ]
             }
         ],
@@ -56,7 +56,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - 1500 M"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - 1500 M"
                 ]
             }
         ],
@@ -82,7 +82,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - 2000 M"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - 2000 M"
                 ]
             }
         ],
@@ -108,7 +108,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - 2500 M"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - 2500 M"
                 ]
             }
         ],
@@ -134,7 +134,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - 3000 M"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - 3000 M"
                 ]
             }
         ],

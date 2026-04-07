@@ -15,7 +15,6 @@ function applyAutoZoom(value)
     map_id = instruction[1]
     centre = instruction[2]
     zoom = instruction[3]
-    print(PopVersion)
     if PopVersion >= "0.35.0" then
         Tracker:UiHint("Zoom "..map_id, zoom)
     else

@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - 2500 M Key"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - 2500 M Key"
                 ]
             }
         ],
@@ -30,7 +30,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 1"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Gem 1"
                 ]
             }
         ],
@@ -56,7 +56,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 2"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Gem 2"
                 ]
             }
         ],
@@ -82,7 +82,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 3"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Gem 3"
                 ]
             }
         ],
@@ -108,7 +108,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 4"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Gem 4"
                 ]
             }
         ],
@@ -134,7 +134,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 5"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Gem 5"
                 ]
             }
         ],
@@ -160,7 +160,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Gem 6"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Gem 6"
                 ]
             }
         ],

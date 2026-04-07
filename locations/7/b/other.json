@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Level Clear"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Level Clear"
                 ]
             }
         ],

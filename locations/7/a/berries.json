@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Golden Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Golden Strawberry"
                 ]
             }
         ],
@@ -31,7 +31,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room a-02b Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room a-02b Strawberry"
                 ]
             }
         ],
@@ -55,7 +55,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room a-04b Strawberry 1"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room a-04b Strawberry 1"
                 ]
             }
         ],
@@ -79,7 +79,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room a-04b Strawberry 2"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room a-04b Strawberry 2"
                 ]
             }
         ],
@@ -103,7 +103,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room a-05 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room a-05 Strawberry"
                 ]
             }
         ],
@@ -127,7 +127,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room b-02 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room b-02 Strawberry"
                 ]
             }
         ],
@@ -151,7 +151,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room b-02b Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room b-02b Strawberry"
                 ]
             }
         ],
@@ -175,7 +175,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room b-02e Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room b-02e Strawberry"
                 ]
             }
         ],
@@ -199,7 +199,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room b-04 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room b-04 Strawberry"
                 ]
             }
         ],
@@ -223,7 +223,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room b-08 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room b-08 Strawberry"
                 ]
             }
         ],
@@ -247,7 +247,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room b-09 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room b-09 Strawberry"
                 ]
             }
         ],
@@ -271,7 +271,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room c-03b Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room c-03b Strawberry"
                 ]
             }
         ],
@@ -295,7 +295,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room c-05 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room c-05 Strawberry"
                 ]
             }
         ],
@@ -319,7 +319,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room c-06b Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room c-06b Strawberry"
                 ]
             }
         ],
@@ -343,7 +343,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room c-07b Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room c-07b Strawberry"
                 ]
             }
         ],
@@ -367,7 +367,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room c-08 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room c-08 Strawberry"
                 ]
             }
         ],
@@ -391,7 +391,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room c-09 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room c-09 Strawberry"
                 ]
             }
         ],
@@ -415,7 +415,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room d-00 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room d-00 Strawberry"
                 ]
             }
         ],
@@ -439,7 +439,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room d-01c Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room d-01c Strawberry"
                 ]
             }
         ],
@@ -463,7 +463,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room d-01d Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room d-01d Strawberry"
                 ]
             }
         ],
@@ -487,7 +487,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room d-03 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room d-03 Strawberry"
                 ]
             }
         ],
@@ -511,7 +511,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room d-04 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room d-04 Strawberry"
                 ]
             }
         ],
@@ -535,7 +535,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room d-07 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room d-07 Strawberry"
                 ]
             }
         ],
@@ -559,7 +559,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room d-08 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room d-08 Strawberry"
                 ]
             }
         ],
@@ -583,7 +583,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room d-10b Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room d-10b Strawberry"
                 ]
             }
         ],
@@ -607,7 +607,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room e-02 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room e-02 Strawberry"
                 ]
             }
         ],
@@ -631,7 +631,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room e-05 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room e-05 Strawberry"
                 ]
             }
         ],
@@ -655,7 +655,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room e-07 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room e-07 Strawberry"
                 ]
             }
         ],
@@ -679,7 +679,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room e-09 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room e-09 Strawberry"
                 ]
             }
         ],
@@ -703,7 +703,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room e-11 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room e-11 Strawberry"
                 ]
             }
         ],
@@ -727,7 +727,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room e-12 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room e-12 Strawberry"
                 ]
             }
         ],
@@ -751,7 +751,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room e-10 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room e-10 Strawberry"
                 ]
             }
         ],
@@ -775,7 +775,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room e-13 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room e-13 Strawberry"
                 ]
             }
         ],
@@ -799,7 +799,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room f-00 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room f-00 Strawberry"
                 ]
             }
         ],
@@ -823,7 +823,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room f-01 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room f-01 Strawberry"
                 ]
             }
         ],
@@ -847,7 +847,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room f-07 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room f-07 Strawberry"
                 ]
             }
         ],
@@ -871,7 +871,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room f-08b Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room f-08b Strawberry"
                 ]
             }
         ],
@@ -895,7 +895,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room f-08c Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room f-08c Strawberry"
                 ]
             }
         ],
@@ -919,7 +919,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room f-11 Strawberry 1"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room f-11 Strawberry 1"
                 ]
             }
         ],
@@ -943,7 +943,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room f-11 Strawberry 2"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room f-11 Strawberry 2"
                 ]
             }
         ],
@@ -967,7 +967,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room f-11 Strawberry 3"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room f-11 Strawberry 3"
                 ]
             }
         ],
@@ -991,7 +991,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room g-00b Strawberry 1"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room g-00b Strawberry 1"
                 ]
             }
         ],
@@ -1015,7 +1015,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room g-00b Strawberry 2"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room g-00b Strawberry 2"
                 ]
             }
         ],
@@ -1039,7 +1039,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room g-00b Strawberry 3"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room g-00b Strawberry 3"
                 ]
             }
         ],
@@ -1063,7 +1063,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room g-01 Strawberry 1"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room g-01 Strawberry 1"
                 ]
             }
         ],
@@ -1087,7 +1087,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room g-01 Strawberry 2"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room g-01 Strawberry 2"
                 ]
             }
         ],
@@ -1111,7 +1111,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room g-01 Strawberry 3"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room g-01 Strawberry 3"
                 ]
             }
         ],
@@ -1135,7 +1135,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Room g-03 Strawberry"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Room g-03 Strawberry"
                 ]
             }
         ],

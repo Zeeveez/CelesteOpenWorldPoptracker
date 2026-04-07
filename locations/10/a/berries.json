@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Golden Strawberry"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Golden Strawberry"
                 ]
             }
         ],
@@ -31,7 +31,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Moon Berry"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Moon Berry"
                 ]
             }
         ],

@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Power Source Key 1"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Power Source Key 1"
                 ]
             }
         ],
@@ -37,7 +37,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Power Source Key 2"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Power Source Key 2"
                 ]
             }
         ],
@@ -70,7 +70,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Power Source Key 3"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Power Source Key 3"
                 ]
             }
         ],
@@ -103,7 +103,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Power Source Key 4"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Power Source Key 4"
                 ]
             }
         ],
@@ -136,7 +136,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Power Source Key 5"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Power Source Key 5"
                 ]
             }
         ],

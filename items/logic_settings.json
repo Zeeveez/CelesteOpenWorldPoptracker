@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Smart Keys",
+        "type": "toggle",
+        "img": "images/icons/items/keys_gems/key.png",
+        "initial_active_state": true,
+        "codes": "smart_keys"
+    },
+    {
+        "name": "Smart Gems",
+        "type": "toggle",
+        "img": "images/icons/items/keys_gems/gem-1.png",
+        "initial_active_state": true,
+        "codes": "smart_gems"
+    }
+]

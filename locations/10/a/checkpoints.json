@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Singular"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Singular"
                 ]
             }
         ],
@@ -37,7 +37,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Power Source"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Power Source"
                 ]
             }
         ],
@@ -70,7 +70,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Remembered"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Remembered"
                 ]
             }
         ],
@@ -103,7 +103,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Event Horizon"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Event Horizon"
                 ]
             }
         ],
@@ -134,7 +134,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Determination"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Determination"
                 ]
             }
         ],
@@ -165,7 +165,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Stubbornness"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Stubbornness"
                 ]
             }
         ],
@@ -196,7 +196,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Reconciliation"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Reconciliation"
                 ]
             }
         ],
@@ -227,7 +227,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Farewell"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Farewell"
                 ]
             }
         ],

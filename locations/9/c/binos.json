@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9C,^$CanAccess|Core C - Room 01 Binoculars"
+                    "$HasChapterAccess|9c,^$CanAccess|Core C - Room 01 Binoculars"
                 ]
             }
         ],
@@ -34,7 +34,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9C,^$CanAccess|Core C - Room 02 Binoculars"
+                    "$HasChapterAccess|9c,^$CanAccess|Core C - Room 02 Binoculars"
                 ]
             }
         ],

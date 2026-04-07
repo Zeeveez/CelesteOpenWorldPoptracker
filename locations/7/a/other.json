@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Level Clear"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Level Clear"
                 ]
             }
         ],
@@ -28,7 +28,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Cassette"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Cassette"
                 ]
             }
         ],
@@ -52,7 +52,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7A,^$CanAccess|The Summit A - Crystal Heart"
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Crystal Heart"
                 ]
             }
         ],

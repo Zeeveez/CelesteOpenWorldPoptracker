@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room 00"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room 00"
                 ]
             }
         ],
@@ -34,7 +34,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room 01"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room 01"
                 ]
             }
         ],
@@ -64,7 +64,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room a-00"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room a-00"
                 ]
             }
         ],
@@ -94,7 +94,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room a-01"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room a-01"
                 ]
             }
         ],
@@ -124,7 +124,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room a-02"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room a-02"
                 ]
             }
         ],
@@ -154,7 +154,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room a-03"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room a-03"
                 ]
             }
         ],
@@ -184,7 +184,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room a-04"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room a-04"
                 ]
             }
         ],
@@ -214,7 +214,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room a-05"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room a-05"
                 ]
             }
         ],
@@ -244,7 +244,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room b-00"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room b-00"
                 ]
             }
         ],
@@ -274,7 +274,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room b-01"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room b-01"
                 ]
             }
         ],
@@ -304,7 +304,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room b-02"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room b-02"
                 ]
             }
         ],
@@ -334,7 +334,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room b-03"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room b-03"
                 ]
             }
         ],
@@ -364,7 +364,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room b-04"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room b-04"
                 ]
             }
         ],
@@ -394,7 +394,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room b-05"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room b-05"
                 ]
             }
         ],
@@ -424,7 +424,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room c-01"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room c-01"
                 ]
             }
         ],
@@ -454,7 +454,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room c-02"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room c-02"
                 ]
             }
         ],
@@ -484,7 +484,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room c-03"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room c-03"
                 ]
             }
         ],
@@ -514,7 +514,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room c-04"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room c-04"
                 ]
             }
         ],
@@ -544,7 +544,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room c-05"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room c-05"
                 ]
             }
         ],
@@ -574,7 +574,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room c-06"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room c-06"
                 ]
             }
         ],
@@ -604,7 +604,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room c-08"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room c-08"
                 ]
             }
         ],
@@ -634,7 +634,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room c-07"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room c-07"
                 ]
             }
         ],
@@ -664,7 +664,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9B,^$CanAccess|Core B - Room space"
+                    "$HasChapterAccess|9b,^$CanAccess|Core B - Room space"
                 ]
             }
         ],

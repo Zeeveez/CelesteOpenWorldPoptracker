@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Level Clear"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Level Clear"
                 ]
             }
         ],
@@ -32,7 +32,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Cassette"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Cassette"
                 ]
             }
         ],
@@ -60,7 +60,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Car"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Car"
                 ]
             }
         ],

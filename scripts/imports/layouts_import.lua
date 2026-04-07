@@ -7,6 +7,8 @@ Tracker:AddLayouts("layouts/tracker_goal.json")
 Tracker:AddLayouts("layouts/tracker_sanity.json")
 
 Tracker:AddLayouts("layouts/tracker_settings.json")
+Tracker:AddLayouts("layouts/tracker_slot_data.json")
+Tracker:AddLayouts("layouts/tracker_logic_settings.json")
 
 Tracker:AddLayouts("layouts/broadcast.json")
 

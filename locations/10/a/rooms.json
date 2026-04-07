@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room intro-00-past"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room intro-00-past"
                 ]
             }
         ],
@@ -37,7 +37,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room intro-01-future"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room intro-01-future"
                 ]
             }
         ],
@@ -70,7 +70,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room intro-02-launch"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room intro-02-launch"
                 ]
             }
         ],
@@ -103,7 +103,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room intro-03-space"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room intro-03-space"
                 ]
             }
         ],
@@ -136,7 +136,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room a-00"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room a-00"
                 ]
             }
         ],
@@ -169,7 +169,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room a-01"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room a-01"
                 ]
             }
         ],
@@ -202,7 +202,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room a-02"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room a-02"
                 ]
             }
         ],
@@ -235,7 +235,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room a-03"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room a-03"
                 ]
             }
         ],
@@ -268,7 +268,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room a-04"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room a-04"
                 ]
             }
         ],
@@ -301,7 +301,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room a-05"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room a-05"
                 ]
             }
         ],
@@ -334,7 +334,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room b-00"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room b-00"
                 ]
             }
         ],
@@ -367,7 +367,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room b-01"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room b-01"
                 ]
             }
         ],
@@ -400,7 +400,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room b-02"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room b-02"
                 ]
             }
         ],
@@ -433,7 +433,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room b-03"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room b-03"
                 ]
             }
         ],
@@ -466,7 +466,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room b-04"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room b-04"
                 ]
             }
         ],
@@ -499,7 +499,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room b-05"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room b-05"
                 ]
             }
         ],
@@ -532,7 +532,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room b-06"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room b-06"
                 ]
             }
         ],
@@ -565,7 +565,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room b-07"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room b-07"
                 ]
             }
         ],
@@ -598,7 +598,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room c-00"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room c-00"
                 ]
             }
         ],
@@ -631,7 +631,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room c-alt-00"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room c-alt-00"
                 ]
             }
         ],
@@ -664,7 +664,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room c-alt-01"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room c-alt-01"
                 ]
             }
         ],
@@ -697,7 +697,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room c-00b"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room c-00b"
                 ]
             }
         ],
@@ -730,7 +730,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room c-01"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room c-01"
                 ]
             }
         ],
@@ -763,7 +763,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room c-02"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room c-02"
                 ]
             }
         ],
@@ -796,7 +796,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room c-03"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room c-03"
                 ]
             }
         ],
@@ -829,7 +829,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-00"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-00"
                 ]
             }
         ],
@@ -862,7 +862,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-01"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-01"
                 ]
             }
         ],
@@ -895,7 +895,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-02"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-02"
                 ]
             }
         ],
@@ -928,7 +928,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-03"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-03"
                 ]
             }
         ],
@@ -961,7 +961,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-04"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-04"
                 ]
             }
         ],
@@ -994,7 +994,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-05"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-05"
                 ]
             }
         ],
@@ -1027,7 +1027,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-00y"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-00y"
                 ]
             }
         ],
@@ -1060,7 +1060,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-00yb"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-00yb"
                 ]
             }
         ],
@@ -1093,7 +1093,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-00z"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-00z"
                 ]
             }
         ],
@@ -1126,7 +1126,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-00"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-00"
                 ]
             }
         ],
@@ -1159,7 +1159,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-00b"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-00b"
                 ]
             }
         ],
@@ -1192,7 +1192,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-01"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-01"
                 ]
             }
         ],
@@ -1225,7 +1225,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-02"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-02"
                 ]
             }
         ],
@@ -1258,7 +1258,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-03"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-03"
                 ]
             }
         ],
@@ -1291,7 +1291,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-04"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-04"
                 ]
             }
         ],
@@ -1324,7 +1324,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-05"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-05"
                 ]
             }
         ],
@@ -1357,7 +1357,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-05b"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-05b"
                 ]
             }
         ],
@@ -1390,7 +1390,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-05c"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-05c"
                 ]
             }
         ],
@@ -1423,7 +1423,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-06"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-06"
                 ]
             }
         ],
@@ -1456,7 +1456,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-07"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-07"
                 ]
             }
         ],
@@ -1489,7 +1489,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-08"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-08"
                 ]
             }
         ],
@@ -1522,7 +1522,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-door"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-door"
                 ]
             }
         ],
@@ -1553,7 +1553,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-00"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-00"
                 ]
             }
         ],
@@ -1584,7 +1584,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-01"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-01"
                 ]
             }
         ],
@@ -1615,7 +1615,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-02"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-02"
                 ]
             }
         ],
@@ -1646,7 +1646,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-03"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-03"
                 ]
             }
         ],
@@ -1677,7 +1677,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-04"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-04"
                 ]
             }
         ],
@@ -1708,7 +1708,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-05"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-05"
                 ]
             }
         ],
@@ -1739,7 +1739,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-06"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-06"
                 ]
             }
         ],
@@ -1770,7 +1770,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-07"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-07"
                 ]
             }
         ],
@@ -1801,7 +1801,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-08"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-08"
                 ]
             }
         ],
@@ -1832,7 +1832,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-09"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-09"
                 ]
             }
         ],
@@ -1863,7 +1863,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room g-00"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room g-00"
                 ]
             }
         ],
@@ -1894,7 +1894,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room g-01"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room g-01"
                 ]
             }
         ],
@@ -1925,7 +1925,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room g-03"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room g-03"
                 ]
             }
         ],
@@ -1956,7 +1956,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room g-02"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room g-02"
                 ]
             }
         ],
@@ -1987,7 +1987,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room g-04"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room g-04"
                 ]
             }
         ],
@@ -2018,7 +2018,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room g-05"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room g-05"
                 ]
             }
         ],
@@ -2049,7 +2049,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room g-06"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room g-06"
                 ]
             }
         ],
@@ -2080,7 +2080,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-00b"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-00b"
                 ]
             }
         ],
@@ -2111,7 +2111,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-00"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-00"
                 ]
             }
         ],
@@ -2142,7 +2142,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-01"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-01"
                 ]
             }
         ],
@@ -2173,7 +2173,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-02"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-02"
                 ]
             }
         ],
@@ -2204,7 +2204,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-03"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-03"
                 ]
             }
         ],
@@ -2235,7 +2235,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-03b"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-03b"
                 ]
             }
         ],
@@ -2266,7 +2266,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-04"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-04"
                 ]
             }
         ],
@@ -2297,7 +2297,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-04b"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-04b"
                 ]
             }
         ],
@@ -2328,7 +2328,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-05"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-05"
                 ]
             }
         ],
@@ -2359,7 +2359,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-06"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-06"
                 ]
             }
         ],
@@ -2390,7 +2390,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-06b"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-06b"
                 ]
             }
         ],
@@ -2421,7 +2421,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-07"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-07"
                 ]
             }
         ],
@@ -2452,7 +2452,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-08"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-08"
                 ]
             }
         ],
@@ -2483,7 +2483,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-09"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-09"
                 ]
             }
         ],
@@ -2514,7 +2514,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-10"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-10"
                 ]
             }
         ],
@@ -2545,7 +2545,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room i-00"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room i-00"
                 ]
             }
         ],
@@ -2576,7 +2576,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room i-00b"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room i-00b"
                 ]
             }
         ],
@@ -2607,7 +2607,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room i-01"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room i-01"
                 ]
             }
         ],
@@ -2638,7 +2638,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room i-02"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room i-02"
                 ]
             }
         ],
@@ -2669,7 +2669,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room i-03"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room i-03"
                 ]
             }
         ],
@@ -2700,7 +2700,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room i-04"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room i-04"
                 ]
             }
         ],
@@ -2731,7 +2731,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room i-05"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room i-05"
                 ]
             }
         ],
@@ -2762,7 +2762,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-00"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-00"
                 ]
             }
         ],
@@ -2793,7 +2793,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-00b"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-00b"
                 ]
             }
         ],
@@ -2824,7 +2824,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-01"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-01"
                 ]
             }
         ],
@@ -2855,7 +2855,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-02"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-02"
                 ]
             }
         ],
@@ -2886,7 +2886,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-03"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-03"
                 ]
             }
         ],
@@ -2917,7 +2917,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-04"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-04"
                 ]
             }
         ],
@@ -2948,7 +2948,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-05"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-05"
                 ]
             }
         ],
@@ -2979,7 +2979,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-06"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-06"
                 ]
             }
         ],
@@ -3010,7 +3010,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-07"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-07"
                 ]
             }
         ],
@@ -3041,7 +3041,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-08"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-08"
                 ]
             }
         ],
@@ -3072,7 +3072,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-09"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-09"
                 ]
             }
         ],
@@ -3103,7 +3103,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-10"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-10"
                 ]
             }
         ],
@@ -3134,7 +3134,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-11"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-11"
                 ]
             }
         ],
@@ -3165,7 +3165,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-12"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-12"
                 ]
             }
         ],
@@ -3196,7 +3196,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-13"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-13"
                 ]
             }
         ],
@@ -3227,7 +3227,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-14"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-14"
                 ]
             }
         ],
@@ -3258,7 +3258,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-14b"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-14b"
                 ]
             }
         ],
@@ -3289,7 +3289,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-15"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-15"
                 ]
             }
         ],
@@ -3320,7 +3320,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-16"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-16"
                 ]
             }
         ],
@@ -3351,7 +3351,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-17"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-17"
                 ]
             }
         ],
@@ -3382,7 +3382,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-18"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-18"
                 ]
             }
         ],
@@ -3413,7 +3413,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-19"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-19"
                 ]
             }
         ],
@@ -3444,7 +3444,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room end-golden"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room end-golden"
                 ]
             }
         ],

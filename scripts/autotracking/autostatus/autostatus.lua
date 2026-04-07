@@ -1,20 +1,16 @@
 function onStatusNotify(key, value, old_value)
-    if key ~= STATUS_ID then
-        return
-    end
-
-    if value == Archipelago.ClientStatus.GOAL then
-        Tracker:FindObjectForCode("@Epilogue - Level Clear/").AvailableChestCount = 0
-    else
-        Tracker:FindObjectForCode("@Epilogue - Level Clear/").AvailableChestCount = 1
+    if key ~= STATUS_ID then return end
+    if value ~= old_value then
+        processStatus(value)
     end
 end
 
 function onStatusNotifyLaunch(key, value)
-    if key ~= STATUS_ID then
-        return
-    end
+    if key ~= STATUS_ID then return end
+    processStatus(value)
+end
 
+function processStatus(value)
     if value == Archipelago.ClientStatus.GOAL then
         Tracker:FindObjectForCode("@Epilogue - Level Clear/").AvailableChestCount = 0
     else

@@ -1,4 +1,4 @@
-location_access_logic = {
+LOCATION_ACCESS_LOGIC = {
 	["Prologue - Room -1_east"] = {
 		{ "Prologue - Room -1_main", { {  } } },
 		{ "Prologue - Room 0_west", { {  } } },

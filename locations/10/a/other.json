@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Level Clear"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Level Clear"
                 ]
             }
         ],
@@ -33,7 +33,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Crystal Heart?"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Crystal Heart?"
                 ]
             }
         ],
@@ -64,7 +64,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Secret Car"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Secret Car"
                 ]
             }
         ],
@@ -97,7 +97,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Internet Car"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Internet Car"
                 ]
             }
         ],

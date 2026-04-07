@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room a-04 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room a-04 Binoculars"
                 ]
             }
         ],
@@ -37,7 +37,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room b-06 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room b-06 Binoculars"
                 ]
             }
         ],
@@ -70,7 +70,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-00 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-00 Binoculars"
                 ]
             }
         ],
@@ -103,7 +103,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-04 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-04 Binoculars"
                 ]
             }
         ],
@@ -136,7 +136,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-03 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-03 Binoculars"
                 ]
             }
         ],
@@ -169,7 +169,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-01 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-01 Binoculars"
                 ]
             }
         ],
@@ -202,7 +202,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-02 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-02 Binoculars"
                 ]
             }
         ],
@@ -235,7 +235,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room d-05 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room d-05 Binoculars"
                 ]
             }
         ],
@@ -268,7 +268,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-00yb Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-00yb Binoculars"
                 ]
             }
         ],
@@ -301,7 +301,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-00b Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-00b Binoculars"
                 ]
             }
         ],
@@ -334,7 +334,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-01 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-01 Binoculars"
                 ]
             }
         ],
@@ -367,7 +367,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-02 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-02 Binoculars"
                 ]
             }
         ],
@@ -400,7 +400,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-04 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-04 Binoculars"
                 ]
             }
         ],
@@ -433,7 +433,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room e-08 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room e-08 Binoculars"
                 ]
             }
         ],
@@ -466,7 +466,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-06 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-06 Binoculars"
                 ]
             }
         ],
@@ -497,7 +497,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-07 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-07 Binoculars"
                 ]
             }
         ],
@@ -528,7 +528,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-08 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-08 Binoculars"
                 ]
             }
         ],
@@ -559,7 +559,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room f-09 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room f-09 Binoculars"
                 ]
             }
         ],
@@ -590,7 +590,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room g-00 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room g-00 Binoculars"
                 ]
             }
         ],
@@ -621,7 +621,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room g-04 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room g-04 Binoculars"
                 ]
             }
         ],
@@ -652,7 +652,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room g-06 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room g-06 Binoculars"
                 ]
             }
         ],
@@ -683,7 +683,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-01 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-01 Binoculars"
                 ]
             }
         ],
@@ -714,7 +714,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-02 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-02 Binoculars"
                 ]
             }
         ],
@@ -745,7 +745,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-03b Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-03b Binoculars"
                 ]
             }
         ],
@@ -776,7 +776,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-04 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-04 Binoculars"
                 ]
             }
         ],
@@ -807,7 +807,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-05 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-05 Binoculars"
                 ]
             }
         ],
@@ -838,7 +838,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-06b Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-06b Binoculars"
                 ]
             }
         ],
@@ -869,7 +869,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-07 Binoculars 1"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-07 Binoculars 1"
                 ]
             }
         ],
@@ -900,7 +900,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-07 Binoculars 2"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-07 Binoculars 2"
                 ]
             }
         ],
@@ -931,7 +931,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-08 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-08 Binoculars"
                 ]
             }
         ],
@@ -962,7 +962,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room h-09 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room h-09 Binoculars"
                 ]
             }
         ],
@@ -993,7 +993,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room i-00b Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room i-00b Binoculars"
                 ]
             }
         ],
@@ -1024,7 +1024,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room i-02 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room i-02 Binoculars"
                 ]
             }
         ],
@@ -1055,7 +1055,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room i-04 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room i-04 Binoculars"
                 ]
             }
         ],
@@ -1086,7 +1086,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room i-05 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room i-05 Binoculars"
                 ]
             }
         ],
@@ -1117,7 +1117,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-16 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-16 Binoculars"
                 ]
             }
         ],
@@ -1148,7 +1148,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room j-19 Binoculars"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room j-19 Binoculars"
                 ]
             }
         ],
@@ -1179,7 +1179,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room end-golden Binoculars 1"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room end-golden Binoculars 1"
                 ]
             }
         ],
@@ -1208,7 +1208,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room end-golden Binoculars 2"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room end-golden Binoculars 2"
                 ]
             }
         ],
@@ -1237,7 +1237,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_10A,^$CanAccess|Farewell - Room end-golden Binoculars 3"
+                    "$HasFarewellAccess,^$CanAccess|Farewell - Room end-golden Binoculars 3"
                 ]
             }
         ],

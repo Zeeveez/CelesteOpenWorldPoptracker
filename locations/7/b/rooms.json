@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room a-00"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room a-00"
                 ]
             }
         ],
@@ -34,7 +34,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room a-01"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room a-01"
                 ]
             }
         ],
@@ -64,7 +64,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room a-02"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room a-02"
                 ]
             }
         ],
@@ -94,7 +94,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room a-03"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room a-03"
                 ]
             }
         ],
@@ -124,7 +124,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room b-00"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room b-00"
                 ]
             }
         ],
@@ -154,7 +154,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room b-01"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room b-01"
                 ]
             }
         ],
@@ -184,7 +184,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room b-02"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room b-02"
                 ]
             }
         ],
@@ -214,7 +214,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room b-03"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room b-03"
                 ]
             }
         ],
@@ -244,7 +244,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room c-01"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room c-01"
                 ]
             }
         ],
@@ -274,7 +274,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room c-00"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room c-00"
                 ]
             }
         ],
@@ -304,7 +304,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room c-02"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room c-02"
                 ]
             }
         ],
@@ -334,7 +334,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room c-03"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room c-03"
                 ]
             }
         ],
@@ -364,7 +364,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room d-00"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room d-00"
                 ]
             }
         ],
@@ -394,7 +394,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room d-01"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room d-01"
                 ]
             }
         ],
@@ -424,7 +424,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room d-02"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room d-02"
                 ]
             }
         ],
@@ -454,7 +454,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room d-03"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room d-03"
                 ]
             }
         ],
@@ -484,7 +484,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room e-00"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room e-00"
                 ]
             }
         ],
@@ -514,7 +514,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room e-01"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room e-01"
                 ]
             }
         ],
@@ -544,7 +544,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room e-02"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room e-02"
                 ]
             }
         ],
@@ -574,7 +574,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room e-03"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room e-03"
                 ]
             }
         ],
@@ -604,7 +604,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room f-00"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room f-00"
                 ]
             }
         ],
@@ -634,7 +634,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room f-01"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room f-01"
                 ]
             }
         ],
@@ -664,7 +664,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room f-02"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room f-02"
                 ]
             }
         ],
@@ -694,7 +694,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room f-03"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room f-03"
                 ]
             }
         ],
@@ -724,7 +724,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room g-00"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room g-00"
                 ]
             }
         ],
@@ -754,7 +754,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room g-01"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room g-01"
                 ]
             }
         ],
@@ -784,7 +784,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room g-02"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room g-02"
                 ]
             }
         ],
@@ -814,7 +814,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room g-03"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room g-03"
                 ]
             }
         ],

@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7C,^$CanAccess|The Summit C - Room 01"
+                    "$HasChapterAccess|7c,^$CanAccess|The Summit C - Room 01"
                 ]
             }
         ],
@@ -34,7 +34,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7C,^$CanAccess|The Summit C - Room 02"
+                    "$HasChapterAccess|7c,^$CanAccess|The Summit C - Room 02"
                 ]
             }
         ],
@@ -64,7 +64,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7C,^$CanAccess|The Summit C - Room 03"
+                    "$HasChapterAccess|7c,^$CanAccess|The Summit C - Room 03"
                 ]
             }
         ],

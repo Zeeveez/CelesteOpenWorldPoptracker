@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7C,^$CanAccess|The Summit C - Golden Strawberry"
+                    "$HasChapterAccess|7c,^$CanAccess|The Summit C - Golden Strawberry"
                 ]
             }
         ],

@@ -202,10 +202,12 @@ def make_location_obj(row):
         ]
     }
 
-    if row['Chapter'] in ('7','9','10'):
-        obj['sections'][0]['access_rules'][0] = f'$ACCESS_{row['Chapter']}{row['Side'].upper()},{obj['sections'][0]['access_rules'][0]}'
-    if row['Chapter'] == '8':
-        obj['sections'][0]['access_rules'][0] = f'$ACCESS_EPILOGUE,{obj['sections'][0]['access_rules'][0]}'
+    if row['Chapter'] in ('7','9'):
+        obj['sections'][0]['access_rules'][0] = f'$HasChapterAccess|{row['Chapter']}{row['Side']},{obj['sections'][0]['access_rules'][0]}'
+    elif row['Chapter'] == '8':
+        obj['sections'][0]['access_rules'][0] = f'$HaveStrawberries,grannyshousekeys,{obj['sections'][0]['access_rules'][0]}'
+    elif row['Chapter'] == '10':
+        obj['sections'][0]['access_rules'][0] = f'$HasFarewellAccess,{obj['sections'][0]['access_rules'][0]}'
 
     base_visibility_rules = []
     if row['Type'] == 'room':

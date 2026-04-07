@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room b-01 Binoculars"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room b-01 Binoculars"
                 ]
             }
         ],
@@ -34,7 +34,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_7B,^$CanAccess|The Summit B - Room b-02 Binoculars"
+                    "$HasChapterAccess|7b,^$CanAccess|The Summit B - Room b-02 Binoculars"
                 ]
             }
         ],

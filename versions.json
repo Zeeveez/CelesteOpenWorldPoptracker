@@ -1,6 +1,20 @@
 {
     "versions": [
         {
+            "package_version": "1.2.5",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.4.zip",
+            "sha256": "xxx",
+            "changelog": [
+                "Issue#018: OOL 6a cassette with only kevins",
+                "Issue#019: OOL farewell h-00_west -> h-00_east with no dash refills",
+                "Issue#020: OOL 7b d-02_west -> d-02_east with no moving platforms",
+                "Standardised border widths for better hint visibility",
+                "Add logic support for specifically _not_ having an item",
+                "Pretty print room logic",
+                "Toggleable smart keys/gems"
+            ]
+        },
+        {
             "package_version": "1.2.4",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.4.zip",
             "sha256": "0B08B973ABFF5641E7F591BD782D0E0F01A012D6846EE37CDC412B4715F01FD5",

@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Into the Core"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Into the Core"
                 ]
             }
         ],
@@ -34,7 +34,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Hot and Cold"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Hot and Cold"
                 ]
             }
         ],
@@ -64,7 +64,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Heart of the Mountain"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Heart of the Mountain"
                 ]
             }
         ],

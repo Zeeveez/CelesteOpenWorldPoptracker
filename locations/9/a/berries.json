@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Golden Strawberry"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Golden Strawberry"
                 ]
             }
         ],
@@ -32,7 +32,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Room b-06 Strawberry"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Room b-06 Strawberry"
                 ]
             }
         ],
@@ -60,7 +60,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Room c-00b Strawberry"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Room c-00b Strawberry"
                 ]
             }
         ],
@@ -88,7 +88,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Room c-02 Strawberry"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Room c-02 Strawberry"
                 ]
             }
         ],
@@ -116,7 +116,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Room c-03b Strawberry"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Room c-03b Strawberry"
                 ]
             }
         ],
@@ -144,7 +144,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$ACCESS_9A,^$CanAccess|Core A - Room d-06 Strawberry"
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Room d-06 Strawberry"
                 ]
             }
         ],
