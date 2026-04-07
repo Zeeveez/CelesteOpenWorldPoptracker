@@ -767,20 +767,6 @@
         ],
         "map_locations": [
             {
-                "map": "2_a_0",
-                "x": 1012,
-                "y": 656,
-                "size": 26,
-                "shape": "diamond"
-            },
-            {
-                "map": "2_a_0_2",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            },
-            {
                 "map": "2_a_1",
                 "x": 731,
                 "y": 1627,
