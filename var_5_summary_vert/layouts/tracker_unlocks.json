@@ -9,16 +9,16 @@
                 "item_margin": "2,2",
                 "item_size": "3",
                 "rows": [
-                    [ "forsakencitya-icon", "springs", "trafficblocks", "dashrefills", "", "", "" ],
-                    [ "oldsitea-icon", "dreamblocks", "coins", "strawberryseeds", "", "", "" ],
-                    [ "celestialresorta-icon", "sinkingplatforms", "movingplatforms", "", "", "", "" ],
-                    [ "goldenridgea-icon", "blueclouds", "pinkclouds", "blueboosters", "moveblocks", "whiteblock", "" ],
-                    [ "mirrortemplea-icon", "swapblocks", "redboosters", "dashswitches", "seekers", "theocrystal", "torches", "" ],
-                    [ "reflectiona-icon", "feathers", "bumpers", "kevins", "badelineboosters", "", "" ],
+                    [ "forsakencitya-icon", "springs", "traffic_blocks", "dash_refills", "", "", "" ],
+                    [ "oldsitea-icon", "dream_blocks", "coins", "strawberry_seeds", "", "", "" ],
+                    [ "celestialresorta-icon", "sinking_platforms", "moving_platforms", "", "", "", "" ],
+                    [ "goldenridgea-icon", "blue_clouds", "pink_clouds", "blue_boosters", "move_blocks", "white_block", "" ],
+                    [ "mirrortemplea-icon", "swap_blocks", "red_boosters", "dash_switches", "seekers", "theo_crystal", "torches" ],
+                    [ "reflectiona-icon", "feathers", "bumpers", "kevin_blocks", "badeline_boosters", "", "" ],
                     [ "thesummita-icon", "", "", "", "", "", "" ],
-                    [ "corea-icon", "fireandiceballs", "coreblocks", "coretoggles", "", "", "" ],
-                    [ "farewell-icon", "doubledashrefills", "pufferfish", "jellyfish", "breakerboxes", "bird", "" ],
-                    [ "", "pinkcassetteblocks", "bluecassetteblocks", "yellowcassetteblocks", "greencassetteblocks", "", "" ]
+                    [ "corea-icon", "fire_ice_balls", "core_blocks", "core_toggles", "", "", "" ],
+                    [ "farewell-icon", "double_dash_refills", "pufferfish", "jellyfish", "breaker_boxes", "bird", "" ],
+                    [ "", "pink_cassette_blocks", "blue_cassette_blocks", "yellow_cassette_blocks", "green_cassette_blocks", "", "" ]
                 ]
             }
         ]

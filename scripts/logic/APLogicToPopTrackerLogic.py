@@ -39,7 +39,7 @@ def add_connection(logic, src_room, dst_room, access_rules = []):
         add_connection(logic, src_room, dst_room, [[]])
 
     for access_rule in access_rules:
-        if 'cannotaccess' in access_rule: return
+        if 'cannot_access' in access_rule: return
 
         if dst_room not in logic:
             logic[dst_room] = {}
@@ -50,7 +50,7 @@ def add_connection(logic, src_room, dst_room, access_rules = []):
 
 def rule_part_adjustment(level_display_name, rule_part):
     rule_part = f'{level_display_name} - {rule_part}' if (rule_part[0].isupper() or rule_part[0].isdigit()) else rule_part
-    rule_part = rule_part.replace('_', '').replace(' ','').lower().replace('kevinblocks','kevins').replace('fireiceballs','fireandiceballs')
+    rule_part = rule_part.replace(' ','').lower()
     return rule_part
 
 def rule_adjustment(level_display_name, rule):

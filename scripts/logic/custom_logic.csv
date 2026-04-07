@@ -1,7 +1,9 @@
 from,to,access,notes,custom
 Epilogue - Room outside,Epilogue - Level Clear,,"Go Mode",0
 Farewell - Crystal Heart?,Farewell - Room f-door_west,"include_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two",0
-Farewell - Level Clear,Farewell - Room end-golden_bottom,"trafficblocks,dashrefills,doubledashrefills,dreamblocks,swapblocks,moveblocks,blueboosters,springs,feathers,coins,redboosters,kevins,coreblocks,fireandiceballs,badelineboosters,bird,breakerboxes,pufferfish,jellyfish,pinkcassetteblocks,bluecassetteblocks,yellowcassetteblocks,greencassetteblocks,farewell-powersourcekey1,farewell-powersourcekey2,farewell-powersourcekey3,farewell-powersourcekey4,farewell-powersourcekey5","Source puts golden room as Farewell C, hack in connection between the two",0
+Farewell - Crystal Heart?,Farewell - Room f-door_west,"goal_area_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two",0
+Farewell - Crystal Heart?,Farewell - Room f-door_west,"goal_area_farewell_golden","Source puts post Crystal Heart? as Farewell B, hack in connection between the two",0
+Farewell - Level Clear,Farewell - Room end-golden_bottom,"traffic_blocks,dash_refills,double_dash_refills,dream_blocks,swap_blocks,move_blocks,blue_boosters,springs,feathers,coins,red_boosters,kevin_blocks,core_blocks,fire_ice_balls,badeline_boosters,bird,breaker_boxes,pufferfish,jellyfish,pink_cassette_blocks,blue_cassette_blocks,yellow_cassette_blocks,green_cassette_blocks,farewell-powersourcekey1,farewell-powersourcekey2,farewell-powersourcekey3,farewell-powersourcekey4,farewell-powersourcekey5","Source puts golden room as Farewell C, hack in connection between the two",0
 Forsaken City A - Room 2_west,Forsaken City A - Room 2 Strawberry,,,1
 Forsaken City A - Room 4_west,Forsaken City A - Room 4_east,,,1
 Forsaken City A - Room 5_bottom,Forsaken City A - Room 5_north-west,,,1
@@ -93,8 +95,8 @@ Celestial Resort A - Room 0x-b_north-east,Celestial Resort A - Room 0x-b_west,,,
 Celestial Resort A - Room 03-a_west,Celestial Resort A - Room 03-a_east,,,1
 Celestial Resort A - Room 05-a_west,Celestial Resort A - Room 05-a_east,,,1
 Celestial Resort A - Room 05-a_east,Celestial Resort A - Room 05-a_west,,,1
-Celestial Resort A - Room 07-a_west,Celestial Resort A - Room 07-a_east,"Hallway Key 2",,1
-Celestial Resort A - Room 07-a_east,Celestial Resort A - Room 07-a_west,"Hallway Key 2",,1
+Celestial Resort A - Room 07-a_west,Celestial Resort A - Room 07-a_east,"celestialresorta-hallwaykey2",,1
+Celestial Resort A - Room 07-a_east,Celestial Resort A - Room 07-a_west,"celestialresorta-hallwaykey2",,1
 Celestial Resort A - Room 08-c_west,Celestial Resort A - Room 08-c_east,"coins",,1
 Celestial Resort A - Room 08-b_east,Celestial Resort A - Room 08-b_west,"sinking_platforms",,1
 Celestial Resort A - Room 11-z_west,Celestial Resort A - Room 11-z_east,,,1
