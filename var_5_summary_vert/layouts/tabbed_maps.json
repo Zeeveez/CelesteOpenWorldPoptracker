@@ -16,7 +16,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "supplementary"
+                        "dash_hint"
                     ]
                 }
             }

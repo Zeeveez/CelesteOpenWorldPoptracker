@@ -68,9 +68,21 @@
             {
                 "title": "s1",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "1_a_1_s1"
+                    "type": "array",
+                    "orientation": "vertical",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "1_a_1_s1"
+                            ]
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "dash_hint"
+                            ]
+                        }
                     ]
                 }
             },

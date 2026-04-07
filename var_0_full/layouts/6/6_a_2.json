@@ -23,9 +23,21 @@
             {
                 "title": "04c",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "6_a_2_04c"
+                    "type": "array",
+                    "orientation": "vertical",
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "6_a_2_04c"
+                            ]
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "dash_hint"
+                            ]
+                        }
                     ]
                 }
             },
