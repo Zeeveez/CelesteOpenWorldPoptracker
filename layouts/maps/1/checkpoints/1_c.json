@@ -1,0 +1,16 @@
+{
+    "1_c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Begin",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "1_c_0"
+                    ]
+                }
+            }
+        ]
+    }
+}

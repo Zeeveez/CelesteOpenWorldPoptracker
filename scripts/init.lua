@@ -1,7 +1,4 @@
 
-local variant = Tracker.ActiveVariantUID
-print(variant)
-
 -- Items
 require("scripts/imports/items_import")
 
@@ -12,7 +9,7 @@ require("scripts/logic/logic")
 require("scripts/imports/maps_import")
 
 -- Layout
-require("scripts/imports/layouts_import")
+require("scripts/layout_manager/layout_manager")
 
 -- Locations
 require("scripts/imports/locations_import")

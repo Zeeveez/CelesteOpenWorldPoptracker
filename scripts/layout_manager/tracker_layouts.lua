@@ -1,0 +1,19 @@
+function LoadHorizontalLayout()
+	Tracker:AddLayouts("layouts/horizontal/tracker.json")
+	Tracker:AddLayouts("layouts/horizontal/tracker_checkpoints.json")
+	Tracker:AddLayouts("layouts/horizontal/tracker_collectables.json")
+	Tracker:AddLayouts("layouts/horizontal/tracker_goal.json")
+	Tracker:AddLayouts("layouts/horizontal/tracker_keys_gems.json")
+	Tracker:AddLayouts("layouts/horizontal/tracker_sanity.json")
+	Tracker:AddLayouts("layouts/horizontal/tracker_unlocks.json")
+end
+
+function LoadVerticalLayout()
+	Tracker:AddLayouts("layouts/vertical/tracker.json")
+	Tracker:AddLayouts("layouts/vertical/tracker_checkpoints.json")
+	Tracker:AddLayouts("layouts/vertical/tracker_collectables.json")
+	Tracker:AddLayouts("layouts/vertical/tracker_goal.json")
+	Tracker:AddLayouts("layouts/vertical/tracker_keys_gems.json")
+	Tracker:AddLayouts("layouts/vertical/tracker_sanity.json")
+	Tracker:AddLayouts("layouts/vertical/tracker_unlocks.json")
+end

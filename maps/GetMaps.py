@@ -29,8 +29,8 @@ for i in range(raw_data['chapterCount']):
                     'location_border_thickness': 2,
                     'img': f'images/maps/{i}/{side['id']}/{room}.png'
                 })
-    with open(f'./maps/{i}.json','w') as f:
+    with open(f'./maps/chapters/{i}.json','w') as f:
         f.write(json.dumps(chapter_maps, indent=4))
-    with open(f'./maps/{i}_rooms.json','w') as f:
+    with open(f'./maps/rooms/{i}_rooms.json','w') as f:
         f.write(json.dumps(chapter_room_maps, indent=4))
 
