@@ -10,7 +10,7 @@
                     "type": "itemgrid",
                     "h_alignment": "left",
                     "item_margin": "2,2",
-                    "item_size": "5",
+                    "item_size": "5,5",
                     "rows": [
                         [
                             "strawberries_required",
@@ -27,7 +27,7 @@
                     "type": "itemgrid",
                     "h_alignment": "left",
                     "item_margin": "2,2",
-                    "item_size": "5",
+                    "item_size": "5,5",
                     "rows": [
                         [
                             "include_b_sides",
@@ -46,7 +46,7 @@
                     "type": "itemgrid",
                     "h_alignment": "left",
                     "item_margin": "2,2",
-                    "item_size": "5",
+                    "item_size": "5,5",
                     "rows": [
                         [
                             "carsanity",
@@ -66,7 +66,7 @@
                     "type": "itemgrid",
                     "h_alignment": "left",
                     "item_margin": "2,2",
-                    "item_size": "5",
+                    "item_size": "5,5",
                     "rows": [
                         [
                             "death_link_amnesty"
@@ -81,7 +81,7 @@
                     "type": "itemgrid",
                     "h_alignment": "left",
                     "item_margin": "2,2",
-                    "item_size": "5",
+                    "item_size": "5,5",
                     "rows": [
                         [
                             "trap_link"

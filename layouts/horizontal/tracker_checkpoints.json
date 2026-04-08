@@ -9,7 +9,7 @@
                     "type": "itemgrid",
                     "h_alignment": "left",
                     "item_margin": "2,2",
-                    "item_size": "2",
+                    "item_size": "2,2",
                     "rows": [
                         [ "forsakencitya-icon", "forsakencityb-icon", "oldsitea-icon", "oldsiteb-icon", "celestialresorta-icon", "celestialresortb-icon", "goldenridgea-icon", "goldenridgeb-icon", "mirrortemplea-icon", "mirrortempleb-icon", "reflectiona-icon", "reflectionb-icon", "thesummita-icon", "thesummitb-icon", "corea-icon", "coreb-icon", "farewell-icon" ],
                         [ "forsakencitya-crossing", "forsakencityb-contraption", "oldsitea-intervention", "oldsiteb-combinationlock", "celestialresorta-hugemess", "celestialresortb-staffquarters", "goldenridgea-shrine", "goldenridgeb-steppingstones", "mirrortemplea-depths", "mirrortempleb-centralchamber", "reflectiona-hollows", "reflectionb-reflection", "thesummita-500m", "thesummitb-500m", "corea-intothecore", "coreb-intothecore", "farewell-singular" ],
