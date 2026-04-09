@@ -918,7 +918,8 @@ LOCATION_ACCESS_LOGIC = {
 	["Forsaken City B - Room 10_east"] = {
 		{ "Forsaken City B - Room 11_bottom", { {  } } },
 		{ "Forsaken City B - Room 10_west", {
-			{ 'traffic_blocks', 'dash_refills' }
+			{ 'traffic_blocks', 'dash_refills' },
+			{ 'custom', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City B - Room end_west"] = {
@@ -1047,7 +1048,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 11_top"] = {
 		{ "Forsaken City B - Room 11_bottom", {
-			{ 'traffic_blocks', 'dash_refills' }
+			{ 'traffic_blocks', 'dash_refills' },
+			{ 'custom', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City B - Room 11"] = {

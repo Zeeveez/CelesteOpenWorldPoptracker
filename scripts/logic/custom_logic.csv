@@ -54,6 +54,8 @@ Forsaken City B - Room 06_west,Forsaken City B - Room 06_east,"springs",,1
 Forsaken City B - Room 06_west,Forsaken City B - Room 06_east,"dash_refills",,1
 Forsaken City B - Room 08b_west,Forsaken City B - Room 08b_east,"traffic_blocks",,1
 Forsaken City B - Room 09_west,Forsaken City B - Room 09_east,,,1
+Forsaken City B - Room 10_west,Forsaken City B - Room 10_east,"traffic_blocks",,1
+Forsaken City B - Room 11_bottom,Forsaken City B - Room 11_top,"traffic_blocks",,1
 Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"blue_cassette_blocks",,1
 Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"pink_cassette_blocks",,1
 Forsaken City C - Room 02_west,Forsaken City C - Room 02_goal,"traffic_blocks",,1
