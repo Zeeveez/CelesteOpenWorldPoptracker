@@ -4333,7 +4333,8 @@ LOCATION_ACCESS_LOGIC = {
 	["Golden Ridge A - Room c-05_east"] = {
 		{ "Golden Ridge A - Room c-06_bottom", { {  } } },
 		{ "Golden Ridge A - Room c-05_west", {
-			{ 'blue_boosters', 'move_blocks' }
+			{ 'blue_boosters', 'move_blocks' },
+			{ 'custom' }
 		} },
 	},
 	["Golden Ridge A - Room c-06b_east"] = {
