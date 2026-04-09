@@ -377,6 +377,11 @@ Core A - Room b-01_east,Core A - Room b-01_west,,,1
 Core A - Room b-02_west,Core A - Room b-02_east,,,1
 Core A - Room b-03_west,Core A - Room b-03_east,,,1
 Core A - Room b-07b_bottom,Core A - Room b-07b_top,"core_toggles",,1
+Core A - Room d-07_bottom,Core A - Room d-07_top,"dash_refills,core_blocks,core_toggles,fire_ice_balls,springs",,1
+Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,bumpers",,1
+Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,fire_ice_balls",,1
+Core A - Room d-10_west,Core A - Room d-10_east,"core_toggles",,1
+Core A - Room d-10b_west,Core A - Room d-10b_east,"dash_refills,core_toggles,core_blocks",,1
 Farewell - Room intro-01-future_west,Farewell - Room intro-02-launch_bottom,,"DTS",1
 Farewell - Room intro-01-future_west,Farewell - Room intro-03-space_west,,"DTS",1
 Farewell - Room a-00_west,Farewell - Room a-00_east,,"DTS",1

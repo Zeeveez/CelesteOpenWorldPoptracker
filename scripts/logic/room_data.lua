@@ -11742,7 +11742,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-07_top"] = {
 		{ "Core A - Room d-07_bottom", {
-			{ 'dash_refills', 'core_blocks', 'core_toggles', 'fire_ice_balls', 'springs', 'badeline_boosters' }
+			{ 'dash_refills', 'core_blocks', 'core_toggles', 'fire_ice_balls', 'springs', 'badeline_boosters' },
+			{ 'custom', 'dash_refills', 'core_blocks', 'core_toggles', 'fire_ice_balls', 'springs' }
 		} },
 	},
 	["Core A - Room d-07"] = {
@@ -11751,7 +11752,9 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-08_east"] = {
 		{ "Core A - Room d-08_west", {
-			{ 'dash_refills', 'core_blocks', 'core_toggles', 'fire_ice_balls', 'bumpers' }
+			{ 'dash_refills', 'core_blocks', 'core_toggles', 'fire_ice_balls', 'bumpers' },
+			{ 'custom', 'core_blocks', 'core_toggles', 'bumpers' },
+			{ 'custom', 'core_blocks', 'core_toggles', 'fire_ice_balls' }
 		} },
 	},
 	["Core A - Room d-08"] = {
@@ -11769,7 +11772,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-10_east"] = {
 		{ "Core A - Room d-10_west", {
-			{ 'bumpers', 'core_toggles' }
+			{ 'bumpers', 'core_toggles' },
+			{ 'custom', 'core_toggles' }
 		} },
 	},
 	["Core A - Room d-10"] = {
@@ -11778,7 +11782,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-10b_east"] = {
 		{ "Core A - Room d-10b_west", {
-			{ 'dash_refills', 'bumpers', 'core_toggles', 'core_blocks' }
+			{ 'dash_refills', 'bumpers', 'core_toggles', 'core_blocks' },
+			{ 'custom', 'dash_refills', 'core_toggles', 'core_blocks' }
 		} },
 	},
 	["Core A - Room d-10b"] = {
