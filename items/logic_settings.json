@@ -1,5 +1,12 @@
 [
     {
+        "name": "Show Out of Logic",
+        "type": "toggle",
+        "img": "images/icons/show-out-of-logic.png",
+        "initial_active_state": true,
+        "codes": "show_out_of_logic"
+    },
+    {
         "name": "Smart Keys",
         "type": "toggle",
         "img": "images/icons/items/keys_gems/key.png",

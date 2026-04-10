@@ -13,6 +13,7 @@
                     "item_size": "5,5",
                     "rows": [
                         [
+                            "show_out_of_logic",
                             "smart_keys",
                             "smart_gems"
                         ]
