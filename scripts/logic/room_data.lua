@@ -7246,7 +7246,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room c-01_east"] = {
 		{ "Mirror Temple B - Room c-01_west", {
-			{ 'seekers', 'coins' }
+			{ 'seekers', 'coins' },
+			{ 'custom', 'coins' }
 		} },
 	},
 	["Mirror Temple B - Room c-01"] = {
