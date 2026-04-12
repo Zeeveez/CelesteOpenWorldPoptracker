@@ -61,3 +61,12 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+/.github export-ignore
+/.gitattributes export-ignore
+/.gitignore export-ignore
+*.py export-ignore
+*.csv export-ignore
+/versions.json export-ignore
+/images/docs export-ignore
+/README.md
