@@ -69,4 +69,4 @@
 *.csv export-ignore
 /versions.json export-ignore
 /images/docs export-ignore
-/README.md
+/README.md export-ignore

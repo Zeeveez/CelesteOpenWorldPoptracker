@@ -4313,7 +4313,8 @@ LOCATION_ACCESS_LOGIC = {
 	["Golden Ridge A - Room c-00_east"] = {
 		{ "Golden Ridge A - Room c-02_west", { {  } } },
 		{ "Golden Ridge A - Room c-00_west", {
-			{ 'blue_boosters' }
+			{ 'blue_boosters' },
+			{ 'custom' }
 		} },
 	},
 	["Golden Ridge A - Room c-04_west"] = {
@@ -8023,7 +8024,7 @@ LOCATION_ACCESS_LOGIC = {
 		{ "Reflection A - Room 04e_east", {
 			{ 'pink_cassette_blocks', 'blue_cassette_blocks', 'dash_refills' },
 			{ 'custom', 'pink_cassette_blocks', 'dash_refills' },
-			{ 'custom', 'kevins' }
+			{ 'custom', 'kevin_blocks' }
 		} },
 	},
 	["Reflection A - Room 05"] = {
@@ -8042,7 +8043,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Reflection A - Room 08a_east"] = {
 		{ "Reflection A - Room 08a_west", {
 			{ 'kevin_blocks', 'dash_refills' },
-			{ 'custom', 'kevins' },
+			{ 'custom', 'kevin_blocks' },
 			{ 'custom', 'dash_refills' }
 		} },
 	},
@@ -8053,7 +8054,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Reflection A - Room 08b_east"] = {
 		{ "Reflection A - Room 08b_west", {
 			{ 'kevin_blocks', 'feathers' },
-			{ 'custom', 'kevins' },
+			{ 'custom', 'kevin_blocks' },
 			{ 'custom', 'feathers' }
 		} },
 	},
@@ -8105,7 +8106,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Reflection A - Room 12b_east"] = {
 		{ "Reflection A - Room 12b_west", {
 			{ 'kevin_blocks', 'bumpers' },
-			{ 'custom', 'kevins' },
+			{ 'custom', 'kevin_blocks' },
 			{ 'custom', 'bumpers' }
 		} },
 	},
@@ -8381,7 +8382,7 @@ LOCATION_ACCESS_LOGIC = {
 		{ "Reflection B - Room a-04_west", { {  } } },
 		{ "Reflection B - Room a-03_west", {
 			{ 'kevin_blocks', 'coins' },
-			{ 'custom', 'kevins', 'coins', 'feathers' }
+			{ 'custom', 'kevin_blocks', 'coins', 'feathers' }
 		} },
 	},
 	["Reflection B - Room a-05_west"] = {
@@ -11588,7 +11589,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room b-06 Strawberry"] = {
 		{ "Core A - Room b-06_east", {
-			{ 'fire_ice_balls', 'core_toggles', 'core_blocks', 'dash_refills', 'bumpers', 'coins' }
+			{ 'fire_ice_balls', 'core_toggles', 'core_blocks', 'dash_refills', 'bumpers', 'coins' },
+			{ 'custom', 'core_blocks' }
 		} },
 	},
 	["Core A - Room b-07b_top"] = {

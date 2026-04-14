@@ -161,6 +161,7 @@ Golden Ridge A - Room b-08b_west,Golden Ridge A - Room b-08b_east,,,1
 Golden Ridge A - Room b-08b_east,Golden Ridge A - Room b-08b_west,,,1
 Golden Ridge A - Room b-08_west,Golden Ridge A - Room b-08_east,,,1
 Golden Ridge A - Room b-08_west,Golden Ridge A - Room b-08 Strawberry,,,1
+Golden Ridge A - Room c-00_west,Golden Ridge A - Room c-00_east,,,1
 Golden Ridge A - Room c-00_east,Golden Ridge A - Room c-00_west,,,1
 Golden Ridge A - Room c-05_west,Golden Ridge A - Room c-05_east,,,1
 Golden Ridge A - Room c-06_bottom,Golden Ridge A - Room c-06_west,,,1
@@ -252,15 +253,15 @@ Reflection A - Room 00_east,Reflection A - Room 00_west,,,1
 Reflection A - Room 04_south,Reflection A - Room 04_east,,,1
 Reflection A - Room 04_east,Reflection A - Room 04_north-west,,,1
 Reflection A - Room 04e_east,Reflection A - Cassette,"pink_cassette_blocks,dash_refills",,1
-Reflection A - Room 04e_east,Reflection A - Cassette,"kevins",,1
-Reflection A - Room 08a_west,Reflection A - Room 08a_east,"kevins",,1
+Reflection A - Room 04e_east,Reflection A - Cassette,"kevin_blocks",,1
+Reflection A - Room 08a_west,Reflection A - Room 08a_east,"kevin_blocks",,1
 Reflection A - Room 08a_west,Reflection A - Room 08a_east,"dash_refills",,1
-Reflection A - Room 08b_west,Reflection A - Room 08b_east,"kevins",,1
+Reflection A - Room 08b_west,Reflection A - Room 08b_east,"kevin_blocks",,1
 Reflection A - Room 08b_west,Reflection A - Room 08b_east,"feathers",,1
 Reflection A - Room 10a_west,Reflection A - Room 10a_east,,,1
 Reflection A - Room 10b_west,Reflection A - Room 10b_east,,,1
 Reflection A - Room 11_north-west,Reflection A - Room 11_north-east,,,1
-Reflection A - Room 12b_west,Reflection A - Room 12b_east,"kevins",,1
+Reflection A - Room 12b_west,Reflection A - Room 12b_east,"kevin_blocks",,1
 Reflection A - Room 12b_west,Reflection A - Room 12b_east,"bumpers",,1
 Reflection A - Room 12b_east,Reflection A - Room 12b_west,,,1
 Reflection A - Room 14a_west,Reflection A - Room 14a_east,"bumpers",,1
@@ -277,7 +278,7 @@ Reflection A - Room boss-12_west,Reflection A - Room boss-12_east,,,1
 Reflection A - Room boss-18_west,Reflection A - Room boss-18_east,"feathers",,1
 Reflection A - Room boss-19_west,Reflection A - Room boss-19_east,"feathers",,1
 Reflection A - Room after-01_bottom,Reflection A - Room after-01_goal,,,1
-Reflection B - Room a-03_west,Reflection B - Room a-03_east,"kevins,coins,feathers",,1
+Reflection B - Room a-03_west,Reflection B - Room a-03_east,"kevin_blocks,coins,feathers",,1
 Reflection B - Room c-00_west,Reflection B - Room c-00_east,,,1
 Reflection B - Room c-04_west,Reflection B - Room c-04_east,"dash_refills,feathers",,1
 Reflection B - Room d-01_west,Reflection B - Room d-01_east,,,1
@@ -380,6 +381,7 @@ Core A - Room b-01_west,Core A - Room b-01_east,,,1
 Core A - Room b-01_east,Core A - Room b-01_west,,,1
 Core A - Room b-02_west,Core A - Room b-02_east,,,1
 Core A - Room b-03_west,Core A - Room b-03_east,,,1
+Core A - Room b-06_east,Core A - Room b-06 Strawberry,"core_blocks",,1
 Core A - Room b-07b_bottom,Core A - Room b-07b_top,"core_toggles",,1
 Core A - Room d-07_bottom,Core A - Room d-07_top,"dash_refills,core_blocks,core_toggles,fire_ice_balls,springs",,1
 Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,bumpers",,1
