@@ -31,7 +31,8 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 	- Auto-Pan/Zoom in PopTracker v0.34 will reset zoom to default during pan, upgrade to v0.35 or later for full functionality
 - Access Logic:
 	- Randomiser Logic (Shown in green)
-	- Custom Logic/Sequence Breaks (Shown in yellow; See Notes)
+	- Custom Logic/Sequence Breaks (Shown in yellow; Can be toggled off in Pack Settings -> Logic; See Notes)
+	- Smart Keys/Gems indicate what's possible when collecting these items with the relevant *-sanity disabled (Can be toggled off in Pack Settings -> Logic)
 
 
 ## Tracker Views
