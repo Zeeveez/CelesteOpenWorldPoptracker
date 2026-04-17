@@ -1,6 +1,39 @@
 {
     "versions": [
         {
+            "package_version": "1.2.5",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.5.zip",
+            "sha256": "915AF403C18B037AC34D3827EBCE0FA44DA908E47922245D5F8A1646C3D494E7",
+            "changelog": [
+                "Issue#018: OOL 6a cassette with only kevins",
+                "Issue#019: OOL farewell h-00_west -> h-00_east with no dash refills",
+                "Issue#020: OOL 7b d-02_west -> d-02_east with no moving platforms",
+                "Issue#021: OOL 1b 10_west -> 10_east with no dash refills",
+                "Issue#021: OOL 1b 11_bottom -> 11_top with no dash refills",
+                "Issue#022: OOL 8a d-07_bottom -> d-07_top with no badeline boosters",
+                "Issue#022: OOL 8a d-08_west -> d-08_east with either no fire/ice balls, or no bumpers",
+                "Issue#022: OOL 8a d-10_west -> d-10_east with no bumpers",
+                "Issue#022: OOL 8a d-10b_west -> d-10b_east with no bumpers",
+                "Issue#023: OOL 5b c-01_west -> c-01_east with no seekers",
+                "Standardised border widths for better hint visibility",
+                "Add logic support for specifically _not_ having an item",
+                "Pretty print room logic",
+                "Toggleable smart keys/gems",
+                "Toggleable hiding of OOL checks",
+                "Farewell access when mismatch between goal and access",
+                "Alignment of entity unlock names with source logic",
+                "Fix misalignment on 3_a_2 map",
+                "Remove room 2 from 2_a_0 map for consistency",
+                "Integrate dash hints directly into main maps",
+                "Layout import rework",
+                "OOL 4A c-00 itemless",
+                "OOL 4A c-05 itemless",
+                "OOL 6A 14a without dash refills",
+                "OOL 8A b-06 Strawberry with only core blocks",
+                "Remove non-required files from releases"
+            ]
+        },
+        {
             "package_version": "1.2.4",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.4.zip",
             "sha256": "0B08B973ABFF5641E7F591BD782D0E0F01A012D6846EE37CDC412B4715F01FD5",
