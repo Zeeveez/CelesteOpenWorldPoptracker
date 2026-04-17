@@ -1,0 +1,79 @@
+name: Logic Addition (Room -> Room Access) Request
+description: Request an addition to logic for moving from one room to another.
+title: "[Logic Addition (Movement)]: "
+labels: ["feature-request", "logic"]
+assignees:
+  - zeeveez
+body:
+  - type: dropdown
+    id: chapter
+    attributes:
+      label: Chapter
+      description: What chapter is the addition for?
+      options:
+        - 0 - Prologue
+        - 1 - Forsaken City
+        - 2 - Old Site
+        - 3 - Celestial Resort
+        - 4 - Golden Ridge
+        - 5 - Mirror Temple
+        - 6 - Reflection
+        - 7 - The Summit
+        - 8 - Epilogue
+        - 9 - Core
+        - 10 - Farewell
+    validations:
+      required: true
+  - type: input
+    id: start-room
+    attributes:
+      label: Starting Room
+      description: What room is the starting room?
+      placeholder: e.g. b-01
+    validations:
+      required: true
+  - type: input
+    id: end-room
+    attributes:
+      label: Ending Room
+      description: What room is the destination room?
+      placeholder: e.g. b-02
+    validations:
+      required: true
+  - type: textarea
+    id: how-to-perform
+    attributes:
+      label: How do you perform this logic?
+      description: Provide steps to perform the logic in question including e.g. when dashes are required, what tech is required, etc.
+    validations:
+      required: true
+  - type: checkboxes
+    id: multi-room
+    attributes:
+      label: Multi-Room Strat
+      description: Does the logic require multi-room tech to perform?
+      options:
+        - label: The logic requires multi-room tech to perform
+  - type: textarea
+    id: required-items
+    attributes:
+      label: What items are required?
+      description: List every item required for the additional logic, if no items are required, state so.
+      placeholder: e.g. kevin blocks, dash refills, coins
+    validations:
+      required: true
+  - type: upload
+    id: video
+    attributes:
+      label: Logic video
+      description: Unless it is self-evident, ideally upload a video of the logic being added to prove that it's doable.
+    validations:
+      required: false
+  - type: checkboxes
+    id: latest-version
+    attributes:
+      label: Latest Version
+      description: Are you using the latest version of the PopTracker pack?
+      options:
+        - label: I am using the latest version of the PopTracker pack.
+          required: true
