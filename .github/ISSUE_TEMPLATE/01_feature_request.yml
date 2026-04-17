@@ -1,0 +1,26 @@
+name: Feature Request
+description: File a feature request
+title: "[Feature Request]: "
+labels: ["feature-request"]
+assignees:
+  - zeeveez
+type: feature-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## NOTE: This form is for requests for additional features in the PopTracker pack, not for logic adjustments. For logic adjustments use the appropriate form.
+  - type: textarea
+    id: what-feature
+    attributes:
+      label: What is the feature?
+      description: What is the feature you're looking for? Provide all details necessary.
+    validations:
+      required: true
+  - type: upload
+    id: screenshots
+    attributes:
+      label: Example drawings/suggestions
+      description: If you have an idea of what this feature would look like, consider uploading a mockup of what you'd expect to see.
+    validations:
+      required: false
