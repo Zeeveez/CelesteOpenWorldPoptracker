@@ -1,0 +1,72 @@
+name: Logic Addition Request
+description: Request an addition to logic.
+title: "[Logic Addition]: "
+labels: ["feature-request", "logic"]
+assignees:
+  - zeeveez
+body:
+  - type: dropdown
+    id: chapter
+    attributes:
+      label: Chapter
+      description: What chapter is the addition for?
+      options:
+        - Choose...
+        - 0 - Prologue
+        - 1 - Forsaken City
+        - 2 - Old Site
+        - 3 - Celestial Resort
+        - 4 - Golden Ridge
+        - 5 - Mirror Temple
+        - 6 - Reflection
+        - 7 - The Summit
+        - 8 - Epilogue
+        - 9 - Core
+        - 10 - Farewell
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: room
+    attributes:
+      label: Room
+      description: What room is the addition in?
+      placeholder: b-01 etc.
+    validations:
+      required: true
+  - type: textarea
+    id: what-addition
+    attributes:
+      label: What is the addition?
+      description: What and why is it an issue? Is this something that is obviously inaccessible? etc.   
+  - type: checkboxes
+    id: multi-room
+    attributes:
+      label: Multi-Room Strat
+      description: Does the logic require multi-room tech to perform?
+      options:
+        - label: The logic requires multi-room tech to perform
+          required: false
+  - type: textarea
+    id: required-items
+    attributes:
+      label: What items are required?
+      description: List every item required for the additional logic, if no items are required, state so.
+      placeholder: e.g. kevin blocks, dash refills, coins
+    validations:
+      required: true
+  - type: upload
+    id: video
+    attributes:
+      label: Logic video
+      description: Unless it is self-evident, ideally upload a video of the logic being added to prove that it's doable.
+    validations:
+      required: false
+  - type: checkboxes
+    id: latest-version
+    attributes:
+      label: Latest Version
+      description: Are you using the latest version of the PopTracker pack?
+      options:
+        - label: I am using the latest version of the PopTracker pack.
+          required: true
