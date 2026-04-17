@@ -8,8 +8,7 @@ type: bug
 body:
   - type: markdown
     attributes:
-      value: |
-        ## NOTE: Something which is indicated as inaccessible (red) but is in fact reachable Out of Logic (yellow) is almost certainly not a bug. Use the OOL Request form for new OOL requests.
+      value: "## NOTE: Something which is indicated as inaccessible (red) but is in fact reachable Out of Logic (yellow) is almost certainly not a bug. Use the OOL Request form for new OOL requests."
   - type: dropdown
     id: chapter
     attributes:

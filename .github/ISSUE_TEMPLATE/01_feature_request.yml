@@ -8,8 +8,7 @@ type: feature-request
 body:
   - type: markdown
     attributes:
-      value: |
-        ## NOTE: This form is for requests for additional features in the PopTracker pack, not for logic adjustments. For logic adjustments use the appropriate form.
+      value: "## NOTE: This form is for requests for additional features in the PopTracker pack, not for logic adjustments. For logic adjustments use the appropriate form."
   - type: textarea
     id: what-feature
     attributes:
