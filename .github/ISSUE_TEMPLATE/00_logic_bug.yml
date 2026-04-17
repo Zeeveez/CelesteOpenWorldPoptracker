@@ -4,7 +4,6 @@ title: "[Logic Bug]: "
 labels: ["bug", "logic"]
 assignees:
   - zeeveez
-type: bug
 body:
   - type: markdown
     attributes:
