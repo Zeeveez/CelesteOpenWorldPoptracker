@@ -14,7 +14,6 @@ body:
       label: Chapter
       description: What chapter is the issue in?
       options:
-        - None
         - 0 - Prologue
         - 1 - Forsaken City
         - 2 - Old Site
