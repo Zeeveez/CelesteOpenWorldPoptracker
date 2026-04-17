@@ -14,7 +14,6 @@ body:
       label: Chapter
       description: What chapter is the issue in?
       options:
-        - Choose...
         - 0 - Prologue
         - 1 - Forsaken City
         - 2 - Old Site
@@ -26,7 +25,6 @@ body:
         - 8 - Epilogue
         - 9 - Core
         - 10 - Farewell
-      default: 0
     validations:
       required: true
   - type: input
