@@ -61,10 +61,10 @@ body:
     id: destination
     attributes:
       label: Ending Room/Location
-      description: What room or ambiguous location is the destination?
+      description: What room or (if for example there are multiple berries) location is the destination?
       placeholder: e.g. b-02, Strawberry 2
     validations:
-      required: true
+      required: false
   - type: textarea
     id: required-items
     attributes:
