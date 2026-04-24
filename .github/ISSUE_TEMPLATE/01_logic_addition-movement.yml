@@ -77,21 +77,28 @@ body:
     id: multi-room
     attributes:
       label: Multi-Room Strat
-      description: Does the logic require multi-room tech to perform?
+      description: Does the logic require multi-room tech to perform (e.g. movement across a screen transition)?
       options:
         - label: The logic requires multi-room tech to perform
+  - type: textarea
+    id: how-to-perform
+    attributes:
+      label: How do you perform this logic?
+      description: Provide steps to perform the logic in question including e.g. when dashes are required, what tech is required, etc.
+    validations:
+      required: true
   - type: input
     id: video-link
     attributes:
-      label: Logic video
-      description: Unless it is self-evident, ideally provide a video link of the logic being added to prove that it's doable.
+      label: Logic video (for link based videos, e.g. YouTube)
+      description: Unless it is self-evident, ideally provide a video link of the logic being added to prove that it's doable. If a video is supplied here, there is no need to upload a video.
     validations:
       required: false
   - type: upload
     id: video
     attributes:
-      label: Logic video
-      description: Unless it is self-evident, ideally upload a video of the logic being added to prove that it's doable.
+      label: Logic video (for uploading videos)
+      description: Unless it is self-evident, ideally upload a video of the logic being added to prove that it's doable. If a video is supplied here, there is no need to provide a video link.
     validations:
       required: false
   - type: checkboxes
