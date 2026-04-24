@@ -77,7 +77,7 @@ body:
     id: multi-room
     attributes:
       label: Multi-Room Strat
-      description: Does the logic require multi-room tech to perform (e.g. movement across a screen transition)?
+      description: Does the logic require multi-room tech to perform (i.e. movement across a screen transition, including dash refreshes or speed chains)?
       options:
         - label: The logic requires multi-room tech to perform
   - type: textarea
