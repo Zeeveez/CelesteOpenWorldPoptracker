@@ -37,5 +37,7 @@
             ]
         }
     },
-    "versions_url": "https://raw.githubusercontent.com/Zeeveez/CelesteOpenWorldPoptracker/master/versions.json"
+    "versions_url": "https://raw.githubusercontent.com/Zeeveez/CelesteOpenWorldPoptracker/master/versions.json",
+    "min_poptracker_version": "0.32.0",
+    "target_poptracker_version": "0.35.1"
 }
