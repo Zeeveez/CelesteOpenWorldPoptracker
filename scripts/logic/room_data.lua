@@ -8024,7 +8024,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room boss-05_east"] = {
 		{ "Reflection A - Room boss-05_west", {
-			{ 'dash_refills' }
+			{ 'dash_refills' },
+			{ 'custom' }
 		} },
 		{ "Reflection A - Room boss-06_west", { {  } } },
 	},
@@ -11876,7 +11877,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room a-00_east"] = {
 		{ "Core B - Room a-00_west", {
-			{ 'dash_refills' }
+			{ 'dash_refills' },
+			{ 'custom' }
 		} },
 		{ "Core B - Room a-01_west", { {  } } },
 	},
@@ -11886,7 +11888,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room a-01_east"] = {
 		{ "Core B - Room a-01_west", {
-			{ 'core_blocks' }
+			{ 'core_blocks' },
+			{ 'custom' }
 		} },
 		{ "Core B - Room a-02_west", { {  } } },
 	},
@@ -11959,7 +11962,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room b-01_east"] = {
 		{ "Core B - Room b-01_west", {
-			{ 'core_blocks', 'core_toggles', 'bumpers' }
+			{ 'core_blocks', 'core_toggles', 'bumpers' },
+			{ 'custom', 'core_blocks', 'core_toggles' }
 		} },
 		{ "Core B - Room b-02_west", { {  } } },
 	},

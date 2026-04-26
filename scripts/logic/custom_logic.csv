@@ -270,6 +270,7 @@ Reflection A - Room 14b_west,Reflection A - Room 14b_east,"coins,bumpers",,1
 Reflection A - Room 17_north-west,Reflection A - Room 17_north-east,,,1
 Reflection A - Room 17_north-east,Reflection A - Room 17_north-west,,,1
 Reflection A - Room boss-02_west,Reflection A - Room boss-02_east,,,1
+Reflection A - Room boss-05_west,Reflection A - Room boss-05_east,,,1
 Reflection A - Room boss-07_west,Reflection A - Room boss-07_east,,,1
 Reflection A - Room boss-07_east,Reflection A - Room boss-07_west,,,1
 Reflection A - Room boss-08_west,Reflection A - Room boss-08_east,,,1
@@ -389,6 +390,9 @@ Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,bumper
 Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,fire_ice_balls",,1
 Core A - Room d-10_west,Core A - Room d-10_east,"core_toggles",,1
 Core A - Room d-10b_west,Core A - Room d-10b_east,"dash_refills,core_toggles,core_blocks",,1
+Core B - Room a-00_west,Core B - Room a-00_east,,,1
+Core B - Room a-01_west,Core B - Room a-01_east,,,1
+Core B - Room b-01_west,Core B - Room b-01_east,"core_blocks,core_toggles",,1
 Farewell - Room intro-01-future_west,Farewell - Room intro-02-launch_bottom,,"DTS",1
 Farewell - Room intro-01-future_west,Farewell - Room intro-03-space_west,,"DTS",1
 Farewell - Room a-00_west,Farewell - Room a-00_east,,"DTS",1
