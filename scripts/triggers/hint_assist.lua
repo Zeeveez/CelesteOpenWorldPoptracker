@@ -18,11 +18,14 @@ function HintAssist()
     local best = 0
     local bests = {}
     for _, item in pairs(ITEM_MAPPING) do
-        item_code = item[1]
-        item_type = item[2]
+        local item_code = item[1]
+        local item_type = item[2]
+        local enable_flag = item[3]
+        local enabled = enable_flag == nil or Tracker:FindObjectForCode(enable_flag).Active
+
         local item_obj = Tracker:FindObjectForCode(item_code)
         if item_obj then
-            if item_obj.Type == 'toggle' and not item_obj.Active then
+            if item_obj.Type == 'toggle' and enabled and not item_obj.Active then
                 UpdateAccessCache(item_code)
                 local c = 0
                 for _, location in pairs(LOCATION_MAPPING) do
