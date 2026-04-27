@@ -9,10 +9,11 @@ local KEY_BASE = 0x6000
 local GEM_BASE = 0x6A00
 
 ITEM_MAPPING = {
+	-- [ID] = { code, type, hint assist enable flag }
 	[CELESTE_BASE + 0x00] = { "strawberry", "consumable", nil },
 	[CELESTE_BASE + 0x01] = { "raspberry", "consumable", nil },
 
-	[CELESTE_BASE + OTHER_BASE + 0x00] = { "grannyshousekeys", "consumable", nil },
+	[CELESTE_BASE + OTHER_BASE + 0x00] = { "grannyshousekeys", "toggle", "grannyshousekeys" }, -- Make grannyshousekeys rely on grannyshousekeys so they never get hint assisted
 
 	[CELESTE_BASE + TRAP_BASE + 0x00] = { "baldtrap", "consumable", nil },
 	[CELESTE_BASE + TRAP_BASE + 0x01] = { "literaturetrap", "consumable", nil },
