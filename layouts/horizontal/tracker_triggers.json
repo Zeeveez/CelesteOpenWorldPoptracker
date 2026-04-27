@@ -1,0 +1,19 @@
+{
+    "tracker_triggers": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "4,4",
+                "rows": [
+                    [
+                        "trigger_hint_assist"
+                    ]
+                ]
+            }
+        ]
+    }
+}

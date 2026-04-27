@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Hint Assist",
+        "type": "toggle",
+        "img": "images/icons/hint_assist.png",
+        "disabled_img_mods": "",
+        "codes": "trigger_hint_assist"
+    }
+]

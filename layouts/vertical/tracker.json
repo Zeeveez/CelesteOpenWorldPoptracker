@@ -41,11 +41,11 @@
                         },
                         {
                             "type": "group",
-                            "header": "*-sanity",
+                            "header": "Triggers",
                             "dock": "top",
                             "content": {
                                 "type": "layout",
-                                "key": "tracker_sanity"
+                                "key": "tracker_triggers"
                             }
                         }
                     ]
@@ -82,6 +82,15 @@
                                 "key": "tracker_goal"
                             }
                         },
+                        {
+                            "type": "group",
+                            "header": "*-sanity",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "tracker_sanity"
+                            }
+                        }
                     ]
                 }
             ]

@@ -6,6 +6,7 @@ function LoadHorizontalLayout()
 	Tracker:AddLayouts("layouts/horizontal/tracker_keys_gems.json")
 	Tracker:AddLayouts("layouts/horizontal/tracker_sanity.json")
 	Tracker:AddLayouts("layouts/horizontal/tracker_unlocks.json")
+	Tracker:AddLayouts("layouts/horizontal/tracker_triggers.json")
 end
 
 function LoadVerticalLayout()
@@ -16,4 +17,5 @@ function LoadVerticalLayout()
 	Tracker:AddLayouts("layouts/vertical/tracker_keys_gems.json")
 	Tracker:AddLayouts("layouts/vertical/tracker_sanity.json")
 	Tracker:AddLayouts("layouts/vertical/tracker_unlocks.json")
+	Tracker:AddLayouts("layouts/vertical/tracker_triggers.json")
 end

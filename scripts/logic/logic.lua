@@ -17,7 +17,7 @@ STAGE_ID_TO_GOAL_IDX = {
     ["10c"] = 8
 }
 
-function UpdateAccessibleItems()
+function UpdateAccessibleItems(test_item)
     in_logic_item_cache = {}
     out_of_logic_item_cache = {}
     for _, item_location in ipairs(ITEM_LOCATIONS) do
@@ -28,23 +28,23 @@ function UpdateAccessibleItems()
         
         if only_no_keysanity then
             if not Tracker:FindObjectForCode("keysanity").Active and Tracker:FindObjectForCode("smart_keys").Active then
-                out_of_logic_item_cache[item] = CanAccessLocation(location, {}, true, out_of_logic_item_cache)
+                out_of_logic_item_cache[item] = CanAccessLocation(location, {}, true, out_of_logic_item_cache, test_item)
             end
         elseif only_no_gemsanity then
             if not Tracker:FindObjectForCode("gemsanity").Active and Tracker:FindObjectForCode("smart_gems").Active then
-                out_of_logic_item_cache[item] = CanAccessLocation(location, {}, true, out_of_logic_item_cache)
+                out_of_logic_item_cache[item] = CanAccessLocation(location, {}, true, out_of_logic_item_cache, test_item)
             end
         else
-            in_logic_item_cache[item] = CanAccessLocation(location, {}, false, in_logic_item_cache)
-            out_of_logic_item_cache[item] = CanAccessLocation(location, {}, true, out_of_logic_item_cache)
+            in_logic_item_cache[item] = CanAccessLocation(location, {}, false, in_logic_item_cache, test_item)
+            out_of_logic_item_cache[item] = CanAccessLocation(location, {}, true, out_of_logic_item_cache, test_item)
         end
     end
 end
 
-function UpdateAccessCache()
-    if item_cache_stale then
+function UpdateAccessCache(test_item)
+    if item_cache_stale or test_item then
         item_cache_stale = false
-        UpdateAccessibleItems()
+        UpdateAccessibleItems(test_item)
     end
 end
 function InvalidateItemCache()
@@ -52,7 +52,7 @@ function InvalidateItemCache()
 end
 ScriptHost:AddWatchForCode("StateChanged", "*", InvalidateItemCache)
 
-function MeetsRequirements(possible_requirements, seen_rooms, include_custom, accessible_items)
+function MeetsRequirements(possible_requirements, seen_rooms, include_custom, accessible_items, test_item)
     for _, item_code in ipairs(possible_requirements) do
         -- If doing a no-custom check and custom found, return false
         if item_code == 'custom' then
@@ -68,7 +68,7 @@ function MeetsRequirements(possible_requirements, seen_rooms, include_custom, ac
 
         local item_count = Tracker:ProviderCountForCode(search_code)
             
-        local has = item_count ~= 0 or accessible_items[search_code]
+        local has = item_count ~= 0 or accessible_items[search_code] or search_code == test_item
         if dont_want then
             if has then
                 return false
@@ -83,20 +83,20 @@ function MeetsRequirements(possible_requirements, seen_rooms, include_custom, ac
     return true
 end
 
-function MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, include_custom, accessible_items)
+function MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, include_custom, accessible_items, test_item)
     if #list_of_possible_requirements == 0 then
         return true
     end
 
     for _, possible_requirements in ipairs(list_of_possible_requirements) do
-        if MeetsRequirements(possible_requirements, seen_rooms, include_custom, accessible_items) then
+        if MeetsRequirements(possible_requirements, seen_rooms, include_custom, accessible_items, test_item) then
             return true
         end
     end
     return false
 end
 
-function CanAccessLocation(location_name, seen_rooms, include_custom, accessible_items)
+function CanAccessLocation(location_name, seen_rooms, include_custom, accessible_items, test_item)
     local queue = {}
     table.insert(queue, location_name)
 
@@ -117,7 +117,7 @@ function CanAccessLocation(location_name, seen_rooms, include_custom, accessible
         for _, possible_room_requirements in ipairs(access_logic) do
             local previous_room = possible_room_requirements[1]
             local list_of_possible_requirements = possible_room_requirements[2]
-            if MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, include_custom, accessible_items) then
+            if MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, include_custom, accessible_items, test_item) then
                 table.insert(queue, previous_room)
             end
         end
@@ -127,12 +127,12 @@ function CanAccessLocation(location_name, seen_rooms, include_custom, accessible
     return false
 end
 
-function CanAccess(location_name)
+function CanAccess(location_name, test_item)
     UpdateAccessCache()
-    if CanAccessLocation(location_name, {}, false, in_logic_item_cache) then
+    if CanAccessLocation(location_name, {}, false, in_logic_item_cache, test_item) then
         return true -- In logic
     end
-    if Tracker:FindObjectForCode("show_out_of_logic").Active and CanAccessLocation(location_name, {}, true, out_of_logic_item_cache) then
+    if Tracker:FindObjectForCode("show_out_of_logic").Active and CanAccessLocation(location_name, {}, true, out_of_logic_item_cache, test_item) then
         return 5 -- Sequence break - Custom Logic
     end
     return false
@@ -154,3 +154,5 @@ end
 function HasFarewellAccess()
     return not (not HasChapterAccess("10a") or not HasChapterAccess("10b") or not HasChapterAccess("10c"))
 end
+
+require("scripts/triggers/hint_assist")

@@ -74,6 +74,15 @@
                                 "type": "layout",
                                 "key": "tracker_sanity"
                             }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Triggers",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "tracker_triggers"
+                            }
                         }
                     ]
                 }
