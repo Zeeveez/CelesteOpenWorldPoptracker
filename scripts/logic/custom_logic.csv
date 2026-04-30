@@ -357,7 +357,7 @@ The Summit A - Room f-08b_west,The Summit A - Room f-08b_east,,,1
 The Summit A - Room f-08b_east,The Summit A - Room f-08b_west,,,1
 The Summit A - Room f-08b_east,The Summit A - Room f-08b Strawberry,,,1
 The Summit A - Room f-08d_west,The Summit A - Room f-08d_east,"dash_switches",,1
-The Summit A - Room f-08c_west,The Summit A - Room f-08c_east,"swap_blocks",,1
+The Summit A - Room f-08c_west,The Summit A - Room f-08c_east,,,1
 The Summit A - Room f-10_west,The Summit A - Room f-10_east,,,1
 The Summit A - Room f-10b_west,The Summit A - Room f-10b_east,"dash_refills",,1
 The Summit A - Room f-11_bottom,The Summit A - Room f-11_top,"badeline_boosters,swap_blocks,red_boosters",,1

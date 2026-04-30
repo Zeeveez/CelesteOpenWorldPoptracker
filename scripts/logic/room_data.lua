@@ -10380,7 +10380,7 @@ LOCATION_ACCESS_LOGIC = {
 	["The Summit A - Room f-08c_east"] = {
 		{ "The Summit A - Room f-08c_west", {
 			{ 'swap_blocks', 'dash_refills' },
-			{ 'custom', 'swap_blocks' }
+			{ 'custom' }
 		} },
 	},
 	["The Summit A - Room f-08c Strawberry"] = {
