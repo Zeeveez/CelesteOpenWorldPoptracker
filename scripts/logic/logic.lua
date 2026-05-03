@@ -132,7 +132,7 @@ function CanAccess(location_name, test_item)
     if CanAccessLocation(location_name, {}, false, in_logic_item_cache, test_item) then
         return true -- In logic
     end
-    if Tracker:FindObjectForCode("show_out_of_logic").Active and CanAccessLocation(location_name, {}, true, out_of_logic_item_cache, test_item) then
+    if Tracker:FindObjectForCode("show_out_of_logic").Active and CanAccessLocation(location_name, {}, Tracker:FindObjectForCode("show_custom_logic").Active, out_of_logic_item_cache, test_item) then
         return 5 -- Sequence break - Custom Logic
     end
     return false

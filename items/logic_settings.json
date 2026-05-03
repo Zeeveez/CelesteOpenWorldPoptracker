@@ -7,6 +7,13 @@
         "codes": "show_out_of_logic"
     },
     {
+        "name": "Custom Logic",
+        "type": "toggle",
+        "img": "images/icons/show-custom-logic.png",
+        "initial_active_state": true,
+        "codes": "show_custom_logic"
+    },
+    {
         "name": "Smart Keys",
         "type": "toggle",
         "img": "images/icons/items/keys_gems/key.png",
