@@ -36,7 +36,7 @@ function UpdateAccessibleItems(test_item)
             end
         else
             in_logic_item_cache[item] = CanAccessLocation(location, {}, false, in_logic_item_cache, test_item)
-            out_of_logic_item_cache[item] = CanAccessLocation(location, {}, true, out_of_logic_item_cache, test_item)
+            out_of_logic_item_cache[item] = CanAccessLocation(location, {}, Tracker:FindObjectForCode("show_custom_logic").Active, out_of_logic_item_cache, test_item)
         end
     end
 end
