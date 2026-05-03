@@ -1,29 +1,5 @@
 [
     {
-        "name": "Old Site A - Level Clear",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Old Site A - Level Clear"
-                ]
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "2_a_2",
-                "x": 3077,
-                "y": 835,
-                "size": 53
-            },
-            {
-                "map": "2_a_2_end_6",
-                "x": 205,
-                "y": 131,
-                "size": 25
-            }
-        ]
-    },
-    {
         "name": "Old Site A - Cassette",
         "sections": [
             {
@@ -67,6 +43,30 @@
                 "map": "2_a_0_s2",
                 "x": 223,
                 "y": 111,
+                "size": 25
+            }
+        ]
+    },
+    {
+        "name": "Old Site A - Level Clear",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Old Site A - Level Clear"
+                ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "2_a_2",
+                "x": 3077,
+                "y": 835,
+                "size": 53
+            },
+            {
+                "map": "2_a_2_end_6",
+                "x": 205,
+                "y": 131,
                 "size": 25
             }
         ]

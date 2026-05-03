@@ -1,29 +1,5 @@
 [
     {
-        "name": "Golden Ridge A - Level Clear",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Golden Ridge A - Level Clear"
-                ]
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "4_a_3",
-                "x": 3440,
-                "y": 444,
-                "size": 68
-            },
-            {
-                "map": "4_a_3_d-10",
-                "x": 175,
-                "y": 804,
-                "size": 25
-            }
-        ]
-    },
-    {
         "name": "Golden Ridge A - Cassette",
         "sections": [
             {
@@ -67,6 +43,30 @@
                 "map": "4_a_1_b-sec",
                 "x": 159,
                 "y": 49,
+                "size": 25
+            }
+        ]
+    },
+    {
+        "name": "Golden Ridge A - Level Clear",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Golden Ridge A - Level Clear"
+                ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "4_a_3",
+                "x": 3440,
+                "y": 444,
+                "size": 68
+            },
+            {
+                "map": "4_a_3_d-10",
+                "x": 175,
+                "y": 804,
                 "size": 25
             }
         ]

@@ -5,9 +5,13 @@
             {
                 "title": "Summary",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "summary"
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "tabbed_summary"
+                        }
                     ]
                 }
             },

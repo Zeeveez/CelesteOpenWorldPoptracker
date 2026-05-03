@@ -4,5 +4,17 @@
         "location_size": 50,
         "location_border_thickness": 2,
         "img": "images/maps/summary.png"
+    },
+    {
+        "name": "berry_summary",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/berry_summary.png"
+    },
+    {
+        "name": "room_summary",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/room_summary.png"
     }
 ]

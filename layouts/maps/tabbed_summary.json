@@ -1,0 +1,34 @@
+{
+    "tabbed_summary": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "All",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "summary"
+                    ]
+                }
+            },
+            {
+                "title": "Berries",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "berry_summary"
+                    ]
+                }
+            },
+            {
+                "title": "Rooms",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "room_summary"
+                    ]
+                }
+            }
+        ]
+    }
+}

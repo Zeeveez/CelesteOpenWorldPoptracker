@@ -1,29 +1,5 @@
 [
     {
-        "name": "The Summit A - Level Clear",
-        "sections": [
-            {
-                "access_rules": [
-                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Level Clear"
-                ]
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "7_a_6",
-                "x": 890,
-                "y": 127,
-                "size": 68
-            },
-            {
-                "map": "7_a_6_g-03",
-                "x": 1828,
-                "y": 391,
-                "size": 54
-            }
-        ]
-    },
-    {
         "name": "The Summit A - Cassette",
         "sections": [
             {
@@ -44,6 +20,30 @@
                 "x": 1055,
                 "y": 39,
                 "size": 25
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - Level Clear",
+        "sections": [
+            {
+                "access_rules": [
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - Level Clear"
+                ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7_a_6",
+                "x": 890,
+                "y": 127,
+                "size": 68
+            },
+            {
+                "map": "7_a_6_g-03",
+                "x": 1828,
+                "y": 391,
+                "size": 54
             }
         ]
     },

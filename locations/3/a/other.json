@@ -1,24 +1,24 @@
 [
     {
-        "name": "Celestial Resort A - Level Clear",
+        "name": "Celestial Resort A - Crystal Heart",
         "sections": [
             {
                 "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Level Clear"
+                    "^$CanAccess|Celestial Resort A - Crystal Heart"
                 ]
             }
         ],
         "map_locations": [
             {
-                "map": "3_a_3",
-                "x": 3912,
-                "y": 43,
-                "size": 68
+                "map": "3_a_1",
+                "x": 1119,
+                "y": 320,
+                "size": 32
             },
             {
-                "map": "3_a_3_roof07",
-                "x": 177,
-                "y": 73,
+                "map": "3_a_1_11-c",
+                "x": 159,
+                "y": 136,
                 "size": 25
             }
         ]
@@ -48,25 +48,25 @@
         ]
     },
     {
-        "name": "Celestial Resort A - Crystal Heart",
+        "name": "Celestial Resort A - Level Clear",
         "sections": [
             {
                 "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Crystal Heart"
+                    "^$CanAccess|Celestial Resort A - Level Clear"
                 ]
             }
         ],
         "map_locations": [
             {
-                "map": "3_a_1",
-                "x": 1119,
-                "y": 320,
-                "size": 32
+                "map": "3_a_3",
+                "x": 3912,
+                "y": 43,
+                "size": 68
             },
             {
-                "map": "3_a_1_11-c",
-                "x": 159,
-                "y": 136,
+                "map": "3_a_3_roof07",
+                "x": 177,
+                "y": 73,
                 "size": 25
             }
         ]

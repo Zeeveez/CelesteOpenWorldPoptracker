@@ -3,6 +3,7 @@ import glob
 import math
 import csv
 import os
+import itertools
 
 def load_csv(path):
     with open(path, newline='') as csvfile:
@@ -28,6 +29,13 @@ MAP_MARKER_ZOOM_THRESHOLD = 1500
 SUMMARY_CHAPTER_OFFSET = 135
 SUMMARY_CHECKPOINT_SIZE = 10
 SUMMARY_CHECKPOINT_GAP = 15
+SPECIFIC_SUMMARY_SIZE = 10
+SPECIFIC_SUMMARY_GAP = SPECIFIC_SUMMARY_SIZE + 5
+SPECIFIC_SUMMARY_CHECKPOINT_GAP = SPECIFIC_SUMMARY_GAP + 15
+SPECIFIC_SUMMARY_CHAPTER_GAP = 50
+SPECIFIC_SUMMARY_MAX_WIDTH = 600
+SPECIFIC_SUMMARY_START_X = 60
+SPECIFIC_SUMMARY_START_Y = 25
 SUMMARY_TYPE_SETS = (
     {
         'name': 'Level Clear',
@@ -414,7 +422,51 @@ def make_summary(data, _chapter):
     }
     return [summary]
 
+def make_specific_summary_obj(data, item_type):
+    res = []
+    items = list(map(lambda g: list(g[1]), itertools.groupby(filter(lambda r: r['Type'] == item_type, data), lambda r: int(r['Chapter']) * 1000 + ord(r['Side']))))
+
+    chapter_y = SPECIFIC_SUMMARY_START_Y
+    for chapter in items:
+        checkpoints = list(map(lambda g: list(g[1]), itertools.groupby(chapter, lambda i: i['Checkpoint'])))
+
+        checkpoint_x = SPECIFIC_SUMMARY_START_X
+        for checkpoint in checkpoints:
+
+            max_x = checkpoint_x
+            for i, item in enumerate(checkpoint):
+                x = checkpoint_x + i  * SPECIFIC_SUMMARY_GAP
+                max_x = max(max_x, x)
+                y = chapter_y
+                res += [{
+                    'name': f'{item['Name']}',
+                    'map_locations': [{
+                        'map': f'{item_type}_summary',
+                        'x': x,
+                        'y': y,
+                        'size': SPECIFIC_SUMMARY_SIZE,
+                    }],
+                    'sections': [{
+                        'name': item['Name'],
+                        'ref': f'{item['Name']}/'
+                    }]
+                }]
+
+            checkpoint_x = max_x + SPECIFIC_SUMMARY_CHECKPOINT_GAP
+        chapter_y += SPECIFIC_SUMMARY_CHAPTER_GAP
+    
+    return res
+
+def make_specific_summary(data, item_type, label):
+    return [{
+        'name': f'{label} Summary',
+        'children': make_specific_summary_obj(data, item_type)
+    }]
+
 data = load_csv('./locations/locations.csv')
+data.sort(key=lambda r: int(r['Checkpoint']))
+data.sort(key=lambda r: r['Side'])
+data.sort(key=lambda r: int(r['Chapter']))
 
 for chapter in range(11):
     for side in ('a', 'b', 'c'):
@@ -424,3 +476,5 @@ for chapter in range(11):
                 write_file(file_dat, f'./locations/{chapter}/{side}/{type_set[0]}.json')
     summary_dat = make_summary(data, chapter)
     write_file(summary_dat, f'./locations/{chapter}/summary.json')
+write_file(make_specific_summary(data, 'berry', 'Berry'), f'./locations/berry_summary.json')
+write_file(make_specific_summary(data, 'room', 'Room'), f'./locations/room_summary.json')

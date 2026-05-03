@@ -1,0 +1,2999 @@
+[
+    {
+        "name": "Berry Summary",
+        "children": [
+            {
+                "name": "Forsaken City A - Room 2 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 2 Strawberry",
+                        "ref": "Forsaken City A - Room 2 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 3 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 3 Strawberry",
+                        "ref": "Forsaken City A - Room 3 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 3b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 90,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 3b Strawberry",
+                        "ref": "Forsaken City A - Room 3b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 5 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 105,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 5 Strawberry",
+                        "ref": "Forsaken City A - Room 5 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 5z Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 120,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 5z Strawberry",
+                        "ref": "Forsaken City A - Room 5z Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 5a Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 135,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 5a Strawberry",
+                        "ref": "Forsaken City A - Room 5a Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 6 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 165,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 6 Strawberry",
+                        "ref": "Forsaken City A - Room 6 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 7zb Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 180,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 7zb Strawberry",
+                        "ref": "Forsaken City A - Room 7zb Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room s1 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 195,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room s1 Strawberry",
+                        "ref": "Forsaken City A - Room s1 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 7z Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 210,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 7z Strawberry",
+                        "ref": "Forsaken City A - Room 7z Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 8zb Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 225,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 8zb Strawberry",
+                        "ref": "Forsaken City A - Room 8zb Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 7a Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 240,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 7a Strawberry",
+                        "ref": "Forsaken City A - Room 7a Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 9z Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 255,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 9z Strawberry",
+                        "ref": "Forsaken City A - Room 9z Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 8b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 270,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 8b Strawberry",
+                        "ref": "Forsaken City A - Room 8b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 9 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 285,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 9 Strawberry",
+                        "ref": "Forsaken City A - Room 9 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 9b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 315,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 9b Strawberry",
+                        "ref": "Forsaken City A - Room 9b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 9c Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 330,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 9c Strawberry",
+                        "ref": "Forsaken City A - Room 9c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 10zb Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 345,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 10zb Strawberry",
+                        "ref": "Forsaken City A - Room 10zb Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 11 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 360,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 11 Strawberry",
+                        "ref": "Forsaken City A - Room 11 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 12z Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 375,
+                        "y": 25,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Room 12z Strawberry",
+                        "ref": "Forsaken City A - Room 12z Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room 1 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 1 Strawberry",
+                        "ref": "Old Site A - Room 1 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room d0 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room d0 Strawberry",
+                        "ref": "Old Site A - Room d0 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room d3 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 90,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room d3 Strawberry",
+                        "ref": "Old Site A - Room d3 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room d2 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 105,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room d2 Strawberry 1",
+                        "ref": "Old Site A - Room d2 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room d2 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 120,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room d2 Strawberry 2",
+                        "ref": "Old Site A - Room d2 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room d1 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 135,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room d1 Strawberry",
+                        "ref": "Old Site A - Room d1 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room d6 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 150,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room d6 Strawberry",
+                        "ref": "Old Site A - Room d6 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room d4 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 165,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room d4 Strawberry",
+                        "ref": "Old Site A - Room d4 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room d5 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 180,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room d5 Strawberry",
+                        "ref": "Old Site A - Room d5 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room 4 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 210,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 4 Strawberry",
+                        "ref": "Old Site A - Room 4 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room 5 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 225,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 5 Strawberry",
+                        "ref": "Old Site A - Room 5 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room 8 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 240,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 8 Strawberry",
+                        "ref": "Old Site A - Room 8 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room 9 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 255,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 9 Strawberry",
+                        "ref": "Old Site A - Room 9 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room 9b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 270,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 9b Strawberry",
+                        "ref": "Old Site A - Room 9b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room 10 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 285,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 10 Strawberry",
+                        "ref": "Old Site A - Room 10 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room 12c Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 300,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 12c Strawberry",
+                        "ref": "Old Site A - Room 12c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room 12d Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 315,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room 12d Strawberry",
+                        "ref": "Old Site A - Room 12d Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room end_3c Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 345,
+                        "y": 75,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room end_3c Strawberry",
+                        "ref": "Old Site A - Room end_3c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room s2 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room s2 Strawberry 1",
+                        "ref": "Celestial Resort A - Room s2 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room s2 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room s2 Strawberry 2",
+                        "ref": "Celestial Resort A - Room s2 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room s3 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 90,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room s3 Strawberry",
+                        "ref": "Celestial Resort A - Room s3 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 00-a Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 105,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 00-a Strawberry",
+                        "ref": "Celestial Resort A - Room 00-a Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 00-b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 120,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 00-b Strawberry",
+                        "ref": "Celestial Resort A - Room 00-b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 04-b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 135,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 04-b Strawberry",
+                        "ref": "Celestial Resort A - Room 04-b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 06-a Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 150,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 06-a Strawberry",
+                        "ref": "Celestial Resort A - Room 06-a Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 07-b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 165,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 07-b Strawberry",
+                        "ref": "Celestial Resort A - Room 07-b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 06-b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 180,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 06-b Strawberry",
+                        "ref": "Celestial Resort A - Room 06-b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 06-c Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 195,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 06-c Strawberry",
+                        "ref": "Celestial Resort A - Room 06-c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 05-c Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 210,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 05-c Strawberry",
+                        "ref": "Celestial Resort A - Room 05-c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 12-y Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 240,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 12-y Strawberry",
+                        "ref": "Celestial Resort A - Room 12-y Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 10-y Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 255,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 10-y Strawberry",
+                        "ref": "Celestial Resort A - Room 10-y Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 12-c Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 270,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 12-c Strawberry",
+                        "ref": "Celestial Resort A - Room 12-c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 11-d Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 285,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 11-d Strawberry",
+                        "ref": "Celestial Resort A - Room 11-d Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 13-b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 300,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 13-b Strawberry",
+                        "ref": "Celestial Resort A - Room 13-b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 13-x Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 315,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 13-x Strawberry",
+                        "ref": "Celestial Resort A - Room 13-x Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 08-x Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 330,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 08-x Strawberry",
+                        "ref": "Celestial Resort A - Room 08-x Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 06-d Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 360,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 06-d Strawberry",
+                        "ref": "Celestial Resort A - Room 06-d Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 04-c Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 375,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 04-c Strawberry",
+                        "ref": "Celestial Resort A - Room 04-c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 03-b Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 390,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 03-b Strawberry 1",
+                        "ref": "Celestial Resort A - Room 03-b Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room 03-b Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 405,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room 03-b Strawberry 2",
+                        "ref": "Celestial Resort A - Room 03-b Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room roof03 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 435,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room roof03 Strawberry",
+                        "ref": "Celestial Resort A - Room roof03 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room roof06 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 450,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room roof06 Strawberry 1",
+                        "ref": "Celestial Resort A - Room roof06 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room roof06 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 465,
+                        "y": 125,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Room roof06 Strawberry 2",
+                        "ref": "Celestial Resort A - Room roof06 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room a-01x Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-01x Strawberry",
+                        "ref": "Golden Ridge A - Room a-01x Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room a-02 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-02 Strawberry",
+                        "ref": "Golden Ridge A - Room a-02 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room a-03 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 90,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-03 Strawberry",
+                        "ref": "Golden Ridge A - Room a-03 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room a-04 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 105,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-04 Strawberry",
+                        "ref": "Golden Ridge A - Room a-04 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room a-06 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 120,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-06 Strawberry",
+                        "ref": "Golden Ridge A - Room a-06 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room a-07 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 135,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-07 Strawberry",
+                        "ref": "Golden Ridge A - Room a-07 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room a-10 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 150,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-10 Strawberry",
+                        "ref": "Golden Ridge A - Room a-10 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room a-09 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 165,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-09 Strawberry",
+                        "ref": "Golden Ridge A - Room a-09 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room b-01 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 195,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-01 Strawberry 1",
+                        "ref": "Golden Ridge A - Room b-01 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room b-01 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 210,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-01 Strawberry 2",
+                        "ref": "Golden Ridge A - Room b-01 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room b-04 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 225,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-04 Strawberry",
+                        "ref": "Golden Ridge A - Room b-04 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room b-07 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 240,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-07 Strawberry",
+                        "ref": "Golden Ridge A - Room b-07 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room b-03 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 255,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-03 Strawberry",
+                        "ref": "Golden Ridge A - Room b-03 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room b-02 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 270,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-02 Strawberry 1",
+                        "ref": "Golden Ridge A - Room b-02 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room b-02 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 285,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-02 Strawberry 2",
+                        "ref": "Golden Ridge A - Room b-02 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room b-secb Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 300,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-secb Strawberry",
+                        "ref": "Golden Ridge A - Room b-secb Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room b-08 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 315,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-08 Strawberry",
+                        "ref": "Golden Ridge A - Room b-08 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room c-00 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 345,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room c-00 Strawberry",
+                        "ref": "Golden Ridge A - Room c-00 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room c-01 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 360,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room c-01 Strawberry",
+                        "ref": "Golden Ridge A - Room c-01 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room c-05 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 375,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room c-05 Strawberry",
+                        "ref": "Golden Ridge A - Room c-05 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room c-06 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 390,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room c-06 Strawberry",
+                        "ref": "Golden Ridge A - Room c-06 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room c-06b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 405,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room c-06b Strawberry",
+                        "ref": "Golden Ridge A - Room c-06b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room c-08 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 420,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room c-08 Strawberry",
+                        "ref": "Golden Ridge A - Room c-08 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room c-10 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 435,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room c-10 Strawberry",
+                        "ref": "Golden Ridge A - Room c-10 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room d-00b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 465,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room d-00b Strawberry",
+                        "ref": "Golden Ridge A - Room d-00b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room d-01 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 480,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room d-01 Strawberry",
+                        "ref": "Golden Ridge A - Room d-01 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room d-04 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 495,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room d-04 Strawberry",
+                        "ref": "Golden Ridge A - Room d-04 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room d-07 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 510,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room d-07 Strawberry",
+                        "ref": "Golden Ridge A - Room d-07 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room d-09 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 525,
+                        "y": 175,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room d-09 Strawberry",
+                        "ref": "Golden Ridge A - Room d-09 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-00x Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-00x Strawberry",
+                        "ref": "Mirror Temple A - Room a-00x Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-01 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-01 Strawberry 1",
+                        "ref": "Mirror Temple A - Room a-01 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-01 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 90,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-01 Strawberry 2",
+                        "ref": "Mirror Temple A - Room a-01 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-02 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 105,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-02 Strawberry",
+                        "ref": "Mirror Temple A - Room a-02 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-03 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 120,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-03 Strawberry",
+                        "ref": "Mirror Temple A - Room a-03 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-04 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 135,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-04 Strawberry",
+                        "ref": "Mirror Temple A - Room a-04 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-05 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 150,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-05 Strawberry",
+                        "ref": "Mirror Temple A - Room a-05 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-06 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 165,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-06 Strawberry",
+                        "ref": "Mirror Temple A - Room a-06 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-07 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 180,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-07 Strawberry",
+                        "ref": "Mirror Temple A - Room a-07 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-11 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 195,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-11 Strawberry",
+                        "ref": "Mirror Temple A - Room a-11 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-15 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 210,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-15 Strawberry",
+                        "ref": "Mirror Temple A - Room a-15 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-14 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 225,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room a-14 Strawberry",
+                        "ref": "Mirror Temple A - Room a-14 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-18 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 255,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-18 Strawberry",
+                        "ref": "Mirror Temple A - Room b-18 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-01c Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 270,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-01c Strawberry",
+                        "ref": "Mirror Temple A - Room b-01c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-20 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 285,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-20 Strawberry 1",
+                        "ref": "Mirror Temple A - Room b-20 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-20 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 300,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-20 Strawberry 2",
+                        "ref": "Mirror Temple A - Room b-20 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-21 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 315,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-21 Strawberry",
+                        "ref": "Mirror Temple A - Room b-21 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-03 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 330,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-03 Strawberry",
+                        "ref": "Mirror Temple A - Room b-03 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-05 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 345,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-05 Strawberry",
+                        "ref": "Mirror Temple A - Room b-05 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-10 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 360,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-10 Strawberry",
+                        "ref": "Mirror Temple A - Room b-10 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-12 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 375,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-12 Strawberry",
+                        "ref": "Mirror Temple A - Room b-12 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-17 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 390,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-17 Strawberry 2",
+                        "ref": "Mirror Temple A - Room b-17 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-17 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 405,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-17 Strawberry 1",
+                        "ref": "Mirror Temple A - Room b-17 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room c-08 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 435,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room c-08 Strawberry",
+                        "ref": "Mirror Temple A - Room c-08 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room d-04 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 465,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room d-04 Strawberry 2",
+                        "ref": "Mirror Temple A - Room d-04 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room d-04 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 480,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room d-04 Strawberry 1",
+                        "ref": "Mirror Temple A - Room d-04 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room d-15 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 495,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room d-15 Strawberry 2",
+                        "ref": "Mirror Temple A - Room d-15 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room d-15 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 510,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room d-15 Strawberry 1",
+                        "ref": "Mirror Temple A - Room d-15 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room d-13 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 525,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room d-13 Strawberry",
+                        "ref": "Mirror Temple A - Room d-13 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room d-19 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 540,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room d-19 Strawberry",
+                        "ref": "Mirror Temple A - Room d-19 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room e-06 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 570,
+                        "y": 225,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room e-06 Strawberry",
+                        "ref": "Mirror Temple A - Room e-06 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room a-02b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room a-02b Strawberry",
+                        "ref": "The Summit A - Room a-02b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room a-04b Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room a-04b Strawberry 1",
+                        "ref": "The Summit A - Room a-04b Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room a-04b Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 90,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room a-04b Strawberry 2",
+                        "ref": "The Summit A - Room a-04b Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room a-05 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 105,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room a-05 Strawberry",
+                        "ref": "The Summit A - Room a-05 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room b-02 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 135,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-02 Strawberry",
+                        "ref": "The Summit A - Room b-02 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room b-02b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 150,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-02b Strawberry",
+                        "ref": "The Summit A - Room b-02b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room b-02e Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 165,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-02e Strawberry",
+                        "ref": "The Summit A - Room b-02e Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room b-04 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 180,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-04 Strawberry",
+                        "ref": "The Summit A - Room b-04 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room b-08 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 195,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-08 Strawberry",
+                        "ref": "The Summit A - Room b-08 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room b-09 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 210,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-09 Strawberry",
+                        "ref": "The Summit A - Room b-09 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room c-03b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 240,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-03b Strawberry",
+                        "ref": "The Summit A - Room c-03b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room c-05 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 255,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-05 Strawberry",
+                        "ref": "The Summit A - Room c-05 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room c-06b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 270,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-06b Strawberry",
+                        "ref": "The Summit A - Room c-06b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room c-07b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 285,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-07b Strawberry",
+                        "ref": "The Summit A - Room c-07b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room c-08 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 300,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-08 Strawberry",
+                        "ref": "The Summit A - Room c-08 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room c-09 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 315,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-09 Strawberry",
+                        "ref": "The Summit A - Room c-09 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room d-00 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 345,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room d-00 Strawberry",
+                        "ref": "The Summit A - Room d-00 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room d-01c Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 360,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room d-01c Strawberry",
+                        "ref": "The Summit A - Room d-01c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room d-01d Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 375,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room d-01d Strawberry",
+                        "ref": "The Summit A - Room d-01d Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room d-03 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 390,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room d-03 Strawberry",
+                        "ref": "The Summit A - Room d-03 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room d-04 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 405,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room d-04 Strawberry",
+                        "ref": "The Summit A - Room d-04 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room d-07 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 420,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room d-07 Strawberry",
+                        "ref": "The Summit A - Room d-07 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room d-08 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 435,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room d-08 Strawberry",
+                        "ref": "The Summit A - Room d-08 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room d-10b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 450,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room d-10b Strawberry",
+                        "ref": "The Summit A - Room d-10b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room e-02 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 480,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room e-02 Strawberry",
+                        "ref": "The Summit A - Room e-02 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room e-05 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 495,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room e-05 Strawberry",
+                        "ref": "The Summit A - Room e-05 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room e-07 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 510,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room e-07 Strawberry",
+                        "ref": "The Summit A - Room e-07 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room e-09 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 525,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room e-09 Strawberry",
+                        "ref": "The Summit A - Room e-09 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room e-11 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 540,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room e-11 Strawberry",
+                        "ref": "The Summit A - Room e-11 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room e-12 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 555,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room e-12 Strawberry",
+                        "ref": "The Summit A - Room e-12 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room e-10 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 570,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room e-10 Strawberry",
+                        "ref": "The Summit A - Room e-10 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room e-13 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 585,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room e-13 Strawberry",
+                        "ref": "The Summit A - Room e-13 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room f-00 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 615,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room f-00 Strawberry",
+                        "ref": "The Summit A - Room f-00 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room f-01 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 630,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room f-01 Strawberry",
+                        "ref": "The Summit A - Room f-01 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room f-07 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 645,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room f-07 Strawberry",
+                        "ref": "The Summit A - Room f-07 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room f-08b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 660,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room f-08b Strawberry",
+                        "ref": "The Summit A - Room f-08b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room f-08c Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 675,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room f-08c Strawberry",
+                        "ref": "The Summit A - Room f-08c Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room f-11 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 690,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room f-11 Strawberry 1",
+                        "ref": "The Summit A - Room f-11 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room f-11 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 705,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room f-11 Strawberry 2",
+                        "ref": "The Summit A - Room f-11 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room f-11 Strawberry 3",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 720,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room f-11 Strawberry 3",
+                        "ref": "The Summit A - Room f-11 Strawberry 3/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room g-00b Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 750,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room g-00b Strawberry 1",
+                        "ref": "The Summit A - Room g-00b Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room g-00b Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 765,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room g-00b Strawberry 2",
+                        "ref": "The Summit A - Room g-00b Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room g-00b Strawberry 3",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 780,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room g-00b Strawberry 3",
+                        "ref": "The Summit A - Room g-00b Strawberry 3/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room g-01 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 795,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room g-01 Strawberry 1",
+                        "ref": "The Summit A - Room g-01 Strawberry 1/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room g-01 Strawberry 2",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 810,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room g-01 Strawberry 2",
+                        "ref": "The Summit A - Room g-01 Strawberry 2/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room g-01 Strawberry 3",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 825,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room g-01 Strawberry 3",
+                        "ref": "The Summit A - Room g-01 Strawberry 3/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room g-03 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 840,
+                        "y": 275,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room g-03 Strawberry",
+                        "ref": "The Summit A - Room g-03 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Room b-06 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 325,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room b-06 Strawberry",
+                        "ref": "Core A - Room b-06 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Room c-00b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 90,
+                        "y": 325,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room c-00b Strawberry",
+                        "ref": "Core A - Room c-00b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Room c-02 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 105,
+                        "y": 325,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room c-02 Strawberry",
+                        "ref": "Core A - Room c-02 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Room c-03b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 120,
+                        "y": 325,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room c-03b Strawberry",
+                        "ref": "Core A - Room c-03b Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Room d-06 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 150,
+                        "y": 325,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Room d-06 Strawberry",
+                        "ref": "Core A - Room d-06 Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Moon Berry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 375,
+                        "size": 10
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Moon Berry",
+                        "ref": "Farewell - Moon Berry/"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,31 +1,5 @@
 [
     {
-        "name": "The Summit A - 2500 M Key",
-        "sections": [
-            {
-                "access_rules": [
-                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - 2500 M Key"
-                ]
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "7_a_5",
-                "x": 2356,
-                "y": 1091,
-                "size": 68,
-                "shape": "trapezoid"
-            },
-            {
-                "map": "7_a_5_f-07",
-                "x": 279,
-                "y": 39,
-                "size": 25,
-                "shape": "trapezoid"
-            }
-        ]
-    },
-    {
         "name": "The Summit A - Gem 1",
         "sections": [
             {
@@ -150,6 +124,32 @@
                 "map": "7_a_4_e-01c",
                 "x": 158,
                 "y": 111,
+                "size": 25,
+                "shape": "trapezoid"
+            }
+        ]
+    },
+    {
+        "name": "The Summit A - 2500 M Key",
+        "sections": [
+            {
+                "access_rules": [
+                    "$HasChapterAccess|7a,^$CanAccess|The Summit A - 2500 M Key"
+                ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "7_a_5",
+                "x": 2356,
+                "y": 1091,
+                "size": 68,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "7_a_5_f-07",
+                "x": 279,
+                "y": 39,
                 "size": 25,
                 "shape": "trapezoid"
             }

@@ -141,3 +141,6 @@ Tracker:AddLocations("locations/10/a/keys_gems.json")
 Tracker:AddLocations("locations/10/a/other.json")
 Tracker:AddLocations("locations/10/a/rooms.json")
 Tracker:AddLocations("locations/10/summary.json")
+
+Tracker:AddLocations("locations/berry_summary.json")
+Tracker:AddLocations("locations/room_summary.json")

@@ -1,5 +1,35 @@
 [
     {
+        "name": "Core A - Car",
+        "sections": [
+            {
+                "access_rules": [
+                    "$HasChapterAccess|9a,^$CanAccess|Core A - Car"
+                ]
+            }
+        ],
+        "visibility_rules": [
+            "include_core,carsanity",
+            "goal_area_core_a_side,carsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "9_a_0",
+                "x": 186,
+                "y": 350,
+                "size": 32,
+                "shape": "trapezoid"
+            },
+            {
+                "map": "9_a_0_0x",
+                "x": 186,
+                "y": 150,
+                "size": 25,
+                "shape": "trapezoid"
+            }
+        ]
+    },
+    {
         "name": "Core A - Level Clear",
         "sections": [
             {
@@ -52,36 +82,6 @@
                 "x": 903,
                 "y": 47,
                 "size": 25
-            }
-        ]
-    },
-    {
-        "name": "Core A - Car",
-        "sections": [
-            {
-                "access_rules": [
-                    "$HasChapterAccess|9a,^$CanAccess|Core A - Car"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "include_core,carsanity",
-            "goal_area_core_a_side,carsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "9_a_0",
-                "x": 186,
-                "y": 350,
-                "size": 32,
-                "shape": "trapezoid"
-            },
-            {
-                "map": "9_a_0_0x",
-                "x": 186,
-                "y": 150,
-                "size": 25,
-                "shape": "trapezoid"
             }
         ]
     }

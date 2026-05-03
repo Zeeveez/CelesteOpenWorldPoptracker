@@ -1,14 +1,17 @@
 function LoadSummaryOnlyMapLayout()
 	Tracker:AddLayouts("layouts/maps/tabbed_maps_summary.json")
+	Tracker:AddLayouts("layouts/maps/tabbed_summary.json")
 end
 
 function LoadChaptersMapLayout()
 	Tracker:AddLayouts("layouts/maps/tabbed_maps_chapters.json")
+	Tracker:AddLayouts("layouts/maps/tabbed_summary.json")
 	ImportChapterLayouts(false)
 end
 
 function LoadFullMapLayout()
 	Tracker:AddLayouts("layouts/maps/tabbed_maps_chapters.json")
+	Tracker:AddLayouts("layouts/maps/tabbed_summary.json")
 	ImportChapterLayouts(true)
 	ImportRoomLayouts()
 end
