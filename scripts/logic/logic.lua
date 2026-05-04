@@ -142,7 +142,7 @@ function CanAccess(location_name, test_item)
         return 5 -- Sequence break - Custom Logic
     end
 
-    if in_logic_item_cache["GOMODE"] or (out_of_logic_item_cache["GOMODE"] and Tracker:FindObjectForCode("show_out_of_logic").Active) then
+    if in_logic_item_cache["GOMODE"] or (out_of_logic_item_cache["GOMODE"] and Tracker:FindObjectForCode("show_out_of_logic").Active) and HaveStrawberries() then
         local keys = Tracker:FindObjectForCode("grannys_house_keys")
         keys.BadgeText = "GO"
         if in_logic_item_cache["GOMODE"] then
