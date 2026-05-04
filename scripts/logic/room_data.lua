@@ -12473,7 +12473,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room c-00_north-east"] = {
 		{ "Farewell - Room c-00_west", {
-			{ 'jellyfish', 'dash_refills' }
+			{ 'jellyfish', 'dash_refills' },
+			{ 'custom', 'jellyfish' }
 		} },
 		{ "Farewell - Room c-alt-00_west", { {  } } },
 	},
@@ -12483,7 +12484,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room c-00b_east"] = {
 		{ "Farewell - Room c-00b_west", {
-			{ 'jellyfish', 'springs' }
+			{ 'jellyfish', 'springs' },
+			{ 'custom', 'jellyfish' }
 		} },
 		{ "Farewell - Room c-01_west", { {  } } },
 	},
@@ -12536,7 +12538,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room c-03_north"] = {
 		{ "Farewell - Room c-03_south", {
-			{ 'jellyfish', 'springs' }
+			{ 'jellyfish', 'springs' },
+			{ 'custom', 'jellyfish' }
 		} },
 	},
 	["Farewell - Room d-00"] = {
@@ -12604,6 +12607,9 @@ LOCATION_ACCESS_LOGIC = {
 	["Farewell - Room d-00_breaker"] = {
 		{ "Farewell - Room d-00_north-west", {
 			{ 'jellyfish', 'springs', 'dash_switches', 'breaker_boxes' }
+		} },
+		{ "Farewell - Room d-00_south", {
+			{ 'custom', 'breaker_boxes', 'jellyfish' }
 		} },
 	},
 	["Farewell - Room d-00_north-east-door"] = {
@@ -12688,6 +12694,9 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'red_boosters' }
 		} },
 		{ "Farewell - Room e-00y_south", { {  } } },
+		{ "Farewell - Room d-05_west", {
+			{ 'custom', 'jellyfish', 'red_boosters', 'double_dash_refills' }
+		} },
 	},
 	["Farewell - Room e-00y"] = {
 		{ "Farewell - Room e-00y_south", { {  } } },

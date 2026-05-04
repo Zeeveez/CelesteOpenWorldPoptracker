@@ -405,3 +405,8 @@ Farewell - Room a-02_west,Farewell - Room a-02_east,,"DTS",1
 Farewell - Room a-04_west,Farewell - Room a-04_east,,"DTS",1
 Farewell - Room a-05_west,Farewell - Room a-05_east,"springs","DTS",1
 Farewell - Room h-00_west,Farewell - Room h-00_east,"swap_blocks",,1
+Farewell - Room c-00_west,Farewell - Room c-00_north-east,"jellyfish",,1
+Farewell - Room c-00b_west,Farewell - Room c-00b_east,"jellyfish",,1
+Farewell - Room c-03_south,Farewell - Room c-03_north,"jellyfish",,1
+Farewell - Room d-00_south,Farewell - Room d-00_breaker,"breaker_boxes,jellyfish","Jelly smuggled from c-03",1
+Farewell - Room d-05_west,Farewell - Room d-05_north,"jellyfish,red_boosters,double_dash_refills","Jelly and double dash smuggled from c-03/d-00",1
