@@ -4191,7 +4191,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room a-10 Strawberry"] = {
 		{ "Golden Ridge A - Room a-10_east", {
-			{ 'strawberry_seeds', 'springs' }
+			{ 'strawberry_seeds', 'springs' },
+			{ 'custom', 'strawberry_seeds' }
 		} },
 	},
 	["Golden Ridge A - Room a-10_west"] = {
@@ -8628,7 +8629,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room d-02_east"] = {
 		{ "Reflection B - Room d-02_west", {
-			{ 'bumpers', 'feathers', 'coins' }
+			{ 'bumpers', 'feathers', 'coins' },
+			{ 'custom', 'bumpers', 'feathers' }
 		} },
 		{ "Reflection B - Room d-03_west", { {  } } },
 	},
@@ -9872,7 +9874,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-00_east"] = {
 		{ "The Summit A - Room e-00_south-west", {
-			{ 'blue_boosters', 'blue_clouds' }
+			{ 'blue_boosters', 'blue_clouds' },
+			{ 'custom', 'blue_boosters' }
 		} },
 		{ "The Summit A - Room e-03_south-west", { {  } } },
 	},
@@ -10795,7 +10798,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room b-00_top"] = {
 		{ "The Summit B - Room b-00_bottom", {
-			{ 'dash_refills', 'traffic_blocks' }
+			{ 'dash_refills', 'traffic_blocks' },
+			{ 'custom', 'traffic_blocks' }
 		} },
 	},
 	["The Summit B - Room b-01"] = {
