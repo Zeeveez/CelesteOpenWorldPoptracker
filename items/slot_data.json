@@ -16,7 +16,7 @@
                 "img": "images/icons/chapters/7a.png",
                 "name": "Goal - 7A",
                 "inherit_codes": false,
-                "codes": "goal_area"
+                "codes": "goal_area,goal_area_the_summit_a_side"
             },
             {
                 "img": "images/icons/chapters/7b.png",

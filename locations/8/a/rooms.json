@@ -4,7 +4,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$HaveStrawberries,grannyshousekeys,^$CanAccess|Epilogue - Room outside"
+                    "$HaveStrawberries,grannys_house_keys,^$CanAccess|Epilogue - Room outside"
                 ]
             }
         ],
@@ -33,7 +33,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$HaveStrawberries,grannyshousekeys,^$CanAccess|Epilogue - Room bridge"
+                    "$HaveStrawberries,grannys_house_keys,^$CanAccess|Epilogue - Room bridge"
                 ]
             }
         ],
@@ -62,7 +62,7 @@
         "sections": [
             {
                 "access_rules": [
-                    "$HaveStrawberries,grannyshousekeys,^$CanAccess|Epilogue - Room secret"
+                    "$HaveStrawberries,grannys_house_keys,^$CanAccess|Epilogue - Room secret"
                 ]
             }
         ],

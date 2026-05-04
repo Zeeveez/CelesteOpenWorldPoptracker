@@ -25,18 +25,24 @@ function UpdateAccessibleItems(test_item)
         local location = item_location[2]
         local only_no_keysanity = item_location[3]
         local only_no_gemsanity = item_location[4]
+        local code_filter = item_location[5]
         
         if only_no_keysanity then
             if not Tracker:FindObjectForCode("keysanity").Active and Tracker:FindObjectForCode("smart_keys").Active then
-                out_of_logic_item_cache[item] = CanAccessLocation(location, {}, true, out_of_logic_item_cache, test_item)
+                out_of_logic_item_cache[item] = out_of_logic_item_cache[item] or CanAccessLocation(location, {}, true, out_of_logic_item_cache, test_item)
             end
         elseif only_no_gemsanity then
             if not Tracker:FindObjectForCode("gemsanity").Active and Tracker:FindObjectForCode("smart_gems").Active then
-                out_of_logic_item_cache[item] = CanAccessLocation(location, {}, true, out_of_logic_item_cache, test_item)
+                out_of_logic_item_cache[item] = out_of_logic_item_cache[item] or CanAccessLocation(location, {}, true, out_of_logic_item_cache, test_item)
+            end
+        elseif code_filter then
+            if Tracker:ProviderCountForCode(code_filter) ~= 0 then
+                in_logic_item_cache[item] = in_logic_item_cache[item] or CanAccessLocation(location, {}, false, in_logic_item_cache, test_item)
+                out_of_logic_item_cache[item] = out_of_logic_item_cache[item] or CanAccessLocation(location, {}, Tracker:FindObjectForCode("show_custom_logic").Active, out_of_logic_item_cache, test_item)
             end
         else
-            in_logic_item_cache[item] = CanAccessLocation(location, {}, false, in_logic_item_cache, test_item)
-            out_of_logic_item_cache[item] = CanAccessLocation(location, {}, Tracker:FindObjectForCode("show_custom_logic").Active, out_of_logic_item_cache, test_item)
+            in_logic_item_cache[item] = in_logic_item_cache[item] or CanAccessLocation(location, {}, false, in_logic_item_cache, test_item)
+            out_of_logic_item_cache[item] = out_of_logic_item_cache[item] or CanAccessLocation(location, {}, Tracker:FindObjectForCode("show_custom_logic").Active, out_of_logic_item_cache, test_item)
         end
     end
 end
@@ -134,6 +140,19 @@ function CanAccess(location_name, test_item)
     end
     if Tracker:FindObjectForCode("show_out_of_logic").Active and CanAccessLocation(location_name, {}, Tracker:FindObjectForCode("show_custom_logic").Active, out_of_logic_item_cache, test_item) then
         return 5 -- Sequence break - Custom Logic
+    end
+
+    if in_logic_item_cache["GOMODE"] or (out_of_logic_item_cache["GOMODE"] and Tracker:FindObjectForCode("show_out_of_logic").Active) then
+        local keys = Tracker:FindObjectForCode("grannys_house_keys")
+        keys.BadgeText = "GO"
+        if in_logic_item_cache["GOMODE"] then
+            keys.BadgeTextColor = '#00ff00'
+        else
+            keys.BadgeTextColor = '#ffff00'
+        end
+    else
+        local keys = Tracker:FindObjectForCode("grannys_house_keys")
+        keys.BadgeText = ""
     end
     return false
 end

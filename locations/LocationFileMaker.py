@@ -213,7 +213,7 @@ def make_location_obj(row):
     if row['Chapter'] in ('7','9'):
         obj['sections'][0]['access_rules'][0] = f'$HasChapterAccess|{row['Chapter']}{row['Side']},{obj['sections'][0]['access_rules'][0]}'
     elif row['Chapter'] == '8':
-        obj['sections'][0]['access_rules'][0] = f'$HaveStrawberries,grannyshousekeys,{obj['sections'][0]['access_rules'][0]}'
+        obj['sections'][0]['access_rules'][0] = f'$HaveStrawberries,grannys_house_keys,{obj['sections'][0]['access_rules'][0]}'
     elif row['Chapter'] == '10':
         obj['sections'][0]['access_rules'][0] = f'$HasFarewellAccess,{obj['sections'][0]['access_rules'][0]}'
 

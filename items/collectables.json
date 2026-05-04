@@ -17,6 +17,6 @@
         "name": "Granny's House Keys",
         "type": "toggle",
         "img": "images/icons/items/keys_gems/key.png",
-        "codes": "grannyshousekeys"
+        "codes": "grannys_house_keys"
     }
 ]

@@ -13,7 +13,7 @@ ITEM_MAPPING = {
 	[CELESTE_BASE + 0x00] = { "strawberry", "consumable", nil },
 	[CELESTE_BASE + 0x01] = { "raspberry", "consumable", nil },
 
-	[CELESTE_BASE + OTHER_BASE + 0x00] = { "grannyshousekeys", "toggle", "grannyshousekeys" }, -- Make grannyshousekeys rely on grannyshousekeys so they never get hint assisted
+	[CELESTE_BASE + OTHER_BASE + 0x00] = { "grannys_house_keys", "toggle", "grannyshousekeys" }, -- Make grannyshousekeys rely on grannyshousekeys so they never get hint assisted
 
 	[CELESTE_BASE + TRAP_BASE + 0x00] = { "baldtrap", "consumable", nil },
 	[CELESTE_BASE + TRAP_BASE + 0x01] = { "literaturetrap", "consumable", nil },
