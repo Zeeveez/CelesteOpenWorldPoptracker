@@ -57,6 +57,15 @@
                     "content": [
                         {
                             "type": "group",
+                            "header": "Progress Graph",
+                            "dock": "top",
+                            "content": {
+                                "type": "map",
+                                "maps": ["everything_summary"]
+                            }
+                        },
+                        {
+                            "type": "group",
                             "header": "Checkpoints",
                             "dock": "top",
                             "content": {
