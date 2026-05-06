@@ -11687,7 +11687,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Core A - Room d-07_top"] = {
 		{ "Core A - Room d-07_bottom", {
 			{ 'dash_refills', 'core_blocks', 'core_toggles', 'fire_ice_balls', 'springs', 'badeline_boosters' },
-			{ 'custom', 'dash_refills', 'core_blocks', 'core_toggles', 'fire_ice_balls', 'springs' }
+			{ 'custom', 'dash_refills', 'core_blocks', 'core_toggles', 'fire_ice_balls' }
 		} },
 	},
 	["Core A - Room d-08"] = {

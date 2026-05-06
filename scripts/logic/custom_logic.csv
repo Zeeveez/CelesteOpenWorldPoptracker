@@ -389,7 +389,7 @@ Core A - Room b-02_west,Core A - Room b-02_east,,,1
 Core A - Room b-03_west,Core A - Room b-03_east,,,1
 Core A - Room b-06_east,Core A - Room b-06 Strawberry,"core_blocks",,1
 Core A - Room b-07b_bottom,Core A - Room b-07b_top,"core_toggles",,1
-Core A - Room d-07_bottom,Core A - Room d-07_top,"dash_refills,core_blocks,core_toggles,fire_ice_balls,springs",,1
+Core A - Room d-07_bottom,Core A - Room d-07_top,"dash_refills,core_blocks,core_toggles,fire_ice_balls",,1
 Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,bumpers",,1
 Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,fire_ice_balls",,1
 Core A - Room d-10_west,Core A - Room d-10_east,"core_toggles",,1
