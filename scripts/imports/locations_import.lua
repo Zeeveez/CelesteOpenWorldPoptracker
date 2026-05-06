@@ -144,3 +144,5 @@ Tracker:AddLocations("locations/10/summary.json")
 
 Tracker:AddLocations("locations/berry_summary.json")
 Tracker:AddLocations("locations/room_summary.json")
+Tracker:AddLocations("locations/other_summary.json")
+Tracker:AddLocations("locations/everything_summary.json")

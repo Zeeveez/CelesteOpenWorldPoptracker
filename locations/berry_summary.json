@@ -3,11 +3,28 @@
         "name": "Berry Summary",
         "children": [
             {
-                "name": "Forsaken City A - Room 2 Strawberry",
+                "name": "Forsaken City A - Golden Strawberry",
                 "map_locations": [
                     {
                         "map": "berry_summary",
                         "x": 60,
+                        "y": 25,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Golden Strawberry",
+                        "ref": "Forsaken City A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Room 2 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
                         "y": 25,
                         "size": 10
                     }
@@ -24,7 +41,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 75,
+                        "x": 90,
                         "y": 25,
                         "size": 10
                     }
@@ -41,7 +58,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 90,
+                        "x": 105,
                         "y": 25,
                         "size": 10
                     }
@@ -58,7 +75,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 105,
+                        "x": 120,
                         "y": 25,
                         "size": 10
                     }
@@ -75,7 +92,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 120,
+                        "x": 135,
                         "y": 25,
                         "size": 10
                     }
@@ -92,7 +109,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 135,
+                        "x": 150,
                         "y": 25,
                         "size": 10
                     }
@@ -109,7 +126,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 165,
+                        "x": 180,
                         "y": 25,
                         "size": 10
                     }
@@ -126,7 +143,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 180,
+                        "x": 195,
                         "y": 25,
                         "size": 10
                     }
@@ -143,7 +160,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 195,
+                        "x": 210,
                         "y": 25,
                         "size": 10
                     }
@@ -160,7 +177,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 210,
+                        "x": 225,
                         "y": 25,
                         "size": 10
                     }
@@ -177,7 +194,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 225,
+                        "x": 240,
                         "y": 25,
                         "size": 10
                     }
@@ -194,7 +211,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 240,
+                        "x": 255,
                         "y": 25,
                         "size": 10
                     }
@@ -211,7 +228,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 255,
+                        "x": 270,
                         "y": 25,
                         "size": 10
                     }
@@ -228,7 +245,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 270,
+                        "x": 285,
                         "y": 25,
                         "size": 10
                     }
@@ -245,7 +262,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 285,
+                        "x": 300,
                         "y": 25,
                         "size": 10
                     }
@@ -258,11 +275,28 @@
                 ]
             },
             {
+                "name": "Forsaken City A - Winged Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 330,
+                        "y": 25,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Winged Golden Strawberry",
+                        "ref": "Forsaken City A - Winged Golden Strawberry/"
+                    }
+                ]
+            },
+            {
                 "name": "Forsaken City A - Room 9b Strawberry",
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 315,
+                        "x": 345,
                         "y": 25,
                         "size": 10
                     }
@@ -279,7 +313,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 330,
+                        "x": 360,
                         "y": 25,
                         "size": 10
                     }
@@ -296,7 +330,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 345,
+                        "x": 375,
                         "y": 25,
                         "size": 10
                     }
@@ -313,7 +347,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 360,
+                        "x": 390,
                         "y": 25,
                         "size": 10
                     }
@@ -330,7 +364,7 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 375,
+                        "x": 405,
                         "y": 25,
                         "size": 10
                     }
@@ -343,12 +377,63 @@
                 ]
             },
             {
-                "name": "Old Site A - Room 1 Strawberry",
+                "name": "Forsaken City B - Golden Strawberry",
                 "map_locations": [
                     {
                         "map": "berry_summary",
                         "x": 60,
                         "y": 75,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City B - Golden Strawberry",
+                        "ref": "Forsaken City B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 125,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City C - Golden Strawberry",
+                        "ref": "Forsaken City C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 175,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Golden Strawberry",
+                        "ref": "Old Site A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room 1 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -364,8 +449,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 75,
-                        "y": 75,
+                        "x": 90,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -381,8 +466,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 90,
-                        "y": 75,
+                        "x": 105,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -398,8 +483,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 105,
-                        "y": 75,
+                        "x": 120,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -415,8 +500,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 120,
-                        "y": 75,
+                        "x": 135,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -432,8 +517,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 135,
-                        "y": 75,
+                        "x": 150,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -449,8 +534,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 150,
-                        "y": 75,
+                        "x": 165,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -466,8 +551,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 165,
-                        "y": 75,
+                        "x": 180,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -483,8 +568,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 180,
-                        "y": 75,
+                        "x": 195,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -500,8 +585,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 210,
-                        "y": 75,
+                        "x": 225,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -517,8 +602,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 225,
-                        "y": 75,
+                        "x": 240,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -534,8 +619,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 240,
-                        "y": 75,
+                        "x": 255,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -551,8 +636,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 255,
-                        "y": 75,
+                        "x": 270,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -568,8 +653,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 270,
-                        "y": 75,
+                        "x": 285,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -585,8 +670,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 285,
-                        "y": 75,
+                        "x": 300,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -602,8 +687,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 300,
-                        "y": 75,
+                        "x": 315,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -619,8 +704,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 315,
-                        "y": 75,
+                        "x": 330,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -636,8 +721,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 345,
-                        "y": 75,
+                        "x": 360,
+                        "y": 175,
                         "size": 10
                     }
                 ],
@@ -649,12 +734,63 @@
                 ]
             },
             {
-                "name": "Celestial Resort A - Room s2 Strawberry 1",
+                "name": "Old Site B - Golden Strawberry",
                 "map_locations": [
                     {
                         "map": "berry_summary",
                         "x": 60,
-                        "y": 125,
+                        "y": 225,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site B - Golden Strawberry",
+                        "ref": "Old Site B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 275,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site C - Golden Strawberry",
+                        "ref": "Old Site C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 325,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Golden Strawberry",
+                        "ref": "Celestial Resort A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Room s2 Strawberry 1",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -670,8 +806,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 75,
-                        "y": 125,
+                        "x": 90,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -687,8 +823,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 90,
-                        "y": 125,
+                        "x": 105,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -704,8 +840,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 105,
-                        "y": 125,
+                        "x": 120,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -721,8 +857,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 120,
-                        "y": 125,
+                        "x": 135,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -738,8 +874,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 135,
-                        "y": 125,
+                        "x": 150,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -755,8 +891,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 150,
-                        "y": 125,
+                        "x": 165,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -772,8 +908,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 165,
-                        "y": 125,
+                        "x": 180,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -789,8 +925,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 180,
-                        "y": 125,
+                        "x": 195,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -806,8 +942,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 195,
-                        "y": 125,
+                        "x": 210,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -823,8 +959,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 210,
-                        "y": 125,
+                        "x": 225,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -840,8 +976,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 240,
-                        "y": 125,
+                        "x": 255,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -857,8 +993,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 255,
-                        "y": 125,
+                        "x": 270,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -874,8 +1010,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 270,
-                        "y": 125,
+                        "x": 285,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -891,8 +1027,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 285,
-                        "y": 125,
+                        "x": 300,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -908,8 +1044,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 300,
-                        "y": 125,
+                        "x": 315,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -925,8 +1061,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 315,
-                        "y": 125,
+                        "x": 330,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -942,8 +1078,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 330,
-                        "y": 125,
+                        "x": 345,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -959,8 +1095,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 360,
-                        "y": 125,
+                        "x": 375,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -976,8 +1112,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 375,
-                        "y": 125,
+                        "x": 390,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -993,8 +1129,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 390,
-                        "y": 125,
+                        "x": 405,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -1010,8 +1146,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 405,
-                        "y": 125,
+                        "x": 420,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -1027,8 +1163,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 435,
-                        "y": 125,
+                        "x": 450,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -1044,8 +1180,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 450,
-                        "y": 125,
+                        "x": 465,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -1061,8 +1197,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 465,
-                        "y": 125,
+                        "x": 480,
+                        "y": 325,
                         "size": 10
                     }
                 ],
@@ -1074,12 +1210,63 @@
                 ]
             },
             {
-                "name": "Golden Ridge A - Room a-01x Strawberry",
+                "name": "Celestial Resort B - Golden Strawberry",
                 "map_locations": [
                     {
                         "map": "berry_summary",
                         "x": 60,
-                        "y": 175,
+                        "y": 375,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Golden Strawberry",
+                        "ref": "Celestial Resort B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 425,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort C - Golden Strawberry",
+                        "ref": "Celestial Resort C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 475,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Golden Strawberry",
+                        "ref": "Golden Ridge A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room a-01x Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1095,8 +1282,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 75,
-                        "y": 175,
+                        "x": 90,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1112,8 +1299,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 90,
-                        "y": 175,
+                        "x": 105,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1129,8 +1316,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 105,
-                        "y": 175,
+                        "x": 120,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1146,8 +1333,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 120,
-                        "y": 175,
+                        "x": 135,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1163,8 +1350,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 135,
-                        "y": 175,
+                        "x": 150,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1180,8 +1367,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 150,
-                        "y": 175,
+                        "x": 165,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1197,8 +1384,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 165,
-                        "y": 175,
+                        "x": 180,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1214,8 +1401,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 195,
-                        "y": 175,
+                        "x": 210,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1231,8 +1418,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 210,
-                        "y": 175,
+                        "x": 225,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1248,8 +1435,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 225,
-                        "y": 175,
+                        "x": 240,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1265,8 +1452,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 240,
-                        "y": 175,
+                        "x": 255,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1282,8 +1469,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 255,
-                        "y": 175,
+                        "x": 270,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1299,8 +1486,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 270,
-                        "y": 175,
+                        "x": 285,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1316,8 +1503,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 285,
-                        "y": 175,
+                        "x": 300,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1333,8 +1520,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 300,
-                        "y": 175,
+                        "x": 315,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1350,8 +1537,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 315,
-                        "y": 175,
+                        "x": 330,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1367,8 +1554,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 345,
-                        "y": 175,
+                        "x": 360,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1384,8 +1571,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 360,
-                        "y": 175,
+                        "x": 375,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1401,8 +1588,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 375,
-                        "y": 175,
+                        "x": 390,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1418,8 +1605,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 390,
-                        "y": 175,
+                        "x": 405,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1435,8 +1622,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 405,
-                        "y": 175,
+                        "x": 420,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1452,8 +1639,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 420,
-                        "y": 175,
+                        "x": 435,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1469,8 +1656,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 435,
-                        "y": 175,
+                        "x": 450,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1486,8 +1673,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 465,
-                        "y": 175,
+                        "x": 480,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1503,8 +1690,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 480,
-                        "y": 175,
+                        "x": 495,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1520,8 +1707,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 495,
-                        "y": 175,
+                        "x": 510,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1537,8 +1724,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 510,
-                        "y": 175,
+                        "x": 525,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1554,8 +1741,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 525,
-                        "y": 175,
+                        "x": 540,
+                        "y": 475,
                         "size": 10
                     }
                 ],
@@ -1567,12 +1754,63 @@
                 ]
             },
             {
-                "name": "Mirror Temple A - Room a-00x Strawberry",
+                "name": "Golden Ridge B - Golden Strawberry",
                 "map_locations": [
                     {
                         "map": "berry_summary",
                         "x": 60,
-                        "y": 225,
+                        "y": 525,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Golden Strawberry",
+                        "ref": "Golden Ridge B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 575,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge C - Golden Strawberry",
+                        "ref": "Golden Ridge C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 625,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Golden Strawberry",
+                        "ref": "Mirror Temple A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room a-00x Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1588,8 +1826,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 75,
-                        "y": 225,
+                        "x": 90,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1605,8 +1843,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 90,
-                        "y": 225,
+                        "x": 105,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1622,8 +1860,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 105,
-                        "y": 225,
+                        "x": 120,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1639,8 +1877,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 120,
-                        "y": 225,
+                        "x": 135,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1656,8 +1894,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 135,
-                        "y": 225,
+                        "x": 150,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1673,8 +1911,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 150,
-                        "y": 225,
+                        "x": 165,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1690,8 +1928,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 165,
-                        "y": 225,
+                        "x": 180,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1707,8 +1945,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 180,
-                        "y": 225,
+                        "x": 195,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1724,8 +1962,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 195,
-                        "y": 225,
+                        "x": 210,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1741,8 +1979,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 210,
-                        "y": 225,
+                        "x": 225,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1758,8 +1996,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 225,
-                        "y": 225,
+                        "x": 240,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1775,8 +2013,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 255,
-                        "y": 225,
+                        "x": 270,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1792,8 +2030,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 270,
-                        "y": 225,
+                        "x": 285,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1809,8 +2047,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 285,
-                        "y": 225,
+                        "x": 300,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1826,8 +2064,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 300,
-                        "y": 225,
+                        "x": 315,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1843,8 +2081,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 315,
-                        "y": 225,
+                        "x": 330,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1860,8 +2098,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 330,
-                        "y": 225,
+                        "x": 345,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1877,8 +2115,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 345,
-                        "y": 225,
+                        "x": 360,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1894,8 +2132,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 360,
-                        "y": 225,
+                        "x": 375,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1911,8 +2149,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 375,
-                        "y": 225,
+                        "x": 390,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1928,8 +2166,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 390,
-                        "y": 225,
+                        "x": 405,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1945,8 +2183,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 405,
-                        "y": 225,
+                        "x": 420,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1962,8 +2200,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 435,
-                        "y": 225,
+                        "x": 450,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1979,8 +2217,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 465,
-                        "y": 225,
+                        "x": 480,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -1996,8 +2234,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 480,
-                        "y": 225,
+                        "x": 495,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -2013,8 +2251,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 495,
-                        "y": 225,
+                        "x": 510,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -2030,8 +2268,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 510,
-                        "y": 225,
+                        "x": 525,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -2047,8 +2285,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 525,
-                        "y": 225,
+                        "x": 540,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -2064,8 +2302,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 540,
-                        "y": 225,
+                        "x": 555,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -2081,8 +2319,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 570,
-                        "y": 225,
+                        "x": 585,
+                        "y": 625,
                         "size": 10
                     }
                 ],
@@ -2094,12 +2332,114 @@
                 ]
             },
             {
-                "name": "The Summit A - Room a-02b Strawberry",
+                "name": "Mirror Temple B - Golden Strawberry",
                 "map_locations": [
                     {
                         "map": "berry_summary",
                         "x": 60,
-                        "y": 275,
+                        "y": 675,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple B - Golden Strawberry",
+                        "ref": "Mirror Temple B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 725,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple C - Golden Strawberry",
+                        "ref": "Mirror Temple C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 775,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Golden Strawberry",
+                        "ref": "Reflection A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection B - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 825,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection B - Golden Strawberry",
+                        "ref": "Reflection B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 875,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection C - Golden Strawberry",
+                        "ref": "Reflection C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 925,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Golden Strawberry",
+                        "ref": "The Summit A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room a-02b Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2115,8 +2455,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 75,
-                        "y": 275,
+                        "x": 90,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2132,8 +2472,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 90,
-                        "y": 275,
+                        "x": 105,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2149,8 +2489,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 105,
-                        "y": 275,
+                        "x": 120,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2166,8 +2506,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 135,
-                        "y": 275,
+                        "x": 150,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2183,8 +2523,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 150,
-                        "y": 275,
+                        "x": 165,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2200,8 +2540,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 165,
-                        "y": 275,
+                        "x": 180,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2217,8 +2557,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 180,
-                        "y": 275,
+                        "x": 195,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2234,8 +2574,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 195,
-                        "y": 275,
+                        "x": 210,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2251,8 +2591,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 210,
-                        "y": 275,
+                        "x": 225,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2268,8 +2608,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 240,
-                        "y": 275,
+                        "x": 255,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2285,8 +2625,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 255,
-                        "y": 275,
+                        "x": 270,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2302,8 +2642,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 270,
-                        "y": 275,
+                        "x": 285,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2319,8 +2659,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 285,
-                        "y": 275,
+                        "x": 300,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2336,8 +2676,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 300,
-                        "y": 275,
+                        "x": 315,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2353,8 +2693,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 315,
-                        "y": 275,
+                        "x": 330,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2370,8 +2710,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 345,
-                        "y": 275,
+                        "x": 360,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2387,8 +2727,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 360,
-                        "y": 275,
+                        "x": 375,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2404,8 +2744,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 375,
-                        "y": 275,
+                        "x": 390,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2421,8 +2761,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 390,
-                        "y": 275,
+                        "x": 405,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2438,8 +2778,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 405,
-                        "y": 275,
+                        "x": 420,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2455,8 +2795,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 420,
-                        "y": 275,
+                        "x": 435,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2472,8 +2812,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 435,
-                        "y": 275,
+                        "x": 450,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2489,8 +2829,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 450,
-                        "y": 275,
+                        "x": 465,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2506,8 +2846,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 480,
-                        "y": 275,
+                        "x": 495,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2523,8 +2863,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 495,
-                        "y": 275,
+                        "x": 510,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2540,8 +2880,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 510,
-                        "y": 275,
+                        "x": 525,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2557,8 +2897,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 525,
-                        "y": 275,
+                        "x": 540,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2574,8 +2914,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 540,
-                        "y": 275,
+                        "x": 555,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2591,8 +2931,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 555,
-                        "y": 275,
+                        "x": 570,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2608,8 +2948,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 570,
-                        "y": 275,
+                        "x": 585,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2625,8 +2965,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 585,
-                        "y": 275,
+                        "x": 600,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2642,8 +2982,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 615,
-                        "y": 275,
+                        "x": 630,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2659,8 +2999,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 630,
-                        "y": 275,
+                        "x": 645,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2676,8 +3016,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 645,
-                        "y": 275,
+                        "x": 660,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2693,8 +3033,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 660,
-                        "y": 275,
+                        "x": 675,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2710,8 +3050,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 675,
-                        "y": 275,
+                        "x": 690,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2727,8 +3067,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 690,
-                        "y": 275,
+                        "x": 705,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2744,8 +3084,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 705,
-                        "y": 275,
+                        "x": 720,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2761,8 +3101,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 720,
-                        "y": 275,
+                        "x": 735,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2778,8 +3118,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 750,
-                        "y": 275,
+                        "x": 765,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2795,8 +3135,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 765,
-                        "y": 275,
+                        "x": 780,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2812,8 +3152,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 780,
-                        "y": 275,
+                        "x": 795,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2829,8 +3169,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 795,
-                        "y": 275,
+                        "x": 810,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2846,8 +3186,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 810,
-                        "y": 275,
+                        "x": 825,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2863,8 +3203,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 825,
-                        "y": 275,
+                        "x": 840,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2880,8 +3220,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 840,
-                        "y": 275,
+                        "x": 855,
+                        "y": 925,
                         "size": 10
                     }
                 ],
@@ -2893,12 +3233,63 @@
                 ]
             },
             {
-                "name": "Core A - Room b-06 Strawberry",
+                "name": "The Summit B - Golden Strawberry",
                 "map_locations": [
                     {
                         "map": "berry_summary",
                         "x": 60,
-                        "y": 325,
+                        "y": 975,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Golden Strawberry",
+                        "ref": "The Summit B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 1025,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit C - Golden Strawberry",
+                        "ref": "The Summit C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 1075,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Golden Strawberry",
+                        "ref": "Core A - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Room b-06 Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 75,
+                        "y": 1075,
                         "size": 10
                     }
                 ],
@@ -2914,8 +3305,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 90,
-                        "y": 325,
+                        "x": 105,
+                        "y": 1075,
                         "size": 10
                     }
                 ],
@@ -2931,8 +3322,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 105,
-                        "y": 325,
+                        "x": 120,
+                        "y": 1075,
                         "size": 10
                     }
                 ],
@@ -2948,8 +3339,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 120,
-                        "y": 325,
+                        "x": 135,
+                        "y": 1075,
                         "size": 10
                     }
                 ],
@@ -2965,8 +3356,8 @@
                 "map_locations": [
                     {
                         "map": "berry_summary",
-                        "x": 150,
-                        "y": 325,
+                        "x": 165,
+                        "y": 1075,
                         "size": 10
                     }
                 ],
@@ -2978,12 +3369,63 @@
                 ]
             },
             {
-                "name": "Farewell - Moon Berry",
+                "name": "Core B - Golden Strawberry",
                 "map_locations": [
                     {
                         "map": "berry_summary",
                         "x": 60,
-                        "y": 375,
+                        "y": 1125,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core B - Golden Strawberry",
+                        "ref": "Core B - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Core C - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 1175,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core C - Golden Strawberry",
+                        "ref": "Core C - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Golden Strawberry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 60,
+                        "y": 1225,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Golden Strawberry",
+                        "ref": "Farewell - Golden Strawberry/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Moon Berry",
+                "map_locations": [
+                    {
+                        "map": "berry_summary",
+                        "x": 90,
+                        "y": 1225,
                         "size": 10
                     }
                 ],

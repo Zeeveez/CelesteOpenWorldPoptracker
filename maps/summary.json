@@ -16,5 +16,17 @@
         "location_size": 50,
         "location_border_thickness": 2,
         "img": "images/maps/room_summary.png"
+    },
+    {
+        "name": "other_summary",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/other_summary.png"
+    },
+    {
+        "name": "everything_summary",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/everything_summary.png"
     }
 ]

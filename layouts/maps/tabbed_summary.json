@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "All",
+                "title": "Summary",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -26,6 +26,24 @@
                     "type": "map",
                     "maps": [
                         "room_summary"
+                    ]
+                }
+            },
+            {
+                "title": "Other",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "other_summary"
+                    ]
+                }
+            },
+            {
+                "title": "Everything",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "everything_summary"
                     ]
                 }
             }

@@ -29,8 +29,28 @@ MAP_MARKER_ZOOM_THRESHOLD = 1500
 SUMMARY_CHAPTER_OFFSET = 135
 SUMMARY_CHECKPOINT_SIZE = 10
 SUMMARY_CHECKPOINT_GAP = 15
-SPECIFIC_SUMMARY_SIZE = 10
-SPECIFIC_SUMMARY_GAP = SPECIFIC_SUMMARY_SIZE + 5
+SPECIFIC_SUMMARY_SIZES = {
+    'berry': 10,
+    'golden': 15,
+    'checkpoint': 15,
+    'room': 10,
+    'clear': 15,
+    'cassette': 15,
+    'heart': 15,
+    'key': 10,
+    'gem': 10,
+    'car': 10,
+    'bino': 10
+}
+SHAPE_OVERRIDES = {
+    'checkpoint': 'diamond',
+    'room': 'diamond',
+    'key': 'trapezoid',
+    'gem': 'trapezoid',
+    'car': 'trapezoid',
+    'bino': 'trapezoid'
+}
+SPECIFIC_SUMMARY_GAP = 15
 SPECIFIC_SUMMARY_CHECKPOINT_GAP = SPECIFIC_SUMMARY_GAP + 15
 SPECIFIC_SUMMARY_CHAPTER_GAP = 50
 SPECIFIC_SUMMARY_MAX_WIDTH = 600
@@ -304,18 +324,8 @@ def make_location_obj(row):
     ]
 
     for i in range(len(obj['map_locations'])):
-        if row['Type'] == 'room':
-            obj['map_locations'][i]['shape'] = 'diamond'
-        if row['Type'] == 'checkpoint':
-            obj['map_locations'][i]['shape'] = 'diamond'
-        if row['Type'] == 'car':
-            obj['map_locations'][i]['shape'] = 'trapezoid'
-        if row['Type'] == 'bino':
-            obj['map_locations'][i]['shape'] = 'trapezoid'
-        if row['Type'] == 'gem':
-            obj['map_locations'][i]['shape'] = 'trapezoid'
-        if row['Type'] == 'key':
-            obj['map_locations'][i]['shape'] = 'trapezoid'
+        if row['Type'] in SHAPE_OVERRIDES:
+            obj['map_locations'][i]['shape'] = SHAPE_OVERRIDES[row['Type']]
 
     return obj
 
@@ -422,9 +432,9 @@ def make_summary(data, _chapter):
     }
     return [summary]
 
-def make_specific_summary_obj(data, item_type):
+def make_specific_summary_obj(data, item_types, map_name):
     res = []
-    items = list(map(lambda g: list(g[1]), itertools.groupby(filter(lambda r: r['Type'] == item_type, data), lambda r: int(r['Chapter']) * 1000 + ord(r['Side']))))
+    items = list(map(lambda g: list(g[1]), itertools.groupby(filter(lambda r: r['Type'] in list(itertools.chain.from_iterable(item_types)), data), lambda r: int(r['Chapter']) * 1000 + ord(r['Side']))))
 
     chapter_y = SPECIFIC_SUMMARY_START_Y
     for chapter in items:
@@ -432,35 +442,40 @@ def make_specific_summary_obj(data, item_type):
 
         checkpoint_x = SPECIFIC_SUMMARY_START_X
         for checkpoint in checkpoints:
+            max_xs = [checkpoint_x] * len(item_types)
 
-            max_x = checkpoint_x
-            for i, item in enumerate(checkpoint):
-                x = checkpoint_x + i  * SPECIFIC_SUMMARY_GAP
-                max_x = max(max_x, x)
-                y = chapter_y
-                res += [{
-                    'name': f'{item['Name']}',
-                    'map_locations': [{
-                        'map': f'{item_type}_summary',
-                        'x': x,
-                        'y': y,
-                        'size': SPECIFIC_SUMMARY_SIZE,
-                    }],
-                    'sections': [{
-                        'name': item['Name'],
-                        'ref': f'{item['Name']}/'
+            for row, item_row in enumerate(item_types):
+                checkpoint_x = max_xs[row]
+                for i, item in enumerate(filter(lambda r: r['Type'] in item_row, checkpoint)):
+                    if item['Type'] not in item_row: continue
+                    x = checkpoint_x + i * SPECIFIC_SUMMARY_GAP
+                    max_xs[row] = max(max_xs[row], x)
+                    y = chapter_y + math.floor(SPECIFIC_SUMMARY_GAP * (row - (len(item_types) - 1) / 2))
+                    res += [{
+                        'name': f'{item['Name']}',
+                        'map_locations': [{
+                            'map': map_name,
+                            'x': x,
+                            'y': y,
+                            'size': SPECIFIC_SUMMARY_SIZES[item['Type']],
+                        }],
+                        'sections': [{
+                            'name': item['Name'],
+                            'ref': f'{item['Name']}/'
+                        }]
                     }]
-                }]
+                    if item['Type'] in SHAPE_OVERRIDES:
+                        res[-1]['map_locations'][0]['shape'] = SHAPE_OVERRIDES[item['Type']]
 
-            checkpoint_x = max_x + SPECIFIC_SUMMARY_CHECKPOINT_GAP
+            checkpoint_x = max(max_xs) + SPECIFIC_SUMMARY_CHECKPOINT_GAP
         chapter_y += SPECIFIC_SUMMARY_CHAPTER_GAP
     
     return res
 
-def make_specific_summary(data, item_type, label):
+def make_specific_summary(data, item_types, label):
     return [{
         'name': f'{label} Summary',
-        'children': make_specific_summary_obj(data, item_type)
+        'children': make_specific_summary_obj(data, item_types, f'{label.lower()}_summary')
     }]
 
 data = load_csv('./locations/locations.csv')
@@ -476,5 +491,7 @@ for chapter in range(11):
                 write_file(file_dat, f'./locations/{chapter}/{side}/{type_set[0]}.json')
     summary_dat = make_summary(data, chapter)
     write_file(summary_dat, f'./locations/{chapter}/summary.json')
-write_file(make_specific_summary(data, 'berry', 'Berry'), f'./locations/berry_summary.json')
-write_file(make_specific_summary(data, 'room', 'Room'), f'./locations/room_summary.json')
+#write_file(make_specific_summary(data, [['berry', 'golden']], 'Berry'), f'./locations/berry_summary.json')
+#write_file(make_specific_summary(data, [['checkpoint', 'room']], 'Room'), f'./locations/room_summary.json')
+#write_file(make_specific_summary(data, [['clear', 'cassette', 'heart', 'key', 'gem', 'car', 'bino']], 'Other'), f'./locations/other_summary.json')
+write_file(make_specific_summary(data, [['berry', 'golden', 'clear', 'cassette', 'heart', 'key', 'gem', 'car', 'bino'], ['checkpoint', 'room']], 'Everything'), f'./locations/everything_summary.json')

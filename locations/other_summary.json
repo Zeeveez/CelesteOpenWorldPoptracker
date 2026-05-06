@@ -1,0 +1,2718 @@
+[
+    {
+        "name": "Other Summary",
+        "children": [
+            {
+                "name": "Prologue - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 25,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Prologue - Level Clear",
+                        "ref": "Prologue - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Prologue - Car",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 25,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Prologue - Car",
+                        "ref": "Prologue - Car/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 75,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Crystal Heart",
+                        "ref": "Forsaken City A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 75,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Level Clear",
+                        "ref": "Forsaken City A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 105,
+                        "y": 75,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City A - Cassette",
+                        "ref": "Forsaken City A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City B - Room 03 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 125,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City B - Room 03 Binoculars",
+                        "ref": "Forsaken City B - Room 03 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City B - Room 09 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 125,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City B - Room 09 Binoculars",
+                        "ref": "Forsaken City B - Room 09 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 105,
+                        "y": 125,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City B - Level Clear",
+                        "ref": "Forsaken City B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City C - Room 01 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 175,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City C - Room 01 Binoculars",
+                        "ref": "Forsaken City C - Room 01 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City C - Room 02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 175,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City C - Room 02 Binoculars",
+                        "ref": "Forsaken City C - Room 02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Forsaken City C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 175,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Forsaken City C - Level Clear",
+                        "ref": "Forsaken City C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Room d3 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 225,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Room d3 Binoculars",
+                        "ref": "Old Site A - Room d3 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 225,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Cassette",
+                        "ref": "Old Site A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 225,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Crystal Heart",
+                        "ref": "Old Site A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 120,
+                        "y": 225,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site A - Level Clear",
+                        "ref": "Old Site A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site B - Room 10 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 275,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site B - Room 10 Binoculars",
+                        "ref": "Old Site B - Room 10 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site B - Room 11 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 275,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site B - Room 11 Binoculars",
+                        "ref": "Old Site B - Room 11 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 275,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site B - Level Clear",
+                        "ref": "Old Site B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site C - Room 02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site C - Room 02 Binoculars",
+                        "ref": "Old Site C - Room 02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Old Site C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 325,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Old Site C - Level Clear",
+                        "ref": "Old Site C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Front Door Key",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 375,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Front Door Key",
+                        "ref": "Celestial Resort A - Front Door Key/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Hallway Key 1",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 375,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Hallway Key 1",
+                        "ref": "Celestial Resort A - Hallway Key 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Hallway Key 2",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 375,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Hallway Key 2",
+                        "ref": "Celestial Resort A - Hallway Key 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Huge Mess Key",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 120,
+                        "y": 375,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Huge Mess Key",
+                        "ref": "Celestial Resort A - Huge Mess Key/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 135,
+                        "y": 375,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Crystal Heart",
+                        "ref": "Celestial Resort A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Presidential Suite Key",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 165,
+                        "y": 375,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Presidential Suite Key",
+                        "ref": "Celestial Resort A - Presidential Suite Key/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 180,
+                        "y": 375,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Cassette",
+                        "ref": "Celestial Resort A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 210,
+                        "y": 375,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort A - Level Clear",
+                        "ref": "Celestial Resort A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort B - Room back Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 425,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Room back Binoculars",
+                        "ref": "Celestial Resort B - Room back Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort B - Room 12 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 425,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Room 12 Binoculars",
+                        "ref": "Celestial Resort B - Room 12 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 120,
+                        "y": 425,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort B - Level Clear",
+                        "ref": "Celestial Resort B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort C - Room 02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 475,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort C - Room 02 Binoculars",
+                        "ref": "Celestial Resort C - Room 02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Resort C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 475,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Celestial Resort C - Level Clear",
+                        "ref": "Celestial Resort C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room a-11 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 525,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room a-11 Binoculars",
+                        "ref": "Golden Ridge A - Room a-11 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 525,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Cassette",
+                        "ref": "Golden Ridge A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room b-02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 105,
+                        "y": 525,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room b-02 Binoculars",
+                        "ref": "Golden Ridge A - Room b-02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 120,
+                        "y": 525,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Crystal Heart",
+                        "ref": "Golden Ridge A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Room d-00b Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 150,
+                        "y": 525,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Room d-00b Binoculars",
+                        "ref": "Golden Ridge A - Room d-00b Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 165,
+                        "y": 525,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge A - Level Clear",
+                        "ref": "Golden Ridge A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge B - Room b-02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 575,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Room b-02 Binoculars",
+                        "ref": "Golden Ridge B - Room b-02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge B - Room c-03 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 575,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Room c-03 Binoculars",
+                        "ref": "Golden Ridge B - Room c-03 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge B - Room d-01 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 120,
+                        "y": 575,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Room d-01 Binoculars",
+                        "ref": "Golden Ridge B - Room d-01 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge B - Room end Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 135,
+                        "y": 575,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Room end Binoculars",
+                        "ref": "Golden Ridge B - Room end Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 150,
+                        "y": 575,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge B - Level Clear",
+                        "ref": "Golden Ridge B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge C - Room 01 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 625,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge C - Room 01 Binoculars",
+                        "ref": "Golden Ridge C - Room 01 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge C - Room 02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 625,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge C - Room 02 Binoculars",
+                        "ref": "Golden Ridge C - Room 02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Ridge C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 625,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Golden Ridge C - Level Clear",
+                        "ref": "Golden Ridge C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Entrance Key",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 675,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Entrance Key",
+                        "ref": "Mirror Temple A - Entrance Key/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Room b-22 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 675,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Room b-22 Binoculars",
+                        "ref": "Mirror Temple A - Room b-22 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Depths Key",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 105,
+                        "y": 675,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Depths Key",
+                        "ref": "Mirror Temple A - Depths Key/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 120,
+                        "y": 675,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Cassette",
+                        "ref": "Mirror Temple A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 135,
+                        "y": 675,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Crystal Heart",
+                        "ref": "Mirror Temple A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Search Key 1",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 165,
+                        "y": 675,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Search Key 1",
+                        "ref": "Mirror Temple A - Search Key 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Search Key 2",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 180,
+                        "y": 675,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Search Key 2",
+                        "ref": "Mirror Temple A - Search Key 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Search Key 3",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 195,
+                        "y": 675,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Search Key 3",
+                        "ref": "Mirror Temple A - Search Key 3/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 225,
+                        "y": 675,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple A - Level Clear",
+                        "ref": "Mirror Temple A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple B - Room b-09 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 725,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple B - Room b-09 Binoculars",
+                        "ref": "Mirror Temple B - Room b-09 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple B - Central Chamber Key 1",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 725,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple B - Central Chamber Key 1",
+                        "ref": "Mirror Temple B - Central Chamber Key 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple B - Central Chamber Key 2",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 725,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple B - Central Chamber Key 2",
+                        "ref": "Mirror Temple B - Central Chamber Key 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 120,
+                        "y": 725,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple B - Level Clear",
+                        "ref": "Mirror Temple B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple C - Room 02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 775,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple C - Room 02 Binoculars",
+                        "ref": "Mirror Temple C - Room 02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Temple C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 775,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Temple C - Level Clear",
+                        "ref": "Mirror Temple C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Room 04e Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 825,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Room 04e Binoculars",
+                        "ref": "Reflection A - Room 04e Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 825,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Cassette",
+                        "ref": "Reflection A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 825,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Crystal Heart",
+                        "ref": "Reflection A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 120,
+                        "y": 825,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection A - Level Clear",
+                        "ref": "Reflection A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection B - Room a-02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 875,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection B - Room a-02 Binoculars",
+                        "ref": "Reflection B - Room a-02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection B - Room a-06 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 875,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection B - Room a-06 Binoculars",
+                        "ref": "Reflection B - Room a-06 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 105,
+                        "y": 875,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection B - Level Clear",
+                        "ref": "Reflection B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection C - Room 02 Binoculars 1",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 925,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection C - Room 02 Binoculars 1",
+                        "ref": "Reflection C - Room 02 Binoculars 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection C - Room 02 Binoculars 2",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 925,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection C - Room 02 Binoculars 2",
+                        "ref": "Reflection C - Room 02 Binoculars 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Reflection C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 925,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reflection C - Level Clear",
+                        "ref": "Reflection C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Gem 1",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Gem 1",
+                        "ref": "The Summit A - Gem 1/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room b-01 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-01 Binoculars",
+                        "ref": "The Summit A - Room b-01 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room b-02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 105,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-02 Binoculars",
+                        "ref": "The Summit A - Room b-02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room b-02b Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 120,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room b-02b Binoculars",
+                        "ref": "The Summit A - Room b-02b Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Gem 2",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 135,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Gem 2",
+                        "ref": "The Summit A - Gem 2/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room c-03b Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 165,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-03b Binoculars",
+                        "ref": "The Summit A - Room c-03b Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room c-05 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 180,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-05 Binoculars",
+                        "ref": "The Summit A - Room c-05 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room c-06c Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 195,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-06c Binoculars",
+                        "ref": "The Summit A - Room c-06c Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room c-07b Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 210,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room c-07b Binoculars",
+                        "ref": "The Summit A - Room c-07b Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Gem 3",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 225,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Gem 3",
+                        "ref": "The Summit A - Gem 3/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Gem 4",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 255,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Gem 4",
+                        "ref": "The Summit A - Gem 4/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 270,
+                        "y": 975,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Cassette",
+                        "ref": "The Summit A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Gem 5",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 300,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Gem 5",
+                        "ref": "The Summit A - Gem 5/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - 2500 M Key",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 330,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - 2500 M Key",
+                        "ref": "The Summit A - 2500 M Key/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Gem 6",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 345,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Gem 6",
+                        "ref": "The Summit A - Gem 6/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Room g-03 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 375,
+                        "y": 975,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Room g-03 Binoculars",
+                        "ref": "The Summit A - Room g-03 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 390,
+                        "y": 975,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Level Clear",
+                        "ref": "The Summit A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit A - Crystal Heart",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 405,
+                        "y": 975,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit A - Crystal Heart",
+                        "ref": "The Summit A - Crystal Heart/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Room b-01 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 1025,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Room b-01 Binoculars",
+                        "ref": "The Summit B - Room b-01 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Room b-02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 1025,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Room b-02 Binoculars",
+                        "ref": "The Summit B - Room b-02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 105,
+                        "y": 1025,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit B - Level Clear",
+                        "ref": "The Summit B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit C - Room 01 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 1075,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit C - Room 01 Binoculars",
+                        "ref": "The Summit C - Room 01 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit C - Room 03 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 1075,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit C - Room 03 Binoculars",
+                        "ref": "The Summit C - Room 03 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "The Summit C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 1075,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "The Summit C - Level Clear",
+                        "ref": "The Summit C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Epilogue - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 1125,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Epilogue - Level Clear",
+                        "ref": "Epilogue - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Car",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 1175,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Car",
+                        "ref": "Core A - Car/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 1175,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Level Clear",
+                        "ref": "Core A - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Core A - Cassette",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 105,
+                        "y": 1175,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core A - Cassette",
+                        "ref": "Core A - Cassette/"
+                    }
+                ]
+            },
+            {
+                "name": "Core B - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 1225,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core B - Level Clear",
+                        "ref": "Core B - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Core C - Room 01 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 1275,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core C - Room 01 Binoculars",
+                        "ref": "Core C - Room 01 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Core C - Room 02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 1275,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core C - Room 02 Binoculars",
+                        "ref": "Core C - Room 02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Core C - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 90,
+                        "y": 1275,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Core C - Level Clear",
+                        "ref": "Core C - Level Clear/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room a-04 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 60,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room a-04 Binoculars",
+                        "ref": "Farewell - Room a-04 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room b-06 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 75,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room b-06 Binoculars",
+                        "ref": "Farewell - Room b-06 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room d-00 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 105,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room d-00 Binoculars",
+                        "ref": "Farewell - Room d-00 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room d-04 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 120,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room d-04 Binoculars",
+                        "ref": "Farewell - Room d-04 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room d-03 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 135,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room d-03 Binoculars",
+                        "ref": "Farewell - Room d-03 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room d-01 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 150,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room d-01 Binoculars",
+                        "ref": "Farewell - Room d-01 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room d-02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 165,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room d-02 Binoculars",
+                        "ref": "Farewell - Room d-02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room d-05 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 180,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room d-05 Binoculars",
+                        "ref": "Farewell - Room d-05 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room e-00yb Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 195,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room e-00yb Binoculars",
+                        "ref": "Farewell - Room e-00yb Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Power Source Key 1",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 210,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Power Source Key 1",
+                        "ref": "Farewell - Power Source Key 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Power Source Key 2",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 225,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Power Source Key 2",
+                        "ref": "Farewell - Power Source Key 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Power Source Key 3",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 240,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Power Source Key 3",
+                        "ref": "Farewell - Power Source Key 3/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Power Source Key 4",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 255,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Power Source Key 4",
+                        "ref": "Farewell - Power Source Key 4/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Power Source Key 5",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 270,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Power Source Key 5",
+                        "ref": "Farewell - Power Source Key 5/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room e-00b Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 300,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room e-00b Binoculars",
+                        "ref": "Farewell - Room e-00b Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room e-01 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 315,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room e-01 Binoculars",
+                        "ref": "Farewell - Room e-01 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room e-02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 330,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room e-02 Binoculars",
+                        "ref": "Farewell - Room e-02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room e-04 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 345,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room e-04 Binoculars",
+                        "ref": "Farewell - Room e-04 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room e-08 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 360,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room e-08 Binoculars",
+                        "ref": "Farewell - Room e-08 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Crystal Heart?",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 375,
+                        "y": 1325,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Crystal Heart?",
+                        "ref": "Farewell - Crystal Heart?/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Secret Car",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 390,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Secret Car",
+                        "ref": "Farewell - Secret Car/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room f-06 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 420,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room f-06 Binoculars",
+                        "ref": "Farewell - Room f-06 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room f-07 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 435,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room f-07 Binoculars",
+                        "ref": "Farewell - Room f-07 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room f-08 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 450,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room f-08 Binoculars",
+                        "ref": "Farewell - Room f-08 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room f-09 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 465,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room f-09 Binoculars",
+                        "ref": "Farewell - Room f-09 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room g-00 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 480,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room g-00 Binoculars",
+                        "ref": "Farewell - Room g-00 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room g-04 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 495,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room g-04 Binoculars",
+                        "ref": "Farewell - Room g-04 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room g-06 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 510,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room g-06 Binoculars",
+                        "ref": "Farewell - Room g-06 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Internet Car",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 525,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Internet Car",
+                        "ref": "Farewell - Internet Car/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room h-01 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 555,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-01 Binoculars",
+                        "ref": "Farewell - Room h-01 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room h-02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 570,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-02 Binoculars",
+                        "ref": "Farewell - Room h-02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room h-03b Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 585,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-03b Binoculars",
+                        "ref": "Farewell - Room h-03b Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room h-04 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 600,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-04 Binoculars",
+                        "ref": "Farewell - Room h-04 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room h-05 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 615,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-05 Binoculars",
+                        "ref": "Farewell - Room h-05 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room h-06b Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 630,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-06b Binoculars",
+                        "ref": "Farewell - Room h-06b Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room h-07 Binoculars 1",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 645,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-07 Binoculars 1",
+                        "ref": "Farewell - Room h-07 Binoculars 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room h-07 Binoculars 2",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 660,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-07 Binoculars 2",
+                        "ref": "Farewell - Room h-07 Binoculars 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room h-08 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 675,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-08 Binoculars",
+                        "ref": "Farewell - Room h-08 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room h-09 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 690,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room h-09 Binoculars",
+                        "ref": "Farewell - Room h-09 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room i-00b Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 720,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room i-00b Binoculars",
+                        "ref": "Farewell - Room i-00b Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room i-02 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 735,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room i-02 Binoculars",
+                        "ref": "Farewell - Room i-02 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room i-04 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 750,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room i-04 Binoculars",
+                        "ref": "Farewell - Room i-04 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room i-05 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 765,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room i-05 Binoculars",
+                        "ref": "Farewell - Room i-05 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room j-16 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 795,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room j-16 Binoculars",
+                        "ref": "Farewell - Room j-16 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room j-19 Binoculars",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 810,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room j-19 Binoculars",
+                        "ref": "Farewell - Room j-19 Binoculars/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room end-golden Binoculars 1",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 825,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room end-golden Binoculars 1",
+                        "ref": "Farewell - Room end-golden Binoculars 1/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room end-golden Binoculars 2",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 840,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room end-golden Binoculars 2",
+                        "ref": "Farewell - Room end-golden Binoculars 2/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Room end-golden Binoculars 3",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 855,
+                        "y": 1325,
+                        "size": 10,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Room end-golden Binoculars 3",
+                        "ref": "Farewell - Room end-golden Binoculars 3/"
+                    }
+                ]
+            },
+            {
+                "name": "Farewell - Level Clear",
+                "map_locations": [
+                    {
+                        "map": "other_summary",
+                        "x": 870,
+                        "y": 1325,
+                        "size": 15
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Farewell - Level Clear",
+                        "ref": "Farewell - Level Clear/"
+                    }
+                ]
+            }
+        ]
+    }
+]
