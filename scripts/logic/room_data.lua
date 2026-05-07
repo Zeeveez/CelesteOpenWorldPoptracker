@@ -5175,7 +5175,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room end_goal"] = {
 		{ "Golden Ridge B - Room end_west", {
-			{ 'pink_cassette_blocks', 'blue_cassette_blocks', 'dash_refills', 'blue_boosters' }
+			{ 'pink_cassette_blocks', 'blue_cassette_blocks', 'dash_refills', 'blue_boosters' },
+			{ 'custom', 'blue_boosters', 'pink_cassette_blocks', 'blue_cassette_blocks' }
 		} },
 	},
 	["Golden Ridge B - Level Clear"] = {
