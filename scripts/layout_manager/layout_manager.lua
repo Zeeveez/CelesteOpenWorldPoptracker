@@ -1,10 +1,10 @@
 require("scripts/layout_manager/map_layouts")
 require("scripts/layout_manager/tracker_layouts")
 
-Tracker:AddLayouts("layouts/common/broadcast.json")
-Tracker:AddLayouts("layouts/common/settings/tracker_settings.json")
-Tracker:AddLayouts("layouts/common/settings/tracker_slot_data.json")
-Tracker:AddLayouts("layouts/common/settings/tracker_logic_settings.json")
+Tracker:AddLayouts("layouts/broadcast.json")
+Tracker:AddLayouts("layouts/settings/settings_popup.json")
+Tracker:AddLayouts("layouts/settings/tracker_slot_data.json")
+Tracker:AddLayouts("layouts/settings/tracker_settings.json")
 
 if Tracker.ActiveVariantUID == 'var_0_full' then
 	LoadFullMapLayout()

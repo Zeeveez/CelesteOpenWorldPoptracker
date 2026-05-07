@@ -1,0 +1,87 @@
+{
+    "tracker_bar_bottom": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "array",
+                "dock": "left",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_progress"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "left",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_items"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "left",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_keys_gems"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "left",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_checkpoints"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "left",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_goal"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "left",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_sanity"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "left",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_triggers"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "left",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_progress_graph"
+                    }
+                ]
+            }
+        ]
+    }
+}

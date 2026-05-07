@@ -1,0 +1,25 @@
+{
+    "settings_popup": {
+        "type": "container",
+        "background": "#443a3a",
+        "content": {
+            "type": "tabbed",
+            "tabs": [
+                {
+                    "title": "Slot Data",
+                    "content": {
+                        "type": "layout",
+                        "key": "tracker_slot_data"
+                    }
+                },
+                {
+                    "title": "Tracker",
+                    "content": {
+                        "type": "layout",
+                        "key": "tracker_settings"
+                    }
+                }
+            ]
+        }
+    }
+}

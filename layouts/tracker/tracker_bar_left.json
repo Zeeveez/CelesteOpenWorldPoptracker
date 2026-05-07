@@ -1,0 +1,37 @@
+{
+    "tracker_bar_left": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_items"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_keys_gems"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_triggers"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "tracker_settings": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "group",
+                "header": "Logic",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "2,2",
+                    "item_size": "5,5",
+                    "rows": [
+                        [
+                            "show_out_of_logic",
+                            "show_custom_logic",
+                            "smart_keys",
+                            "smart_gems"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Layout",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "2,2",
+                    "item_size": "5,5",
+                    "rows": [
+                        [
+                            "show_micro_summary"
+                        ]
+                    ]
+                }
+            }
+        ]
+    }
+}

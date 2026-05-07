@@ -1,0 +1,57 @@
+{
+    "tracker_bar_right": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_progress_graph"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_checkpoints"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_progress"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_goal"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_sanity"
+                    }
+                ]
+            }
+        ]
+    }
+}
