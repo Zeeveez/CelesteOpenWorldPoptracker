@@ -31,7 +31,16 @@
                     "item_size": "5,5",
                     "rows": [
                         [
-                            "show_micro_summary"
+                            "show_tracker_checkpoints",
+                            "show_tracker_goal",
+                            "show_tracker_items",
+                            "show_tracker_keys_gems",
+                            "show_tracker_progress",
+                            "show_tracker_sanity"
+                        ],
+                        [
+                            "show_tracker_progress_graph",
+                            "show_tracker_triggers"
                         ]
                     ]
                 }

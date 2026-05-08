@@ -53,7 +53,9 @@ function UpdateAccessCache(test_item)
         UpdateAccessibleItems(test_item)
     end
 end
-function InvalidateItemCache()
+function InvalidateItemCache(code)
+    -- Don't invalidate item cache for layout changes
+    if code:sub(1,5) == 'show_' then return end
     item_cache_stale = true
 end
 ScriptHost:AddWatchForCode("StateChanged", "*", InvalidateItemCache)

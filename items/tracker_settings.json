@@ -29,10 +29,59 @@
     },
 
     {
-        "name": "Show Micro Summary",
+        "name": "Show Checkpoints",
         "type": "toggle",
-        "img": "images/icons/show-custom-logic.png",
+        "img": "images/icons/checkpoint.png",
         "initial_active_state": true,
-        "codes": "show_micro_summary"
+        "codes": "show_tracker_checkpoints"
+    },
+    {
+        "name": "Show Goal",
+        "type": "toggle",
+        "img": "images/icons/chapters/7a.png",
+        "initial_active_state": true,
+        "codes": "show_tracker_goal"
+    },
+    {
+        "name": "Show Items",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "initial_active_state": true,
+        "codes": "show_tracker_items"
+    },
+    {
+        "name": "Show Keys/Gems",
+        "type": "toggle",
+        "img": "images/icons/items/keys_gems/key.png",
+        "initial_active_state": true,
+        "codes": "show_tracker_keys_gems"
+    },
+    {
+        "name": "Show Progress",
+        "type": "toggle",
+        "img": "images/icons/collectables/strawberry.png",
+        "initial_active_state": true,
+        "codes": "show_tracker_progress"
+    },
+    {
+        "name": "Show Progress Graph",
+        "type": "toggle",
+        "img": "images/icons/progress_graph.png",
+        "initial_active_state": true,
+        "codes": "show_tracker_progress_graph"
+    },
+    {
+        "name": "Show *-sanities",
+        "type": "toggle",
+        "img": "images/icons/sanities.png",
+        "initial_active_state": true,
+        "codes": "show_tracker_sanity"
+    },
+    {
+        "name": "Show Triggers",
+        "type": "toggle",
+        "img": "images/icons/hint_assist.png",
+        "initial_active_state": true,
+        "codes": "show_tracker_triggers"
     }
 ]
