@@ -81,7 +81,7 @@
         "name": "Show Triggers",
         "type": "toggle",
         "img": "images/icons/hint_assist.png",
-        "initial_active_state": true,
+        "initial_active_state": false,
         "codes": "show_tracker_triggers"
     }
 ]

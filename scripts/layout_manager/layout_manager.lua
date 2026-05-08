@@ -42,7 +42,8 @@ local LAYOUT_ITEMS = {
 	["show_tracker_progress"] = "tracker_progress",
 	["show_tracker_progress_graph"] = "tracker_progress_graph",
 	["show_tracker_sanity"] = "tracker_sanity",
-	["show_tracker_triggers"] = "tracker_triggers"
+	-- TODO: Renable (remember settings popup item and default setting in item)
+	--["show_tracker_triggers"] = "tracker_triggers"
 }
 
 function LayoutChange(code)
