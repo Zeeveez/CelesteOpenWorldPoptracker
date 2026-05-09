@@ -69,8 +69,8 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
     <th colspan="2">Tracker</th>
   </tr>
   <tr>
-    <td colspan="2">![Image of Celeste (Open World) PopTracker Slot Data Settings](/images/docs/settings_slot_data.png"/></td>
-    <td colspan="2">![Image of Celeste (Open World) PopTracker Tracker Settings](/images/docs/settings_tracker.png"/></td>
+    <td colspan="2"><img src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/docs/settings_slot_data.png"/></td>
+    <td colspan="2"><img src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/docs/settings_tracker.png"/></td>
   </tr>
   <tr>
     <th colspan="2">Goal Settings</th>
