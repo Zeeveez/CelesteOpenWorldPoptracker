@@ -11024,7 +11024,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room f-02_east"] = {
 		{ "The Summit B - Room f-02_west", {
-			{ 'springs', 'swap_blocks', 'dash_refills' }
+			{ 'springs', 'swap_blocks', 'dash_refills' },
+			{ 'custom', 'swap_blocks' }
 		} },
 		{ "The Summit B - Room f-03_bottom", { {  } } },
 	},
