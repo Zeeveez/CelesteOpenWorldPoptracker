@@ -91,12 +91,12 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
   <tr>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/locked_door.png"/></td>
     <td>Lock Goal Area</td>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/keys_gems/key.png"/></td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/key.png"/></td>
     <td>Enable Smart Keys</td>
   </tr>
   <tr>
     <th colspan="2">Chapter Access Settings</th>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/keys_gems/gem-1.png"/></td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/gem-1.png"/></td>
     <td>Enable Smart Gems</td>
   </tr>
   <tr>
@@ -119,13 +119,13 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
   <tr>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/chapters/9.png"/></td>
     <td>Include Farewell</td>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/keys_gems/key.png"/></td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/key.png"/></td>
     <td>Show Keys/Gems</td>
   </tr>
   <tr>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/collectables/golden_strawberry.png"/></td>
     <td>Include Goldens</td>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/keys_gems/key.png"/></td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/key.png"/></td>
     <td>Show Checkpoints</td>
   </tr>
   <tr>
@@ -146,13 +146,13 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
     <td>Show Progress Graph</td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/keys_gems/key.png"/></td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/key.png"/></td>
     <td>Enable Keysanity</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/keys_gems/gem-1.png"/></td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/gem-1.png"/></td>
     <td>Enable Gemsanity</td>
     <td></td>
     <td></td>
@@ -175,7 +175,7 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
     <td></td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/death_trap_link.png"/></td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/death_trap_link/link_on.png"/></td>
     <td>Enable Death Link and Death Link Amnesty</td>
     <td></td>
     <td></td>
@@ -186,7 +186,7 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
     <td></td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/death_trap_link.png"/></td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/death_trap_link/link_on.png"/></td>
     <td>Enable Trap Link</td>
     <td></td>
     <td></td>
