@@ -7,7 +7,7 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 
 ## Requirements
 
-- [PopTracker](https://github.com/black-sliver/PopTracker) (latest version recommended)
+- [PopTracker](https://poptracker.github.io/) (0.32.0 minimum, latest recommended)
 
 
 ## Installation and Usage
@@ -25,15 +25,21 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 	- Summary Only (Horizontal and Vertical layouts)
 	- Summary and Checkpoints (Horizontal and Vertical layouts)
 	- Full Tracker (Summary, Checkpoints, and Rooms) (Horizontal layout only)
-- Settings view to see more information from the slot, including trap settings
+- Settings:
+    - Slot Data tab to see more information from the slot, including trap settings
+	- Tracker tab to control tracker specific settings
+		- Logic settings toggles
+		- Main tracker display element toggles
 - Broadcast view containing only interactable items
 - Toggleable auto-tabbing and auto-pan/zoom
-	- Auto-Pan/Zoom in PopTracker v0.34 will reset zoom to default during pan, upgrade to v0.35 or later for full functionality
+	- Auto-Pan/Zoom in PopTracker v0.34.0 will reset zoom to default during pan, upgrade to v0.35 or later for full functionality, this feature is not supported in versions prior to v0.34.0
 - Access Logic:
 	- Randomiser Logic (Shown in green)
-	- Custom Logic/Sequence Breaks (Shown in yellow; Can be toggled off in Pack Settings -> Logic; See Notes)
-	- Smart Keys/Gems indicate what's possible when collecting these items with the relevant *-sanity disabled (Can be toggled off in Pack Settings -> Logic)
-
+	- Custom Logic/Sequence Breaks (Shown in yellow; See Notes for scope)
+- Quality of Life: 
+	- Smart Keys/Gems indicate what's possible when collecting these items with the relevant *-sanity disabled
+	- GO Mode indicator shown on Granny's House Keys when strawberry requirement is met and required items to clear goal level are unlocked
+	- Progress Graph that displays all locations in a single small summary
 
 ## Tracker Views
 
@@ -45,6 +51,10 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 |Summary and Checkpoints|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Horizontal)](/images/docs/var_1_chapters.png)|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Vertical)](/images/docs/var_4_chapters_vert.png)|
 |Full Tracker|![Image of Celeste (Open World) PopTracker - Summary and Checkpoints (Horizontal)](/images/docs/var_0_full.png)|N/A|
 
+### Tracker Key
+
+![Image of Celeste (Open World) PopTracker Tracker Key](/images/docs/key.png)
+
 ### Broadcast
 
 |Horizontal|Vertical|
@@ -53,11 +63,141 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 
 ### Settings
 
-![Image of Celeste (Open World) PopTracker Settings Window](/images/docs/settings.png)
-
-### Tracker Key
-
-![Image of Celeste (Open World) PopTracker Tracker Key](/images/docs/key.png)
+<table>
+  <tr>
+    <th colspan="2">Slot Data</th>
+    <th colspan="2">Tracker</th>
+  </tr>
+  <tr>
+    <td colspan="2">![Image of Celeste (Open World) PopTracker Slot Data Settings](/images/docs/settings_slot_data.png)</td>
+    <td colspan="2">![Image of Celeste (Open World) PopTracker Tracker Settings](/images/docs/settings_tracker.png)</td>
+  </tr>
+  <tr>
+    <th colspan="2">Goal Settings</th>
+    <th colspan="2">Logic Settings</th>
+  </tr>
+  <tr>
+    <td>![](/images/icons/collectables/strawberry.png)</td>
+    <td>Strawberries Required</td>
+    <td>![](/images/icons/show-out-of-logic.png)</td>
+    <td>Show Out of Logic</td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/chapters/7a.png), etc.</td>
+    <td>Goal</td>
+    <td>![](/images/icons/show-custom-logic.png)</td>
+    <td>Show Custom Logic</td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/locked_door.png), etc.</td>
+    <td>Lock Goal Area</td>
+    <td>![](/images/icons/keys_gems/key.png)</td>
+    <td>Enable Smart Keys</td>
+  </tr>
+  <tr>
+    <th colspan="2">Chapter Access Settings</th>
+    <td>![](/images/icons/keys_gems/gem-1.png)</td>
+    <td>Enable Smart Gems</td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/chapters/b-sides.png)</td>
+    <td>Include B-Sides</td>
+    <th colspan="2">Layout Settings</th>
+  </tr>
+  <tr>
+    <td>![](/images/icons/chapters/c-sides.png)</td>
+    <td>Include C-Sides</td>
+    <td>![](/images/icons/collectables/strawberry.png)</td>
+    <td>Show Progress</td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/chapters/8a.png)</td>
+    <td>Include Core</td>
+    <td>![](/images/icons/items/platforms_blocks/traffic_blocks.png)</td>
+    <td>Show Items</td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/chapters/9.png)</td>
+    <td>Include Farewell</td>
+    <td>![](/images/icons/keys_gems/key.png)</td>
+    <td>Show Keys/Gems</td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/collectables/golden_strawberry.png)</td>
+    <td>Include Goldens</td>
+    <td>![](/images/icons/keys_gems/key.png)</td>
+    <td>Show Checkpoints</td>
+  </tr>
+  <tr>
+    <th colspan="2">*-sanity Settings</th>
+    <td>![](/images/icons/chapters/7a.png)</td>
+    <td>Show Goal</td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/carsanity.png)</td>
+    <td>Enable Carsanity</td>
+    <td>![](/images/icons/sanities.png)</td>
+    <td>Show *-sanities</td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/roomsanity.png)</td>
+    <td>Enable Roomsanity</td>
+    <td>![](/images/icons/progress_graph.png)</td>
+    <td>Show Progress Graph</td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/keys_gems/key.png)</td>
+    <td>Enable Keysanity</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/keys_gems/gem-1.png)</td>
+    <td>Enable Gemsanity</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/binos.png)</td>
+    <td>Enable Binosanity</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/checkpoint.png)</td>
+    <td>Enable Checkpointsanity</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="2">Death Link Settings</th>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/death_trap_link.png)</td>
+    <td>Enable Death Link and Death Link Amnesty</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="2">Traps Settings</th>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>![](/images/icons/death_trap_link.png)</td>
+    <td>Enable Trap Link</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Various Images</td>
+    <td>Enable Traps and Trap Densities</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 ## Notes
