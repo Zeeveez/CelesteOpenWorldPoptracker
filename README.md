@@ -70,9 +70,11 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
   </tr>
   <tr>
     <td colspan="2">
-        Note that slot data settings can be toggled to change what is visible in the tracker, however these changes are visual only, and will not affect your game.
-
-        <img src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/docs/settings_slot_data.png"/></td>
+        Note that slot data settings can be toggled to<br/>
+        change what is visible in the tracker, however<br/>
+        these changes are visual only, and will not affect your game.<br/>
+        <img src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/docs/settings_slot_data.png"/>
+    </td>
     <td colspan="2"><img src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/docs/settings_tracker.png"/></td>
   </tr>
   <tr>
