@@ -125,7 +125,7 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
   <tr>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/collectables/golden_strawberry.png"/></td>
     <td>Include Goldens</td>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/key.png"/></td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/checkpoint.png"/></td>
     <td>Show Checkpoints</td>
   </tr>
   <tr>
