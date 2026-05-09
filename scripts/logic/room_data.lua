@@ -12317,7 +12317,8 @@ LOCATION_ACCESS_LOGIC = {
 	["Farewell - Room a-01_east"] = {
 		{ "Farewell - Room a-01_west", {
 			{ 'double_dash_refills', 'dash_refills' },
-			{ 'custom', 'dash_refills' }
+			{ 'custom', 'dash_refills' },
+			{ 'custom', 'double_dash_refills' }
 		} },
 		{ "Farewell - Room a-02_west", { {  } } },
 	},
@@ -12442,7 +12443,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room b-06_east"] = {
 		{ "Farewell - Room b-06_west", {
-			{ 'pufferfish', 'springs', 'dream_blocks', 'dash_refills' }
+			{ 'pufferfish', 'springs', 'dream_blocks', 'dash_refills' },
+			{ 'custom', 'dream_blocks', 'pufferfish', 'springs' }
 		} },
 		{ "Farewell - Room b-07_west", { {  } } },
 	},
@@ -12452,7 +12454,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room b-07_east"] = {
 		{ "Farewell - Room b-07_west", {
-			{ 'double_dash_refills', 'dash_refills' }
+			{ 'double_dash_refills', 'dash_refills' },
+			{ 'custom', 'double_dash_refills' }
 		} },
 		{ "Farewell - Room c-00_west", { {  } } },
 	},
@@ -12794,7 +12797,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-01_north"] = {
 		{ "Farewell - Room e-01_south", {
-			{ 'jellyfish', 'springs', 'dash_refills' }
+			{ 'jellyfish', 'springs', 'dash_refills' },
+			{ 'custom', 'springs' }
 		} },
 	},
 	["Farewell - Room e-02"] = {
@@ -12806,7 +12810,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-02_east"] = {
 		{ "Farewell - Room e-02_west", {
-			{ 'jellyfish', 'springs', 'dash_refills', 'coins' }
+			{ 'jellyfish', 'springs', 'dash_refills', 'coins' },
+			{ 'custom', 'jellyfish', 'springs', 'coins' }
 		} },
 		{ "Farewell - Room e-03_west", { {  } } },
 	},
@@ -12872,7 +12877,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-06_east"] = {
 		{ "Farewell - Room e-06_west", {
-			{ 'jellyfish', 'springs', 'dash_refills', 'coins' }
+			{ 'jellyfish', 'springs', 'dash_refills', 'coins' },
+			{ 'custom', 'jellyfish', 'springs', 'coins' }
 		} },
 		{ "Farewell - Room e-07_west", { {  } } },
 	},
@@ -13126,7 +13132,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-07_east"] = {
 		{ "Farewell - Room f-07_west", {
-			{ 'dash_refills', 'traffic_blocks' }
+			{ 'dash_refills', 'traffic_blocks' },
+			{ 'custom', 'traffic_blocks' }
 		} },
 		{ "Farewell - Room f-08_west", { {  } } },
 	},
@@ -13139,7 +13146,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-08_east"] = {
 		{ "Farewell - Room f-08_west", {
-			{ 'dash_refills', 'double_dash_refills', 'coins', 'move_blocks' }
+			{ 'dash_refills', 'double_dash_refills', 'coins', 'move_blocks' },
+			{ 'custom', 'move_blocks' }
 		} },
 		{ "Farewell - Room f-09_west", { {  } } },
 	},
@@ -13152,7 +13160,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-09_east"] = {
 		{ "Farewell - Room f-09_west", {
-			{ 'dash_refills', 'double_dash_refills', 'coins' }
+			{ 'dash_refills', 'double_dash_refills', 'coins' },
+			{ 'custom', 'double_dash_refills', 'coins' }
 		} },
 	},
 	["Farewell - Room g-00"] = {
@@ -13164,7 +13173,9 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room g-00_top"] = {
 		{ "Farewell - Room g-00_bottom", {
-			{ 'dash_refills', 'traffic_blocks' }
+			{ 'dash_refills', 'traffic_blocks' },
+			{ 'custom', 'dash_refills' },
+			{ 'custom', 'traffic_blocks' }
 		} },
 	},
 	["Farewell - Room g-00_bottom"] = {
@@ -13277,7 +13288,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-01_east"] = {
 		{ "Farewell - Room h-01_west", {
-			{ 'dash_refills', 'double_dash_refills', 'springs', 'move_blocks' }
+			{ 'dash_refills', 'double_dash_refills', 'springs', 'move_blocks' },
+			{ 'custom', 'double_dash_refills', 'springs', 'move_blocks' }
 		} },
 	},
 	["Farewell - Room h-02"] = {
@@ -13367,7 +13379,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-06_east"] = {
 		{ "Farewell - Room h-06_west", {
-			{ 'dash_refills', 'springs', 'feathers' }
+			{ 'dash_refills', 'springs', 'feathers' },
+			{ 'custom', 'springs', 'feathers' }
 		} },
 	},
 	["Farewell - Room h-06b"] = {
@@ -13412,7 +13425,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-08_east"] = {
 		{ "Farewell - Room h-08_west", {
-			{ 'dash_refills', 'double_dash_refills', 'coins' }
+			{ 'dash_refills', 'double_dash_refills', 'coins' },
+			{ 'custom', 'double_dash_refills', 'coins' }
 		} },
 		{ "Farewell - Room h-09_west", { {  } } },
 	},
@@ -13425,7 +13439,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-09_east"] = {
 		{ "Farewell - Room h-09_west", {
-			{ 'dash_refills', 'double_dash_refills', 'coins', 'feathers', 'kevin_blocks' }
+			{ 'dash_refills', 'double_dash_refills', 'coins', 'feathers', 'kevin_blocks' },
+			{ 'custom', 'kevin_blocks', 'feathers', 'coins' }
 		} },
 		{ "Farewell - Room h-10_west", { {  } } },
 	},
@@ -13469,7 +13484,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room i-00b_east"] = {
 		{ "Farewell - Room i-00b_west", {
-			{ 'dash_refills', 'double_dash_refills', 'springs', 'blue_cassette_blocks', 'pink_cassette_blocks', 'yellow_cassette_blocks', 'green_cassette_blocks' }
+			{ 'dash_refills', 'double_dash_refills', 'springs', 'blue_cassette_blocks', 'pink_cassette_blocks', 'yellow_cassette_blocks', 'green_cassette_blocks' },
+			{ 'custom', 'blue_cassette_blocks', 'pink_cassette_blocks', 'yellow_cassette_blocks', 'green_cassette_blocks', 'double_dash_refills', 'springs' }
 		} },
 		{ "Farewell - Room i-01_west", { {  } } },
 	},
@@ -13546,7 +13562,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-00_east"] = {
 		{ "Farewell - Room j-00_west", {
-			{ 'dash_refills', 'bird', 'badeline_boosters', 'breaker_boxes' }
+			{ 'dash_refills', 'bird', 'badeline_boosters', 'breaker_boxes' },
+			{ 'custom', 'breaker_boxes', 'bird' }
 		} },
 		{ "Farewell - Room j-00b_west", { {  } } },
 	},
