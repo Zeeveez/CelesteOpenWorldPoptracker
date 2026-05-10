@@ -27,6 +27,17 @@ body:
         - 10 - Farewell
     validations:
       required: true
+  - type: dropdown
+    id: side
+    attributes:
+      label: Side
+      description: What side is the addition for (for Farewell use side A)?
+      options:
+        - A
+        - B
+        - C
+    validations:
+      required: true
   - type: input
     id: room
     attributes:

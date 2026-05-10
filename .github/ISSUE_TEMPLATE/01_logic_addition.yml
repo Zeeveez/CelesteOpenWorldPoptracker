@@ -11,6 +11,7 @@ body:
       label: Chapter
       description: What chapter is the addition for?
       options:
+        - 0 - Prologue
         - 1 - Forsaken City
         - 2 - Old Site
         - 3 - Celestial Resort
@@ -18,8 +19,9 @@ body:
         - 5 - Mirror Temple
         - 6 - Reflection
         - 7 - The Summit
-        - 8 - Core
-        - 9 - Farewell
+        - 8 - Epilogue
+        - 9 - Core
+        - 10 - Farewell
     validations:
       required: true
   - type: dropdown
