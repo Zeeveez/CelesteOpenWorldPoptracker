@@ -12217,7 +12217,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core C - Room 02_goal"] = {
 		{ "Core C - Room 02_west", {
-			{ 'springs', 'traffic_blocks', 'dash_refills', 'core_toggles', 'dream_blocks', 'bumpers', 'pink_clouds', 'swap_blocks', 'kevin_blocks', 'core_blocks' }
+			{ 'springs', 'traffic_blocks', 'dash_refills', 'core_toggles', 'dream_blocks', 'bumpers', 'pink_clouds', 'swap_blocks', 'kevin_blocks', 'core_blocks' },
+			{ 'custom', 'springs', 'traffic_blocks', 'dash_refills', 'core_toggles', 'dream_blocks', 'bumpers', 'pink_clouds', 'kevin_blocks', 'core_blocks' }
 		} },
 	},
 	["Core C - Level Clear"] = {
