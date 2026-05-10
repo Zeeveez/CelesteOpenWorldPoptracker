@@ -7167,7 +7167,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Mirror Temple B - Room c-00_bottom"] = {
 		{ "Mirror Temple B - Room c-00_mirror", {
 			{ 'dash_refills', 'dash_switches' },
-			{ 'custom', 'dash_refills' }
+			{ 'custom' }
 		} },
 	},
 	["Mirror Temple B - Room c-01"] = {

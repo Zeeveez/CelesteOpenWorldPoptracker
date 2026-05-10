@@ -45,6 +45,7 @@ local LAYOUT_ITEMS = {
 	-- TODO: Renable (remember settings popup item and default setting in item)
 	--["show_tracker_triggers"] = "tracker_triggers"
 }
+Tracker:AddLayouts("layouts/tracker/tracker_triggers/tracker_triggers_off.json")
 
 function LayoutChange(code)
 	local layout = "horizontal"
