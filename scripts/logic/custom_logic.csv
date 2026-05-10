@@ -400,6 +400,8 @@ Core A - Room d-10b_west,Core A - Room d-10b_east,"dash_refills,core_toggles,cor
 Core B - Room a-00_west,Core B - Room a-00_east,,,1
 Core B - Room a-01_west,Core B - Room a-01_east,,,1
 Core B - Room b-01_west,Core B - Room b-01_east,"core_blocks,core_toggles",,1
+Core B - Room c-01_bottom,Core B - Room c-01_top,"dash_refills,core_blocks,springs",,1
+Core B - Room c-02_bottom,Core B - Room c-02_top,,,1
 Farewell - Room intro-01-future_west,Farewell - Room intro-02-launch_bottom,,"DTS",1
 Farewell - Room intro-01-future_west,Farewell - Room intro-03-space_west,,"DTS",1
 Farewell - Room a-00_west,Farewell - Room a-00_east,,"DTS",1

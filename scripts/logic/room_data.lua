@@ -12030,7 +12030,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room c-01_top"] = {
 		{ "Core B - Room c-01_bottom", {
-			{ 'dash_refills', 'core_blocks', 'core_toggles', 'springs' }
+			{ 'dash_refills', 'core_blocks', 'core_toggles', 'springs' },
+			{ 'custom', 'dash_refills', 'core_blocks', 'springs' }
 		} },
 	},
 	["Core B - Room c-02"] = {
@@ -12039,7 +12040,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room c-02_top"] = {
 		{ "Core B - Room c-02_bottom", {
-			{ 'dash_refills', 'core_toggles', 'bumpers', 'fire_ice_balls' }
+			{ 'dash_refills', 'core_toggles', 'bumpers', 'fire_ice_balls' },
+			{ 'custom' }
 		} },
 	},
 	["Core B - Room c-03"] = {
