@@ -7,7 +7,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: "## NOTE: This form is for requests for non-logic related bug reports such as issues with tracker functionality. For logic related reports use the appropriate form."
+      value: "## NOTE: This form is for non-logic related bug reports such as issues with tracker functionality. For logic related reports use the appropriate form."
   - type: textarea
     id: what-bug
     attributes:
