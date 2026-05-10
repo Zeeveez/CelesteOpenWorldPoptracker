@@ -12,7 +12,7 @@ body:
     id: what-bug
     attributes:
       label: What is the bug?
-      description: What is the bug you're report? Provide all details necessary.
+      description: What is the bug you're reporting? Provide all details necessary.
     validations:
       required: true
   - type: textarea
