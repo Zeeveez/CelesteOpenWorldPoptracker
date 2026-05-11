@@ -1,6 +1,40 @@
 {
     "versions": [
         {
+            "package_version": "1.3.0",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.3.0.zip",
+            "sha256": "515EA9CBB8DCFD09FD3D5DC6E81BAC938AB554B8FA483269731CE62583C6CDC4",
+            "changelog": [
+                "Issue#024: OOL 8b b-01_west -> b-01_east without bumpers",
+                "Issue#025: OOL 6a boss-05_west -> boss-05_east itemless",
+                "Issue#026: OOL 8b a-00_west -> a-00_east itemless",
+                "Issue#027: OOL 8b a-01_west -> a-01_east itemless",
+                "Issue#028: OOL 6b d-02_west -> d-02_east without coins",
+                "Issue#029: OOL 7b b-00_bottom -> b-00_top without dash refills",
+                "Issue#030: Power Source Skip",
+                "Issue#031: OOL 7a e-00_south-west -> e-00_east without blue clouds",
+                "Issue#032: Smart Granny's House Keys (GO Mode indicator)",
+                "Issue#033: Toggle for inclusion of custom logic",
+                "Issue#036: OOL 6a 20_east -> 20_west",
+                "Issue#037: OOL 8b c-01_bottom -> c-01_top without core toggles",
+                "Issue#038: OOL 8b c-02_bottom -> c-02_top itemless",
+                "Issue#039: OOL 5b c-00_mirror -> c-00_bottom itemless",
+                "OOL 2A 05_bottom -> 05_top without no dash refills",
+                "OOL 4A a-10 strawberry without springs",
+                "OOL 4B end_west -> end_goal without dash refills",
+                "OOL 7A f-08c itemless",
+                "OOL 7B f-02_west -> f-02_east without dash refills",
+                "OOL 8A d-07_bottom -> d-07_top without springs",
+                "OOL 8C 02_west -> 02_goal without swap blocks",
+                "Lots more Farewell OOL",
+                "Added minimum/target PopTracker versions",
+                "Logic convertor refactor",
+                "Location type specific overview screens",
+                "Overall progress graph",
+                "Layout customisation"
+            ]
+        },
+        {
             "package_version": "1.2.5",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.2.5.zip",
             "sha256": "915AF403C18B037AC34D3827EBCE0FA44DA908E47922245D5F8A1646C3D494E7",
