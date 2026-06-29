@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/heart_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/heart_opened.png",
         "visibility_rules": [
             "include_empty_space",
             "goal_area_empty_space",
@@ -21,12 +23,6 @@
                 "x": 3852,
                 "y": 85,
                 "size": 68
-            },
-            {
-                "map": "10_a_3_e-08",
-                "x": 1039,
-                "y": 55,
-                "size": 25
             }
         ]
     },
@@ -39,6 +35,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/car_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/car_opened.png",
         "visibility_rules": [
             "include_empty_space,carsanity",
             "goal_area_empty_space,carsanity",
@@ -53,13 +51,6 @@
                 "y": 211,
                 "size": 68,
                 "shape": "trapezoid"
-            },
-            {
-                "map": "10_a_3_e-01",
-                "x": 290,
-                "y": 37,
-                "size": 25,
-                "shape": "trapezoid"
             }
         ]
     },
@@ -72,6 +63,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/car_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/car_opened.png",
         "visibility_rules": [
             "include_farewell,carsanity",
             "goal_area_farewell,carsanity",
@@ -83,13 +76,6 @@
                 "x": 382,
                 "y": 714,
                 "size": 68,
-                "shape": "trapezoid"
-            },
-            {
-                "map": "10_a_4_f-00",
-                "x": 82,
-                "y": 118,
-                "size": 25,
                 "shape": "trapezoid"
             }
         ]
@@ -103,6 +89,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
         "visibility_rules": [
             "include_farewell",
             "goal_area_farewell",
@@ -113,12 +101,6 @@
                 "map": "10_a_8",
                 "x": 3127,
                 "y": 3461,
-                "size": 68
-            },
-            {
-                "map": "10_a_8_j-16",
-                "x": 3787,
-                "y": 1045,
                 "size": 68
             }
         ]

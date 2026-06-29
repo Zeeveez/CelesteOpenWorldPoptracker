@@ -1,0 +1,11 @@
+{
+    "tracker_keys_gems_10": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "farewell-icon", "farewell-powersourcekey1", "farewell-powersourcekey2", "farewell-powersourcekey3", "farewell-powersourcekey4", "farewell-powersourcekey5" ]
+        ]
+    }
+}

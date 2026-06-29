@@ -1,0 +1,73 @@
+{
+    "1_a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_1a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "1_a_0"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Crossing",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_1a"
+                        },
+                        {
+                            "type": "itemgrid",
+                            "dock": "top",
+                            "item_margin": "2,2",
+                            "item_size": "3,3",
+                            "rows": [
+                                [ "dash_sequence_u", "dash_sequence_l", "dash_sequence_dr", "dash_sequence_ur", "dash_sequence_l", "dash_sequence_ul" ]
+                            ]
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "1_a_1"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chasm",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_1a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "1_a_2"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

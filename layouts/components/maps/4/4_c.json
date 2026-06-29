@@ -1,0 +1,26 @@
+{
+    "4_c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Begin",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_4c"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "4_c_0"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,5 +1,11 @@
 [
     {
+        "name": "Forsaken City",
+        "type": "static",
+        "img": "images/icons/chapters/1a.png",
+        "codes": "forsakencity-icon"
+    },
+    {
         "name": "Forsaken City A",
         "type": "static",
         "img": "images/icons/chapters/1a.png",
@@ -10,6 +16,18 @@
         "type": "static",
         "img": "images/icons/chapters/1b.png",
         "codes": "forsakencityb-icon"
+    },
+    {
+        "name": "Forsaken City C",
+        "type": "static",
+        "img": "images/icons/chapters/1c.png",
+        "codes": "forsakencityc-icon"
+    },
+    {
+        "name": "Old Site",
+        "type": "static",
+        "img": "images/icons/chapters/2a.png",
+        "codes": "oldsite-icon"
     },
     {
         "name": "Old Site A",
@@ -24,6 +42,18 @@
         "codes": "oldsiteb-icon"
     },
     {
+        "name": "Old Site C",
+        "type": "static",
+        "img": "images/icons/chapters/2c.png",
+        "codes": "oldsitec-icon"
+    },
+    {
+        "name": "Celestial Resort",
+        "type": "static",
+        "img": "images/icons/chapters/3a.png",
+        "codes": "celestialresort-icon"
+    },
+    {
         "name": "Celestial Resort A",
         "type": "static",
         "img": "images/icons/chapters/3a.png",
@@ -34,6 +64,18 @@
         "type": "static",
         "img": "images/icons/chapters/3b.png",
         "codes": "celestialresortb-icon"
+    },
+    {
+        "name": "Celestial Resort C",
+        "type": "static",
+        "img": "images/icons/chapters/3c.png",
+        "codes": "celestialresortc-icon"
+    },
+    {
+        "name": "Golden Ridge",
+        "type": "static",
+        "img": "images/icons/chapters/4a.png",
+        "codes": "goldenridge-icon"
     },
     {
         "name": "Golden Ridge A",
@@ -48,6 +90,18 @@
         "codes": "goldenridgeb-icon"
     },
     {
+        "name": "Golden Ridge C",
+        "type": "static",
+        "img": "images/icons/chapters/4c.png",
+        "codes": "goldenridgec-icon"
+    },
+    {
+        "name": "Mirror Temple",
+        "type": "static",
+        "img": "images/icons/chapters/5a.png",
+        "codes": "mirrortemple-icon"
+    },
+    {
         "name": "Mirror Temple A",
         "type": "static",
         "img": "images/icons/chapters/5a.png",
@@ -58,6 +112,18 @@
         "type": "static",
         "img": "images/icons/chapters/5b.png",
         "codes": "mirrortempleb-icon"
+    },
+    {
+        "name": "Mirror Temple C",
+        "type": "static",
+        "img": "images/icons/chapters/5c.png",
+        "codes": "mirrortemplec-icon"
+    },
+    {
+        "name": "Reflection",
+        "type": "static",
+        "img": "images/icons/chapters/6a.png",
+        "codes": "reflection-icon"
     },
     {
         "name": "Reflection A",
@@ -72,6 +138,18 @@
         "codes": "reflectionb-icon"
     },
     {
+        "name": "Reflection C",
+        "type": "static",
+        "img": "images/icons/chapters/6c.png",
+        "codes": "reflectionc-icon"
+    },
+    {
+        "name": "The Summit",
+        "type": "static",
+        "img": "images/icons/chapters/7a.png",
+        "codes": "thesummit-icon"
+    },
+    {
         "name": "The Summit A",
         "type": "static",
         "img": "images/icons/chapters/7a.png",
@@ -82,6 +160,18 @@
         "type": "static",
         "img": "images/icons/chapters/7b.png",
         "codes": "thesummitb-icon"
+    },
+    {
+        "name": "The Summit C",
+        "type": "static",
+        "img": "images/icons/chapters/7c.png",
+        "codes": "thesummitc-icon"
+    },
+    {
+        "name": "Core",
+        "type": "static",
+        "img": "images/icons/chapters/8a.png",
+        "codes": "core-icon"
     },
     {
         "name": "Core A",
@@ -96,9 +186,33 @@
         "codes": "coreb-icon"
     },
     {
+        "name": "Core C",
+        "type": "static",
+        "img": "images/icons/chapters/8c.png",
+        "codes": "corec-icon"
+    },
+    {
         "name": "Farewell",
         "type": "static",
         "img": "images/icons/chapters/9.png",
         "codes": "farewell-icon"
+    },
+    {
+        "name": "A Sides",
+        "type": "static",
+        "img": "images/icons/chapters/a-sides.png",
+        "codes": "a-sides-icon"
+    },
+    {
+        "name": "B Sides",
+        "type": "static",
+        "img": "images/icons/chapters/b-sides.png",
+        "codes": "b-sides-icon"
+    },
+    {
+        "name": "C Sides",
+        "type": "static",
+        "img": "images/icons/chapters/c-sides.png",
+        "codes": "c-sides-icon"
     }
 ]

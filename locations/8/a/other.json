@@ -8,18 +8,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
         "map_locations": [
             {
                 "map": "8_a_0",
                 "x": 817,
                 "y": 189,
                 "size": 37
-            },
-            {
-                "map": "8_a_0_outside",
-                "x": 177,
-                "y": 101,
-                "size": 25
             }
         ]
     }

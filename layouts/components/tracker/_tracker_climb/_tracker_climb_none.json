@@ -1,0 +1,11 @@
+{
+    "tracker_climb": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "4,4",
+        "rows": [
+            [ "climb_static" ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "3_a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_3a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "3_a_0"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Huge Mess",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_3a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "3_a_1"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Elevator Shaft",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_3a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "3_a_2"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Presidential Suite",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_3a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "3_a_3"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

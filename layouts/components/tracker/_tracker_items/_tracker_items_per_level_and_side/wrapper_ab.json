@@ -1,0 +1,36 @@
+{
+    "tracker_items": {
+        "type": "group",
+        "background": "#00000000",
+        "header": "Items",
+        "content": {
+            "type": "tabbed",
+            "tabs": [
+                {
+                    "title": "A",
+                    "content": {
+                        "type": "dock",
+                        "content": [
+                            {
+                                "type": "layout",
+                                "key": "tracker_items_a"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "B",
+                    "content": {
+                        "type": "dock",
+                        "content": [
+                            {
+                                "type": "layout",
+                                "key": "tracker_items_b"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

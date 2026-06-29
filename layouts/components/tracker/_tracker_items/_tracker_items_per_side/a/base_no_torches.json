@@ -1,0 +1,13 @@
+{
+    "tracker_items_a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "a-sides-icon", "a-blue_cassette_blocks", "a-pink_cassette_blocks", "a-strawberry_seeds", "a-white_block", "a-traffic_blocks", "a-dash_refills", "a-springs", "a-dream_blocks", "a-coins", "a-moving_platforms" ],
+            [ "", "a-sinking_platforms", "a-blue_clouds", "a-pink_clouds", "a-move_blocks", "a-blue_boosters", "a-red_boosters", "a-swap_blocks", "a-dash_switches", "a-theo_crystal", "a-seekers" ],
+            [ "", "a-feathers", "a-kevin_blocks", "a-bumpers", "a-badeline_boosters" ]
+        ]
+    }
+}

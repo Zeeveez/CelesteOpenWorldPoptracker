@@ -1,0 +1,67 @@
+{
+    "tracker_items_a": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_items_a_1_2_3_4_5_6"
+            },
+            {
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_items_a_7"
+            },
+            {
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_items_a_9"
+            },
+            {
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_items_a_10"
+            }
+        ]
+    },
+    "tracker_items_b": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_items_b_1_2_3_4_5_6"
+            },
+            {
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_items_b_7"
+            },
+            {
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_items_b_9"
+            }
+        ]
+    },
+    "tracker_items_c": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_items_c_1_2_3_4_5_6"
+            },
+            {
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_items_c_7"
+            },
+            {
+                "type": "layout",
+                "dock": "top",
+                "key": "tracker_items_c_9"
+            }
+        ]
+    }
+}

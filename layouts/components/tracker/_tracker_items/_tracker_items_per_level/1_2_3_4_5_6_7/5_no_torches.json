@@ -1,0 +1,12 @@
+{
+    "tracker_items_5": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "mirrortemple-icon", "mirrortemple-blue_cassette_blocks", "mirrortemple-pink_cassette_blocks", "mirrortemple-strawberry_seeds", "mirrortemple-dash_refills", "mirrortemple-springs", "mirrortemple-coins", "mirrortemple-red_boosters", "mirrortemple-swap_blocks", "mirrortemple-dash_switches", "mirrortemple-theo_crystal" ],
+            [ "", "mirrortemple-seekers"]
+        ]
+    }
+}

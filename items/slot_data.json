@@ -65,6 +65,37 @@
                 "name": "Goal - Farewell Golden",
                 "inherit_codes": false,
                 "codes": "goal_area,goal_area_farewell_golden"
+            },
+            {
+                "img": "images/icons/death_trap_link/literaturetrap.png",
+                "name": "Goal - Poetry Slam",
+                "inherit_codes": false,
+                "codes": "goal_area,goal_area_poetry"
+            }
+        ]
+    },
+    {
+        "name": "Logic Difficulty",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/madeline.png",
+                "name": "Logic Difficulty - Developer Intended",
+                "inherit_codes": false,
+                "codes": "logic_difficulty,logic_difficulty_developer"
+            },
+            {
+                "img": "images/icons/badeline.png",
+                "name": "Logic Difficulty - Vanilla Movement",
+                "inherit_codes": false,
+                "codes": "logic_difficulty,logic_difficulty_vanilla"
+            },
+            {
+                "img": "images/icons/granny.png",
+                "name": "Logic Difficulty - Assist Mode",
+                "inherit_codes": false,
+                "codes": "logic_difficulty,logic_difficulty_assist"
             }
         ]
     },
@@ -73,20 +104,6 @@
         "type": "toggle",
         "img": "images/icons/locked_door.png",
         "codes": "lock_goal_area"
-    },
-    {
-        "name": "Auto-Tabbing",
-        "type": "toggle",
-        "img": "images/icons/auto-tab.png",
-        "initial_active_state": true,
-        "codes": "auto_tab"
-    },
-    {
-        "name": "Auto-Zoom",
-        "type": "toggle",
-        "img": "images/icons/auto-zoom.png",
-        "initial_active_state": false,
-        "codes": "auto_zoom"
     },
 
 
@@ -131,7 +148,7 @@
         ]
     },
     {
-        "name": "Include Goldens",
+        "name": "Include Goldens (and Golden Amnesty)",
         "type": "toggle",
         "img": "images/icons/collectables/golden_strawberry.png",
         "codes": "include_goldens"
@@ -176,7 +193,141 @@
     },
 
     {
-        "name": "Death Link (and Amnesty)",
+        "name": "Split Interactables",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/items/slot_data/split_interactables_none.png",
+                "img_mods": "@disabled",
+                "name": "Split Interactables - None",
+                "inherit_codes": false,
+                "codes": "split_interactables,split_interactables_none"
+            },
+            {
+                "img": "images/icons/items/slot_data/split_interactables_per_level.png",
+                "name": "Split Interactables - Per Level",
+                "inherit_codes": false,
+                "codes": "split_interactables,split_interactables_per_level"
+            },
+            {
+                "img": "images/icons/items/slot_data/split_interactables_per_side.png",
+                "name": "Split Interactables - Per Side",
+                "inherit_codes": false,
+                "codes": "split_interactables,split_interactables_per_side"
+            },
+            {
+                "img": "images/icons/items/slot_data/split_interactables_per_level_and_side.png",
+                "name": "Split Interactables - Per Level and Side",
+                "inherit_codes": false,
+                "codes": "split_interactables,split_interactables_per_level_and_side"
+            }
+        ]
+    },
+    {
+        "name": "Dash Shuffle",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/items/movement/dash_shuffle_octal.png",
+                "img_mods": "@disabled",
+                "name": "Dash Shuffle - None",
+                "inherit_codes": false,
+                "codes": "dash_shuffle,dash_shuffle_none"
+            },
+            {
+                "img": "images/icons/items/movement/dash.png",
+                "name": "Dash Shuffle - Unified",
+                "inherit_codes": false,
+                "codes": "dash_shuffle,dash_shuffle_unified"
+            },
+            {
+                "img": "images/icons/items/movement/dash_shuffle_cardinal_loose.png",
+                "name": "Dash Shuffle - Cardinal Loose",
+                "inherit_codes": false,
+                "codes": "dash_shuffle,dash_shuffle_cardinal_loose"
+            },
+            {
+                "img": "images/icons/items/movement/dash_shuffle_cardinal_restrictive.png",
+                "name": "Dash Shuffle - Cardinal Restrictive",
+                "inherit_codes": false,
+                "codes": "dash_shuffle,dash_shuffle_cardinal_restrictive"
+            },
+            {
+                "img": "images/icons/items/movement/dash_shuffle_octal.png",
+                "name": "Dash Shuffle - Octal",
+                "inherit_codes": false,
+                "codes": "dash_shuffle,dash_shuffle_octal"
+            }
+        ]
+    },
+    {
+        "name": "Climb Shuffle",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/items/movement/leftrightclimb.png",
+                "img_mods": "@disabled",
+                "name": "Climb Shuffle - None",
+                "inherit_codes": false,
+                "codes": "climb_shuffle,climb_shuffle_none"
+            },
+            {
+                "img": "images/icons/items/movement/climb.png",
+                "name": "Climb Shuffle - Unified",
+                "inherit_codes": false,
+                "codes": "climb_shuffle,climb_shuffle_unified"
+            },
+            {
+                "img": "images/icons/items/movement/leftrightclimb.png",
+                "name": "Climb Shuffle - Split",
+                "inherit_codes": false,
+                "codes": "climb_shuffle,climb_shuffle_split"
+            }
+        ]
+    },
+    {
+        "name": "Crouch Shuffle",
+        "type": "toggle",
+        "img": "images/icons/items/movement/crouch.png",
+        "codes": "crouch_shuffle"
+    },
+    {
+        "name": "Torch Behaviour",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/items/slot_data/torches_vanilla.png",
+                "name": "Torch Behaviour - Vanilla",
+                "inherit_codes": false,
+                "codes": "torch_behavior,torch_behavior_vanilla"
+            },
+            {
+                "img": "images/icons/items/slot_data/torches_lit.png",
+                "name": "Torch Behaviour - Start Lit",
+                "inherit_codes": false,
+                "codes": "torch_behavior,torch_behavior_start_lit"
+            },
+            {
+                "img": "images/icons/items/slot_data/torches_unlit.png",
+                "name": "Torch Behaviour - Start Unlit",
+                "inherit_codes": false,
+                "codes": "torch_behavior,torch_behavior_start_unlit"
+            },
+            {
+                "img": "images/icons/items/slot_data/torches_never.png",
+                "name": "Torch Behaviour - Never Lit",
+                "inherit_codes": false,
+                "codes": "torch_behavior,torch_behavior_never_lit"
+            }
+        ]
+    },
+
+    {
+        "name": "Death Link (and Death Link Amnesty)",
         "type": "consumable",
         "img": "images/icons/death_trap_link/link_on.png",
         "disabled_img": "images/icons/death_trap_link/link_off.png",
@@ -184,6 +335,25 @@
         "codes": "death_link_amnesty",
         "max_quantity": 30,
         "overlay_font_size": 16
+    },
+    {
+        "name": "Death Link Receipt Style",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/death_trap_link/death.png",
+                "name": "Death Link Receipt Style - Death",
+                "inherit_codes": false,
+                "codes": "death_link_receipt_style,death_link_receipt_style_death"
+            },
+            {
+                "img": "images/icons/death_trap_link/restart_chapter.png",
+                "name": "Death Link Receipt Style - Restart Chapter",
+                "inherit_codes": false,
+                "codes": "death_link_receipt_style,death_link_receipt_style_restart_chapter"
+            }
+        ]
     },
 
     {
@@ -193,6 +363,31 @@
         "disabled_img": "images/icons/death_trap_link/link_off.png",
         "disabled_img_mods": "none",
         "codes": "trap_link"
+    },
+    {
+        "name": "Trap Expiration Action",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/death_trap_link/return_to_menu.png",
+                "name": "Trap Expiration Action - Return to Menu",
+                "inherit_codes": false,
+                "codes": "trap_expiration_action,trap_expiration_action_return_to_menu"
+            },
+            {
+                "img": "images/icons/death_trap_link/death.png",
+                "name": "Trap Expiration Action - Deaths",
+                "inherit_codes": false,
+                "codes": "trap_expiration_action,trap_expiration_action_deaths"
+            },
+            {
+                "img": "images/icons/death_trap_link/new_screens.png",
+                "name": "Trap Expiration Action - New Screens",
+                "inherit_codes": false,
+                "codes": "trap_expiration_action,trap_expiration_action_new_screens"
+            }
+        ]
     },
     {
         "name": "Bald Trap",
@@ -289,5 +484,128 @@
         "codes": "zoomtrap",
         "max_quantity": 4,
         "overlay_font_size": 16
+    },
+    {
+        "name": "Tiny Trap",
+        "type": "consumable",
+        "img": "images/icons/death_trap_link/tinytrap.png",
+        "codes": "tinytrap",
+        "max_quantity": 4,
+        "overlay_font_size": 16
+    },
+
+
+    {
+        "name": "Tracker Slot ID Digit 1",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/digits/0.png",
+                "codes": "slot_id_0"
+            },
+            {
+                "img": "images/icons/digits/1.png",
+                "codes": "slot_id_0"
+            },
+            {
+                "img": "images/icons/digits/2.png",
+                "codes": "slot_id_0"
+            }
+        ]
+    },
+    {
+        "name": "Tracker Slot ID Digit 2",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/digits/0.png",
+                "codes": "slot_id_1"
+            },
+            {
+                "img": "images/icons/digits/1.png",
+                "codes": "slot_id_1"
+            },
+            {
+                "img": "images/icons/digits/2.png",
+                "codes": "slot_id_1"
+            },
+            {
+                "img": "images/icons/digits/3.png",
+                "codes": "slot_id_1"
+            },
+            {
+                "img": "images/icons/digits/4.png",
+                "codes": "slot_id_1"
+            },
+            {
+                "img": "images/icons/digits/5.png",
+                "codes": "slot_id_1"
+            },
+            {
+                "img": "images/icons/digits/6.png",
+                "codes": "slot_id_1"
+            },
+            {
+                "img": "images/icons/digits/7.png",
+                "codes": "slot_id_1"
+            },
+            {
+                "img": "images/icons/digits/8.png",
+                "codes": "slot_id_1"
+            },
+            {
+                "img": "images/icons/digits/9.png",
+                "codes": "slot_id_1"
+            }
+        ]
+    },
+    {
+        "name": "Tracker Slot ID Digit 3",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/digits/0.png",
+                "codes": "slot_id_2"
+            },
+            {
+                "img": "images/icons/digits/1.png",
+                "codes": "slot_id_2"
+            },
+            {
+                "img": "images/icons/digits/2.png",
+                "codes": "slot_id_2"
+            },
+            {
+                "img": "images/icons/digits/3.png",
+                "codes": "slot_id_2"
+            },
+            {
+                "img": "images/icons/digits/4.png",
+                "codes": "slot_id_2"
+            },
+            {
+                "img": "images/icons/digits/5.png",
+                "codes": "slot_id_2"
+            },
+            {
+                "img": "images/icons/digits/6.png",
+                "codes": "slot_id_2"
+            },
+            {
+                "img": "images/icons/digits/7.png",
+                "codes": "slot_id_2"
+            },
+            {
+                "img": "images/icons/digits/8.png",
+                "codes": "slot_id_2"
+            },
+            {
+                "img": "images/icons/digits/9.png",
+                "codes": "slot_id_2"
+            }
+        ]
     }
 ]

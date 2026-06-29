@@ -1,0 +1,11 @@
+{
+    "tracker_dash": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "4,4",
+        "rows": [
+            [ "dash_static" ]
+        ]
+    }
+}

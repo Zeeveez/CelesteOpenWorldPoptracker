@@ -506,6 +506,10 @@
                     {
                         "name": "Celestial Resort A - Room 08-b",
                         "ref": "Celestial Resort A - Room 08-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 01-c",
+                        "ref": "Celestial Resort A - Room 01-c/"
                     }
                 ]
             },
@@ -634,6 +638,14 @@
                     {
                         "name": "Celestial Resort A - Elevator Shaft",
                         "ref": "Celestial Resort A - Elevator Shaft/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 02-b",
+                        "ref": "Celestial Resort A - Room 02-b/"
+                    },
+                    {
+                        "name": "Celestial Resort A - Room 04-b",
+                        "ref": "Celestial Resort A - Room 04-b/"
                     },
                     {
                         "name": "Celestial Resort A - Room 09-d",

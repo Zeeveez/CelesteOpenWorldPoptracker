@@ -320,6 +320,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 2,a,1,9,Old Site A - Room 9,room,392,328
 2,a,1,9b,Old Site A - Room 9b,room,176,0
 2,a,1,10,Old Site A - Room 10,room,648,648
+2,a,0,2,Old Site A - Room 2,room,1000,320
 2,a,1,2,Old Site A - Room 2,room,712,1608
 2,a,1,11,Old Site A - Room 11,room,1096,1904
 2,a,1,12b,Old Site A - Room 12b,room,1528,1904
@@ -413,12 +414,14 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 3,a,0,00-a,Celestial Resort A - Room 00-a,room,1896,368
 3,a,0,02-a,Celestial Resort A - Room 02-a,room,2536,368
 3,a,0,02-b,Celestial Resort A - Room 02-b,room,2536,184
+3,a,2,02-b,Celestial Resort A - Room 02-b,room,320,368
 3,a,0,01-b,Celestial Resort A - Room 01-b,room,2216,184
 3,a,0,00-b,Celestial Resort A - Room 00-b,room,1896,184
 3,a,0,00-c,Celestial Resort A - Room 00-c,room,1896,0
 3,a,0,0x-b,Celestial Resort A - Room 0x-b,room,1576,184
 3,a,0,03-a,Celestial Resort A - Room 03-a,room,2856,368
 3,a,0,04-b,Celestial Resort A - Room 04-b,room,3176,184
+3,a,2,04-b,Celestial Resort A - Room 04-b,room,960,368
 3,a,0,05-a,Celestial Resort A - Room 05-a,room,3496,368
 3,a,0,06-a,Celestial Resort A - Room 06-a,room,3816,368
 3,a,0,07-a,Celestial Resort A - Room 07-a,room,4136,368
@@ -458,6 +461,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 3,a,2,04-c,Celestial Resort A - Room 04-c,room,960,184
 3,a,2,02-c,Celestial Resort A - Room 02-c,room,320,184
 3,a,2,03-b,Celestial Resort A - Room 03-b,room,640,368
+3,a,0,01-c,Celestial Resort A - Room 01-c,room,2207,0
 3,a,2,01-c,Celestial Resort A - Room 01-c,room,0,184
 3,a,2,02-d,Celestial Resort A - Room 02-d,room,0,0
 3,a,3,00-d,Celestial Resort A - Room 00-d,room,0,184

@@ -1,0 +1,26 @@
+{
+    "5_c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Begin",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_5c"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "5_c_0"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

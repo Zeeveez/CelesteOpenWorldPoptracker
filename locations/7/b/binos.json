@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
             "include_b_sides,binosanity",
             "goal_area_the_summit_b_side,binosanity"
@@ -18,13 +20,6 @@
                 "x": 279,
                 "y": 2207,
                 "size": 45,
-                "shape": "trapezoid"
-            },
-            {
-                "map": "7_b_1_b-01",
-                "x": 279,
-                "y": 687,
-                "size": 25,
                 "shape": "trapezoid"
             }
         ]
@@ -38,6 +33,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
             "include_b_sides,binosanity",
             "goal_area_the_summit_b_side,binosanity"
@@ -48,13 +45,6 @@
                 "x": 919,
                 "y": 1423,
                 "size": 45,
-                "shape": "trapezoid"
-            },
-            {
-                "map": "7_b_1_b-02",
-                "x": 919,
-                "y": 87,
-                "size": 25,
                 "shape": "trapezoid"
             }
         ]

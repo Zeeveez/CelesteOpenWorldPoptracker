@@ -1,13 +1,49 @@
 import json
+from pickle import NONE
+from types import NoneType
 import requests
 
-def process_ruleset(level, rule):
+ALL_ITEMS = [
+    "blue_cassette_blocks", "pink_cassette_blocks", "green_cassette_blocks", "yellow_cassette_blocks", "strawberry_seeds", "white_block",
+    "traffic_blocks", "dash_refills", "springs", 
+    "dream_blocks", "coins",
+    "moving_platforms", "sinking_platforms",
+    "blue_clouds", "pink_clouds",
+    "move_blocks", "blue_boosters", 
+    "red_boosters", "swap_blocks", "dash_switches", "theo_crystal", "seekers", "blue_torches", "yellow_torches",
+    "feathers", "kevin_blocks", "bumpers", "badeline_boosters", 
+    "core_toggles", "core_blocks", "fire_ice_balls",
+    "double_dash_refills", "pufferfish", "jellyfish", "bird", "breaker_boxes"
+]
+
+def process_ruleset(level, rule, config, rule_modifier = ['logic_difficulty_developer'], raw_level_name = None):
+    level_name = raw_level_name or level.display_name
     rule_out = []
     for rule_part in rule:
-        if rule_part[0].isupper() or rule_part[0].isdigit():
-            rule_out += [f'{level.display_name} - {rule_part}'.lower().replace(' ', '')]
+        if rule_part.startswith('any_dash'):
+            rule_out += ['any_dash_' + '_'.join(sorted(rule_part.split('_')[2:]))]
+        elif rule_part in ALL_ITEMS:
+            if config['interactables'] == 'none':
+                rule_out += [rule_part]
+            elif config['interactables'] == 'per_level':
+                if level_name == 'Farewell':
+                    rule_out += [f'Farewell - {rule_part}'.lower().replace(' ', '')]
+                else:
+                    rule_out += [f'{level_name[:-1]} - {rule_part}'.lower().replace(' ', '')]
+            elif config['interactables'] == 'per_side':
+                if level_name == 'Farewell':
+                    rule_out += [f'A - {rule_part}'.lower().replace(' ', '')]
+                else:
+                    rule_out += [f'{level_name[-1]} - {rule_part}'.lower().replace(' ', '')]
+            elif config['interactables'] == 'per_level_and_side':
+                rule_out += [f'{level_name} - {rule_part}'.lower().replace(' ', '')]
+        elif rule_part[0].isupper() or rule_part[0].isdigit():
+            rule_out += [f'{level_name} - {rule_part}'.lower().replace(' ', '')]
         else:
             rule_out += [rule_part]
+    rule_out = list(set(rule_out))
+    if rule_modifier != None:
+        rule_out = rule_modifier + rule_out
     return rule_out
             
 
@@ -24,7 +60,7 @@ class RoomRoomConnection:
         self.src_door = src_door
         self.dst_door = dst_door
 
-    def generate_logic(self):
+    def generate_logic(self, config):
         src = f'{self.src_room.level.display_name} - Room {self.src_room.name}_{self.src_door.name}'
         dst = f'{self.dst_room.level.display_name} - Room {self.dst_room.name}_{self.dst_door.name}'
         rules = []
@@ -37,19 +73,42 @@ class RegionRegionConnection:
         self.src_region = src_region
         self.dest = json['dest']
         self.rule = json['rule']
+        self.vm_rule = json['vm_rule'] if 'vm_rule' in json else None
+        self.assist_rule = json['assist_rule'] if 'assist_rule' in json else None
 
-    def generate_logic(self):
+    def generate_logic(self, config):
         room_name = f'{self.room.level.display_name} - Room {self.room.name}'
         src = f'{room_name}_{self.src_region.name}'
         dst = f'{room_name}_{self.dest}'
 
         logic = []
-        if len(self.rule):
-            for rule in self.rule:
-                if 'cannot_access' in rule: continue
-                logic += [[src, dst, process_ruleset(self.room.level, rule)]]
-        else:
-            logic += [[src, dst, []]]
+        if config['logic'] == 'developer':
+            if len(self.rule):
+                for rule in self.rule:
+                    if 'cannot_access' in rule: continue
+                    logic += [[src, dst, process_ruleset(self.room.level, rule, config)]]
+            else:
+                logic += [[src, dst, ['logic_difficulty_developer']]]
+
+        if config['logic'] == 'vanilla':
+            if self.vm_rule == None:
+                logic += [[src, dst, ['logic_difficulty_vanilla']]]
+            elif len(self.vm_rule):
+                for rule in self.vm_rule:
+                    if 'cannot_access' in rule: continue
+                    logic += [[src, dst, process_ruleset(self.room.level, rule, config, ['logic_difficulty_vanilla'])]]
+            else:
+                logic += [[src, dst, ['logic_difficulty_vanilla']]]
+
+        if config['logic'] == 'assist':
+            if self.assist_rule == None:
+                logic += [[src, dst, ['logic_difficulty_assist']]]
+            elif len(self.assist_rule):
+                for rule in self.assist_rule:
+                    if 'cannot_access' in rule: continue
+                    logic += [[src, dst, process_ruleset(self.room.level, rule, config, ['logic_difficulty_assist'])]]
+            else:
+                logic += [[src, dst, ['logic_difficulty_assist']]]
 
         return logic
 
@@ -60,8 +119,10 @@ class Location:
         self.name = json['name']
         self.display_name = json['display_name']
         self.rule = json['rule']
+        self.vm_rule = json['vm_rule'] if 'vm_rule' in json else None
+        self.assist_rule = json['assist_rule'] if 'assist_rule' in json else None
 
-    def generate_logic(self):
+    def generate_logic(self, config):
         room_name = f'{self.region.room.level.display_name} - Room {self.region.room.name}'
         region_name = f'{room_name}_{self.region.name}'
         location_name = f'{self.region.room.level.display_name} - {self.display_name}'
@@ -69,12 +130,34 @@ class Location:
             location_name = f'{room_name} {self.display_name}'
 
         logic = []
-        if len(self.rule):
-            for rule in self.rule:
-                if 'cannot_access' in rule: continue
-                logic += [[region_name, location_name, process_ruleset(self.region.room.level, rule)]]
-        else:
-            logic += [[region_name, location_name, []]]
+        if config['logic'] == 'developer':
+            if len(self.rule):
+                for rule in self.rule:
+                    if 'cannot_access' in rule: continue
+                    logic += [[region_name, location_name, process_ruleset(self.region.room.level, rule, config)]]
+            else:
+                logic += [[region_name, location_name, ['logic_difficulty_developer']]]
+
+        if config['logic'] == 'vanilla':
+            if self.vm_rule == None:
+                logic += [[region_name, location_name, ['logic_difficulty_vanilla']]]
+            elif len(self.vm_rule):
+                for rule in self.vm_rule:
+                    if 'cannot_access' in rule: continue
+                    logic += [[region_name, location_name, process_ruleset(self.region.room.level, rule, config, ['logic_difficulty_vanilla'])]]
+            else:
+                logic += [[region_name, location_name, ['logic_difficulty_vanilla']]]
+
+        if config['logic'] == 'assist':
+            if self.assist_rule == None:
+                logic += [[region_name, location_name, ['logic_difficulty_assist']]]
+            elif len(self.assist_rule):
+                for rule in self.assist_rule:
+                    if 'cannot_access' in rule: continue
+                    logic += [[region_name, location_name, process_ruleset(self.region.room.level, rule, config, ['logic_difficulty_assist'])]]
+            else:
+                logic += [[region_name, location_name, ['logic_difficulty_assist']]]
+
         return logic
 
 
@@ -86,11 +169,11 @@ class Region:
         if 'locations' in json: self.locations = [Location(self, location) for location in json['locations']]
         self.connections = [RegionRegionConnection(self, self.room, connection) for connection in json['connections']]
 
-    def generate_logic(self):
+    def generate_logic(self, config):
         # Region -> Room for roomsanity
         logic = [[f'{self.room.level.display_name} - Room {self.room.name}_{self.name}', f'{self.room.level.display_name} - Room {self.room.name}', []]]
-        for location in self.locations: logic += location.generate_logic()
-        for connection in self.connections: logic += connection.generate_logic()
+        for location in self.locations: logic += location.generate_logic(config)
+        for connection in self.connections: logic += connection.generate_logic(config)
         return logic
 
 
@@ -103,7 +186,7 @@ class Room:
         self.regions = [Region(self, region) for region in json['regions']]
         self.doors = [Door(door) for door in json['doors']]
 
-    def generate_logic(self):
+    def generate_logic(self, config):
         logic = []
 
         if self.checkpoint:
@@ -121,7 +204,7 @@ class Room:
                 logic += [['<levelselect>', checkpoint_region_name, [checkpoint_item_name]]]
 
         for region in self.regions:
-            logic += region.generate_logic()
+            logic += region.generate_logic(config)
 
         return logic
 
@@ -131,6 +214,7 @@ class Level:
         self.name = json['name']
         self.display_name = json['display_name']
         self.rooms = [Room(self, room) for room in json['rooms']]
+        self.items = json['items']
         self.connections = []
         for connection in json['room_connections']:
             src_room = next(filter(lambda room: room.name == connection['source_room'], self.rooms))
@@ -140,16 +224,16 @@ class Level:
             if not src_door.closes_behind: self.connections += [RoomRoomConnection(src_room, dst_room, src_door, dst_door)]
             if not dst_door.closes_behind: self.connections += [RoomRoomConnection(dst_room, src_room, dst_door, src_door)]
 
-    def generate_logic(self):
+    def generate_logic(self, config):
         logic = {}
         for room in self.rooms:
-            for room_logic in room.generate_logic():
+            for room_logic in room.generate_logic(config):
                 logic[room_logic[1]] = logic.get(room_logic[1], {})
                 logic[room_logic[1]][room_logic[0]] = logic[room_logic[1]].get(room_logic[0], [])
                 if room_logic[2] not in logic[room_logic[1]][room_logic[0]]:
                     logic[room_logic[1]][room_logic[0]] += [room_logic[2]]
         for connection in self.connections:
-            connection_logic = connection.generate_logic()
+            connection_logic = connection.generate_logic(config)
             logic[connection_logic[1]] = logic.get(connection_logic[1], {})
             logic[connection_logic[1]][connection_logic[0]] = logic[connection_logic[1]].get(connection_logic[0], [])
             if connection_logic[2] not in logic[connection_logic[1]][connection_logic[0]]:
@@ -161,44 +245,30 @@ class World:
     def __init__(self, json):
         self.levels = [Level(level) for level in json['levels']]
 
-    def generate_logic(self):
+    def generate_logic(self, config):
         logic = {}
         for level in self.levels:
-            logic.update(level.generate_logic())
+            logic.update(level.generate_logic(config))
         return logic
 
-raw_logic = json.loads(requests.get('https://raw.githubusercontent.com/ArchipelagoMW/Archipelago/refs/heads/main/worlds/celeste_open_world/data/CelesteLevelData.json').text)
+raw_logic = json.loads(requests.get('https://raw.githubusercontent.com/PoryGoneDev/Pory_Archipelago/refs/heads/celeste-v1.1/worlds/celeste_open_world/data/CelesteLevelData.json').text)
+# with open('./scripts/logic/CelesteLevelData.json') as f:
+#     raw_logic = json.loads('\n'.join(f.readlines()))
 
-# raw logic patches
-def patch_door(level, room, door, field, value):
-    _level = next(filter(lambda x: x['name'] == level, raw_logic['levels']))
-    _room = next(filter(lambda x: x['name'] == room, _level['rooms']))
-    _door = next(filter(lambda x: x['name'] == door, _room['doors']))
-    _door[field] = value
-def patch_location(level, room, region, location, field, value):
-    _level = next(filter(lambda x: x['name'] == level, raw_logic['levels']))
-    _room = next(filter(lambda x: x['name'] == room, _level['rooms']))
-    _region = next(filter(lambda x: x['name'] == region, _room['regions']))
-    _location = next(filter(lambda x: x['name'] == location, _region['locations']))
-    _location[field] = value
-    
-
-patch_door('1a', '12', 'east', 'closes_behind', False)
-patch_door('2a', '10', 'bottom', 'closes_behind', False)
-patch_door('2a', '12b', 'east', 'closes_behind', False)
-patch_door('2a', '13', 'phone', 'closes_behind', False)
-patch_door('3a', '10-x', 'north-east-right', 'closes_behind', False)
-patch_door('4b', 'c-00', 'west', 'closes_behind', False)
-patch_door('5a', 'b-02', 'north-west', 'closes_behind', False)
-patch_door('5a', 'b-02', 'east-lower', 'closes_behind', False)
-patch_door('5a', 'b-02', 'south-east', 'closes_behind', False)
-patch_door('7a', 'b-02', 'north', 'closes_behind', True)
-
-patch_location('5a', 'b-10', 'east', 'strawberry', 'rule', [['swap_blocks']])
-
-
-world = World(raw_logic)
-logic = world.generate_logic()
+config_sets = [
+    { 'interactables': 'none', 'logic': 'developer' },
+    { 'interactables': 'per_level', 'logic': 'developer' },
+    { 'interactables': 'per_level_and_side', 'logic': 'developer' },
+    { 'interactables': 'per_side', 'logic': 'developer' },
+    { 'interactables': 'none', 'logic': 'vanilla' },
+    { 'interactables': 'per_level', 'logic': 'vanilla'  },
+    { 'interactables': 'per_level_and_side', 'logic': 'vanilla'  },
+    { 'interactables': 'per_side', 'logic': 'vanilla'  },
+    { 'interactables': 'none', 'logic': 'assist'  },
+    { 'interactables': 'per_level', 'logic': 'assist' },
+    { 'interactables': 'per_level_and_side', 'logic': 'assist' },
+    { 'interactables': 'per_side', 'logic': 'assist' },
+]
 
 def add_connection(logic, src_room, dst_room, access_rules = []):
     if len(access_rules) == 0:
@@ -212,31 +282,29 @@ def add_connection(logic, src_room, dst_room, access_rules = []):
         if access_rule not in logic[dst_room][src_room]:
             logic[dst_room][src_room] += [access_rule]
 
-import csv
-with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-        if row['access']:
-            add_connection(
-                logic, row['from'], row['to'], 
-                [
-                    (['custom'] if int(row['custom']) else [])
-                    + (row['access'].split(',') if int(row['custom']) else row['access'].split(','))
-                ]
-            )
-        else:
-            add_connection(logic, row['from'], row['to'], [['custom']] if int(row['custom']) else [])
+for config in config_sets:
+    world = World(raw_logic)
+    logic = world.generate_logic(config)
 
-with open('./scripts/logic/room_data.lua','w') as f:
-    f.write('LOCATION_ACCESS_LOGIC = {\n')
-    for room in logic:
-        f.write(f'\t["{room}"] = {{\n')
-        for source in logic[room]:
-            f.write(f'\t\t{{ "{source}", {str(logic[room][source])
-                .replace('[','{ ')
-                .replace(']',' }')
-                .replace('{ { \'', '{\n\t\t\t{ \'')
-                .replace('}, {', '},\n\t\t\t{')
-                .replace('\' } }', '\' }\n\t\t}')} }},\n')
-        f.write(f'\t}},\n')
-    f.write(f'}}')
+    import csv
+    with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            if int(row['custom']):continue# and config['logic'] != 'vanilla': continue
+            rule = (['custom'] if int(row['custom']) else []) + (row['access'].split(',') if row['access'] else [])
+            level = row['from'].split(' - ')[0]
+            add_connection(logic, row['from'], row['to'], [process_ruleset(None, rule, config, None, level)])
+
+    with open('./scripts/logic/logic/room_data_' + config['interactables'] + '_' + config['logic'] + '.lua','w') as f:
+        f.write('LOCATION_ACCESS_LOGIC = {\n')
+        for room in logic:
+            f.write(f'\t["{room}"] = {{\n')
+            for source in logic[room]:
+                f.write(f'\t\t{{ "{source}", {str(logic[room][source])
+                    .replace('[','{ ')
+                    .replace(']',' }')
+                    .replace('{ { \'', '{\n\t\t\t{ \'')
+                    .replace('}, {', '},\n\t\t\t{')
+                    .replace('\' } }', '\' }\n\t\t}')} }},\n')
+            f.write(f'\t}},\n')
+        f.write(f'}}')

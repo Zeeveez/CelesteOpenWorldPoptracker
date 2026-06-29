@@ -7,7 +7,7 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 
 ## Requirements
 
-- [PopTracker](https://poptracker.github.io/) (0.32.0 minimum, latest recommended)
+- [PopTracker](https://poptracker.github.io/) (0.35.2 minimum, latest recommended)
 
 
 ## Installation and Usage
@@ -214,9 +214,6 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 	    - void does not trigger auto-tabbing as there is no notification for it from AP
 	- 9A-8 (Reconciliation) is so wide that it had to be sliced; rows are traversed left to right, top to bottom
 	- end-golden is so far away in 9A-9 that it had to be adjusted to appear much closer than it actually is for the map to be useful
-- Pack size/map scale/load times:
-	- There are a lot of images as part of the pack, and some of them are quite large; load times for the non-Summary Only variants can be a few seconds
-	- The main maps are shown by checkpoint so you have context of what's around you
 - Custom logic/sequence breaks:
 	- The sequence breaks implemented into the tracker is a non-exhaustive list and does not capture everything from the min-items worksheet
 

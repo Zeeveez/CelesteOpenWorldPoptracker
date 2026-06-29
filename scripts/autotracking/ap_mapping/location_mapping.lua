@@ -11,6 +11,8 @@ local BINO_BASE = 0x7000
 local ROOM_BASE = 0x8000
 
 LOCATION_MAPPING = {
+	--[CELESTE_BASE - 0x001] = "@Poetry Slam/",
+
 	[CELESTE_BASE + 0x000] = "@Forsaken City A - Room 2 Strawberry/",
 	[CELESTE_BASE + 0x001] = "@Forsaken City A - Room 3 Strawberry/",
 	[CELESTE_BASE + 0x002] = "@Forsaken City A - Room 3b Strawberry/",

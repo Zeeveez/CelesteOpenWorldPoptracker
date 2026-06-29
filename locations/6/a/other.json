@@ -8,18 +8,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/cassette_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/cassette_opened.png",
         "map_locations": [
             {
                 "map": "6_a_2",
                 "x": 16,
                 "y": 391,
                 "size": 68
-            },
-            {
-                "map": "6_a_2_04e",
-                "x": 47,
-                "y": 95,
-                "size": 25
             }
         ]
     },
@@ -32,18 +28,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/heart_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/heart_opened.png",
         "map_locations": [
             {
                 "map": "6_a_2",
                 "x": 142,
                 "y": 120,
                 "size": 68
-            },
-            {
-                "map": "6_a_2_04c",
-                "x": 263,
-                "y": 96,
-                "size": 25
             }
         ]
     },
@@ -56,18 +48,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
         "map_locations": [
             {
                 "map": "6_a_5",
                 "x": 190,
                 "y": 210,
                 "size": 44
-            },
-            {
-                "map": "6_a_5_after-02",
-                "x": 190,
-                "y": 210,
-                "size": 25
             }
         ]
     }

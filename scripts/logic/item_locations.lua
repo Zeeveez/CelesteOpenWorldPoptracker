@@ -22,6 +22,7 @@ ITEM_LOCATIONS = {
 	{ "thesummita-gem5", "The Summit A - Gem 5" , false, true, nil },
 	{ "thesummita-gem6", "The Summit A - Gem 6" , false, true, nil },
 	{ "thesummita-2500mkey", "The Summit A - 2500 M Key" , true, false, nil },
+	{ "power_source_breaker", "Farewell - Power Source - Breaker Disable" , false, false, nil },
 	{ "farewell-powersourcekey1", "Farewell - Power Source Key 1" , true, false, nil },
 	{ "farewell-powersourcekey2", "Farewell - Power Source Key 2" , true, false, nil },
 	{ "farewell-powersourcekey3", "Farewell - Power Source Key 3" , true, false, nil },

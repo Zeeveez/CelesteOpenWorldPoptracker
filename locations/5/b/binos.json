@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
             "include_b_sides,binosanity"
         ],
@@ -17,13 +19,6 @@
                 "x": 807,
                 "y": 1007,
                 "size": 36,
-                "shape": "trapezoid"
-            },
-            {
-                "map": "5_b_1_b-09",
-                "x": 199,
-                "y": 1007,
-                "size": 25,
                 "shape": "trapezoid"
             }
         ]

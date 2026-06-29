@@ -204,6 +204,7 @@ def make_location_obj(row):
                     and row['Chapter'] == room['Chapter']
                     and row['Side'] == room['Side']
                     and row['Room'] == room['Room']
+                    and row['Checkpoint'] == room['Checkpoint']
                     and row['Name'].split('-')[0] == room['Name'].split('-')[0],
                 data
             )
@@ -219,6 +220,12 @@ def make_location_obj(row):
         room_x = int(room['x'])
         room_y = int(room['y'])
 
+    img_name = row['Type']
+    if img_name == 'golden' and "Winged Golden" in row['Name']:
+        img_name = 'winged_golden'
+    elif img_name == 'berry' and "Moon Berry" in row['Name']:
+        img_name = 'moon_berry'
+
     obj = {
         'name': row['Name'],
         'sections': [
@@ -227,7 +234,9 @@ def make_location_obj(row):
                     f'^$CanAccess|{row['Name']}'
                 ]
             }
-        ]
+        ],
+        'chest_unopened_img': f'images/icons/collectables/location_chests/{img_name}_unopened.png',
+        'chest_opened_img': f'images/icons/collectables/location_chests/{img_name}_opened.png',
     }
 
     if row['Chapter'] in ('7','9'):
@@ -315,12 +324,12 @@ def make_location_obj(row):
             'y': int((int(row['y']) + checkpoint_room_marker_offset + room_y) * checkpoint_map_scale_factor),
             'size': int(marker_size * checkpoint_map_zoom_factor)
         },
-        {
-            'map': room_map,
-            'x': int((int(row['x']) + room_room_marker_offset) * room_map_scale_factor),
-            'y': int((int(row['y']) + room_room_marker_offset) * room_map_scale_factor),
-            'size': int(marker_size * room_map_zoom_factor)
-        }
+        # {
+        #     'map': room_map,
+        #     'x': int((int(row['x']) + room_room_marker_offset) * room_map_scale_factor),
+        #     'y': int((int(row['y']) + room_room_marker_offset) * room_map_scale_factor),
+        #     'size': int(marker_size * room_map_zoom_factor)
+        # }
     ]
 
     for i in range(len(obj['map_locations'])):
@@ -432,16 +441,30 @@ def make_summary(data, _chapter):
     }
     return [summary]
 
-def make_specific_summary_obj(data, item_types, map_name):
+def make_specific_summary_obj(data, item_types, map_name, side_groups, specific_offsets):
     res = []
-    items = list(map(lambda g: list(g[1]), itertools.groupby(filter(lambda r: r['Type'] in list(itertools.chain.from_iterable(item_types)), data), lambda r: int(r['Chapter']) * 1000 + ord(r['Side']))))
+    rows = list(
+        map(
+            lambda g: list(g[1]),
+            itertools.groupby(
+                filter(
+                    lambda r: r['Type'] in list(itertools.chain.from_iterable(item_types)),
+                    data
+                ),
+                lambda r: int(r['Chapter']) * 10 + side_groups[r['Side']]
+            )
+        )
+    )
 
     chapter_y = SPECIFIC_SUMMARY_START_Y
-    for chapter in items:
-        checkpoints = list(map(lambda g: list(g[1]), itertools.groupby(chapter, lambda i: i['Checkpoint'])))
-
+    for row in rows:
+        prev_side = None
+        checkpoints = list(map(lambda g: list(g[1]), itertools.groupby(row, lambda i: i['Side'] + i['Checkpoint'])))
         checkpoint_x = SPECIFIC_SUMMARY_START_X
         for checkpoint in checkpoints:
+            if (prev_side != None and prev_side != checkpoint[0]['Side']) and checkpoint[0]['Side'] in specific_offsets:
+                checkpoint_x = specific_offsets[checkpoint[0]['Side']]
+            prev_side = checkpoint[0]['Side']
             max_xs = [checkpoint_x] * len(item_types)
 
             for row, item_row in enumerate(item_types):
@@ -472,10 +495,10 @@ def make_specific_summary_obj(data, item_types, map_name):
     
     return res
 
-def make_specific_summary(data, item_types, label):
+def make_specific_summary(data, item_types, label, side_groups, specific_offsets):
     return [{
         'name': f'{label} Summary',
-        'children': make_specific_summary_obj(data, item_types, f'{label.lower()}_summary')
+        'children': make_specific_summary_obj(data, item_types, f'{label.lower()}_summary', side_groups, specific_offsets)
     }]
 
 data = load_csv('./locations/locations.csv')
@@ -491,7 +514,8 @@ for chapter in range(11):
                 write_file(file_dat, f'./locations/{chapter}/{side}/{type_set[0]}.json')
     summary_dat = make_summary(data, chapter)
     write_file(summary_dat, f'./locations/{chapter}/summary.json')
-write_file(make_specific_summary(data, [['berry', 'golden']], 'Berry'), f'./locations/berry_summary.json')
-write_file(make_specific_summary(data, [['checkpoint', 'room']], 'Room'), f'./locations/room_summary.json')
-write_file(make_specific_summary(data, [['clear', 'cassette', 'heart', 'key', 'gem', 'car', 'bino']], 'Other'), f'./locations/other_summary.json')
-write_file(make_specific_summary(data, [['berry', 'golden', 'clear', 'cassette', 'heart', 'key', 'gem', 'car', 'bino'], ['checkpoint', 'room']], 'Everything'), f'./locations/everything_summary.json')
+# TODO: Resolve warnings triggered by peek room duplicates in room summary and everything summary
+write_file(make_specific_summary(data, [['berry', 'golden']], 'Berry', {'a': 0, 'b': 0, 'c': 0}, { 'b': 1000, 'c': 1100 }), f'./locations/berry_summary.json')
+write_file(make_specific_summary(data, [['checkpoint', 'room']], 'Room', {'a': 0, 'b': 1, 'c': 1}, { 'c': 750 }), f'./locations/room_summary.json')
+write_file(make_specific_summary(data, [['clear', 'cassette', 'heart', 'key', 'gem', 'car', 'bino']], 'Other', {'a': 0, 'b': 0, 'c': 0}, { 'b': 550, 'c': 800 }), f'./locations/other_summary.json')
+write_file(make_specific_summary(data, [['berry', 'golden', 'clear', 'cassette', 'heart', 'key', 'gem', 'car', 'bino'], ['checkpoint', 'room']], 'Everything', {'a': 0, 'b': 1, 'c': 1}, { 'c': 900 }), f'./locations/everything_summary.json')

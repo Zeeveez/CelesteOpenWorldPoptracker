@@ -1,0 +1,83 @@
+{
+    "3_b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_3b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "3_b_0"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Staff Quarters",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_3b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "3_b_1"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Library",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_3b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "3_b_2"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Rooftop",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_3b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "3_b_3"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

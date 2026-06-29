@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
         "visibility_rules": [
             "include_core,include_c_sides",
             "goal_area_core_c_side"
@@ -17,12 +19,6 @@
                 "map": "9_c_0",
                 "x": 4006,
                 "y": 58,
-                "size": 68
-            },
-            {
-                "map": "9_c_0_02",
-                "x": 3970,
-                "y": 80,
                 "size": 68
             }
         ]

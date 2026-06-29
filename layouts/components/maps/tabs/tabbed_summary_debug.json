@@ -1,0 +1,308 @@
+{
+    "tabbed_summary": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Summary",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "summary"
+                    ]
+                }
+            },
+            {
+                "title": "Berries",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "berry_summary"
+                    ]
+                }
+            },
+            {
+                "title": "Rooms",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "room_summary"
+                    ]
+                }
+            },
+            {
+                "title": "Other",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "other_summary"
+                    ]
+                }
+            },
+            {
+                "title": "Everything",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "everything_summary"
+                    ]
+                }
+            },
+            {
+                "title": "Debug",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "group",
+                            "background": "#00000000",
+                            "header": "Items (Per Level and Side)",
+                            "dock": "left",
+                            "content": {
+                                "type": "itemgrid",
+                                "h_alignment": "left",
+                                "item_margin": "1,1",
+                                "item_size": "1,1",
+                                "rows": [
+                                    [ "forsakencitya-icon", "forsakencitya-blue_cassette_blocks", "forsakencitya-pink_cassette_blocks", "", "", "forsakencitya-traffic_blocks", "forsakencitya-dash_refills", "forsakencitya-springs" ],
+                                    [ "forsakencityb-icon", "forsakencityb-blue_cassette_blocks", "forsakencityb-pink_cassette_blocks", "", "", "forsakencityb-traffic_blocks", "forsakencityb-dash_refills", "forsakencityb-springs" ],
+                                    [ "forsakencityc-icon", "", "", "", "", "forsakencityc-traffic_blocks", "forsakencityc-dash_refills", "", "", "forsakencityc-coins" ],
+                                    [ "oldsitea-icon", "oldsitea-blue_cassette_blocks", "oldsitea-pink_cassette_blocks", "oldsitea-strawberry_seeds", "", "oldsitea-traffic_blocks", "oldsitea-dash_refills", "oldsitea-springs", "oldsitea-dream_blocks", "oldsitea-coins" ],
+                                    [ "oldsiteb-icon", "oldsiteb-blue_cassette_blocks", "", "", "", "", "oldsiteb-dash_refills", "oldsiteb-springs", "oldsiteb-dream_blocks", "oldsiteb-coins" ],
+                                    [ "oldsitec-icon", "", "", "", "", "", "oldsitec-dash_refills", "oldsitec-springs", "oldsitec-dream_blocks", "oldsitec-coins" ],
+                                    [ "celestialresorta-icon", "celestialresorta-blue_cassette_blocks", "celestialresorta-pink_cassette_blocks", "", "", "", "celestialresorta-dash_refills", "celestialresorta-springs", "", "celestialresorta-coins", "celestialresorta-moving_platforms", "celestialresorta-sinking_platforms" ],
+                                    [ "celestialresortb-icon", "celestialresortb-blue_cassette_blocks", "celestialresortb-pink_cassette_blocks", "", "", "", "celestialresortb-dash_refills", "celestialresortb-springs", "", "celestialresortb-coins", "celestialresortb-moving_platforms", "celestialresortb-sinking_platforms" ],
+                                    [ "celestialresortc-icon", "", "", "", "", "", "celestialresortc-dash_refills", "", "", "celestialresortc-coins", "", "celestialresortc-sinking_platforms", "", "", "", "", "", "" ],
+                                    [ "goldenridgea-icon", "goldenridgea-blue_cassette_blocks", "goldenridgea-pink_cassette_blocks", "goldenridgea-strawberry_seeds", "goldenridgea-white_block", "", "goldenridgea-dash_refills", "goldenridgea-springs", "", "goldenridgea-coins", "goldenridgea-moving_platforms", "", "goldenridgea-blue_clouds", "goldenridgea-pink_clouds", "goldenridgea-move_blocks", "goldenridgea-blue_boosters" ],
+                                    [ "goldenridgeb-icon", "goldenridgeb-blue_cassette_blocks", "goldenridgeb-pink_cassette_blocks", "", "", "", "goldenridgeb-dash_refills", "goldenridgeb-springs", "", "goldenridgeb-coins", "goldenridgeb-moving_platforms", "", "goldenridgeb-blue_clouds", "goldenridgeb-pink_clouds", "goldenridgeb-move_blocks", "goldenridgeb-blue_boosters" ],
+                                    [ "goldenridgec-icon", "", "", "", "", "", "goldenridgec-dash_refills", "", "", "", "", "", "", "goldenridgec-pink_clouds", "goldenridgec-move_blocks", "goldenridgec-blue_boosters" ],
+                                    [ "mirrortemplea-icon", "mirrortemplea-blue_cassette_blocks", "mirrortemplea-pink_cassette_blocks", "mirrortemplea-strawberry_seeds", "", "", "mirrortemplea-dash_refills", "mirrortemplea-springs", "", "mirrortemplea-coins", "", "", "", "", "", "" ],
+                                    [ "", "mirrortemplea-red_boosters", "mirrortemplea-swap_blocks", "mirrortemplea-dash_switches", "mirrortemplea-theo_crystal", "mirrortemplea-seekers", "mirrortemplea-blue_torches", "mirrortemplea-yellow_torches" ],
+                                    [ "mirrortempleb-icon", "mirrortempleb-blue_cassette_blocks", "mirrortempleb-pink_cassette_blocks", "", "", "", "mirrortempleb-dash_refills", "mirrortempleb-springs", "", "mirrortempleb-coins", "", "", "", "", "", "" ],
+                                    [ "", "mirrortempleb-red_boosters", "mirrortempleb-swap_blocks", "mirrortempleb-dash_switches", "mirrortempleb-theo_crystal", "mirrortempleb-seekers", "mirrortempleb-blue_torches" ],
+                                    [ "mirrortemplec-icon", "", "", "", "", "", "mirrortemplec-dash_refills", "mirrortemplec-springs", "", "", "", "", "", "", "", "" ],
+                                    [ "", "mirrortemplec-red_boosters", "mirrortemplec-swap_blocks", "mirrortemplec-dash_switches" ],
+                                    [ "reflectiona-icon", "reflectiona-blue_cassette_blocks", "reflectiona-pink_cassette_blocks", "", "", "", "reflectiona-dash_refills", "reflectiona-springs", "", "reflectiona-coins", "", "", "", "", "", "" ],
+                                    [ "", "", "", "", "reflectiona-feathers", "reflectiona-kevin_blocks", "reflectiona-bumpers", "reflectiona-badeline_boosters" ],
+                                    [ "reflectionb-icon", "reflectionb-blue_cassette_blocks", "reflectionb-pink_cassette_blocks", "", "", "", "reflectionb-dash_refills", "reflectionb-springs", "", "reflectionb-coins", "", "", "", "", "", "" ],
+                                    [ "", "", "", "", "reflectionb-feathers", "reflectionb-kevin_blocks", "reflectionb-bumpers" ],
+                                    [ "reflectionc-icon", "", "", "", "", "", "reflectionc-dash_refills", "", "", "", "", "", "", "", "", "" ],
+                                    [ "", "", "", "", "reflectionc-feathers", "reflectionc-kevin_blocks", "reflectionc-bumpers" ],
+                                    [ "thesummita-icon", "thesummita-blue_cassette_blocks", "thesummita-pink_cassette_blocks", "thesummita-strawberry_seeds", "", "thesummita-traffic_blocks", "thesummita-dash_refills", "thesummita-springs", "thesummita-dream_blocks", "thesummita-coins", "thesummita-moving_platforms", "thesummita-sinking_platforms", "thesummita-blue_clouds", "thesummita-pink_clouds", "thesummita-move_blocks", "thesummita-blue_boosters" ],
+                                    [ "", "thesummita-red_boosters", "thesummita-swap_blocks", "thesummita-dash_switches", "thesummita-feathers", "", "", "thesummita-badeline_boosters" ],
+                                    [ "thesummitb-icon", "thesummitb-blue_cassette_blocks", "thesummitb-pink_cassette_blocks", "", "", "thesummitb-traffic_blocks", "thesummitb-dash_refills", "thesummitb-springs", "thesummitb-dream_blocks", "thesummitb-coins", "thesummitb-moving_platforms", "", "", "thesummitb-pink_clouds", "thesummitb-move_blocks", "thesummitb-blue_boosters" ],
+                                    [ "", "thesummitb-red_boosters", "thesummitb-swap_blocks", "", "", "", "", "thesummitb-badeline_boosters" ],
+                                    [ "thesummitc-icon", "", "", "", "", "", "thesummitc-dash_refills", "thesummitc-springs", "", "thesummitc-coins", "", "", "thesummitb-blue_clouds", "thesummitc-pink_clouds", "", "" ],
+                                    [ "", "", "", "", "", "", "", "thesummitc-badeline_boosters" ],
+                                    [ "corea-icon", "corea-blue_cassette_blocks", "corea-pink_cassette_blocks", "", "", "", "corea-dash_refills", "corea-springs", "", "corea-coins", "", "", "", "", "", "" ],
+                                    [ "", "", "", "", "corea-feathers", "", "corea-bumpers", "corea-badeline_boosters", "corea-core_toggles", "corea-core_blocks", "corea-fire_ice_balls" ],
+                                    [ "coreb-icon", "coreb-blue_cassette_blocks", "coreb-pink_cassette_blocks", "", "", "coreb-traffic_blocks", "coreb-dash_refills", "coreb-springs", "coreb-dream_blocks", "coreb-coins", "coreb-moving_platforms", "", "coreb-blue_clouds", "", "", "" ],
+                                    [ "", "", "coreb-swap_blocks", "", "", "coreb-kevin_blocks", "coreb-bumpers", "coreb-badeline_boosters", "coreb-core_toggles", "coreb-core_blocks", "coreb-fire_ice_balls" ],
+                                    [ "corec-icon", "", "", "", "", "corec-traffic_blocks", "corec-dash_refills", "", "corec-dream_blocks", "", "", "", "", "corec-pink_clouds", "", "" ],
+                                    [ "", "", "corec-swap_blocks", "", "", "corec-kevin_blocks", "corec-bumpers", "", "corec-core_toggles", "corec-core_blocks" ],
+                                    [ "farewell-icon", "farewell-blue_cassette_blocks", "farewell-pink_cassette_blocks", "farewell-green_cassette_blocks", "farewell-yellow_cassette_blocks", "farewell-traffic_blocks", "farewell-dash_refills", "farewell-springs", "farewell-dream_blocks", "farewell-coins", "", "", "farewell-blue_clouds", "", "farewell-move_blocks", "farewell-blue_boosters" ],
+                                    [ "", "farewell-red_boosters", "farewell-swap_blocks", "farewell-dash_switches", "farewell-feathers", "farewell-kevin_blocks", "", "farewell-badeline_boosters", "", "farewell-core_blocks", "farewell-fire_ice_balls", "farewell-double_dash_refills", "farewell-pufferfish", "farewell-jellyfish", "farewell-bird", "farewell-breaker_boxes" ]
+                                ]
+                            }
+                        },
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "background": "#00000000",
+                                    "header": "Items (Per Level)",
+                                    "content": {
+                                        "type": "itemgrid",
+                                        "h_alignment": "left",
+                                        "item_margin": "2,2",
+                                        "item_size": "2,2",
+                                        "rows": [
+                                            [ "forsakencity-icon", "forsakencity-blue_cassette_blocks", "forsakencity-pink_cassette_blocks", "forsakencity-traffic_blocks", "forsakencity-dash_refills", "forsakencity-springs", "forsakencity-coins" ],
+                                            [ "oldsite-icon", "oldsite-blue_cassette_blocks", "oldsite-pink_cassette_blocks", "oldsite-strawberry_seeds", "oldsite-traffic_blocks", "oldsite-dash_refills", "oldsite-springs", "oldsite-dream_blocks", "oldsite-coins" ],
+                                            [ "celestialresort-icon", "celestialresort-blue_cassette_blocks", "celestialresort-pink_cassette_blocks", "celestialresort-dash_refills", "celestialresort-springs", "celestialresort-coins", "celestialresort-moving_platforms", "celestialresort-sinking_platforms" ],
+                                            [ "goldenridge-icon", "goldenridge-blue_cassette_blocks", "goldenridge-pink_cassette_blocks", "goldenridge-strawberry_seeds", "goldenridge-white_block", "goldenridge-dash_refills", "goldenridge-springs", "goldenridge-coins", "goldenridge-moving_platforms", "goldenridge-blue_clouds", "goldenridge-pink_clouds" ],
+                                            [ "", "goldenridge-move_blocks", "goldenridge-blue_boosters" ],
+                                            [ "mirrortemple-icon", "mirrortemple-blue_cassette_blocks", "mirrortemple-pink_cassette_blocks", "mirrortemple-strawberry_seeds", "mirrortemple-dash_refills", "mirrortemple-springs", "mirrortemple-coins", "mirrortemple-red_boosters", "mirrortemple-swap_blocks", "mirrortemple-dash_switches", "mirrortemple-theo_crystal" ],
+                                            [ "", "mirrortemple-seekers", "mirrortemple-blue_torches", "mirrortemple-yellow_torches" ],
+                                            [ "reflection-icon", "reflection-blue_cassette_blocks", "reflection-pink_cassette_blocks", "reflection-dash_refills", "reflection-springs", "reflection-coins", "reflection-feathers", "reflection-kevin_blocks", "reflection-bumpers", "reflection-badeline_boosters" ],
+                                            [ "thesummit-icon", "thesummit-blue_cassette_blocks", "thesummit-pink_cassette_blocks", "thesummit-strawberry_seeds", "thesummit-traffic_blocks", "thesummit-dash_refills", "thesummit-springs", "thesummit-dream_blocks", "thesummit-coins", "thesummit-moving_platforms", "thesummit-sinking_platforms" ],
+                                            [ "", "thesummit-blue_clouds", "thesummit-pink_clouds", "thesummit-move_blocks", "thesummit-blue_boosters", "thesummit-red_boosters", "thesummit-swap_blocks", "thesummit-dash_switches", "thesummit-feathers", "thesummit-badeline_boosters" ],
+                                            [ "core-icon", "core-blue_cassette_blocks", "core-pink_cassette_blocks", "core-traffic_blocks", "core-dash_refills", "core-springs", "core-dream_blocks", "core-coins", "core-moving_platforms", "core-blue_clouds", "core-pink_clouds" ],
+                                            [ "", "core-swap_blocks", "core-feathers", "core-kevin_blocks", "core-bumpers", "core-badeline_boosters", "core-core_toggles", "core-core_blocks", "core-fire_ice_balls" ],
+                                            [ "farewell-icon", "farewell-blue_cassette_blocks", "farewell-pink_cassette_blocks", "farewell-green_cassette_blocks", "farewell-yellow_cassette_blocks", "farewell-traffic_blocks", "farewell-dash_refills", "farewell-springs", "farewell-dream_blocks", "farewell-coins", "farewell-blue_clouds" ],
+                                            [ "", "farewell-move_blocks", "farewell-blue_boosters", "farewell-red_boosters", "farewell-swap_blocks", "farewell-dash_switches", "farewell-feathers", "farewell-kevin_blocks", "farewell-badeline_boosters", "farewell-core_blocks", "farewell-fire_ice_balls" ],
+                                            [ "", "farewell-double_dash_refills", "farewell-pufferfish", "farewell-jellyfish", "farewell-bird", "farewell-breaker_boxes" ]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "background": "#00000000",
+                                    "header": "Items (Per Side)",
+                                    "content": {
+                                        "type": "itemgrid",
+                                        "h_alignment": "left",
+                                        "item_margin": "2,2",
+                                        "item_size": "2,2",
+                                        "rows": [
+                                            [ "a-sides-icon", "a-blue_cassette_blocks", "a-pink_cassette_blocks", "a-green_cassette_blocks", "a-yellow_cassette_blocks", "a-strawberry_seeds", "a-white_block", "a-traffic_blocks", "a-dash_refills", "a-springs", "a-dream_blocks" ],
+                                            [ "", "a-coins", "a-moving_platforms", "a-sinking_platforms", "a-blue_clouds", "a-pink_clouds", "a-move_blocks", "a-blue_boosters", "a-red_boosters", "a-swap_blocks", "a-dash_switches" ],
+                                            [ "", "a-theo_crystal", "a-seekers", "a-blue_torches", "a-yellow_torches", "a-feathers", "a-kevin_blocks", "a-bumpers", "a-badeline_boosters", "a-core_toggles", "a-core_blocks" ],
+                                            [ "", "a-fire_ice_balls", "a-double_dash_refills", "a-pufferfish", "a-jellyfish", "a-bird", "a-breaker_boxes" ],
+                                            [ "b-sides-icon", "b-blue_cassette_blocks", "b-pink_cassette_blocks", "b-traffic_blocks", "b-dash_refills", "b-springs", "b-dream_blocks", "b-coins", "b-moving_platforms", "b-sinking_platforms", "b-blue_clouds" ],
+                                            [ "", "b-pink_clouds", "b-move_blocks", "b-blue_boosters", "b-red_boosters", "b-swap_blocks", "b-dash_switches", "b-theo_crystal", "b-seekers", "b-blue_torches", "b-feathers" ],
+                                            [ "", "b-kevin_blocks", "b-bumpers", "b-badeline_boosters", "b-core_toggles", "b-core_blocks", "b-fire_ice_balls" ],
+                                            [ "c-sides-icon", "c-traffic_blocks", "c-dash_refills", "c-springs", "c-dream_blocks", "c-coins", "c-sinking_platforms", "c-pink_clouds", "c-move_blocks", "c-blue_boosters", "c-red_boosters" ],
+                                            [ "", "c-swap_blocks", "c-dash_switches", "c-feathers", "c-kevin_blocks", "c-bumpers", "c-badeline_boosters", "c-core_toggles", "c-core_blocks" ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "background": "#00000000",
+                                    "header": "Items",
+                                    "content": {
+                                        "type": "itemgrid",
+                                        "h_alignment": "left",
+                                        "item_margin": "2,2",
+                                        "item_size": "3,3",
+                                        "rows": [
+                                            [ "forsakencity-icon", "springs", "traffic_blocks", "dash_refills", "", "", "" ],
+                                            [ "oldsite-icon", "dream_blocks", "coins", "strawberry_seeds", "", "", "" ],
+                                            [ "celestialresort-icon", "sinking_platforms", "moving_platforms", "", "", "", "" ],
+                                            [ "goldenridge-icon", "blue_clouds", "pink_clouds", "blue_boosters", "move_blocks", "white_block", "" ],
+                                            [ "mirrortemple-icon", "swap_blocks", "red_boosters", "dash_switches", "seekers", "theo_crystal", "torches" ],
+                                            [ "reflection-icon", "feathers", "bumpers", "kevin_blocks", "badeline_boosters", "", "" ],
+                                            [ "thesummit-icon", "", "", "", "", "", "" ],
+                                            [ "core-icon", "fire_ice_balls", "core_blocks", "core_toggles", "", "", "" ],
+                                            [ "farewell-icon", "double_dash_refills", "pufferfish", "jellyfish", "breaker_boxes", "bird", "" ],
+                                            [ "", "pink_cassette_blocks", "blue_cassette_blocks", "yellow_cassette_blocks", "green_cassette_blocks", "", "" ]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "background": "#00000000",
+                                    "header": "Climb (Unified)",
+                                    "content": {
+                                        "type": "itemgrid",
+                                        "h_alignment": "left",
+                                        "item_margin": "2,2",
+                                        "item_size": "4,4",
+                                        "rows": [
+                                            [ "climb" ]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "background": "#00000000",
+                                    "header": "Climb (Split)",
+                                    "content": {
+                                        "type": "itemgrid",
+                                        "h_alignment": "left",
+                                        "item_margin": "2,2",
+                                        "item_size": "4,4",
+                                        "rows": [
+                                            [ "split_climb" ]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "background": "#00000000",
+                                    "header": "Crouch",
+                                    "content": {
+                                        "type": "itemgrid",
+                                        "h_alignment": "left",
+                                        "item_margin": "2,2",
+                                        "item_size": "4,4",
+                                        "rows": [
+                                            [ "crouch" ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "background": "#00000000",
+                                    "header": "Dash (Unified)",
+                                    "content": {
+                                        "type": "itemgrid",
+                                        "h_alignment": "left",
+                                        "item_margin": "2,2",
+                                        "item_size": "3,3",
+                                        "rows": [
+                                            [ "dash" ]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "background": "#00000000",
+                                    "header": "Dash (Cardinal Loose)",
+                                    "content": {
+                                        "type": "itemgrid",
+                                        "h_alignment": "left",
+                                        "item_margin": "2,2",
+                                        "item_size": "3,3",
+                                        "rows": [
+                                            [ "ul_dash_card_loose", "u_dash", "ur_dash_card_loose" ],
+                                            [ "l_dash", "", "r_dash" ],
+                                            [ "dl_dash_card_loose", "d_dash", "dr_dash_card_loose" ]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "background": "#00000000",
+                                    "header": "Dash (Cardinal Restrictive)",
+                                    "content": {
+                                        "type": "itemgrid",
+                                        "h_alignment": "left",
+                                        "item_margin": "2,2",
+                                        "item_size": "3,3",
+                                        "rows": [
+                                            [ "ul_dash_card_restrictive", "u_dash", "ur_dash_card_restrictive" ],
+                                            [ "l_dash", "", "r_dash" ],
+                                            [ "dl_dash_card_restrictive", "d_dash", "dr_dash_card_restrictive" ]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "background": "#00000000",
+                                    "header": "Dash (Octal)",
+                                    "content": {
+                                        "type": "itemgrid",
+                                        "h_alignment": "left",
+                                        "item_margin": "2,2",
+                                        "item_size": "3,3",
+                                        "rows": [
+                                            [ "ul_dash", "u_dash", "ur_dash" ],
+                                            [ "l_dash", "", "r_dash" ],
+                                            [ "dl_dash", "d_dash", "dr_dash" ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

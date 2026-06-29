@@ -1,0 +1,26 @@
+{
+    "7_c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Begin",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_7c"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "7_c_0"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

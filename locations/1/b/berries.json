@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/golden_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/golden_opened.png",
         "visibility_rules": [
             "include_b_sides,include_goldens"
         ],
@@ -16,12 +18,6 @@
                 "map": "1_b_0",
                 "x": 10,
                 "y": 950,
-                "size": 25
-            },
-            {
-                "map": "1_b_0_00",
-                "x": 10,
-                "y": 110,
                 "size": 25
             }
         ]

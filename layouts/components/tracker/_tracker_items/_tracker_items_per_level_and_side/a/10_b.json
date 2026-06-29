@@ -1,0 +1,12 @@
+{
+    "tracker_items_a_10": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_size": "2,2",
+        "rows": [
+            [ "farewell-icon", "farewell-blue_cassette_blocks", "farewell-pink_cassette_blocks", "farewell-green_cassette_blocks", "farewell-yellow_cassette_blocks", "farewell-traffic_blocks", "farewell-dash_refills", "farewell-springs", "farewell-dream_blocks", "farewell-coins", "", "", "farewell-blue_clouds", "", "farewell-move_blocks", "farewell-blue_boosters" ],
+            [ "", "farewell-red_boosters", "farewell-swap_blocks", "farewell-dash_switches", "farewell-feathers", "farewell-kevin_blocks", "", "farewell-badeline_boosters", "", "farewell-core_blocks", "farewell-fire_ice_balls", "farewell-double_dash_refills", "farewell-pufferfish", "farewell-jellyfish", "farewell-bird", "farewell-breaker_boxes" ]
+        ]
+    }
+}

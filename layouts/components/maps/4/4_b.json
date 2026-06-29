@@ -1,0 +1,83 @@
+{
+    "4_b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_4b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "4_b_0"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Stepping Stones",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_4b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "4_b_1"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Gusty Canyon",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_4b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "4_b_2"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Eye of the Storm",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_4b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "4_b_3"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

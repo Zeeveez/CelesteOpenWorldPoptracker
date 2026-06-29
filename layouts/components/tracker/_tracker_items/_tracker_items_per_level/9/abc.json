@@ -1,0 +1,12 @@
+{
+    "tracker_items_9": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "core-icon", "core-blue_cassette_blocks", "core-pink_cassette_blocks", "core-traffic_blocks", "core-dash_refills", "core-springs", "core-dream_blocks", "core-coins", "core-moving_platforms", "core-blue_clouds", "core-pink_clouds" ],
+            [ "", "core-swap_blocks", "core-feathers", "core-kevin_blocks", "core-bumpers", "core-badeline_boosters", "core-core_toggles", "core-core_blocks", "core-fire_ice_balls" ]
+        ]
+    }
+}

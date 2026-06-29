@@ -1,0 +1,429 @@
+[
+    {
+        "name": "Climb",
+        "type": "toggle",
+        "img": "images/icons/items/movement/climb.png",
+        "codes": "climb"
+    },
+    {
+        "name": "Climb",
+        "type": "static",
+        "img": "images/icons/items/movement/climb.png",
+        "codes": "climb_static"
+    },
+    {
+        "name": "Left Climb",
+        "type": "toggle",
+        "img": "images/icons/items/movement/leftclimb.png",
+        "codes": "l_climb"
+    },
+    {
+        "name": "Right Climb",
+        "type": "toggle",
+        "img": "images/icons/items/movement/rightclimb.png",
+        "codes": "r_climb"
+    },
+    {
+        "name": "Climbs",
+        "type": "composite_toggle",
+        "item_left": "l_climb",
+        "item_right": "r_climb",
+        "codes": "split_climb",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/movement/noclimb.png"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/movement/leftclimb.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/movement/rightclimb.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/movement/leftrightclimb.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Crouch",
+        "type": "toggle",
+        "img": "images/icons/items/movement/crouch.png",
+        "codes": "crouch"
+    },
+    {
+        "name": "Crouch",
+        "type": "static",
+        "img": "images/icons/items/movement/crouch.png",
+        "codes": "crouch_static"
+    },
+
+    {
+        "name": "Dash",
+        "type": "toggle",
+        "img": "images/icons/items/movement/dash.png",
+        "codes": "dash"
+    },
+    {
+        "name": "Dash",
+        "type": "static",
+        "img": "images/icons/items/movement/dash.png",
+        "codes": "dash_static"
+    },
+
+    {
+        "name": "Down Dash",
+        "type": "toggle",
+        "img": "images/icons/items/movement/downdash.png",
+        "codes": "d_dash,any_dash_d_dl,any_dash_d_dl_dr,any_dash_d_dl_dr_l,any_dash_d_dl_dr_l_r,any_dash_d_dl_dr_l_r_u,any_dash_d_dl_dr_l_r_u_ul,any_dash_d_dl_dr_l_r_u_ul_ur,any_dash_d_dl_dr_l_r_u_ur,any_dash_d_dl_dr_l_r_ul,any_dash_d_dl_dr_l_r_ul_ur,any_dash_d_dl_dr_l_r_ur,any_dash_d_dl_dr_l_u,any_dash_d_dl_dr_l_u_ul,any_dash_d_dl_dr_l_u_ul_ur,any_dash_d_dl_dr_l_u_ur,any_dash_d_dl_dr_l_ul,any_dash_d_dl_dr_l_ul_ur,any_dash_d_dl_dr_l_ur,any_dash_d_dl_dr_r,any_dash_d_dl_dr_r_u,any_dash_d_dl_dr_r_u_ul,any_dash_d_dl_dr_r_u_ul_ur,any_dash_d_dl_dr_r_u_ur,any_dash_d_dl_dr_r_ul,any_dash_d_dl_dr_r_ul_ur,any_dash_d_dl_dr_r_ur,any_dash_d_dl_dr_u,any_dash_d_dl_dr_u_ul,any_dash_d_dl_dr_u_ul_ur,any_dash_d_dl_dr_u_ur,any_dash_d_dl_dr_ul,any_dash_d_dl_dr_ul_ur,any_dash_d_dl_dr_ur,any_dash_d_dl_l,any_dash_d_dl_l_r,any_dash_d_dl_l_r_u,any_dash_d_dl_l_r_u_ul,any_dash_d_dl_l_r_u_ul_ur,any_dash_d_dl_l_r_u_ur,any_dash_d_dl_l_r_ul,any_dash_d_dl_l_r_ul_ur,any_dash_d_dl_l_r_ur,any_dash_d_dl_l_u,any_dash_d_dl_l_u_ul,any_dash_d_dl_l_u_ul_ur,any_dash_d_dl_l_u_ur,any_dash_d_dl_l_ul,any_dash_d_dl_l_ul_ur,any_dash_d_dl_l_ur,any_dash_d_dl_r,any_dash_d_dl_r_u,any_dash_d_dl_r_u_ul,any_dash_d_dl_r_u_ul_ur,any_dash_d_dl_r_u_ur,any_dash_d_dl_r_ul,any_dash_d_dl_r_ul_ur,any_dash_d_dl_r_ur,any_dash_d_dl_u,any_dash_d_dl_u_ul,any_dash_d_dl_u_ul_ur,any_dash_d_dl_u_ur,any_dash_d_dl_ul,any_dash_d_dl_ul_ur,any_dash_d_dl_ur,any_dash_d_dr,any_dash_d_dr_l,any_dash_d_dr_l_r,any_dash_d_dr_l_r_u,any_dash_d_dr_l_r_u_ul,any_dash_d_dr_l_r_u_ul_ur,any_dash_d_dr_l_r_u_ur,any_dash_d_dr_l_r_ul,any_dash_d_dr_l_r_ul_ur,any_dash_d_dr_l_r_ur,any_dash_d_dr_l_u,any_dash_d_dr_l_u_ul,any_dash_d_dr_l_u_ul_ur,any_dash_d_dr_l_u_ur,any_dash_d_dr_l_ul,any_dash_d_dr_l_ul_ur,any_dash_d_dr_l_ur,any_dash_d_dr_r,any_dash_d_dr_r_u,any_dash_d_dr_r_u_ul,any_dash_d_dr_r_u_ul_ur,any_dash_d_dr_r_u_ur,any_dash_d_dr_r_ul,any_dash_d_dr_r_ul_ur,any_dash_d_dr_r_ur,any_dash_d_dr_u,any_dash_d_dr_u_ul,any_dash_d_dr_u_ul_ur,any_dash_d_dr_u_ur,any_dash_d_dr_ul,any_dash_d_dr_ul_ur,any_dash_d_dr_ur,any_dash_d_l,any_dash_d_l_r,any_dash_d_l_r_u,any_dash_d_l_r_u_ul,any_dash_d_l_r_u_ul_ur,any_dash_d_l_r_u_ur,any_dash_d_l_r_ul,any_dash_d_l_r_ul_ur,any_dash_d_l_r_ur,any_dash_d_l_u,any_dash_d_l_u_ul,any_dash_d_l_u_ul_ur,any_dash_d_l_u_ur,any_dash_d_l_ul,any_dash_d_l_ul_ur,any_dash_d_l_ur,any_dash_d_r,any_dash_d_r_u,any_dash_d_r_u_ul,any_dash_d_r_u_ul_ur,any_dash_d_r_u_ur,any_dash_d_r_ul,any_dash_d_r_ul_ur,any_dash_d_r_ur,any_dash_d_u,any_dash_d_u_ul,any_dash_d_u_ul_ur,any_dash_d_u_ur,any_dash_d_ul,any_dash_d_ul_ur,any_dash_d_ur"
+    },
+    {
+        "name": "Down-Left Dash",
+        "type": "toggle",
+        "img": "images/icons/items/movement/downleftdash.png",
+        "codes": "dl_dash,any_dash_d_dl,any_dash_d_dl_dr,any_dash_d_dl_dr_l,any_dash_d_dl_dr_l_r,any_dash_d_dl_dr_l_r_u,any_dash_d_dl_dr_l_r_u_ul,any_dash_d_dl_dr_l_r_u_ul_ur,any_dash_d_dl_dr_l_r_u_ur,any_dash_d_dl_dr_l_r_ul,any_dash_d_dl_dr_l_r_ul_ur,any_dash_d_dl_dr_l_r_ur,any_dash_d_dl_dr_l_u,any_dash_d_dl_dr_l_u_ul,any_dash_d_dl_dr_l_u_ul_ur,any_dash_d_dl_dr_l_u_ur,any_dash_d_dl_dr_l_ul,any_dash_d_dl_dr_l_ul_ur,any_dash_d_dl_dr_l_ur,any_dash_d_dl_dr_r,any_dash_d_dl_dr_r_u,any_dash_d_dl_dr_r_u_ul,any_dash_d_dl_dr_r_u_ul_ur,any_dash_d_dl_dr_r_u_ur,any_dash_d_dl_dr_r_ul,any_dash_d_dl_dr_r_ul_ur,any_dash_d_dl_dr_r_ur,any_dash_d_dl_dr_u,any_dash_d_dl_dr_u_ul,any_dash_d_dl_dr_u_ul_ur,any_dash_d_dl_dr_u_ur,any_dash_d_dl_dr_ul,any_dash_d_dl_dr_ul_ur,any_dash_d_dl_dr_ur,any_dash_d_dl_l,any_dash_d_dl_l_r,any_dash_d_dl_l_r_u,any_dash_d_dl_l_r_u_ul,any_dash_d_dl_l_r_u_ul_ur,any_dash_d_dl_l_r_u_ur,any_dash_d_dl_l_r_ul,any_dash_d_dl_l_r_ul_ur,any_dash_d_dl_l_r_ur,any_dash_d_dl_l_u,any_dash_d_dl_l_u_ul,any_dash_d_dl_l_u_ul_ur,any_dash_d_dl_l_u_ur,any_dash_d_dl_l_ul,any_dash_d_dl_l_ul_ur,any_dash_d_dl_l_ur,any_dash_d_dl_r,any_dash_d_dl_r_u,any_dash_d_dl_r_u_ul,any_dash_d_dl_r_u_ul_ur,any_dash_d_dl_r_u_ur,any_dash_d_dl_r_ul,any_dash_d_dl_r_ul_ur,any_dash_d_dl_r_ur,any_dash_d_dl_u,any_dash_d_dl_u_ul,any_dash_d_dl_u_ul_ur,any_dash_d_dl_u_ur,any_dash_d_dl_ul,any_dash_d_dl_ul_ur,any_dash_d_dl_ur,any_dash_dl_dr,any_dash_dl_dr_l,any_dash_dl_dr_l_r,any_dash_dl_dr_l_r_u,any_dash_dl_dr_l_r_u_ul,any_dash_dl_dr_l_r_u_ul_ur,any_dash_dl_dr_l_r_u_ur,any_dash_dl_dr_l_r_ul,any_dash_dl_dr_l_r_ul_ur,any_dash_dl_dr_l_r_ur,any_dash_dl_dr_l_u,any_dash_dl_dr_l_u_ul,any_dash_dl_dr_l_u_ul_ur,any_dash_dl_dr_l_u_ur,any_dash_dl_dr_l_ul,any_dash_dl_dr_l_ul_ur,any_dash_dl_dr_l_ur,any_dash_dl_dr_r,any_dash_dl_dr_r_u,any_dash_dl_dr_r_u_ul,any_dash_dl_dr_r_u_ul_ur,any_dash_dl_dr_r_u_ur,any_dash_dl_dr_r_ul,any_dash_dl_dr_r_ul_ur,any_dash_dl_dr_r_ur,any_dash_dl_dr_u,any_dash_dl_dr_u_ul,any_dash_dl_dr_u_ul_ur,any_dash_dl_dr_u_ur,any_dash_dl_dr_ul,any_dash_dl_dr_ul_ur,any_dash_dl_dr_ur,any_dash_dl_l,any_dash_dl_l_r,any_dash_dl_l_r_u,any_dash_dl_l_r_u_ul,any_dash_dl_l_r_u_ul_ur,any_dash_dl_l_r_u_ur,any_dash_dl_l_r_ul,any_dash_dl_l_r_ul_ur,any_dash_dl_l_r_ur,any_dash_dl_l_u,any_dash_dl_l_u_ul,any_dash_dl_l_u_ul_ur,any_dash_dl_l_u_ur,any_dash_dl_l_ul,any_dash_dl_l_ul_ur,any_dash_dl_l_ur,any_dash_dl_r,any_dash_dl_r_u,any_dash_dl_r_u_ul,any_dash_dl_r_u_ul_ur,any_dash_dl_r_u_ur,any_dash_dl_r_ul,any_dash_dl_r_ul_ur,any_dash_dl_r_ur,any_dash_dl_u,any_dash_dl_u_ul,any_dash_dl_u_ul_ur,any_dash_dl_u_ur,any_dash_dl_ul,any_dash_dl_ul_ur,any_dash_dl_ur"
+    },
+    {
+        "name": "Down-Right Dash",
+        "type": "toggle",
+        "img": "images/icons/items/movement/downrightdash.png",
+        "codes": "dr_dash,any_dash_d_dl_dr,any_dash_d_dl_dr_l,any_dash_d_dl_dr_l_r,any_dash_d_dl_dr_l_r_u,any_dash_d_dl_dr_l_r_u_ul,any_dash_d_dl_dr_l_r_u_ul_ur,any_dash_d_dl_dr_l_r_u_ur,any_dash_d_dl_dr_l_r_ul,any_dash_d_dl_dr_l_r_ul_ur,any_dash_d_dl_dr_l_r_ur,any_dash_d_dl_dr_l_u,any_dash_d_dl_dr_l_u_ul,any_dash_d_dl_dr_l_u_ul_ur,any_dash_d_dl_dr_l_u_ur,any_dash_d_dl_dr_l_ul,any_dash_d_dl_dr_l_ul_ur,any_dash_d_dl_dr_l_ur,any_dash_d_dl_dr_r,any_dash_d_dl_dr_r_u,any_dash_d_dl_dr_r_u_ul,any_dash_d_dl_dr_r_u_ul_ur,any_dash_d_dl_dr_r_u_ur,any_dash_d_dl_dr_r_ul,any_dash_d_dl_dr_r_ul_ur,any_dash_d_dl_dr_r_ur,any_dash_d_dl_dr_u,any_dash_d_dl_dr_u_ul,any_dash_d_dl_dr_u_ul_ur,any_dash_d_dl_dr_u_ur,any_dash_d_dl_dr_ul,any_dash_d_dl_dr_ul_ur,any_dash_d_dl_dr_ur,any_dash_d_dr,any_dash_d_dr_l,any_dash_d_dr_l_r,any_dash_d_dr_l_r_u,any_dash_d_dr_l_r_u_ul,any_dash_d_dr_l_r_u_ul_ur,any_dash_d_dr_l_r_u_ur,any_dash_d_dr_l_r_ul,any_dash_d_dr_l_r_ul_ur,any_dash_d_dr_l_r_ur,any_dash_d_dr_l_u,any_dash_d_dr_l_u_ul,any_dash_d_dr_l_u_ul_ur,any_dash_d_dr_l_u_ur,any_dash_d_dr_l_ul,any_dash_d_dr_l_ul_ur,any_dash_d_dr_l_ur,any_dash_d_dr_r,any_dash_d_dr_r_u,any_dash_d_dr_r_u_ul,any_dash_d_dr_r_u_ul_ur,any_dash_d_dr_r_u_ur,any_dash_d_dr_r_ul,any_dash_d_dr_r_ul_ur,any_dash_d_dr_r_ur,any_dash_d_dr_u,any_dash_d_dr_u_ul,any_dash_d_dr_u_ul_ur,any_dash_d_dr_u_ur,any_dash_d_dr_ul,any_dash_d_dr_ul_ur,any_dash_d_dr_ur,any_dash_dl_dr,any_dash_dl_dr_l,any_dash_dl_dr_l_r,any_dash_dl_dr_l_r_u,any_dash_dl_dr_l_r_u_ul,any_dash_dl_dr_l_r_u_ul_ur,any_dash_dl_dr_l_r_u_ur,any_dash_dl_dr_l_r_ul,any_dash_dl_dr_l_r_ul_ur,any_dash_dl_dr_l_r_ur,any_dash_dl_dr_l_u,any_dash_dl_dr_l_u_ul,any_dash_dl_dr_l_u_ul_ur,any_dash_dl_dr_l_u_ur,any_dash_dl_dr_l_ul,any_dash_dl_dr_l_ul_ur,any_dash_dl_dr_l_ur,any_dash_dl_dr_r,any_dash_dl_dr_r_u,any_dash_dl_dr_r_u_ul,any_dash_dl_dr_r_u_ul_ur,any_dash_dl_dr_r_u_ur,any_dash_dl_dr_r_ul,any_dash_dl_dr_r_ul_ur,any_dash_dl_dr_r_ur,any_dash_dl_dr_u,any_dash_dl_dr_u_ul,any_dash_dl_dr_u_ul_ur,any_dash_dl_dr_u_ur,any_dash_dl_dr_ul,any_dash_dl_dr_ul_ur,any_dash_dl_dr_ur,any_dash_dr_l,any_dash_dr_l_r,any_dash_dr_l_r_u,any_dash_dr_l_r_u_ul,any_dash_dr_l_r_u_ul_ur,any_dash_dr_l_r_u_ur,any_dash_dr_l_r_ul,any_dash_dr_l_r_ul_ur,any_dash_dr_l_r_ur,any_dash_dr_l_u,any_dash_dr_l_u_ul,any_dash_dr_l_u_ul_ur,any_dash_dr_l_u_ur,any_dash_dr_l_ul,any_dash_dr_l_ul_ur,any_dash_dr_l_ur,any_dash_dr_r,any_dash_dr_r_u,any_dash_dr_r_u_ul,any_dash_dr_r_u_ul_ur,any_dash_dr_r_u_ur,any_dash_dr_r_ul,any_dash_dr_r_ul_ur,any_dash_dr_r_ur,any_dash_dr_u,any_dash_dr_u_ul,any_dash_dr_u_ul_ur,any_dash_dr_u_ur,any_dash_dr_ul,any_dash_dr_ul_ur,any_dash_dr_ur"
+    },
+    {
+        "name": "Left Dash",
+        "type": "toggle",
+        "img": "images/icons/items/movement/leftdash.png",
+        "codes": "l_dash,any_dash_d_dl_dr_l,any_dash_d_dl_dr_l_r,any_dash_d_dl_dr_l_r_u,any_dash_d_dl_dr_l_r_u_ul,any_dash_d_dl_dr_l_r_u_ul_ur,any_dash_d_dl_dr_l_r_u_ur,any_dash_d_dl_dr_l_r_ul,any_dash_d_dl_dr_l_r_ul_ur,any_dash_d_dl_dr_l_r_ur,any_dash_d_dl_dr_l_u,any_dash_d_dl_dr_l_u_ul,any_dash_d_dl_dr_l_u_ul_ur,any_dash_d_dl_dr_l_u_ur,any_dash_d_dl_dr_l_ul,any_dash_d_dl_dr_l_ul_ur,any_dash_d_dl_dr_l_ur,any_dash_d_dl_l,any_dash_d_dl_l_r,any_dash_d_dl_l_r_u,any_dash_d_dl_l_r_u_ul,any_dash_d_dl_l_r_u_ul_ur,any_dash_d_dl_l_r_u_ur,any_dash_d_dl_l_r_ul,any_dash_d_dl_l_r_ul_ur,any_dash_d_dl_l_r_ur,any_dash_d_dl_l_u,any_dash_d_dl_l_u_ul,any_dash_d_dl_l_u_ul_ur,any_dash_d_dl_l_u_ur,any_dash_d_dl_l_ul,any_dash_d_dl_l_ul_ur,any_dash_d_dl_l_ur,any_dash_d_dr_l,any_dash_d_dr_l_r,any_dash_d_dr_l_r_u,any_dash_d_dr_l_r_u_ul,any_dash_d_dr_l_r_u_ul_ur,any_dash_d_dr_l_r_u_ur,any_dash_d_dr_l_r_ul,any_dash_d_dr_l_r_ul_ur,any_dash_d_dr_l_r_ur,any_dash_d_dr_l_u,any_dash_d_dr_l_u_ul,any_dash_d_dr_l_u_ul_ur,any_dash_d_dr_l_u_ur,any_dash_d_dr_l_ul,any_dash_d_dr_l_ul_ur,any_dash_d_dr_l_ur,any_dash_d_l,any_dash_d_l_r,any_dash_d_l_r_u,any_dash_d_l_r_u_ul,any_dash_d_l_r_u_ul_ur,any_dash_d_l_r_u_ur,any_dash_d_l_r_ul,any_dash_d_l_r_ul_ur,any_dash_d_l_r_ur,any_dash_d_l_u,any_dash_d_l_u_ul,any_dash_d_l_u_ul_ur,any_dash_d_l_u_ur,any_dash_d_l_ul,any_dash_d_l_ul_ur,any_dash_d_l_ur,any_dash_dl_dr_l,any_dash_dl_dr_l_r,any_dash_dl_dr_l_r_u,any_dash_dl_dr_l_r_u_ul,any_dash_dl_dr_l_r_u_ul_ur,any_dash_dl_dr_l_r_u_ur,any_dash_dl_dr_l_r_ul,any_dash_dl_dr_l_r_ul_ur,any_dash_dl_dr_l_r_ur,any_dash_dl_dr_l_u,any_dash_dl_dr_l_u_ul,any_dash_dl_dr_l_u_ul_ur,any_dash_dl_dr_l_u_ur,any_dash_dl_dr_l_ul,any_dash_dl_dr_l_ul_ur,any_dash_dl_dr_l_ur,any_dash_dl_l,any_dash_dl_l_r,any_dash_dl_l_r_u,any_dash_dl_l_r_u_ul,any_dash_dl_l_r_u_ul_ur,any_dash_dl_l_r_u_ur,any_dash_dl_l_r_ul,any_dash_dl_l_r_ul_ur,any_dash_dl_l_r_ur,any_dash_dl_l_u,any_dash_dl_l_u_ul,any_dash_dl_l_u_ul_ur,any_dash_dl_l_u_ur,any_dash_dl_l_ul,any_dash_dl_l_ul_ur,any_dash_dl_l_ur,any_dash_dr_l,any_dash_dr_l_r,any_dash_dr_l_r_u,any_dash_dr_l_r_u_ul,any_dash_dr_l_r_u_ul_ur,any_dash_dr_l_r_u_ur,any_dash_dr_l_r_ul,any_dash_dr_l_r_ul_ur,any_dash_dr_l_r_ur,any_dash_dr_l_u,any_dash_dr_l_u_ul,any_dash_dr_l_u_ul_ur,any_dash_dr_l_u_ur,any_dash_dr_l_ul,any_dash_dr_l_ul_ur,any_dash_dr_l_ur,any_dash_l_r,any_dash_l_r_u,any_dash_l_r_u_ul,any_dash_l_r_u_ul_ur,any_dash_l_r_u_ur,any_dash_l_r_ul,any_dash_l_r_ul_ur,any_dash_l_r_ur,any_dash_l_u,any_dash_l_u_ul,any_dash_l_u_ul_ur,any_dash_l_u_ur,any_dash_l_ul,any_dash_l_ul_ur,any_dash_l_ur"
+    },
+    {
+        "name": "Right Dash",
+        "type": "toggle",
+        "img": "images/icons/items/movement/rightdash.png",
+        "codes": "r_dash,any_dash_d_dl_dr_l_r,any_dash_d_dl_dr_l_r_u,any_dash_d_dl_dr_l_r_u_ul,any_dash_d_dl_dr_l_r_u_ul_ur,any_dash_d_dl_dr_l_r_u_ur,any_dash_d_dl_dr_l_r_ul,any_dash_d_dl_dr_l_r_ul_ur,any_dash_d_dl_dr_l_r_ur,any_dash_d_dl_dr_r,any_dash_d_dl_dr_r_u,any_dash_d_dl_dr_r_u_ul,any_dash_d_dl_dr_r_u_ul_ur,any_dash_d_dl_dr_r_u_ur,any_dash_d_dl_dr_r_ul,any_dash_d_dl_dr_r_ul_ur,any_dash_d_dl_dr_r_ur,any_dash_d_dl_l_r,any_dash_d_dl_l_r_u,any_dash_d_dl_l_r_u_ul,any_dash_d_dl_l_r_u_ul_ur,any_dash_d_dl_l_r_u_ur,any_dash_d_dl_l_r_ul,any_dash_d_dl_l_r_ul_ur,any_dash_d_dl_l_r_ur,any_dash_d_dl_r,any_dash_d_dl_r_u,any_dash_d_dl_r_u_ul,any_dash_d_dl_r_u_ul_ur,any_dash_d_dl_r_u_ur,any_dash_d_dl_r_ul,any_dash_d_dl_r_ul_ur,any_dash_d_dl_r_ur,any_dash_d_dr_l_r,any_dash_d_dr_l_r_u,any_dash_d_dr_l_r_u_ul,any_dash_d_dr_l_r_u_ul_ur,any_dash_d_dr_l_r_u_ur,any_dash_d_dr_l_r_ul,any_dash_d_dr_l_r_ul_ur,any_dash_d_dr_l_r_ur,any_dash_d_dr_r,any_dash_d_dr_r_u,any_dash_d_dr_r_u_ul,any_dash_d_dr_r_u_ul_ur,any_dash_d_dr_r_u_ur,any_dash_d_dr_r_ul,any_dash_d_dr_r_ul_ur,any_dash_d_dr_r_ur,any_dash_d_l_r,any_dash_d_l_r_u,any_dash_d_l_r_u_ul,any_dash_d_l_r_u_ul_ur,any_dash_d_l_r_u_ur,any_dash_d_l_r_ul,any_dash_d_l_r_ul_ur,any_dash_d_l_r_ur,any_dash_d_r,any_dash_d_r_u,any_dash_d_r_u_ul,any_dash_d_r_u_ul_ur,any_dash_d_r_u_ur,any_dash_d_r_ul,any_dash_d_r_ul_ur,any_dash_d_r_ur,any_dash_dl_dr_l_r,any_dash_dl_dr_l_r_u,any_dash_dl_dr_l_r_u_ul,any_dash_dl_dr_l_r_u_ul_ur,any_dash_dl_dr_l_r_u_ur,any_dash_dl_dr_l_r_ul,any_dash_dl_dr_l_r_ul_ur,any_dash_dl_dr_l_r_ur,any_dash_dl_dr_r,any_dash_dl_dr_r_u,any_dash_dl_dr_r_u_ul,any_dash_dl_dr_r_u_ul_ur,any_dash_dl_dr_r_u_ur,any_dash_dl_dr_r_ul,any_dash_dl_dr_r_ul_ur,any_dash_dl_dr_r_ur,any_dash_dl_l_r,any_dash_dl_l_r_u,any_dash_dl_l_r_u_ul,any_dash_dl_l_r_u_ul_ur,any_dash_dl_l_r_u_ur,any_dash_dl_l_r_ul,any_dash_dl_l_r_ul_ur,any_dash_dl_l_r_ur,any_dash_dl_r,any_dash_dl_r_u,any_dash_dl_r_u_ul,any_dash_dl_r_u_ul_ur,any_dash_dl_r_u_ur,any_dash_dl_r_ul,any_dash_dl_r_ul_ur,any_dash_dl_r_ur,any_dash_dr_l_r,any_dash_dr_l_r_u,any_dash_dr_l_r_u_ul,any_dash_dr_l_r_u_ul_ur,any_dash_dr_l_r_u_ur,any_dash_dr_l_r_ul,any_dash_dr_l_r_ul_ur,any_dash_dr_l_r_ur,any_dash_dr_r,any_dash_dr_r_u,any_dash_dr_r_u_ul,any_dash_dr_r_u_ul_ur,any_dash_dr_r_u_ur,any_dash_dr_r_ul,any_dash_dr_r_ul_ur,any_dash_dr_r_ur,any_dash_l_r,any_dash_l_r_u,any_dash_l_r_u_ul,any_dash_l_r_u_ul_ur,any_dash_l_r_u_ur,any_dash_l_r_ul,any_dash_l_r_ul_ur,any_dash_l_r_ur,any_dash_r_u,any_dash_r_u_ul,any_dash_r_u_ul_ur,any_dash_r_u_ur,any_dash_r_ul,any_dash_r_ul_ur,any_dash_r_ur"
+    },
+    {
+        "name": "Up Dash",
+        "type": "toggle",
+        "img": "images/icons/items/movement/updash.png",
+        "codes": "u_dash,any_dash_d_dl_dr_l_r_u,any_dash_d_dl_dr_l_r_u_ul,any_dash_d_dl_dr_l_r_u_ul_ur,any_dash_d_dl_dr_l_r_u_ur,any_dash_d_dl_dr_l_u,any_dash_d_dl_dr_l_u_ul,any_dash_d_dl_dr_l_u_ul_ur,any_dash_d_dl_dr_l_u_ur,any_dash_d_dl_dr_r_u,any_dash_d_dl_dr_r_u_ul,any_dash_d_dl_dr_r_u_ul_ur,any_dash_d_dl_dr_r_u_ur,any_dash_d_dl_dr_u,any_dash_d_dl_dr_u_ul,any_dash_d_dl_dr_u_ul_ur,any_dash_d_dl_dr_u_ur,any_dash_d_dl_l_r_u,any_dash_d_dl_l_r_u_ul,any_dash_d_dl_l_r_u_ul_ur,any_dash_d_dl_l_r_u_ur,any_dash_d_dl_l_u,any_dash_d_dl_l_u_ul,any_dash_d_dl_l_u_ul_ur,any_dash_d_dl_l_u_ur,any_dash_d_dl_r_u,any_dash_d_dl_r_u_ul,any_dash_d_dl_r_u_ul_ur,any_dash_d_dl_r_u_ur,any_dash_d_dl_u,any_dash_d_dl_u_ul,any_dash_d_dl_u_ul_ur,any_dash_d_dl_u_ur,any_dash_d_dr_l_r_u,any_dash_d_dr_l_r_u_ul,any_dash_d_dr_l_r_u_ul_ur,any_dash_d_dr_l_r_u_ur,any_dash_d_dr_l_u,any_dash_d_dr_l_u_ul,any_dash_d_dr_l_u_ul_ur,any_dash_d_dr_l_u_ur,any_dash_d_dr_r_u,any_dash_d_dr_r_u_ul,any_dash_d_dr_r_u_ul_ur,any_dash_d_dr_r_u_ur,any_dash_d_dr_u,any_dash_d_dr_u_ul,any_dash_d_dr_u_ul_ur,any_dash_d_dr_u_ur,any_dash_d_l_r_u,any_dash_d_l_r_u_ul,any_dash_d_l_r_u_ul_ur,any_dash_d_l_r_u_ur,any_dash_d_l_u,any_dash_d_l_u_ul,any_dash_d_l_u_ul_ur,any_dash_d_l_u_ur,any_dash_d_r_u,any_dash_d_r_u_ul,any_dash_d_r_u_ul_ur,any_dash_d_r_u_ur,any_dash_d_u,any_dash_d_u_ul,any_dash_d_u_ul_ur,any_dash_d_u_ur,any_dash_dl_dr_l_r_u,any_dash_dl_dr_l_r_u_ul,any_dash_dl_dr_l_r_u_ul_ur,any_dash_dl_dr_l_r_u_ur,any_dash_dl_dr_l_u,any_dash_dl_dr_l_u_ul,any_dash_dl_dr_l_u_ul_ur,any_dash_dl_dr_l_u_ur,any_dash_dl_dr_r_u,any_dash_dl_dr_r_u_ul,any_dash_dl_dr_r_u_ul_ur,any_dash_dl_dr_r_u_ur,any_dash_dl_dr_u,any_dash_dl_dr_u_ul,any_dash_dl_dr_u_ul_ur,any_dash_dl_dr_u_ur,any_dash_dl_l_r_u,any_dash_dl_l_r_u_ul,any_dash_dl_l_r_u_ul_ur,any_dash_dl_l_r_u_ur,any_dash_dl_l_u,any_dash_dl_l_u_ul,any_dash_dl_l_u_ul_ur,any_dash_dl_l_u_ur,any_dash_dl_r_u,any_dash_dl_r_u_ul,any_dash_dl_r_u_ul_ur,any_dash_dl_r_u_ur,any_dash_dl_u,any_dash_dl_u_ul,any_dash_dl_u_ul_ur,any_dash_dl_u_ur,any_dash_dr_l_r_u,any_dash_dr_l_r_u_ul,any_dash_dr_l_r_u_ul_ur,any_dash_dr_l_r_u_ur,any_dash_dr_l_u,any_dash_dr_l_u_ul,any_dash_dr_l_u_ul_ur,any_dash_dr_l_u_ur,any_dash_dr_r_u,any_dash_dr_r_u_ul,any_dash_dr_r_u_ul_ur,any_dash_dr_r_u_ur,any_dash_dr_u,any_dash_dr_u_ul,any_dash_dr_u_ul_ur,any_dash_dr_u_ur,any_dash_l_r_u,any_dash_l_r_u_ul,any_dash_l_r_u_ul_ur,any_dash_l_r_u_ur,any_dash_l_u,any_dash_l_u_ul,any_dash_l_u_ul_ur,any_dash_l_u_ur,any_dash_r_u,any_dash_r_u_ul,any_dash_r_u_ul_ur,any_dash_r_u_ur,any_dash_u_ul,any_dash_u_ul_ur,any_dash_u_ur"
+    },
+    {
+        "name": "Up-Left Dash",
+        "type": "toggle",
+        "img": "images/icons/items/movement/upleftdash.png",
+        "codes": "ul_dash,any_dash_d_dl_dr_l_r_u_ul,any_dash_d_dl_dr_l_r_u_ul_ur,any_dash_d_dl_dr_l_r_ul,any_dash_d_dl_dr_l_r_ul_ur,any_dash_d_dl_dr_l_u_ul,any_dash_d_dl_dr_l_u_ul_ur,any_dash_d_dl_dr_l_ul,any_dash_d_dl_dr_l_ul_ur,any_dash_d_dl_dr_r_u_ul,any_dash_d_dl_dr_r_u_ul_ur,any_dash_d_dl_dr_r_ul,any_dash_d_dl_dr_r_ul_ur,any_dash_d_dl_dr_u_ul,any_dash_d_dl_dr_u_ul_ur,any_dash_d_dl_dr_ul,any_dash_d_dl_dr_ul_ur,any_dash_d_dl_l_r_u_ul,any_dash_d_dl_l_r_u_ul_ur,any_dash_d_dl_l_r_ul,any_dash_d_dl_l_r_ul_ur,any_dash_d_dl_l_u_ul,any_dash_d_dl_l_u_ul_ur,any_dash_d_dl_l_ul,any_dash_d_dl_l_ul_ur,any_dash_d_dl_r_u_ul,any_dash_d_dl_r_u_ul_ur,any_dash_d_dl_r_ul,any_dash_d_dl_r_ul_ur,any_dash_d_dl_u_ul,any_dash_d_dl_u_ul_ur,any_dash_d_dl_ul,any_dash_d_dl_ul_ur,any_dash_d_dr_l_r_u_ul,any_dash_d_dr_l_r_u_ul_ur,any_dash_d_dr_l_r_ul,any_dash_d_dr_l_r_ul_ur,any_dash_d_dr_l_u_ul,any_dash_d_dr_l_u_ul_ur,any_dash_d_dr_l_ul,any_dash_d_dr_l_ul_ur,any_dash_d_dr_r_u_ul,any_dash_d_dr_r_u_ul_ur,any_dash_d_dr_r_ul,any_dash_d_dr_r_ul_ur,any_dash_d_dr_u_ul,any_dash_d_dr_u_ul_ur,any_dash_d_dr_ul,any_dash_d_dr_ul_ur,any_dash_d_l_r_u_ul,any_dash_d_l_r_u_ul_ur,any_dash_d_l_r_ul,any_dash_d_l_r_ul_ur,any_dash_d_l_u_ul,any_dash_d_l_u_ul_ur,any_dash_d_l_ul,any_dash_d_l_ul_ur,any_dash_d_r_u_ul,any_dash_d_r_u_ul_ur,any_dash_d_r_ul,any_dash_d_r_ul_ur,any_dash_d_u_ul,any_dash_d_u_ul_ur,any_dash_d_ul,any_dash_d_ul_ur,any_dash_dl_dr_l_r_u_ul,any_dash_dl_dr_l_r_u_ul_ur,any_dash_dl_dr_l_r_ul,any_dash_dl_dr_l_r_ul_ur,any_dash_dl_dr_l_u_ul,any_dash_dl_dr_l_u_ul_ur,any_dash_dl_dr_l_ul,any_dash_dl_dr_l_ul_ur,any_dash_dl_dr_r_u_ul,any_dash_dl_dr_r_u_ul_ur,any_dash_dl_dr_r_ul,any_dash_dl_dr_r_ul_ur,any_dash_dl_dr_u_ul,any_dash_dl_dr_u_ul_ur,any_dash_dl_dr_ul,any_dash_dl_dr_ul_ur,any_dash_dl_l_r_u_ul,any_dash_dl_l_r_u_ul_ur,any_dash_dl_l_r_ul,any_dash_dl_l_r_ul_ur,any_dash_dl_l_u_ul,any_dash_dl_l_u_ul_ur,any_dash_dl_l_ul,any_dash_dl_l_ul_ur,any_dash_dl_r_u_ul,any_dash_dl_r_u_ul_ur,any_dash_dl_r_ul,any_dash_dl_r_ul_ur,any_dash_dl_u_ul,any_dash_dl_u_ul_ur,any_dash_dl_ul,any_dash_dl_ul_ur,any_dash_dr_l_r_u_ul,any_dash_dr_l_r_u_ul_ur,any_dash_dr_l_r_ul,any_dash_dr_l_r_ul_ur,any_dash_dr_l_u_ul,any_dash_dr_l_u_ul_ur,any_dash_dr_l_ul,any_dash_dr_l_ul_ur,any_dash_dr_r_u_ul,any_dash_dr_r_u_ul_ur,any_dash_dr_r_ul,any_dash_dr_r_ul_ur,any_dash_dr_u_ul,any_dash_dr_u_ul_ur,any_dash_dr_ul,any_dash_dr_ul_ur,any_dash_l_r_u_ul,any_dash_l_r_u_ul_ur,any_dash_l_r_ul,any_dash_l_r_ul_ur,any_dash_l_u_ul,any_dash_l_u_ul_ur,any_dash_l_ul,any_dash_l_ul_ur,any_dash_r_u_ul,any_dash_r_u_ul_ur,any_dash_r_ul,any_dash_r_ul_ur,any_dash_u_ul,any_dash_u_ul_ur,any_dash_ul_ur"
+    },
+    {
+        "name": "Up-Right Dash",
+        "type": "toggle",
+        "img": "images/icons/items/movement/uprightdash.png",
+        "codes": "ur_dash,any_dash_d_dl_dr_l_r_u_ul_ur,any_dash_d_dl_dr_l_r_u_ur,any_dash_d_dl_dr_l_r_ul_ur,any_dash_d_dl_dr_l_r_ur,any_dash_d_dl_dr_l_u_ul_ur,any_dash_d_dl_dr_l_u_ur,any_dash_d_dl_dr_l_ul_ur,any_dash_d_dl_dr_l_ur,any_dash_d_dl_dr_r_u_ul_ur,any_dash_d_dl_dr_r_u_ur,any_dash_d_dl_dr_r_ul_ur,any_dash_d_dl_dr_r_ur,any_dash_d_dl_dr_u_ul_ur,any_dash_d_dl_dr_u_ur,any_dash_d_dl_dr_ul_ur,any_dash_d_dl_dr_ur,any_dash_d_dl_l_r_u_ul_ur,any_dash_d_dl_l_r_u_ur,any_dash_d_dl_l_r_ul_ur,any_dash_d_dl_l_r_ur,any_dash_d_dl_l_u_ul_ur,any_dash_d_dl_l_u_ur,any_dash_d_dl_l_ul_ur,any_dash_d_dl_l_ur,any_dash_d_dl_r_u_ul_ur,any_dash_d_dl_r_u_ur,any_dash_d_dl_r_ul_ur,any_dash_d_dl_r_ur,any_dash_d_dl_u_ul_ur,any_dash_d_dl_u_ur,any_dash_d_dl_ul_ur,any_dash_d_dl_ur,any_dash_d_dr_l_r_u_ul_ur,any_dash_d_dr_l_r_u_ur,any_dash_d_dr_l_r_ul_ur,any_dash_d_dr_l_r_ur,any_dash_d_dr_l_u_ul_ur,any_dash_d_dr_l_u_ur,any_dash_d_dr_l_ul_ur,any_dash_d_dr_l_ur,any_dash_d_dr_r_u_ul_ur,any_dash_d_dr_r_u_ur,any_dash_d_dr_r_ul_ur,any_dash_d_dr_r_ur,any_dash_d_dr_u_ul_ur,any_dash_d_dr_u_ur,any_dash_d_dr_ul_ur,any_dash_d_dr_ur,any_dash_d_l_r_u_ul_ur,any_dash_d_l_r_u_ur,any_dash_d_l_r_ul_ur,any_dash_d_l_r_ur,any_dash_d_l_u_ul_ur,any_dash_d_l_u_ur,any_dash_d_l_ul_ur,any_dash_d_l_ur,any_dash_d_r_u_ul_ur,any_dash_d_r_u_ur,any_dash_d_r_ul_ur,any_dash_d_r_ur,any_dash_d_u_ul_ur,any_dash_d_u_ur,any_dash_d_ul_ur,any_dash_d_ur,any_dash_dl_dr_l_r_u_ul_ur,any_dash_dl_dr_l_r_u_ur,any_dash_dl_dr_l_r_ul_ur,any_dash_dl_dr_l_r_ur,any_dash_dl_dr_l_u_ul_ur,any_dash_dl_dr_l_u_ur,any_dash_dl_dr_l_ul_ur,any_dash_dl_dr_l_ur,any_dash_dl_dr_r_u_ul_ur,any_dash_dl_dr_r_u_ur,any_dash_dl_dr_r_ul_ur,any_dash_dl_dr_r_ur,any_dash_dl_dr_u_ul_ur,any_dash_dl_dr_u_ur,any_dash_dl_dr_ul_ur,any_dash_dl_dr_ur,any_dash_dl_l_r_u_ul_ur,any_dash_dl_l_r_u_ur,any_dash_dl_l_r_ul_ur,any_dash_dl_l_r_ur,any_dash_dl_l_u_ul_ur,any_dash_dl_l_u_ur,any_dash_dl_l_ul_ur,any_dash_dl_l_ur,any_dash_dl_r_u_ul_ur,any_dash_dl_r_u_ur,any_dash_dl_r_ul_ur,any_dash_dl_r_ur,any_dash_dl_u_ul_ur,any_dash_dl_u_ur,any_dash_dl_ul_ur,any_dash_dl_ur,any_dash_dr_l_r_u_ul_ur,any_dash_dr_l_r_u_ur,any_dash_dr_l_r_ul_ur,any_dash_dr_l_r_ur,any_dash_dr_l_u_ul_ur,any_dash_dr_l_u_ur,any_dash_dr_l_ul_ur,any_dash_dr_l_ur,any_dash_dr_r_u_ul_ur,any_dash_dr_r_u_ur,any_dash_dr_r_ul_ur,any_dash_dr_r_ur,any_dash_dr_u_ul_ur,any_dash_dr_u_ur,any_dash_dr_ul_ur,any_dash_dr_ur,any_dash_l_r_u_ul_ur,any_dash_l_r_u_ur,any_dash_l_r_ul_ur,any_dash_l_r_ur,any_dash_l_u_ul_ur,any_dash_l_u_ur,any_dash_l_ul_ur,any_dash_l_ur,any_dash_r_u_ul_ur,any_dash_r_u_ur,any_dash_r_ul_ur,any_dash_r_ur,any_dash_u_ul_ur,any_dash_u_ur,any_dash_ul_ur"
+    },
+
+    {
+        "name": "Down-Left Dash - Cardinal Loose",
+        "type": "composite_toggle",
+        "item_left": "l_dash",
+        "item_right": "d_dash",
+        "codes": "dl_dash_card_loose",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/movement/downleftdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/movement/downleftdash.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/movement/downleftdash.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/movement/downleftdash.png"
+            }
+        ]
+    },
+    {
+        "name": "Down-Right Dash - Cardinal Loose",
+        "type": "composite_toggle",
+        "item_left": "d_dash",
+        "item_right": "r_dash",
+        "codes": "dr_dash_card_loose",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/movement/downrightdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/movement/downrightdash.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/movement/downrightdash.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/movement/downrightdash.png"
+            }
+        ]
+    },
+    {
+        "name": "Up-Left Dash - Cardinal Loose",
+        "type": "composite_toggle",
+        "item_left": "l_dash",
+        "item_right": "u_dash",
+        "codes": "ul_dash_card_loose",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/movement/upleftdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/movement/upleftdash.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/movement/upleftdash.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/movement/upleftdash.png"
+            }
+        ]
+    },
+    {
+        "name": "Up-Right Dash - Cardinal Loose",
+        "type": "composite_toggle",
+        "item_left": "u_dash",
+        "item_right": "r_dash",
+        "codes": "ur_dash_card_loose",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/movement/uprightdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/movement/uprightdash.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/movement/uprightdash.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/movement/uprightdash.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Down-Left Dash - Cardinal Restrictive",
+        "type": "composite_toggle",
+        "item_left": "l_dash",
+        "item_right": "d_dash",
+        "codes": "dl_dash_card_restrictive",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/movement/downleftdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/movement/downleftdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/movement/downleftdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/movement/downleftdash.png"
+            }
+        ]
+    },
+    {
+        "name": "Down-Right Dash - Cardinal Restrictive",
+        "type": "composite_toggle",
+        "item_left": "d_dash",
+        "item_right": "r_dash",
+        "codes": "dr_dash_card_restrictive",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/movement/downrightdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/movement/downrightdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/movement/downrightdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/movement/downrightdash.png"
+            }
+        ]
+    },
+    {
+        "name": "Up-Left Dash - Cardinal Restrictive",
+        "type": "composite_toggle",
+        "item_left": "l_dash",
+        "item_right": "u_dash",
+        "codes": "ul_dash_card_restrictive",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/movement/upleftdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/movement/upleftdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/movement/upleftdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/movement/upleftdash.png"
+            }
+        ]
+    },
+    {
+        "name": "Up-Right Dash - Cardinal Restrictive",
+        "type": "composite_toggle",
+        "item_left": "u_dash",
+        "item_right": "r_dash",
+        "codes": "ur_dash_card_restrictive",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/movement/uprightdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/movement/uprightdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/movement/uprightdash.png",
+                "img_mods": "@disabled"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/movement/uprightdash.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Dash Sequence Hint: Up",
+        "type": "static",
+        "img": "images/icons/items/movement/dash_sequence_u.png",
+        "codes": "dash_sequence_u"
+    },
+    {
+        "name": "Dash Sequence Hint: Up-Right",
+        "type": "static",
+        "img": "images/icons/items/movement/dash_sequence_ur.png",
+        "codes": "dash_sequence_ur"
+    },
+    {
+        "name": "Dash Sequence Hint: Right",
+        "type": "static",
+        "img": "images/icons/items/movement/dash_sequence_r.png",
+        "codes": "dash_sequence_r"
+    },
+    {
+        "name": "Dash Sequence Hint: Down-Right",
+        "type": "static",
+        "img": "images/icons/items/movement/dash_sequence_dr.png",
+        "codes": "dash_sequence_dr"
+    },
+    {
+        "name": "Dash Sequence Hint: Down",
+        "type": "static",
+        "img": "images/icons/items/movement/dash_sequence_d.png",
+        "codes": "dash_sequence_d"
+    },
+    {
+        "name": "Dash Sequence Hint: Down-Left",
+        "type": "static",
+        "img": "images/icons/items/movement/dash_sequence_dl.png",
+        "codes": "dash_sequence_dl"
+    },
+    {
+        "name": "Dash Sequence Hint: Left",
+        "type": "static",
+        "img": "images/icons/items/movement/dash_sequence_l.png",
+        "codes": "dash_sequence_l"
+    },
+    {
+        "name": "Dash Sequence Hint: Up-Left",
+        "type": "static",
+        "img": "images/icons/items/movement/dash_sequence_ul.png",
+        "codes": "dash_sequence_ul"
+    }
+]

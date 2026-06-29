@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
             "include_b_sides"
         ],
@@ -17,13 +19,6 @@
                 "x": 879,
                 "y": 1701,
                 "size": 36,
-                "shape": "diamond"
-            },
-            {
-                "map": "5_b_1_b-00",
-                "x": 159,
-                "y": 117,
-                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -37,6 +32,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
             "include_b_sides"
         ],
@@ -46,13 +43,6 @@
                 "x": 159,
                 "y": 73,
                 "size": 41,
-                "shape": "diamond"
-            },
-            {
-                "map": "5_b_2_c-00",
-                "x": 159,
-                "y": 73,
-                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -66,6 +56,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
             "include_b_sides"
         ],
@@ -75,13 +67,6 @@
                 "x": 31,
                 "y": 145,
                 "size": 62,
-                "shape": "diamond"
-            },
-            {
-                "map": "5_b_3_d-00",
-                "x": 31,
-                "y": 145,
-                "size": 25,
                 "shape": "diamond"
             }
         ]

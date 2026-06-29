@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
             "include_b_sides",
             "goal_area_the_summit_b_side"
@@ -18,13 +20,6 @@
                 "x": 227,
                 "y": 2661,
                 "size": 45,
-                "shape": "diamond"
-            },
-            {
-                "map": "7_b_1_b-00",
-                "x": 227,
-                "y": 405,
-                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -38,6 +33,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
             "include_b_sides",
             "goal_area_the_summit_b_side"
@@ -48,13 +45,6 @@
                 "x": 126,
                 "y": 2248,
                 "size": 48,
-                "shape": "diamond"
-            },
-            {
-                "map": "7_b_2_c-01",
-                "x": 126,
-                "y": 144,
-                "size": 27,
                 "shape": "diamond"
             }
         ]
@@ -68,6 +58,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
             "include_b_sides",
             "goal_area_the_summit_b_side"
@@ -78,13 +70,6 @@
                 "x": 150,
                 "y": 1205,
                 "size": 42,
-                "shape": "diamond"
-            },
-            {
-                "map": "7_b_3_d-00",
-                "x": 150,
-                "y": 141,
-                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -98,6 +83,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
             "include_b_sides",
             "goal_area_the_summit_b_side"
@@ -108,13 +95,6 @@
                 "x": 186,
                 "y": 1452,
                 "size": 42,
-                "shape": "diamond"
-            },
-            {
-                "map": "7_b_4_e-00",
-                "x": 186,
-                "y": 124,
-                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -128,6 +108,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
             "include_b_sides",
             "goal_area_the_summit_b_side"
@@ -138,13 +120,6 @@
                 "x": 114,
                 "y": 1900,
                 "size": 42,
-                "shape": "diamond"
-            },
-            {
-                "map": "7_b_5_f-00",
-                "x": 114,
-                "y": 148,
-                "size": 25,
                 "shape": "diamond"
             }
         ]
@@ -158,6 +133,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
             "include_b_sides",
             "goal_area_the_summit_b_side"
@@ -168,13 +145,6 @@
                 "x": 145,
                 "y": 4071,
                 "size": 68,
-                "shape": "diamond"
-            },
-            {
-                "map": "7_b_6_g-00",
-                "x": 195,
-                "y": 2261,
-                "size": 38,
                 "shape": "diamond"
             }
         ]

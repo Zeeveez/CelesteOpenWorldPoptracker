@@ -1,0 +1,12 @@
+{
+    "tracker_items_c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "c-sides-icon", "c-traffic_blocks", "c-dash_refills", "c-springs", "c-dream_blocks", "c-coins", "c-sinking_platforms", "c-pink_clouds", "c-move_blocks", "c-blue_boosters", "c-red_boosters" ],
+            [ "", "c-swap_blocks", "c-dash_switches", "c-feathers", "c-kevin_blocks", "c-bumpers", "c-badeline_boosters" ]
+        ]
+    }
+}

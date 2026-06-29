@@ -1,0 +1,12 @@
+{
+    "tracker_items_b_7": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_size": "2,2",
+        "rows": [
+            [ "thesummitb-icon", "thesummitb-blue_cassette_blocks", "thesummitb-pink_cassette_blocks", "", "", "thesummitb-traffic_blocks", "thesummitb-dash_refills", "thesummitb-springs", "thesummitb-dream_blocks", "thesummitb-coins", "thesummitb-moving_platforms", "", "thesummitb-blue_clouds", "thesummitb-pink_clouds", "thesummitb-move_blocks", "thesummitb-blue_boosters" ],
+            [ "", "thesummitb-red_boosters", "thesummitb-swap_blocks", "", "", "", "", "thesummitb-badeline_boosters" ]
+        ]
+    }
+}

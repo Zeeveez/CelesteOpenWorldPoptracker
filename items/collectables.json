@@ -14,6 +14,159 @@
         "overlay_font_size": 24
     },
     {
+        "name": "Blue Raspberry",
+        "type": "consumable",
+        "img": "images/icons/collectables/blue_raspberry.png",
+        "codes": "blue_raspberry",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Blueberry",
+        "type": "consumable",
+        "img": "images/icons/collectables/blueberry.png",
+        "codes": "blueberry",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Blackberry",
+        "type": "consumable",
+        "img": "images/icons/collectables/blackberry.png",
+        "codes": "blackberry",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Boysenberry",
+        "type": "consumable",
+        "img": "images/icons/collectables/boysenberry.png",
+        "codes": "boysenberry",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Banana",
+        "type": "consumable",
+        "img": "images/icons/collectables/banana.png",
+        "codes": "banana",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Cranberry",
+        "type": "consumable",
+        "img": "images/icons/collectables/cranberry.png",
+        "codes": "cranberry",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Golden Raspberry",
+        "type": "consumable",
+        "img": "images/icons/collectables/golden_raspberry.png",
+        "codes": "golden_raspberry",
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Crystal Heart",
+        "type": "consumable",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal_heart",
+        "max_quantity": 16,
+        "overlay_font_size": 24
+    },
+    {
+        "name": "Crystal Heart 1",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-1"
+    },
+    {
+        "name": "Crystal Heart 2",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-2"
+    },
+    {
+        "name": "Crystal Heart 3",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-3"
+    },
+    {
+        "name": "Crystal Heart 4",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-4"
+    },
+    {
+        "name": "Crystal Heart 5",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-5"
+    },
+    {
+        "name": "Crystal Heart 6",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-6"
+    },
+    {
+        "name": "Crystal Heart 7",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-7"
+    },
+    {
+        "name": "Crystal Heart 8",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-8"
+    },
+    {
+        "name": "Crystal Heart 9",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-9"
+    },
+    {
+        "name": "Crystal Heart 10",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-10"
+    },
+    {
+        "name": "Crystal Heart 11",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-11"
+    },
+    {
+        "name": "Crystal Heart 12",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-12"
+    },
+    {
+        "name": "Crystal Heart 13",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-13"
+    },
+    {
+        "name": "Crystal Heart 14",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-14"
+    },
+    {
+        "name": "Crystal Heart 15",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-15"
+    },
+    {
+        "name": "Crystal Heart 16",
+        "type": "toggle",
+        "img": "images/icons/collectables/crystal_heart.png",
+        "codes": "crystal-heart-16"
+    },
+    {
         "name": "Granny's House Keys",
         "type": "toggle",
         "img": "images/icons/items/keys_gems/key.png",

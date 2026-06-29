@@ -1,0 +1,83 @@
+{
+    "9_a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_9a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "9_a_0"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Into the Core",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_9a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "9_a_1"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Hot and Cold",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_9a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "9_a_2"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Heart of the Mountain",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_9a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "9_a_3"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

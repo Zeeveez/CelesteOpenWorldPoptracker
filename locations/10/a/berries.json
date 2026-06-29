@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/golden_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/golden_opened.png",
         "visibility_rules": [
             "goal_area_farewell_golden"
         ],
@@ -17,12 +19,6 @@
                 "x": 14,
                 "y": 203,
                 "size": 68
-            },
-            {
-                "map": "10_a_1_a-00",
-                "x": 24,
-                "y": 80,
-                "size": 25
             }
         ]
     },
@@ -35,6 +31,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/moon_berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/moon_berry_opened.png",
         "visibility_rules": [
             "include_farewell",
             "goal_area_farewell",
@@ -45,12 +43,6 @@
                 "map": "10_a_8",
                 "x": 2809,
                 "y": 836,
-                "size": 68
-            },
-            {
-                "map": "10_a_8_j-19",
-                "x": 141,
-                "y": 1346,
                 "size": 68
             }
         ]

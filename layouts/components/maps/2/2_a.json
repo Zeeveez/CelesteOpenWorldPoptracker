@@ -1,0 +1,64 @@
+{
+    "2_a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_2a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "2_a_0"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Intervention",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_2a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "2_a_1"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Awake",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_2a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "2_a_2"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

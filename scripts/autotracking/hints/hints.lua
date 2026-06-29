@@ -40,18 +40,6 @@ if Highlight then
     }
 end
 
-function onHintNotify(key, value, old_value)
-    if key ~= HINTS_ID then return end
-    if value ~= old_value then
-        processHints(value)
-    end
-end
-
-function onHintNotifyLaunch(key, value)
-    if key ~= HINTS_ID then return end
-    processHints(value)
-end
-
 function processHints(hints)
     Tracker.BulkUpdate = true
     for _, hint in ipairs(hints) do
@@ -82,5 +70,21 @@ function processHint(hint)
     end
 end
 
+function onHintNotify(key, value, old_value)
+    if key ~= HINTS_ID then return end
+    if value ~= old_value then
+        processHints(value)
+    end
+end
 Archipelago:AddSetReplyHandler("hint handler", onHintNotify)
-Archipelago:AddRetrievedHandler("hint launch handler", onHintNotifyLaunch)
+Archipelago:AddRetrievedHandler("hint launch handler", onHintNotify)
+
+function RegisterOnHintNotify(notify_keys)
+    local PLAYER_ID = Archipelago.PlayerNumber or -1
+    if not (PLAYER_ID > -1) then return end
+
+    local TEAM_NUMBER = Archipelago.TeamNumber or 0
+
+    HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
+    table.insert(notify_keys, HINTS_ID)
+end

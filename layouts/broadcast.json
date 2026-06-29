@@ -3,8 +3,19 @@
         "type": "container",
         "background": "#443a3a",
         "content": {
-            "type": "layout",
-            "key": "tracker_items"
+            "type": "dock",
+            "content": [
+                {
+                    "type": "layout",
+                    "key": "tracker_recent_items",
+                    "dock": "top"
+                },
+                {
+                    "type": "layout",
+                    "key": "tracker_items",
+                    "dock": "top"
+                }
+            ]
         }
     }
 }

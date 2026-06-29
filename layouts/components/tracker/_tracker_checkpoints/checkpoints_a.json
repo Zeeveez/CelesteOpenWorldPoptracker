@@ -1,0 +1,65 @@
+{
+    "tracker_checkpoints_1a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "forsakencitya-icon", "forsakencitya-crossing", "forsakencitya-chasm" ]
+        ]
+    },
+    "tracker_checkpoints_2a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "oldsitea-icon", "oldsitea-intervention", "oldsitea-awake" ]
+        ]
+    },
+    "tracker_checkpoints_3a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "celestialresorta-icon", "celestialresorta-hugemess", "celestialresorta-elevatorshaft", "celestialresorta-presidentialsuite" ]
+        ]
+    },
+    "tracker_checkpoints_4a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "goldenridgea-icon", "goldenridgea-shrine", "goldenridgea-oldtrail", "goldenridgea-cliffface" ]
+        ]
+    },
+    "tracker_checkpoints_5a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "mirrortemplea-icon", "mirrortemplea-depths", "mirrortemplea-unravelling", "mirrortemplea-search", "mirrortemplea-rescue" ]
+        ]
+    },
+    "tracker_checkpoints_6a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "reflectiona-icon", "reflectiona-hollows", "reflectiona-reflection", "reflectiona-rockbottom", "reflectiona-resolution" ]
+        ]
+    },
+    "tracker_checkpoints_7a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "thesummita-icon", "thesummita-500m", "thesummita-1000m", "thesummita-1500m", "thesummita-2000m", "thesummita-2500m", "thesummita-3000m" ]
+        ]
+    }
+}

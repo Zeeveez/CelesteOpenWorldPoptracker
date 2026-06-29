@@ -1,0 +1,13 @@
+{
+    "tracker_dash": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "ul_dash", "u_dash", "ur_dash" ],
+            [ "l_dash", "", "r_dash" ],
+            [ "dl_dash", "d_dash", "dr_dash" ]
+        ]
+    }
+}

@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_c_sides,roomsanity",
             "goal_area_the_summit_c_side,roomsanity"
@@ -18,13 +20,6 @@
                 "x": 23,
                 "y": 400,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "7_c_0_01",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -38,6 +33,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_c_sides,roomsanity",
             "goal_area_the_summit_c_side,roomsanity"
@@ -48,13 +45,6 @@
                 "x": 535,
                 "y": 191,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "7_c_0_02",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -68,6 +58,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_c_sides,roomsanity",
             "goal_area_the_summit_c_side,roomsanity"
@@ -78,13 +70,6 @@
                 "x": 1075,
                 "y": 23,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "7_c_0_03",
-                "x": 24,
-                "y": 24,
-                "size": 48,
                 "shape": "diamond"
             }
         ]

@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/golden_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/golden_opened.png",
         "visibility_rules": [
             "include_goldens"
         ],
@@ -17,12 +19,6 @@
                 "x": 1063,
                 "y": 979,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-00b",
-                "x": 367,
-                "y": 139,
-                "size": 25
             }
         ]
     },
@@ -35,18 +31,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 664,
                 "y": 1104,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-00x",
-                "x": 664,
-                "y": 400,
-                "size": 25
             }
         ]
     },
@@ -59,18 +51,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 2608,
                 "y": 592,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-01",
-                "x": 48,
-                "y": 48,
-                "size": 25
             }
         ]
     },
@@ -83,18 +71,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 2792,
                 "y": 896,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-01",
-                "x": 232,
-                "y": 352,
-                "size": 25
             }
         ]
     },
@@ -107,18 +91,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 3264,
                 "y": 1256,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-02",
-                "x": 296,
-                "y": 88,
-                "size": 25
             }
         ]
     },
@@ -131,18 +111,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 2808,
                 "y": 1200,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-03",
-                "x": 160,
-                "y": 32,
-                "size": 25
             }
         ]
     },
@@ -155,18 +131,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 2368,
                 "y": 1296,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-04",
-                "x": 40,
-                "y": 128,
-                "size": 25
             }
         ]
     },
@@ -179,18 +151,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 2808,
                 "y": 1424,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-05",
-                "x": 232,
-                "y": 72,
-                "size": 25
             }
         ]
     },
@@ -203,18 +171,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 3224,
                 "y": 1560,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-06",
-                "x": 184,
-                "y": 80,
-                "size": 25
             }
         ]
     },
@@ -227,18 +191,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 2296,
                 "y": 1532,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-07",
-                "x": 40,
-                "y": 52,
-                "size": 25
             }
         ]
     },
@@ -251,18 +211,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 1944,
                 "y": 344,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-11",
-                "x": 40,
-                "y": 72,
-                "size": 25
             }
         ]
     },
@@ -275,18 +231,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 3696,
                 "y": 232,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-15",
-                "x": 288,
-                "y": 144,
-                "size": 25
             }
         ]
     },
@@ -299,18 +251,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_0",
                 "x": 3176,
                 "y": 32,
                 "size": 62
-            },
-            {
-                "map": "5_a_0_a-14",
-                "x": 184,
-                "y": 32,
-                "size": 25
             }
         ]
     },
@@ -323,18 +271,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_1",
                 "x": 194,
                 "y": 814,
                 "size": 68
-            },
-            {
-                "map": "5_a_1_b-18",
-                "x": 280,
-                "y": 48,
-                "size": 25
             }
         ]
     },
@@ -347,18 +291,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_1",
                 "x": 731,
                 "y": 1058,
                 "size": 68
-            },
-            {
-                "map": "5_a_1_b-01c",
-                "x": 232,
-                "y": 32,
-                "size": 25
             }
         ]
     },
@@ -371,18 +311,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_1",
                 "x": 559,
                 "y": 698,
                 "size": 68
-            },
-            {
-                "map": "5_a_1_b-20",
-                "x": 240,
-                "y": 64,
-                "size": 25
             }
         ]
     },
@@ -395,18 +331,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_1",
                 "x": 742,
                 "y": 698,
                 "size": 68
-            },
-            {
-                "map": "5_a_1_b-20",
-                "x": 504,
-                "y": 64,
-                "size": 25
             }
         ]
     },
@@ -419,18 +351,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_1",
                 "x": 232,
                 "y": 637,
                 "size": 68
-            },
-            {
-                "map": "5_a_1_b-21",
-                "x": 88,
-                "y": 48,
-                "size": 25
             }
         ]
     },
@@ -443,18 +371,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_1",
                 "x": 959,
                 "y": 543,
                 "size": 68
-            },
-            {
-                "map": "5_a_1_b-03",
-                "x": 120,
-                "y": 24,
-                "size": 25
             }
         ]
     },
@@ -467,18 +391,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_1",
                 "x": 1518,
                 "y": 598,
                 "size": 68
-            },
-            {
-                "map": "5_a_1_b-05",
-                "x": 288,
-                "y": 96,
-                "size": 25
             }
         ]
     },
@@ -491,18 +411,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_1",
                 "x": 986,
                 "y": 1136,
                 "size": 68
-            },
-            {
-                "map": "5_a_1_b-10",
-                "x": 40,
-                "y": 80,
-                "size": 25
             }
         ]
     },
@@ -515,18 +431,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_1",
                 "x": 1430,
                 "y": 1164,
                 "size": 68
-            },
-            {
-                "map": "5_a_1_b-12",
-                "x": 160,
-                "y": 120,
-                "size": 25
             }
         ]
     },
@@ -539,18 +451,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_1",
                 "x": 1951,
                 "y": 1058,
                 "size": 68
-            },
-            {
-                "map": "5_a_1_b-17",
-                "x": 272,
-                "y": 216,
-                "size": 25
             }
         ]
     },
@@ -563,18 +471,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_1",
                 "x": 1868,
                 "y": 936,
                 "size": 68
-            },
-            {
-                "map": "5_a_1_b-17",
-                "x": 152,
-                "y": 40,
-                "size": 25
             }
         ]
     },
@@ -587,18 +491,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_2",
                 "x": 1985,
                 "y": 944,
                 "size": 68
-            },
-            {
-                "map": "5_a_2_c-08",
-                "x": 336,
-                "y": 128,
-                "size": 25
             }
         ]
     },
@@ -611,18 +511,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_3",
                 "x": 712,
                 "y": 584,
                 "size": 38
-            },
-            {
-                "map": "5_a_3_d-04",
-                "x": 392,
-                "y": 216,
-                "size": 25
             }
         ]
     },
@@ -635,18 +531,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_3",
                 "x": 688,
                 "y": 400,
                 "size": 38
-            },
-            {
-                "map": "5_a_3_d-04",
-                "x": 368,
-                "y": 32,
-                "size": 25
             }
         ]
     },
@@ -659,18 +551,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_3",
                 "x": 2016,
                 "y": 512,
                 "size": 38
-            },
-            {
-                "map": "5_a_3_d-15",
-                "x": 400,
-                "y": 328,
-                "size": 25
             }
         ]
     },
@@ -683,18 +571,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_3",
                 "x": 1672,
                 "y": 536,
                 "size": 38
-            },
-            {
-                "map": "5_a_3_d-15",
-                "x": 56,
-                "y": 352,
-                "size": 25
             }
         ]
     },
@@ -707,18 +591,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_3",
                 "x": 2008,
                 "y": 856,
                 "size": 38
-            },
-            {
-                "map": "5_a_3_d-13",
-                "x": 88,
-                "y": 120,
-                "size": 25
             }
         ]
     },
@@ -731,18 +611,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_3",
                 "x": 184,
                 "y": 624,
                 "size": 38
-            },
-            {
-                "map": "5_a_3_d-19",
-                "x": 184,
-                "y": 40,
-                "size": 25
             }
         ]
     },
@@ -755,18 +631,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "map_locations": [
             {
                 "map": "5_a_4",
                 "x": 1613,
                 "y": 90,
                 "size": 68
-            },
-            {
-                "map": "5_a_4_e-06",
-                "x": 432,
-                "y": 48,
-                "size": 25
             }
         ]
     }

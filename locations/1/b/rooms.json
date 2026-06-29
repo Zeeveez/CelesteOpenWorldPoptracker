@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -16,13 +18,6 @@
                 "map": "1_b_0",
                 "x": 10,
                 "y": 850,
-                "size": 20,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_0_00",
-                "x": 10,
-                "y": 10,
                 "size": 20,
                 "shape": "diamond"
             }
@@ -37,6 +32,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -45,13 +42,6 @@
                 "map": "1_b_0",
                 "x": 242,
                 "y": 666,
-                "size": 20,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_0_01",
-                "x": 10,
-                "y": 10,
                 "size": 20,
                 "shape": "diamond"
             }
@@ -66,6 +56,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -74,13 +66,6 @@
                 "map": "1_b_0",
                 "x": 490,
                 "y": 482,
-                "size": 20,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_0_02",
-                "x": 10,
-                "y": 10,
                 "size": 20,
                 "shape": "diamond"
             }
@@ -95,6 +80,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -103,13 +90,6 @@
                 "map": "1_b_0",
                 "x": 754,
                 "y": 290,
-                "size": 20,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_0_02b",
-                "x": 10,
-                "y": 10,
                 "size": 20,
                 "shape": "diamond"
             }
@@ -124,6 +104,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -131,13 +113,6 @@
             {
                 "map": "1_b_0",
                 "x": 1082,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_0_03",
-                "x": 10,
                 "y": 10,
                 "size": 20,
                 "shape": "diamond"
@@ -153,6 +128,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -162,13 +139,6 @@
                 "x": 10,
                 "y": 762,
                 "size": 21,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_1_04",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -182,6 +152,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -191,13 +163,6 @@
                 "x": 306,
                 "y": 578,
                 "size": 21,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_1_05",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -211,6 +176,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -220,13 +187,6 @@
                 "x": 642,
                 "y": 394,
                 "size": 21,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_1_05b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -240,6 +200,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -249,13 +211,6 @@
                 "x": 970,
                 "y": 194,
                 "size": 21,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_1_06",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -269,6 +224,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -278,13 +235,6 @@
                 "x": 1314,
                 "y": 10,
                 "size": 21,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_1_07",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -298,6 +248,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -307,13 +259,6 @@
                 "x": 15,
                 "y": 1575,
                 "size": 30,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_2_08",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -327,6 +272,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -336,13 +283,6 @@
                 "x": 279,
                 "y": 1391,
                 "size": 30,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_2_08b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -356,6 +296,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -365,13 +307,6 @@
                 "x": 655,
                 "y": 999,
                 "size": 30,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_2_09",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -385,6 +320,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -394,13 +331,6 @@
                 "x": 975,
                 "y": 863,
                 "size": 30,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_2_10",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -414,6 +344,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -423,13 +355,6 @@
                 "x": 1471,
                 "y": 199,
                 "size": 30,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_2_11",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -443,6 +368,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "include_b_sides,roomsanity"
         ],
@@ -452,13 +379,6 @@
                 "x": 1535,
                 "y": 15,
                 "size": 30,
-                "shape": "diamond"
-            },
-            {
-                "map": "1_b_2_end",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]

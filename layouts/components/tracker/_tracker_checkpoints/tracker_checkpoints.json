@@ -1,0 +1,97 @@
+{
+    "tracker_checkpoints": {
+        "type": "group",
+        "background": "#00000000",
+        "header": "Checkpoints",
+        "content": {
+            "type": "dock",
+            "content": [
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_1a"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_1b"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_2a"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_2b"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_3a"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_3b"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_4a"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_4b"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_5a"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_5b"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_6a"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_6b"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_7a"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_7b"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_9a"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_9b"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_checkpoints_10"
+                }
+            ]
+        }
+    }
+}

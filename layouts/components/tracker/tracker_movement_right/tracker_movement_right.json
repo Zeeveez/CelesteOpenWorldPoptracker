@@ -1,0 +1,25 @@
+{
+    "tracker_movement_right": {
+        "type": "group",
+        "background": "#00000000",
+        "header": "Movement",
+        "content": {
+            "type": "array",
+            "orientation": "horizontal",
+            "content": [
+                {
+                    "type": "layout",
+                    "key": "tracker_dash"
+                },
+                {
+                    "type": "layout",
+                    "key": "tracker_climb"
+                },
+                {
+                    "type": "layout",
+                    "key": "tracker_crouch"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "map_items_1a": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "forsakencity-icon", "forsakencity-springs", "forsakencity-traffic_blocks", "forsakencity-pink_cassette_blocks", "forsakencity-blue_cassette_blocks", "forsakencity-dash_refills" ]
+        ]
+    },
+    "map_items_1b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "forsakencity-icon", "forsakencity-springs", "forsakencity-traffic_blocks", "forsakencity-pink_cassette_blocks", "forsakencity-blue_cassette_blocks", "forsakencity-dash_refills" ]
+        ]
+    },
+    "map_items_1c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "forsakencity-icon", "forsakencity-traffic_blocks", "forsakencity-coins", "forsakencity-dash_refills" ]
+        ]
+    },
+    "map_items_2a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "oldsite-icon", "oldsite-springs", "oldsite-traffic_blocks", "oldsite-pink_cassette_blocks", "oldsite-blue_cassette_blocks", "oldsite-dream_blocks", "oldsite-coins", "oldsite-dash_refills", "oldsite-strawberry_seeds" ]
+        ]
+    },
+    "map_items_2b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "oldsite-icon", "oldsite-springs", "oldsite-blue_cassette_blocks", "oldsite-dream_blocks", "oldsite-coins", "oldsite-dash_refills" ]
+        ]
+    },
+    "map_items_2c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "oldsite-icon", "oldsite-springs", "oldsite-dream_blocks", "oldsite-coins", "oldsite-dash_refills" ]
+        ]
+    },
+    "map_items_3a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "celestialresort-icon", "celestialresort-springs", "celestialresort-pink_cassette_blocks", "celestialresort-blue_cassette_blocks", "celestialresort-coins", "celestialresort-moving_platforms", "celestialresort-dash_refills", "celestialresort-sinking_platforms" ]
+        ]
+    },
+    "map_items_3b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "celestialresort-icon", "celestialresort-springs", "celestialresort-pink_cassette_blocks", "celestialresort-blue_cassette_blocks", "celestialresort-coins", "celestialresort-moving_platforms", "celestialresort-dash_refills", "celestialresort-sinking_platforms" ]
+        ]
+    },
+    "map_items_3c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "celestialresort-icon", "celestialresort-coins", "celestialresort-dash_refills", "celestialresort-sinking_platforms" ]
+        ]
+    },
+    "map_items_4a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "goldenridge-icon", "goldenridge-springs", "goldenridge-pink_cassette_blocks", "goldenridge-blue_cassette_blocks", "goldenridge-coins", "goldenridge-moving_platforms", "goldenridge-blue_boosters", "goldenridge-blue_clouds", "goldenridge-move_blocks", "goldenridge-pink_clouds", "goldenridge-dash_refills", "goldenridge-strawberry_seeds", "goldenridge-white_block" ]
+        ]
+    },
+    "map_items_4b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "goldenridge-icon", "goldenridge-springs", "goldenridge-pink_cassette_blocks", "goldenridge-blue_cassette_blocks", "goldenridge-coins", "goldenridge-moving_platforms", "goldenridge-blue_boosters", "goldenridge-blue_clouds", "goldenridge-move_blocks", "goldenridge-pink_clouds", "goldenridge-dash_refills" ]
+        ]
+    },
+    "map_items_4c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "goldenridge-icon", "goldenridge-blue_boosters", "goldenridge-move_blocks", "goldenridge-pink_clouds", "goldenridge-dash_refills" ]
+        ]
+    },
+    "map_items_5a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "mirrortemple-icon", "mirrortemple-springs", "mirrortemple-pink_cassette_blocks", "mirrortemple-blue_cassette_blocks", "mirrortemple-coins", "mirrortemple-swap_blocks", "mirrortemple-red_boosters", "mirrortemple-theo_crystal", "mirrortemple-dash_refills", "mirrortemple-dash_switches", "mirrortemple-seekers", "mirrortemple-strawberry_seeds", "mirrortemple-blue_torches", "mirrortemple-yellow_torches" ]
+        ]
+    },
+    "map_items_5b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "mirrortemple-icon", "mirrortemple-springs", "mirrortemple-pink_cassette_blocks", "mirrortemple-blue_cassette_blocks", "mirrortemple-coins", "mirrortemple-swap_blocks", "mirrortemple-red_boosters", "mirrortemple-theo_crystal", "mirrortemple-dash_refills", "mirrortemple-dash_switches", "mirrortemple-seekers", "mirrortemple-blue_torches" ]
+        ]
+    },
+    "map_items_5c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "mirrortemple-icon", "mirrortemple-springs", "mirrortemple-swap_blocks", "mirrortemple-red_boosters", "mirrortemple-dash_refills", "mirrortemple-dash_switches" ]
+        ]
+    },
+    "map_items_6a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "reflection-icon", "reflection-springs", "reflection-pink_cassette_blocks", "reflection-blue_cassette_blocks", "reflection-coins", "reflection-feathers", "reflection-bumpers", "reflection-kevin_blocks", "reflection-badeline_boosters", "reflection-dash_refills" ]
+        ]
+    },
+    "map_items_6b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "reflection-icon", "reflection-springs", "reflection-pink_cassette_blocks", "reflection-blue_cassette_blocks", "reflection-coins", "reflection-feathers", "reflection-bumpers", "reflection-kevin_blocks", "reflection-dash_refills" ]
+        ]
+    },
+    "map_items_6c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "reflection-icon", "reflection-feathers", "reflection-bumpers", "reflection-kevin_blocks", "reflection-dash_refills" ]
+        ]
+    },
+    "map_items_7a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "thesummit-icon", "thesummit-springs", "thesummit-traffic_blocks", "thesummit-pink_cassette_blocks", "thesummit-blue_cassette_blocks", "thesummit-dream_blocks", "thesummit-coins", "thesummit-moving_platforms", "thesummit-blue_boosters", "thesummit-blue_clouds", "thesummit-move_blocks", "thesummit-swap_blocks", "thesummit-red_boosters", "thesummit-feathers", "thesummit-pink_clouds", "thesummit-badeline_boosters", "thesummit-dash_refills", "thesummit-dash_switches", "thesummit-strawberry_seeds", "thesummit-sinking_platforms" ]
+        ]
+    },
+    "map_items_7b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "thesummit-icon", "thesummit-springs", "thesummit-traffic_blocks", "thesummit-pink_cassette_blocks", "thesummit-blue_cassette_blocks", "thesummit-dream_blocks", "thesummit-coins", "thesummit-moving_platforms", "thesummit-blue_boosters", "thesummit-move_blocks", "thesummit-swap_blocks", "thesummit-red_boosters", "thesummit-pink_clouds", "thesummit-badeline_boosters", "thesummit-dash_refills" ]
+        ]
+    },
+    "map_items_7c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "thesummit-icon", "thesummit-springs", "thesummit-coins", "thesummit-pink_clouds", "thesummit-badeline_boosters", "thesummit-dash_refills" ]
+        ]
+    },
+    "map_items_9a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "core-icon", "core-springs", "core-pink_cassette_blocks", "core-blue_cassette_blocks", "core-coins", "core-feathers", "core-bumpers", "core-badeline_boosters", "core-fire_ice_balls", "core-core_toggles", "core-core_blocks", "core-dash_refills" ]
+        ]
+    },
+    "map_items_9b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "core-icon", "core-springs", "core-traffic_blocks", "core-pink_cassette_blocks", "core-blue_cassette_blocks", "core-dream_blocks", "core-coins", "core-moving_platforms", "core-blue_clouds", "core-swap_blocks", "core-bumpers", "core-kevin_blocks", "core-badeline_boosters", "core-fire_ice_balls", "core-core_toggles", "core-core_blocks", "core-dash_refills" ]
+        ]
+    },
+    "map_items_9c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "core-icon", "core-traffic_blocks", "core-dream_blocks", "core-swap_blocks", "core-bumpers", "core-kevin_blocks", "core-pink_clouds", "core-core_toggles", "core-core_blocks", "core-dash_refills" ]
+        ]
+    },
+    "map_items_10a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "farewell-icon", "farewell-springs", "farewell-traffic_blocks", "farewell-blue_cassette_blocks", "farewell-pink_cassette_blocks", "farewell-dream_blocks", "farewell-coins", "farewell-blue_boosters", "farewell-blue_clouds", "farewell-move_blocks", "farewell-swap_blocks", "farewell-red_boosters", "farewell-feathers", "farewell-kevin_blocks" ],
+            [ "", "farewell-badeline_boosters", "farewell-fire_ice_balls", "farewell-core_blocks", "farewell-pufferfish", "farewell-jellyfish", "farewell-breaker_boxes", "farewell-dash_refills", "farewell-double_dash_refills", "farewell-yellow_cassette_blocks", "farewell-green_cassette_blocks", "farewell-dash_switches", "farewell-bird" ]
+        ]
+    }
+}

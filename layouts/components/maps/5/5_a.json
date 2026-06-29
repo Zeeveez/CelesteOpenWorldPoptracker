@@ -1,0 +1,102 @@
+{
+    "5_a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_5a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "5_a_0"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Depths",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_5a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "5_a_1"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Unravelling",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_5a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "5_a_2"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Search",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_5a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "5_a_3"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Rescue",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_5a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "5_a_4"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

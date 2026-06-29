@@ -1,0 +1,12 @@
+{
+    "tracker_items_10": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "farewell-icon", "farewell-traffic_blocks", "farewell-dash_refills", "farewell-springs", "farewell-dream_blocks", "farewell-coins", "farewell-blue_clouds", "farewell-move_blocks", "farewell-red_boosters", "farewell-swap_blocks", "farewell-dash_switches" ],
+            [ "", "farewell-badeline_boosters", "farewell-double_dash_refills", "farewell-pufferfish", "farewell-jellyfish", "farewell-breaker_boxes" ],
+        ]
+    }
+}

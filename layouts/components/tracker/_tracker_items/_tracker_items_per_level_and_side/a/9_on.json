@@ -1,0 +1,12 @@
+{
+    "tracker_items_a_9": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_size": "2,2",
+        "rows": [
+            [ "corea-icon", "corea-blue_cassette_blocks", "corea-pink_cassette_blocks", "", "", "", "corea-dash_refills", "corea-springs", "", "corea-coins" ],
+            [ "", "", "", "", "corea-feathers", "", "corea-bumpers", "corea-badeline_boosters", "corea-core_toggles", "corea-core_blocks", "corea-fire_ice_balls" ]
+        ]
+    }
+}

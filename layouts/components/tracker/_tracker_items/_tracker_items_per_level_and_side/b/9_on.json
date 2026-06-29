@@ -1,0 +1,12 @@
+{
+    "tracker_items_b_9": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_size": "2,2",
+        "rows": [
+            [ "coreb-icon", "coreb-blue_cassette_blocks", "coreb-pink_cassette_blocks", "", "", "coreb-traffic_blocks", "coreb-dash_refills", "coreb-springs", "coreb-dream_blocks", "coreb-coins", "coreb-moving_platforms", "", "coreb-blue_clouds" ],
+            [ "", "", "coreb-swap_blocks", "", "", "coreb-kevin_blocks", "coreb-bumpers", "coreb-badeline_boosters", "coreb-core_toggles", "coreb-core_blocks", "coreb-fire_ice_balls" ]
+        ]
+    }
+}

@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -17,13 +19,6 @@
                 "x": 23,
                 "y": 448,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_s0",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -37,6 +32,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -46,13 +43,6 @@
                 "x": 297,
                 "y": 277,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_s1",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -66,6 +56,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -75,13 +67,6 @@
                 "x": 640,
                 "y": 277,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_s2",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -95,6 +80,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -104,13 +91,6 @@
                 "x": 1072,
                 "y": 181,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_s3",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -124,6 +104,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -133,13 +115,6 @@
                 "x": 1373,
                 "y": 338,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_0x-a",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -153,6 +128,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -162,13 +139,6 @@
                 "x": 1648,
                 "y": 338,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_00-a",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -182,6 +152,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -191,13 +163,6 @@
                 "x": 2196,
                 "y": 338,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_02-a",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -211,6 +176,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -223,10 +190,10 @@
                 "shape": "diamond"
             },
             {
-                "map": "3_a_0_02-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
+                "map": "3_a_2",
+                "x": 339,
+                "y": 387,
+                "size": 38,
                 "shape": "diamond"
             }
         ]
@@ -240,6 +207,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -249,13 +218,6 @@
                 "x": 1922,
                 "y": 181,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_01-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -269,6 +231,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -278,13 +242,6 @@
                 "x": 1648,
                 "y": 181,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_00-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -298,6 +255,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -307,13 +266,6 @@
                 "x": 1648,
                 "y": 23,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_00-c",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -327,6 +279,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -336,13 +290,6 @@
                 "x": 1373,
                 "y": 181,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_0x-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -356,6 +303,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -365,13 +314,6 @@
                 "x": 2470,
                 "y": 338,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_03-a",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -385,6 +327,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -397,10 +341,10 @@
                 "shape": "diamond"
             },
             {
-                "map": "3_a_0_04-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
+                "map": "3_a_2",
+                "x": 979,
+                "y": 387,
+                "size": 38,
                 "shape": "diamond"
             }
         ]
@@ -414,6 +358,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -423,13 +369,6 @@
                 "x": 3019,
                 "y": 338,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_05-a",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -443,6 +382,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -452,13 +393,6 @@
                 "x": 3293,
                 "y": 338,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_06-a",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -472,6 +406,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -481,13 +417,6 @@
                 "x": 3567,
                 "y": 338,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_07-a",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -501,6 +430,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -510,13 +441,6 @@
                 "x": 3567,
                 "y": 181,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_07-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -530,6 +454,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -539,13 +465,6 @@
                 "x": 3293,
                 "y": 181,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_06-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -559,6 +478,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -568,13 +489,6 @@
                 "x": 3293,
                 "y": 23,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_06-c",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -588,6 +502,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -597,13 +513,6 @@
                 "x": 3019,
                 "y": 23,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_05-c",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -617,6 +526,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -626,13 +537,6 @@
                 "x": 3841,
                 "y": 23,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_08-c",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -646,6 +550,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -655,883 +561,6 @@
                 "x": 3841,
                 "y": 181,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_0_08-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 08-a",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 08-a"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 12,
-                "y": 564,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_08-a",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 09-b",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 09-b"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 332,
-                "y": 380,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_09-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 11-x",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 11-x"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 972,
-                "y": 748,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_11-x",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 11-y",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 11-y"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 972,
-                "y": 932,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_11-y",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 12-y",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 12-y"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 1292,
-                "y": 932,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_12-y",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 11-z",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 11-z"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 972,
-                "y": 1116,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_11-z",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 10-z",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 10-z"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 652,
-                "y": 1116,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_10-z",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 10-y",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 10-y"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 652,
-                "y": 932,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_10-y",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 10-x",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 10-x"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 652,
-                "y": 748,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_10-x",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 10-c",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 10-c"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 652,
-                "y": 196,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_10-c",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 11-c",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 11-c"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 972,
-                "y": 196,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_11-c",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 12-c",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 12-c"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 1292,
-                "y": 196,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_12-c",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 12-d",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 12-d"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 1292,
-                "y": 12,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_12-d",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 11-d",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 11-d"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 972,
-                "y": 12,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_11-d",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 10-d",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 10-d"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 652,
-                "y": 12,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_10-d",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 11-b",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 11-b"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 972,
-                "y": 380,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_11-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 12-b",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 12-b"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 1292,
-                "y": 380,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_12-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 13-b",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 13-b"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 1612,
-                "y": 380,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_13-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 13-a",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 13-a"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 1612,
-                "y": 564,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_13-a",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 13-x",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 13-x"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 1612,
-                "y": 748,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_13-x",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 12-x",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 12-x"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 1292,
-                "y": 748,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_12-x",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 11-a",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 11-a"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 972,
-                "y": 564,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_11-a",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 08-x",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 08-x"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_1",
-                "x": 12,
-                "y": 748,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_1_08-x",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 09-d",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 09-d"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_2",
-                "x": 2579,
-                "y": 19,
-                "size": 38,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_2_09-d",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 08-d",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 08-d"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_2",
-                "x": 2259,
-                "y": 19,
-                "size": 38,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_2_08-d",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 06-d",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 06-d"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_2",
-                "x": 1619,
-                "y": 19,
-                "size": 38,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_2_06-d",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 04-d",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 04-d"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_2",
-                "x": 979,
-                "y": 19,
-                "size": 38,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_2_04-d",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 04-c",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 04-c"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_2",
-                "x": 979,
-                "y": 203,
-                "size": 38,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_2_04-c",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 02-c",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 02-c"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_2",
-                "x": 339,
-                "y": 203,
-                "size": 38,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_2_02-c",
-                "x": 10,
-                "y": 10,
-                "size": 20,
-                "shape": "diamond"
-            }
-        ]
-    },
-    {
-        "name": "Celestial Resort A - Room 03-b",
-        "sections": [
-            {
-                "access_rules": [
-                    "^$CanAccess|Celestial Resort A - Room 03-b"
-                ]
-            }
-        ],
-        "visibility_rules": [
-            "roomsanity"
-        ],
-        "map_locations": [
-            {
-                "map": "3_a_2",
-                "x": 659,
-                "y": 387,
-                "size": 38,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_2_03-b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -1545,22 +574,744 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
         "map_locations": [
+            {
+                "map": "3_a_0",
+                "x": 1914,
+                "y": 23,
+                "size": 54,
+                "shape": "diamond"
+            },
             {
                 "map": "3_a_2",
                 "x": 19,
                 "y": 203,
                 "size": 38,
                 "shape": "diamond"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 08-a",
+        "sections": [
             {
-                "map": "3_a_2_01-c",
-                "x": 10,
-                "y": 10,
-                "size": 20,
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 08-a"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 12,
+                "y": 564,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 09-b",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 09-b"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 332,
+                "y": 380,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-x",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 11-x"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 972,
+                "y": 748,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-y",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 11-y"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 972,
+                "y": 932,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-y",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 12-y"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 1292,
+                "y": 932,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-z",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 11-z"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 972,
+                "y": 1116,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 10-z",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 10-z"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 652,
+                "y": 1116,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 10-y",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 10-y"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 652,
+                "y": 932,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 10-x",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 10-x"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 652,
+                "y": 748,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 10-c",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 10-c"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 652,
+                "y": 196,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-c",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 11-c"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 972,
+                "y": 196,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-c",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 12-c"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 1292,
+                "y": 196,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-d",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 12-d"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 1292,
+                "y": 12,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-d",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 11-d"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 972,
+                "y": 12,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 10-d",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 10-d"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 652,
+                "y": 12,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-b",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 11-b"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 972,
+                "y": 380,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-b",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 12-b"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 1292,
+                "y": 380,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 13-b",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 13-b"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 1612,
+                "y": 380,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 13-a",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 13-a"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 1612,
+                "y": 564,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 13-x",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 13-x"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 1612,
+                "y": 748,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 12-x",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 12-x"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 1292,
+                "y": 748,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 11-a",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 11-a"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 972,
+                "y": 564,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 08-x",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 08-x"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_1",
+                "x": 12,
+                "y": 748,
+                "size": 25,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 09-d",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 09-d"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_2",
+                "x": 2579,
+                "y": 19,
+                "size": 38,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 08-d",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 08-d"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_2",
+                "x": 2259,
+                "y": 19,
+                "size": 38,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 06-d",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 06-d"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_2",
+                "x": 1619,
+                "y": 19,
+                "size": 38,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 04-d",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 04-d"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_2",
+                "x": 979,
+                "y": 19,
+                "size": 38,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 04-c",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 04-c"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_2",
+                "x": 979,
+                "y": 203,
+                "size": 38,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 02-c",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 02-c"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_2",
+                "x": 339,
+                "y": 203,
+                "size": 38,
+                "shape": "diamond"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Resort A - Room 03-b",
+        "sections": [
+            {
+                "access_rules": [
+                    "^$CanAccess|Celestial Resort A - Room 03-b"
+                ]
+            }
+        ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
+        "visibility_rules": [
+            "roomsanity"
+        ],
+        "map_locations": [
+            {
+                "map": "3_a_2",
+                "x": 659,
+                "y": 387,
+                "size": 38,
                 "shape": "diamond"
             }
         ]
@@ -1574,6 +1325,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -1583,13 +1336,6 @@
                 "x": 19,
                 "y": 19,
                 "size": 38,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_2_02-d",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -1603,6 +1349,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -1612,13 +1360,6 @@
                 "x": 16,
                 "y": 124,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_3_00-d",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -1632,6 +1373,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -1641,13 +1384,6 @@
                 "x": 16,
                 "y": 16,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_3_roof00",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -1661,6 +1397,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -1670,13 +1408,6 @@
                 "x": 492,
                 "y": 16,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_3_roof01",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -1690,6 +1421,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -1699,13 +1432,6 @@
                 "x": 738,
                 "y": 16,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_3_roof02",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -1719,6 +1445,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -1728,13 +1456,6 @@
                 "x": 1011,
                 "y": 16,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_3_roof03",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -1748,6 +1469,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -1757,13 +1480,6 @@
                 "x": 1587,
                 "y": 16,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_3_roof04",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -1777,6 +1493,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -1786,13 +1504,6 @@
                 "x": 1785,
                 "y": 16,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_3_roof05",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -1806,6 +1517,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -1815,13 +1528,6 @@
                 "x": 2267,
                 "y": 16,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_3_roof06b",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]
@@ -1835,6 +1541,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -1844,13 +1552,6 @@
                 "x": 2625,
                 "y": 16,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_3_roof06",
-                "x": 13,
-                "y": 13,
-                "size": 27,
                 "shape": "diamond"
             }
         ]
@@ -1864,6 +1565,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
             "roomsanity"
         ],
@@ -1873,13 +1576,6 @@
                 "x": 3824,
                 "y": 16,
                 "size": 54,
-                "shape": "diamond"
-            },
-            {
-                "map": "3_a_3_roof07",
-                "x": 10,
-                "y": 10,
-                "size": 20,
                 "shape": "diamond"
             }
         ]

@@ -1,435 +1,157 @@
 from,to,access,notes,custom
 Epilogue - Room outside,Epilogue - Level Clear,,"Go Mode",0
-Farewell - Crystal Heart?,Farewell - Room f-door_west,"include_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two",0
-Farewell - Crystal Heart?,Farewell - Room f-door_west,"goal_area_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two",0
-Farewell - Crystal Heart?,Farewell - Room f-door_west,"goal_area_farewell_golden","Source puts post Crystal Heart? as Farewell B, hack in connection between the two",0
-Farewell - Level Clear,Farewell - Room end-golden_bottom,"traffic_blocks,dash_refills,double_dash_refills,dream_blocks,swap_blocks,move_blocks,blue_boosters,springs,feathers,coins,red_boosters,kevin_blocks,core_blocks,fire_ice_balls,badeline_boosters,bird,breaker_boxes,pufferfish,jellyfish,pink_cassette_blocks,blue_cassette_blocks,yellow_cassette_blocks,green_cassette_blocks,farewell-powersourcekey1,farewell-powersourcekey2,farewell-powersourcekey3,farewell-powersourcekey4,farewell-powersourcekey5","Source puts golden room as Farewell C, hack in connection between the two",0
-Forsaken City A - Room 2_west,Forsaken City A - Room 2 Strawberry,,,1
-Forsaken City A - Room 4_west,Forsaken City A - Room 4_east,,,1
-Forsaken City A - Room 5_bottom,Forsaken City A - Room 5_north-west,,,1
-Forsaken City A - Room 5_north-east,Forsaken City A - Room 5_top,,,1
-Forsaken City A - Room 5z_east,Forsaken City A - Room 5z Strawberry,,,1
-Forsaken City A - Room 5a_west,Forsaken City A - Room 5a Strawberry,,,1
-Forsaken City A - Room 6_west,Forsaken City A - Room 6_east,,,1
-Forsaken City A - Room 6_east,Forsaken City A - Room 6_west,,,1
-Forsaken City A - Room 6z_east,Forsaken City A - Room 6z_west,,,1
-Forsaken City A - Room 7zb_west,Forsaken City A - Room 7zb_east,,,1
-Forsaken City A - Room 7zb_east,Forsaken City A - Room 7zb_west,,,1
-Forsaken City A - Room 6a_west,Forsaken City A - Room 6a_east,,,1
-Forsaken City A - Room 6b_south-west,Forsaken City A - Room 6b_north-west,,,1
-Forsaken City A - Room 6b_south-west,Forsaken City A - Room 6b_north-east,,,1
-Forsaken City A - Room 6c_south-west,Forsaken City A - Room 6c_north-west,,,1
-Forsaken City A - Room 6c_south-west,Forsaken City A - Room 6c_north-east,,,1
-Forsaken City A - Room 7z_bottom,Forsaken City A - Room 7z Strawberry,,,1
-Forsaken City A - Room 8z_bottom,Forsaken City A - Room 8z_top,,,1
-Forsaken City A - Room 8zb_west,Forsaken City A - Room 8zb_east,,,1
-Forsaken City A - Room 8zb_west,Forsaken City A - Room 8zb Strawberry,,,1
-Forsaken City A - Room 8zb_east,Forsaken City A - Room 8zb_west,,,1
-Forsaken City A - Room 7a_east,Forsaken City A - Room 7a Strawberry,,,1
-Forsaken City A - Room 9z_east,Forsaken City A - Room 9z Strawberry,,,1
-Forsaken City A - Room 8b_east,Forsaken City A - Room 8b Strawberry,,,1
-Forsaken City A - Room 8b_west,Forsaken City A - Room 8b_east,,,1
-Forsaken City A - Room 9_east,Forsaken City A - Room 9_west,,,1
-Forsaken City A - Room 9_west,Forsaken City A - Room 9_east,,,1
-Forsaken City A - Room 9_west,Forsaken City A - Room 9 Strawberry,,,1
-Forsaken City A - Room 9b_west,Forsaken City A - Room 9b_east,,,1
-Forsaken City A - Room 9b_west,Forsaken City A - Room 9b_north-west,,,1
-Forsaken City A - Room 9c_west,Forsaken City A - Room 9c Strawberry,,,1
-Forsaken City A - Room 10z_east,Forsaken City A - Room 10z_west,,,1
-Forsaken City A - Room 11_south-east,Forsaken City A - Room 11_north,,,1
-Forsaken City A - Room 11_south-west,Forsaken City A - Room 11_south,,,1
-Forsaken City A - Room 11z_east,Forsaken City A - Cassette,,,1
-Forsaken City A - Room 10a_bottom,Forsaken City A - Room 10a_top,,,1
-Forsaken City A - Room 10a_top,Forsaken City A - Room 10a_bottom,,,1
-Forsaken City A - Room 12z_east,Forsaken City A - Room 12z Strawberry,,,1
-Forsaken City A - Room 12a_bottom,Forsaken City A - Room 12a_top,,,1
-Forsaken City A - Room end_main,Forsaken City A - Golden Strawberry,,,1
-Forsaken City B - Room 01_west,Forsaken City B - Room 01_east,,,1
-Forsaken City B - Room 02_west,Forsaken City B - Room 02_east,,,1
-Forsaken City B - Room 02b_west,Forsaken City B - Room 02b_east,,,1
-Forsaken City B - Room 03_west,Forsaken City B - Room 03_east,"traffic_blocks",,1
-Forsaken City B - Room 04_west,Forsaken City B - Room 04_east,,,1
-Forsaken City B - Room 05b_west,Forsaken City B - Room 05b_east,"dash_refills",,1
-Forsaken City B - Room 06_west,Forsaken City B - Room 06_east,"springs",,1
-Forsaken City B - Room 06_west,Forsaken City B - Room 06_east,"dash_refills",,1
-Forsaken City B - Room 08b_west,Forsaken City B - Room 08b_east,"traffic_blocks",,1
-Forsaken City B - Room 09_west,Forsaken City B - Room 09_east,,,1
-Forsaken City B - Room 10_west,Forsaken City B - Room 10_east,"traffic_blocks",,1
-Forsaken City B - Room 11_bottom,Forsaken City B - Room 11_top,"traffic_blocks",,1
-Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"blue_cassette_blocks",,1
-Forsaken City B - Room end_west,Forsaken City B - Room end_goal,"pink_cassette_blocks",,1
-Forsaken City C - Room 02_west,Forsaken City C - Room 02_goal,"traffic_blocks",,1
-Old Site A - Room 0_south-east,Old Site A - Room 0_north-west,,,1
-Old Site A - Room d0_east,Old Site A - Room d0_west,,,1
-Old Site A - Room d0_north-west,Old Site A - Room d0_north-east,,,1
-Old Site A - Room d0_north-east,Old Site A - Room d0 Strawberry,,,1
-Old Site A - Room d7_west,Old Site A - Room d7_east,,,1
-Old Site A - Room d7_east,Old Site A - Room d7_west,,,1
-Old Site A - Room d8_west,Old Site A - Room d8_south-east,,,1
-Old Site A - Room d8_south-east,Old Site A - Room d8_west,,,1
-Old Site A - Room d9_north-west,Old Site A - Cassette,"dream_blocks,pink_cassette_blocks",,1
-Old Site A - Room d9_north-west,Old Site A - Cassette,"dream_blocks,blue_cassette_blocks",,1
-Old Site A - Room d6_east,Old Site A - Room d6_west,,,1
-Old Site A - Room d4_west,Old Site A - Room d4 Strawberry,,,1
-Old Site A - Room 8_bottom,Old Site A - Room 8 Strawberry,,,1
-Old Site A - Room 9_west,Old Site A - Room 9_north,,,1
-Old Site A - Room 9_north,Old Site A - Room 9_south,,,1
-Old Site A - Room 9_north,Old Site A - Room 9_west,,,1
-Old Site A - Room 9_south,Old Site A - Room 9 Strawberry,,,1
-Old Site A - Room 10_top,Old Site A - Room 10_bottom,"dream_blocks,coins",,1
-Old Site A - Room end_3b_west,Old Site A - Room end_3b_north,,,1
-Old Site B - Room 01b_west,Old Site B - Room 01b_east,,,1
-Old Site B - Room 01b_east,Old Site B - Room 01b_west,,,1
-Old Site B - Room 02b_west,Old Site B - Room 02b_east,"dream_blocks",,1
-Old Site B - Room 04_bottom,Old Site B - Room 04_top,"dream_blocks",,1
-Old Site B - Room 05_bottom,Old Site B - Room 05_top,"dream_blocks",,1
-Old Site B - Room 07_bottom,Old Site B - Room 07_top,"dream_blocks",,1
-Old Site B - Room 08b_west,Old Site B - Room 08b_east,"dream_blocks",,1
-Old Site B - Room 08_west,Old Site B - Room 08_east,"dream_blocks",,1
-Old Site B - Room 11_bottom,Old Site B - Room 11_top,"dream_blocks",,1
-Old Site C - Room 02_west,Old Site C - Room 02_goal,"dream_blocks,dash_refills",,1
-Celestial Resort A - Room 02-a_west,Celestial Resort A - Room 02-a_main,,,1
-Celestial Resort A - Room 02-a_top,Celestial Resort A - Room 02-a_west,,,1
-Celestial Resort A - Room 02-a_top,Celestial Resort A - Room 02-a_main,,,1
-Celestial Resort A - Room 02-a_main,Celestial Resort A - Room 02-a_top,,,1
-Celestial Resort A - Room 01-b_east,Celestial Resort A - Room 01-b_north-west,,,1
-Celestial Resort A - Room 00-c_south-east,Celestial Resort A - Room 00-c_south-west,,,1
-Celestial Resort A - Room 0x-b_north-east,Celestial Resort A - Room 0x-b_west,,,1
-Celestial Resort A - Room 03-a_west,Celestial Resort A - Room 03-a_east,,,1
-Celestial Resort A - Room 05-a_west,Celestial Resort A - Room 05-a_east,,,1
-Celestial Resort A - Room 05-a_east,Celestial Resort A - Room 05-a_west,,,1
-Celestial Resort A - Room 07-a_west,Celestial Resort A - Room 07-a_east,"celestialresorta-hallwaykey2",,1
-Celestial Resort A - Room 07-a_east,Celestial Resort A - Room 07-a_west,"celestialresorta-hallwaykey2",,1
-Celestial Resort A - Room 08-c_west,Celestial Resort A - Room 08-c_east,"coins",,1
-Celestial Resort A - Room 08-b_east,Celestial Resort A - Room 08-b_west,"sinking_platforms",,1
-Celestial Resort A - Room 11-z_west,Celestial Resort A - Room 11-z_east,,,1
-Celestial Resort A - Room 11-z_east,Celestial Resort A - Room 11-z_west,,,1
-Celestial Resort A - Room 10-z_bottom,Celestial Resort A - Room 10-z_top,,,1
-Celestial Resort A - Room 08-d_east,Celestial Resort A - Room 08-d_west,"coins",,1
-Celestial Resort A - Room 06-d_east,Celestial Resort A - Room 06-d_west,,,1
-Celestial Resort A - Room 04-d_south,Celestial Resort A - Room 04-d_south-west,,,1
-Celestial Resort A - Room 03-b_west,Celestial Resort A - Room 03-b Strawberry 2,,,1
-Celestial Resort A - Room 01-c_east,Celestial Resort A - Cassette,"blue_cassette_blocks",,1
-Celestial Resort A - Room 01-c_east,Celestial Resort A - Cassette,"pink_cassette_blocks",,1
-Celestial Resort A - Room roof01_west,Celestial Resort A - Room roof01_east,,,1
-Celestial Resort A - Room roof03_west,Celestial Resort A - Room roof03_east,"coins",,1
-Celestial Resort A - Room roof05_west,Celestial Resort A - Room roof05_east,,,1
-Celestial Resort B - Room 01_west,Celestial Resort B - Room 01_east,,,1
-Celestial Resort B - Room 03_west,Celestial Resort B - Room 03_east,,,1
-Celestial Resort B - Room 03_east,Celestial Resort B - Room 03_west,,,1
-Celestial Resort B - Room 04_west,Celestial Resort B - Room 04_east,,,1
-Celestial Resort B - Room 04_east,Celestial Resort B - Room 04_west,,,1
-Celestial Resort B - Room 05_west,Celestial Resort B - Room 05_east,"moving_platforms,coins",,1
-Celestial Resort B - Room 05_west,Celestial Resort B - Room 05_east,"springs,coins",,1
-Celestial Resort B - Room 08_bottom,Celestial Resort B - Room 08_top,,,1
-Celestial Resort B - Room 10_west,Celestial Resort B - Room 10_east,,,1
-Celestial Resort B - Room 11_west,Celestial Resort B - Room 11_east,,,1
-Celestial Resort B - Room 11_east,Celestial Resort B - Room 11_west,,,1
-Celestial Resort B - Room 13_west,Celestial Resort B - Room 13_east,,,1
-Celestial Resort B - Room 13_east,Celestial Resort B - Room 13_west,,,1
-Celestial Resort B - Room 12_west,Celestial Resort B - Room 12_east,,,1
-Celestial Resort B - Room 17_west,Celestial Resort B - Room 17_east,,,1
-Celestial Resort B - Room 19_west,Celestial Resort B - Room 19_east,,,1
-Celestial Resort B - Room 20_west,Celestial Resort B - Room 20_east,"coins",,1
-Celestial Resort B - Room end_west,Celestial Resort B - Room end_goal,,,1
-Celestial Resort C - Room 02_west,Celestial Resort C - Room 02_goal,"coins",,1
-Golden Ridge A - Room a-00_west,Golden Ridge A - Room a-00_east,,,1
-Golden Ridge A - Room a-01_west,Golden Ridge A - Room a-01_east,,,1
-Golden Ridge A - Room a-01x_west,Golden Ridge A - Room a-01x_east,,,1
-Golden Ridge A - Room a-01x_east,Golden Ridge A - Room a-01x_west,,,1
-Golden Ridge A - Room a-04_west,Golden Ridge A - Room a-04_east,,,1
-Golden Ridge A - Room a-04_east,Golden Ridge A - Room a-04_west,,,1
-Golden Ridge A - Room a-05_west,Golden Ridge A - Room a-05_east,,,1
-Golden Ridge A - Room a-05_east,Golden Ridge A - Room a-05_west,,,1
-Golden Ridge A - Room a-08_west,Golden Ridge A - Room a-08_north-west,,,1
-Golden Ridge A - Room a-10_east,Golden Ridge A - Room a-10 Strawberry,"strawberry_seeds",,1
-Golden Ridge A - Room a-11_east,Golden Ridge A - Cassette,"blue_cassette_blocks",,1
-Golden Ridge A - Room b-00_south,Golden Ridge A - Room b-00_west,,,1
-Golden Ridge A - Room b-00_south,Golden Ridge A - Room b-00_east,,,1
-Golden Ridge A - Room b-00_south,Golden Ridge A - Room b-00_north-east,,,1
-Golden Ridge A - Room b-01_west,Golden Ridge A - Room b-01 Strawberry 1,,,1
-Golden Ridge A - Room b-01_west,Golden Ridge A - Room b-01 Strawberry 2,,,1
-Golden Ridge A - Room b-04_east,Golden Ridge A - Room b-04_west,,,1
-Golden Ridge A - Room b-06_east,Golden Ridge A - Room b-06_west,"blue_boosters",,1
-Golden Ridge A - Room b-06_east,Golden Ridge A - Room b-06_west,"move_blocks",,1
-Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07_east,,,1
-Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07 Strawberry,,,1
-Golden Ridge A - Room b-03_west,Golden Ridge A - Room b-03 Strawberry,,,1
-Golden Ridge A - Room b-02_south-west,Golden Ridge A - Room b-02 Strawberry 1,,,1
-Golden Ridge A - Room b-sec_west,Golden Ridge A - Crystal Heart,,,1
-Golden Ridge A - Room b-05_center,Golden Ridge A - Room b-05_west,,,1
-Golden Ridge A - Room b-05_east,Golden Ridge A - Room b-05_north-east,,,1
-Golden Ridge A - Room b-08b_west,Golden Ridge A - Room b-08b_east,,,1
-Golden Ridge A - Room b-08b_east,Golden Ridge A - Room b-08b_west,,,1
-Golden Ridge A - Room b-08_west,Golden Ridge A - Room b-08_east,,,1
-Golden Ridge A - Room b-08_west,Golden Ridge A - Room b-08 Strawberry,,,1
-Golden Ridge A - Room c-00_west,Golden Ridge A - Room c-00_east,,,1
-Golden Ridge A - Room c-00_east,Golden Ridge A - Room c-00_west,,,1
-Golden Ridge A - Room c-05_west,Golden Ridge A - Room c-05_east,,,1
-Golden Ridge A - Room c-06_bottom,Golden Ridge A - Room c-06_west,,,1
-Golden Ridge A - Room c-06_west,Golden Ridge A - Room c-06_top,,,1
-Golden Ridge A - Room c-06_west,Golden Ridge A - Room c-06 Strawberry,,,1
-Golden Ridge A - Room c-06b_east,Golden Ridge A - Room c-06b Strawberry,,,1
-Golden Ridge A - Room c-09_west,Golden Ridge A - Room c-09_east,,,1
-Golden Ridge A - Room d-00b_east,Golden Ridge A - Room d-00b Strawberry,"blue_boosters",,1
-Golden Ridge A - Room d-06_west,Golden Ridge A - Room d-06_east,,,1
-Golden Ridge A - Room d-07_west,Golden Ridge A - Room d-07 Strawberry,,,1
-Golden Ridge A - Room d-08_west,Golden Ridge A - Room d-08_east,"blue_boosters",,1
-Golden Ridge B - Room a-03_west,Golden Ridge B - Room a-03_east,"move_blocks,blue_boosters",,1
-Golden Ridge B - Room b-00_west,Golden Ridge B - Room b-00_east,,,1
-Golden Ridge B - Room b-02_bottom,Golden Ridge B - Room b-02_top,"move_blocks",,1
-Golden Ridge B - Room b-03_west,Golden Ridge B - Room b-03_east,"coins,moving_platforms",,1
-Golden Ridge B - Room b-03_west,Golden Ridge B - Room b-03_east,"coins,blue_boosters",,1
-Golden Ridge B - Room c-03_bottom,Golden Ridge B - Room c-03_top,"move_blocks",,1
-Golden Ridge B - Room d-02_west,Golden Ridge B - Room d-02_east,"blue_boosters,coins",,1
-Golden Ridge B - Room end_west,Golden Ridge B - Room end_goal,"blue_boosters,pink_cassette_blocks,blue_cassette_blocks",,1
-Golden Ridge C - Room 02_west,Golden Ridge C - Room 02_goal,"blue_boosters",,1
-Mirror Temple A - Room a-00_west,Mirror Temple A - Room a-00_east,"swap_blocks,dash_switches",,1
-Mirror Temple A - Room a-02_west,Mirror Temple A - Room a-02 Strawberry,,,1
-Mirror Temple A - Room a-04_east,Mirror Temple A - Room a-04 Strawberry,,,1
-Mirror Temple A - Room a-05_center,Mirror Temple A - Room a-05_south-west,,,1
-Mirror Temple A - Room a-05_center,Mirror Temple A - Room a-05_south-east,,,1
-Mirror Temple A - Room a-07_east,Mirror Temple A - Room a-07 Strawberry,,,1
-Mirror Temple A - Room a-08_center,Mirror Temple A - Room a-08_north-east,"swap_blocks",,1
-Mirror Temple A - Room a-08_center,Mirror Temple A - Room a-08_north-east,"red_boosters",,1
-Mirror Temple A - Room a-10_east,Mirror Temple A - Room a-10_west,,,1
-Mirror Temple A - Room a-09_west,Mirror Temple A - Room a-09_east,,,1
-Mirror Temple A - Room a-09_east,Mirror Temple A - Room a-09_west,,,1
-Mirror Temple A - Room a-11_east,Mirror Temple A - Room a-11 Strawberry,"swap_blocks",,1
-Mirror Temple A - Room a-15_south,Mirror Temple A - Room a-15 Strawberry,"coins",,1
-Mirror Temple A - Room a-14_south,Mirror Temple A - Room a-14 Strawberry,,,1
-Mirror Temple A - Room b-01_center,Mirror Temple A - Room b-01_west,,,1
-Mirror Temple A - Room b-01_center,Mirror Temple A - Room b-01_east,,,1
-Mirror Temple A - Room b-01_west,Mirror Temple A - Room b-01_center,,,1
-Mirror Temple A - Room b-01c_west,Mirror Temple A - Room b-01c_east,,,1
-Mirror Temple A - Room b-21_east,Mirror Temple A - Room b-21 Strawberry,"red_boosters",,1
-Mirror Temple A - Room b-01b_west,Mirror Temple A - Room b-01b_east,,,1
-Mirror Temple A - Room b-01b_east,Mirror Temple A - Room b-01b_west,,,1
-Mirror Temple A - Room b-02_center,Mirror Temple A - Room b-02_north-west,,,1
-Mirror Temple A - Room b-02_center,Mirror Temple A - Room b-02_north-east,,,1
-Mirror Temple A - Room b-02_center,Mirror Temple A - Room b-02_east-lower,,,1
-Mirror Temple A - Room b-07_south,Mirror Temple A - Room b-07_north,,,1
-Mirror Temple A - Room b-08_west,Mirror Temple A - Room b-08_east,,,1
-Mirror Temple A - Room b-08_east,Mirror Temple A - Room b-08_west,,,1
-Mirror Temple A - Room b-09_north,Mirror Temple A - Room b-09_south,"red_boosters",,1
-Mirror Temple A - Room b-12_east,Mirror Temple A - Room b-12 Strawberry,,,1
-Mirror Temple A - Room b-13_west,Mirror Temple A - Room b-13_north-east,,,1
-Mirror Temple A - Room b-13_west,Mirror Temple A - Room b-13_east,"dash_switches",,1
-Mirror Temple A - Room b-17_west,Mirror Temple A - Room b-17 Strawberry 2,"strawberry_seeds",,1
-Mirror Temple A - Room b-22_west,Mirror Temple A - Cassette,,,1
-Mirror Temple A - Room b-06_west,Mirror Temple A - Room b-06_north-east,,,1
-Mirror Temple A - Room b-19_west,Mirror Temple A - Room b-19_east,"red_boosters",,1
-Mirror Temple A - Room b-15_west,Mirror Temple A - Crystal Heart,,,1
-Mirror Temple A - Room c-01b_west,Mirror Temple A - Room c-01b_east,"swap_blocks",,1
-Mirror Temple A - Room c-01b_west,Mirror Temple A - Room c-01b_east,"red_boosters",,1
-Mirror Temple A - Room c-01c_west,Mirror Temple A - Room c-01c_east,"red_boosters",,1
-Mirror Temple A - Room d-02_east,Mirror Temple A - Room d-02_west,,,1
-Mirror Temple A - Room d-03_east,Mirror Temple A - Room d-03_west,"coins",,1
-Mirror Temple A - Room d-04_east,Mirror Temple A - Room d-04_west,,,1
-Mirror Temple A - Room d-04_south-east,Mirror Temple A - Room d-04 Strawberry 2,,,1
-Mirror Temple A - Room d-05_north,Mirror Temple A - Room d-05_west,,,1
-Mirror Temple A - Room d-06_south-west,Mirror Temple A - Room d-06_north-west,,,1
-Mirror Temple A - Room d-09_east,Mirror Temple A - Room d-09_west,,,1
-Mirror Temple A - Room d-10_west,Mirror Temple A - Room d-10_east,,,1
-Mirror Temple A - Room d-15_center,Mirror Temple A - Room d-15 Strawberry 2,"dash_refills",,1
-Mirror Temple A - Room d-19_east,Mirror Temple A - Room d-19_west,,,1
-Mirror Temple A - Room e-01_west,Mirror Temple A - Room e-01_east,"theo_crystal",,1
-Mirror Temple A - Room e-06_west,Mirror Temple A - Room e-06_east,"theo_crystal,dash_switches",,1
-Mirror Temple A - Room e-05_west,Mirror Temple A - Room e-05_east,"theo_crystal,coins",,1
-Mirror Temple A - Room e-09_west,Mirror Temple A - Room e-09_east,"theo_crystal",,1
-Mirror Temple A - Room e-10_west,Mirror Temple A - Room e-10_east,"theo_crystal",,1
-Mirror Temple B - Room a-00_west,Mirror Temple B - Room a-00_east,"dash_switches",,1
-Mirror Temple B - Room b-04_east,Mirror Temple B - Room b-04_west,"swap_blocks",,1
-Mirror Temple B - Room b-02_center,Mirror Temple B - Room b-02_north,,,1
-Mirror Temple B - Room b-05_north,Mirror Temple B - Room b-05_south,"swap_blocks,coins",,1
-Mirror Temple B - Room b-03_main,Mirror Temple B - Room b-03_north,"red_boosters",,1
-Mirror Temple B - Room b-06_east,Mirror Temple B - Room b-01_north,"red_boosters,mirrortempleb-centralchamberkey2",,1
-Mirror Temple B - Room b-08_east,Mirror Temple B - Room b-08_north,"dash_switches,swap_blocks,springs",,1
-Mirror Temple B - Room c-00_mirror,Mirror Temple B - Room c-00_bottom,,,1
-Mirror Temple B - Room c-01_west,Mirror Temple B - Room c-01_east,"coins",,1
-Mirror Temple B - Room c-02_west,Mirror Temple B - Room c-02_east,"dash_switches,dash_refills",,1
-Mirror Temple B - Room c-03_west,Mirror Temple B - Room c-03_east,"seekers",,1
-Mirror Temple B - Room c-04_west,Mirror Temple B - Room c-04_east,,,1
-Mirror Temple B - Room d-01_west,Mirror Temple B - Room d-01_east,"theo_crystal,dash_switches",,1
-Mirror Temple B - Room d-02_west,Mirror Temple B - Room d-02_east,"theo_crystal,dash_switches",,1
-Reflection A - Room 00_east,Reflection A - Room 00_west,,,1
-Reflection A - Room 04_south,Reflection A - Room 04_east,,,1
-Reflection A - Room 04_east,Reflection A - Room 04_north-west,,,1
-Reflection A - Room 04e_east,Reflection A - Cassette,"pink_cassette_blocks,dash_refills",,1
-Reflection A - Room 04e_east,Reflection A - Cassette,"kevin_blocks",,1
-Reflection A - Room 08a_west,Reflection A - Room 08a_east,"kevin_blocks",,1
-Reflection A - Room 08a_west,Reflection A - Room 08a_east,"dash_refills",,1
-Reflection A - Room 08b_west,Reflection A - Room 08b_east,"kevin_blocks",,1
-Reflection A - Room 08b_west,Reflection A - Room 08b_east,"feathers",,1
-Reflection A - Room 10a_west,Reflection A - Room 10a_east,,,1
-Reflection A - Room 10b_west,Reflection A - Room 10b_east,,,1
-Reflection A - Room 11_north-west,Reflection A - Room 11_north-east,,,1
-Reflection A - Room 12b_west,Reflection A - Room 12b_east,"kevin_blocks",,1
-Reflection A - Room 12b_west,Reflection A - Room 12b_east,"bumpers",,1
-Reflection A - Room 12b_east,Reflection A - Room 12b_west,,,1
-Reflection A - Room 14a_west,Reflection A - Room 14a_east,"bumpers",,1
-Reflection A - Room 14b_west,Reflection A - Room 14b_east,"coins,bumpers",,1
-Reflection A - Room 17_north-west,Reflection A - Room 17_north-east,,,1
-Reflection A - Room 17_north-east,Reflection A - Room 17_north-west,,,1
-Reflection A - Room 20_east,Reflection A - Room 20_west,"feathers,bumpers",,1
-Reflection A - Room boss-02_west,Reflection A - Room boss-02_east,,,1
-Reflection A - Room boss-05_west,Reflection A - Room boss-05_east,,,1
-Reflection A - Room boss-07_west,Reflection A - Room boss-07_east,,,1
-Reflection A - Room boss-07_east,Reflection A - Room boss-07_west,,,1
-Reflection A - Room boss-08_west,Reflection A - Room boss-08_east,,,1
-Reflection A - Room boss-10_west,Reflection A - Room boss-10_east,,,1
-Reflection A - Room boss-11_west,Reflection A - Room boss-11_east,,,1
-Reflection A - Room boss-12_west,Reflection A - Room boss-12_east,,,1
-Reflection A - Room boss-18_west,Reflection A - Room boss-18_east,"feathers",,1
-Reflection A - Room boss-19_west,Reflection A - Room boss-19_east,"feathers",,1
-Reflection A - Room after-01_bottom,Reflection A - Room after-01_goal,,,1
-Reflection B - Room a-03_west,Reflection B - Room a-03_east,"kevin_blocks,coins,feathers",,1
-Reflection B - Room c-00_west,Reflection B - Room c-00_east,,,1
-Reflection B - Room c-04_west,Reflection B - Room c-04_east,"dash_refills,feathers",,1
-Reflection B - Room d-01_west,Reflection B - Room d-01_east,,,1
-Reflection B - Room d-02_west,Reflection B - Room d-02_east,"bumpers,feathers",,1
-The Summit A - Room a-01_west,The Summit A - Room a-01_east,,,1
-The Summit A - Room a-01_east,The Summit A - Room a-01_east,,,1
-The Summit A - Room a-02_west,The Summit A - Room a-02_north,,,1
-The Summit A - Room a-02_west,The Summit A - Room a-02_east,,,1
-The Summit A - Room a-04_west,The Summit A - Room a-04_east,,,1
-The Summit A - Room a-04b_east,The Summit A - Room a-04b Strawberry 1,"dash_refills",,1
-The Summit A - Room a-04b_east,The Summit A - Room a-04b Strawberry 1,"springs",,1
-The Summit A - Room a-04b_east,The Summit A - Room a-04b Strawberry 2,,,1
-The Summit A - Room a-05_west,The Summit A - Room a-05_east,,,1
-The Summit A - Room a-05_west,The Summit A - Room a-05 Strawberry,,,1
-The Summit A - Room a-05_east,The Summit A - Room a-05_west,,,1
-The Summit A - Room b-00_bottom,The Summit A - Room b-00_top,,,1
-The Summit A - Room b-01_west,The Summit A - Room b-01_east,,,1
-The Summit A - Room b-02_south,The Summit A - Room b-02_north-west,"dash_refills",,1
-The Summit A - Room b-02_south,The Summit A - Room b-02_north-east,,,1
-The Summit A - Room b-02_south,The Summit A - Room b-02 Strawberry,,,1
-The Summit A - Room b-02b_south,The Summit A - Room b-02b_north-west,,,1
-The Summit A - Room b-02b_south,The Summit A - Room b-02b_north-east,,,1
-The Summit A - Room b-02e_east,The Summit A - Room b-02e Strawberry,,,1
-The Summit A - Room b-02c_west,The Summit A - Room b-02c_east,,,1
-The Summit A - Room b-02c_east,The Summit A - Room b-02c_west,,,1
-The Summit A - Room b-02d_north,The Summit A - Room b-02d_south,,,1
-The Summit A - Room b-02d_south,The Summit A - Room b-02d_north,,,1
-The Summit A - Room b-03_east,The Summit A - Room b-03_north,,,1
-The Summit A - Room b-04_west,The Summit A - Room b-04 Strawberry,,,1
-The Summit A - Room b-05_west,The Summit A - Room b-05_east,"coins",,1
-The Summit A - Room b-06_west,The Summit A - Room b-06_east,,,1
-The Summit A - Room b-07_west,The Summit A - Room b-07_east,,,1
-The Summit A - Room c-02_bottom,The Summit A - Room c-02_top,"springs,coins",,1
-The Summit A - Room c-02_bottom,The Summit A - Room c-02_top,"dream_blocks,coins",,1
-The Summit A - Room c-03b_east,The Summit A - Room c-03b Strawberry,"dream_blocks",,1
-The Summit A - Room c-06_south,The Summit A - Room c-06_north,,,1
-The Summit A - Room c-07b_east,The Summit A - Room c-07b Strawberry,,,1
-The Summit A - Room c-08_west,The Summit A - Room c-08_east,,,1
-The Summit A - Room c-08_west,The Summit A - Room c-08 Strawberry,,,1
-The Summit A - Room c-08_east,The Summit A - Room c-08_west,,,1
-The Summit A - Room d-00_bottom,The Summit A - Room d-00 Strawberry,,,1
-The Summit A - Room d-00_bottom,The Summit A - Room d-00_top,,,1
-The Summit A - Room d-01d_west,The Summit A - Room d-01d Strawberry,"coins",,1
-The Summit A - Room d-03b_east,The Summit A - Cassette,"blue_cassette_blocks",,1
-The Summit A - Room d-05_west,The Summit A - Room d-05_east,,,1
-The Summit A - Room d-05_east,The Summit A - Room d-05_west,,,1
-The Summit A - Room d-05b_west,The Summit A - Gem 4,,,1
-The Summit A - Room d-07_east,The Summit A - Room d-07 Strawberry,,,1
-The Summit A - Room d-08_west,The Summit A - Room d-08_east,,,1
-The Summit A - Room d-08_east,The Summit A - Room d-08_west,,,1
-The Summit A - Room d-09_west,The Summit A - Room d-09_east,,,1
-The Summit A - Room d-10_north,The Summit A - Room d-10_north-east,,,1
-The Summit A - Room d-10_north-east,The Summit A - Room d-10_north,,,1
-The Summit A - Room d-10_north-east,The Summit A - Room d-10_east,,,1
-The Summit A - Room d-10_east,The Summit A - Room d-10_north-east,,,1
-The Summit A - Room e-00_south-west,The Summit A - Room e-00_east,"blue_boosters",,1
-The Summit A - Room e-01c_west,The Summit A - Room e-01c_east,,,1
-The Summit A - Room e-03_south-west,The Summit A - Room e-03_east,"moving_platforms",,1
-The Summit A - Room e-04_west,The Summit A - Room e-04_east,"springs",,1
-The Summit A - Room e-06_west,The Summit A - Room e-06_east,,,1
-The Summit A - Room e-08_south,The Summit A - Room e-08_west,,,1
-The Summit A - Room e-08_south,The Summit A - Room e-08_east,,,1
-The Summit A - Room e-11_south,The Summit A - Room e-11_east,"blue_boosters",,1
-The Summit A - Room e-12_west,The Summit A - Room e-12 Strawberry,"strawberry_seeds",,1
-The Summit A - Room e-10b_west,The Summit A - Room e-10b_east,,,1
-The Summit A - Room e-13_bottom,The Summit A - Room e-13_top,"badeline_boosters,blue_boosters,springs",,1
-The Summit A - Room f-00_west,The Summit A - Room f-00 Strawberry,,,1
-The Summit A - Room f-01_south,The Summit A - Room f-01 Strawberry,,,1
-The Summit A - Room f-02_west,The Summit A - Room f-02_east,,,1
-The Summit A - Room f-04_west,The Summit A - Room f-04_east,,,1
-The Summit A - Room f-03_west,The Summit A - Room f-03_east,,,1
-The Summit A - Room f-03_east,The Summit A - Room f-03_west,,,1
-The Summit A - Room f-07_south-east,The Summit A - 2500 M Key,,,1
-The Summit A - Room f-08_west,The Summit A - Room f-08_east,"swap_blocks,red_boosters",,1
-The Summit A - Room f-08b_west,The Summit A - Room f-08b_east,,,1
-The Summit A - Room f-08b_east,The Summit A - Room f-08b_west,,,1
-The Summit A - Room f-08b_east,The Summit A - Room f-08b Strawberry,,,1
-The Summit A - Room f-08d_west,The Summit A - Room f-08d_east,"dash_switches",,1
-The Summit A - Room f-08c_west,The Summit A - Room f-08c_east,,,1
-The Summit A - Room f-10_west,The Summit A - Room f-10_east,,,1
-The Summit A - Room f-10b_west,The Summit A - Room f-10b_east,"dash_refills",,1
-The Summit A - Room f-11_bottom,The Summit A - Room f-11_top,"badeline_boosters,swap_blocks,red_boosters",,1
-The Summit A - Room g-00_bottom,The Summit A - Room g-00_top,,,1
-The Summit A - Room g-00b_c24,The Summit A - Room g-00b Strawberry 2,,,1
-The Summit A - Room g-00b_c21,The Summit A - Room g-00b_top,"dash_refills",,1
-The Summit A - Room g-01_bottom,The Summit A - Room g-01_c18,,,1
-The Summit A - Room g-01_c16,The Summit A - Room g-01_top,"springs,coins,dash_refills,pink_clouds",,1
-The Summit A - Room g-02_bottom,The Summit A - Room g-02_top,,,1
-The Summit B - Room b-00_bottom,The Summit B - Room b-00_top,"traffic_blocks",,1
-The Summit B - Room d-00_west,The Summit B - Room d-00_east,,,1
-The Summit B - Room d-01_west,The Summit B - Room d-01_east,,,1
-The Summit B - Room d-02_west,The Summit B - Room d-02_east,"springs,coins",,1
-The Summit B - Room e-00_west,The Summit B - Room e-00_east,"blue_clouds",,1
-The Summit B - Room e-03_bottom,The Summit B - Room e-03_top,"blue_clouds,coins,badeline_boosters",,1
-The Summit B - Room f-00_west,The Summit B - Room f-00_east,"swap_blocks",,1
-The Summit B - Room f-02_west,The Summit B - Room f-02_east,"swap_blocks",,1
-The Summit B - Room g-00_bottom,The Summit B - Room g-00_top,"springs,badeline_boosters",,1
-The Summit C - Room 02_west,The Summit C - Room 02_east,"springs,badeline_boosters",,1
-Core A - Room a-00_west,Core A - Room a-00_east,,,1
-Core A - Room a-01_west,Core A - Room a-01_east,,,1
-Core A - Room a-02_west,Core A - Room a-02_east,,,1
-Core A - Room b-00_south,Core A - Room b-00_north,,,1
-Core A - Room b-01_west,Core A - Room b-01_east,,,1
-Core A - Room b-01_east,Core A - Room b-01_west,,,1
-Core A - Room b-02_west,Core A - Room b-02_east,,,1
-Core A - Room b-03_west,Core A - Room b-03_east,,,1
-Core A - Room b-06_east,Core A - Room b-06 Strawberry,"core_blocks",,1
-Core A - Room b-07b_bottom,Core A - Room b-07b_top,"core_toggles",,1
-Core A - Room d-07_bottom,Core A - Room d-07_top,"dash_refills,core_blocks,core_toggles,fire_ice_balls",,1
-Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,bumpers",,1
-Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,fire_ice_balls",,1
-Core A - Room d-10_west,Core A - Room d-10_east,"core_toggles",,1
-Core A - Room d-10b_west,Core A - Room d-10b_east,"dash_refills,core_toggles,core_blocks",,1
-Core B - Room a-00_west,Core B - Room a-00_east,,,1
-Core B - Room a-01_west,Core B - Room a-01_east,,,1
-Core B - Room b-01_west,Core B - Room b-01_east,"core_blocks,core_toggles",,1
-Core B - Room c-01_bottom,Core B - Room c-01_top,"dash_refills,core_blocks,springs",,1
-Core B - Room c-02_bottom,Core B - Room c-02_top,,,1
-Core C - Room 02_west,Core C - Room 02_goal,"springs,traffic_blocks,dash_refills,core_toggles,dream_blocks,bumpers,pink_clouds,kevin_blocks,core_blocks",,1
-Farewell - Room intro-01-future_west,Farewell - Room intro-02-launch_bottom,,"DTS",1
-Farewell - Room intro-01-future_west,Farewell - Room intro-03-space_west,,"DTS",1
-Farewell - Room a-00_west,Farewell - Room a-00_east,,"DTS",1
-Farewell - Room a-01_west,Farewell - Room a-01_east,"DISABLED,dash_refills","DTS?",1
-Farewell - Room a-01_west,Farewell - Room a-01_east,"double_dash_refills",,1
-Farewell - Room a-02_west,Farewell - Room a-02_east,,"DISABLED,DTS?",1
-Farewell - Room a-04_west,Farewell - Room a-04_east,,"DISABLED,DTS?",1
-Farewell - Room a-05_west,Farewell - Room a-05_east,"DISABLED,springs","DTS?",1
-Farewell - Room b-06_west,Farewell - Room b-06_east,"DISABLED,dream_blocks,pufferfish,springs","DTS?",1
-Farewell - Room b-07_west,Farewell - Room b-07_east,"double_dash_refills",,1
-Farewell - Room c-00_west,Farewell - Room c-00_north-east,"jellyfish",,1
-Farewell - Room c-00b_west,Farewell - Room c-00b_east,"jellyfish",,1
-Farewell - Room c-03_south,Farewell - Room c-03_north,"jellyfish",,1
-Farewell - Room d-00_south,Farewell - Room d-00_breaker,"breaker_boxes,jellyfish","Jelly smuggled from c-03",1
-Farewell - Room d-05_west,Farewell - Room d-05_north,"jellyfish,red_boosters,double_dash_refills","Jelly and double dash smuggled from c-03/d-00",1
-Farewell - Room e-01_south,Farewell - Room e-01_north,"DISABLED,springs","DTS?",1
-Farewell - Room e-02_west,Farewell - Room e-02_east,"DISABLED,jellyfish,springs,coins","DTS?",1
-Farewell - Room e-06_west,Farewell - Room e-06_east,"DISABLED,jellyfish,springs,coins","DTS?",1
-Farewell - Room f-07_west,Farewell - Room f-07_east,"DISABLED,traffic_blocks","DTS?",1
-Farewell - Room f-08_west,Farewell - Room f-08_east,"move_blocks",,1
-Farewell - Room f-09_west,Farewell - Room f-09_east,"double_dash_refills,coins",,1
-Farewell - Room g-00_bottom,Farewell - Room g-00_top,"DISABLED,dash_refills","DTS",1
-Farewell - Room g-00_bottom,Farewell - Room g-00_top,"DISABLED,traffic_blocks","DTS",1
-Farewell - Room h-00_west,Farewell - Room h-00_east,"swap_blocks",,1
-Farewell - Room h-01_west,Farewell - Room h-01_east,"DISABLED,double_dash_refills,springs,move_blocks","DTS?",1
-Farewell - Room h-06_west,Farewell - Room h-06_east,"DISABLED,springs,feathers","DTS?",1
-Farewell - Room h-08_west,Farewell - Room h-08_east,"DISABLED,double_dash_refills,coins","DTS?",1
-Farewell - Room h-09_west,Farewell - Room h-09_east,"DISABLED,kevin_blocks,feathers,coins","DTS",1
-Farewell - Room i-00b_west,Farewell - Room i-00b_east,"blue_cassette_blocks,pink_cassette_blocks,yellow_cassette_blocks,green_cassette_blocks,double_dash_refills,springs",,1
-Farewell - Room j-00_west,Farewell - Room j-00_east,"breaker_boxes,bird",,1
+Farewell - Room e-08_east,Farewell - Room f-door_west,"include_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two: https://github.com/ArchipelagoMW/Archipelago/blob/799e0b7b0fa3c965995a6288c651d2f4d800e4ff/worlds/celeste_open_world/Locations.py#L240",0
+Farewell - Room e-08_east,Farewell - Room f-door_west,"goal_area_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two: https://github.com/ArchipelagoMW/Archipelago/blob/799e0b7b0fa3c965995a6288c651d2f4d800e4ff/worlds/celeste_open_world/Locations.py#L240",0
+Farewell - Room e-08_east,Farewell - Room f-door_west,"goal_area_farewell_golden","Source puts post Crystal Heart? as Farewell B, hack in connection between the two: https://github.com/ArchipelagoMW/Archipelago/blob/799e0b7b0fa3c965995a6288c651d2f4d800e4ff/worlds/celeste_open_world/Locations.py#L240",0
+Farewell - Room j-16_east,Farewell - Room end-golden_bottom,"traffic_blocks,dash_refills,double_dash_refills,dream_blocks,swap_blocks,move_blocks,blue_boosters,springs,feathers,coins,red_boosters,kevin_blocks,core_blocks,fire_ice_balls,badeline_boosters,bird,breaker_boxes,pufferfish,jellyfish,pink_cassette_blocks,blue_cassette_blocks,yellow_cassette_blocks,green_cassette_blocks,farewell-powersourcekey1,farewell-powersourcekey2,farewell-powersourcekey3,farewell-powersourcekey4,farewell-powersourcekey5,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","Source puts golden room as Farewell C, hack in connection between the two; https://github.com/ArchipelagoMW/Archipelago/blob/799e0b7b0fa3c965995a6288c651d2f4d800e4ff/worlds/celeste_open_world/Locations.py#L245",0
+Farewell - Room j-19_top,Farewell - Room end-golden_bottom,"traffic_blocks,dash_refills,double_dash_refills,dream_blocks,swap_blocks,move_blocks,blue_boosters,springs,feathers,coins,red_boosters,kevin_blocks,core_blocks,fire_ice_balls,badeline_boosters,bird,breaker_boxes,pufferfish,jellyfish,pink_cassette_blocks,blue_cassette_blocks,yellow_cassette_blocks,green_cassette_blocks,farewell-powersourcekey1,farewell-powersourcekey2,farewell-powersourcekey3,farewell-powersourcekey4,farewell-powersourcekey5,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","Source puts golden room as Farewell C, hack in connection between the two; https://github.com/ArchipelagoMW/Archipelago/blob/799e0b7b0fa3c965995a6288c651d2f4d800e4ff/worlds/celeste_open_world/Locations.py#L245",0
+Forsaken City A - Room 5_bottom,Forsaken City A - Room 5_north-west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City A - Room 6_west,Forsaken City A - Room 6_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City A - Room 7z_bottom,Forsaken City A - Room 7z Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City A - Room 9_west,Forsaken City A - Room 9 Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City A - Room 9b_west,Forsaken City A - Room 9b_north-west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City A - Room 9c_west,Forsaken City A - Room 9c Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City A - Room 11_south-west,Forsaken City A - Room 11_south,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City A - Room 11z_east,Forsaken City A - Cassette,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City A - Room 12z_east,Forsaken City A - Room 12z Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City A - Room 12a_bottom,Forsaken City A - Room 12a_top,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City A - Room end_main,Forsaken City A - Golden Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City B - Room 02b_west,Forsaken City B - Room 02b_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City B - Room 03_west,Forsaken City B - Room 03_east,"traffic_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City B - Room 04_west,Forsaken City B - Room 04_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City B - Room 06_west,Forsaken City B - Room 06_east,"springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Forsaken City B - Room 10_west,Forsaken City B - Room 10_east,"traffic_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Old Site A - Room d0_north-west,Old Site A - Room d0_north-east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Old Site A - Room d0_north-east,Old Site A - Room d0 Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Old Site A - Room d7_east,Old Site A - Room d7_west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Old Site A - Room 9_west,Old Site A - Room 9_north,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Old Site A - Room 9_north,Old Site A - Room 9_west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Old Site B - Room 02b_west,Old Site B - Room 02b_east,"dream_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Old Site B - Room 04_bottom,Old Site B - Room 04_top,"dream_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Old Site B - Room 07_bottom,Old Site B - Room 07_top,"dream_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Old Site B - Room 11_bottom,Old Site B - Room 11_top,"dream_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Old Site C - Room 02_west,Old Site C - Room 02_goal,"dream_blocks,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Celestial Resort A - Room 00-c_south-east,Celestial Resort A - Room 00-c_south-west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Celestial Resort A - Room 03-a_west,Celestial Resort A - Room 03-a_top,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Celestial Resort A - Room 06-b_east,Celestial Resort A - Room 06-b_west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Celestial Resort A - Room 01-c_east,Celestial Resort A - Cassette,"blue_cassette_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Celestial Resort B - Room 01_west,Celestial Resort B - Room 01_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Celestial Resort B - Room 04_west,Celestial Resort B - Room 04_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Celestial Resort B - Room 08_bottom,Celestial Resort B - Room 08_top,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Celestial Resort B - Room end_west,Celestial Resort B - Room end_goal,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room a-01_west,Golden Ridge A - Room a-01_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room a-05_west,Golden Ridge A - Room a-05_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room a-08_west,Golden Ridge A - Room a-08_north-west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room b-00_south,Golden Ridge A - Room b-00_north-east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room b-04_east,Golden Ridge A - Room b-04_west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room b-06_east,Golden Ridge A - Room b-06_west,"move_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room b-07_west,Golden Ridge A - Room b-07 Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room b-03_west,Golden Ridge A - Room b-03 Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room b-sec_west,Golden Ridge A - Crystal Heart,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room b-05_center,Golden Ridge A - Room b-05_west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room b-05_east,Golden Ridge A - Room b-05_north-east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room b-08_west,Golden Ridge A - Room b-08_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room c-05_west,Golden Ridge A - Room c-05_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room c-06b_east,Golden Ridge A - Room c-06b Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room c-09_west,Golden Ridge A - Room c-09_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room d-00b_east,Golden Ridge A - Room d-00b Strawberry,"blue_boosters,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room d-02_west,Golden Ridge A - Room d-02_east,"blue_boosters,move_blocks,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge A - Room d-02_west,Golden Ridge A - Room d-02_east,"pink_clouds,move_blocks,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge B - Room b-03_west,Golden Ridge B - Room b-03_east,"coins,moving_platforms,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge B - Room d-02_west,Golden Ridge B - Room d-02_east,"blue_boosters,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Golden Ridge C - Room 02_west,Golden Ridge C - Room 02_goal,"blue_boosters,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room a-00_west,Mirror Temple A - Room a-00_east,"swap_blocks,dash_switches,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room a-04_east,Mirror Temple A - Room a-04 Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room a-15_south,Mirror Temple A - Room a-15 Strawberry,"coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room b-09_north,Mirror Temple A - Room b-09_south,"red_boosters,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room b-06_west,Mirror Temple A - Room b-06_north-east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room b-19_west,Mirror Temple A - Room b-19_east,"red_boosters,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room c-01b_west,Mirror Temple A - Room c-01b_east,"swap_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room c-01b_west,Mirror Temple A - Room c-01b_east,"red_boosters,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room d-03_east,Mirror Temple A - Room d-03_west,"coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room d-04_east,Mirror Temple A - Room d-04_west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room d-04_south-east,Mirror Temple A - Room d-04 Strawberry 2,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room d-09_east,Mirror Temple A - Room d-09_west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple A - Room e-05_west,Mirror Temple A - Room e-05_east,"theo_crystal,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple B - Room a-00_west,Mirror Temple B - Room a-00_east,"dash_switches,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple B - Room b-04_east,Mirror Temple B - Room b-04_west,"swap_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple B - Room b-02_center,Mirror Temple B - Room b-02_north,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple B - Room b-03_main,Mirror Temple B - Room b-03_north,"red_boosters,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple B - Room b-08_east,Mirror Temple B - Room b-08_north,"dash_switches,swap_blocks,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple B - Room c-00_mirror,Mirror Temple B - Room c-00_bottom,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Mirror Temple B - Room c-02_west,Mirror Temple B - Room c-02_east,"dash_switches,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection A - Room 00_east,Reflection A - Room 00_west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection A - Room 04e_east,Reflection A - Cassette,"kevin_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection A - Room 08a_west,Reflection A - Room 08a_east,"kevin_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection A - Room 08a_west,Reflection A - Room 08a_east,"dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection A - Room 08b_west,Reflection A - Room 08b_east,"kevin_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection A - Room 10a_west,Reflection A - Room 10a_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection A - Room boss-05_west,Reflection A - Room boss-05_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection A - Room boss-18_west,Reflection A - Room boss-18_east,"feathers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection A - Room after-01_bottom,Reflection A - Room after-01_goal,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection B - Room c-00_west,Reflection B - Room c-00_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection B - Room d-01_west,Reflection B - Room d-01_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Reflection B - Room d-02_west,Reflection B - Room d-02_east,"bumpers,feathers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room a-01_west,The Summit A - Room a-01_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room a-02_west,The Summit A - Room a-02_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room a-04_west,The Summit A - Room a-04_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room b-01_west,The Summit A - Room b-01_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room b-02e_east,The Summit A - Room b-02e Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room b-03_east,The Summit A - Room b-03_north,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room c-06_south,The Summit A - Room c-06_north,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room c-07b_east,The Summit A - Room c-07b Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room c-08_east,The Summit A - Room c-08_west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room d-00_bottom,The Summit A - Room d-00_top,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room d-05b_west,The Summit A - Gem 4,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room d-07_east,The Summit A - Room d-07 Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room d-08_east,The Summit A - Room d-08_west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room e-00_south-west,The Summit A - Room e-00_east,"blue_boosters,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room e-04_west,The Summit A - Room e-04_east,"springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room e-11_south,The Summit A - Room e-11_east,"blue_boosters,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room e-10b_west,The Summit A - Room e-10b_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room e-13_bottom,The Summit A - Room e-13_top,"badeline_boosters,blue_boosters,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room f-01_south,The Summit A - Room f-01 Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room f-07_south-east,The Summit A - 2500 M Key,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room f-08b_west,The Summit A - Room f-08b_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room f-08c_west,The Summit A - Room f-08c_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit A - Room g-00b_c21,The Summit A - Room g-00b_top,"dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit B - Room f-02_west,The Summit B - Room f-02_east,"springs,swap_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit B - Room g-03_bottom,The Summit B - Room g-03_goal,"pink_cassette_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit B - Room g-03_bottom,The Summit B - Room g-03_goal,"blue_cassette_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+The Summit C - Room 02_west,The Summit C - Room 02_east,"springs,badeline_boosters,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core A - Room a-02_west,Core A - Room a-02_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core A - Room b-03_west,Core A - Room b-03_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core A - Room b-04_west,Core A - Room b-04_east,"core_toggles,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core A - Room b-06_east,Core A - Room b-06 Strawberry,"core_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core A - Room b-06_east,Core A - Room b-06 Strawberry,"core_toggles,dash_refills,coins,bumpers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core A - Room b-07b_bottom,Core A - Room b-07b_top,"core_toggles,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core A - Room d-04_bottom,Core A - Room d-04_top,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,bumpers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,fire_ice_balls,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core B - Room a-01_west,Core B - Room a-01_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core B - Room c-01_bottom,Core B - Room c-01_top,"dash_refills,core_blocks,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Core C - Room 02_west,Core C - Room 02_goal,"springs,traffic_blocks,dash_refills,core_toggles,dream_blocks,bumpers,pink_clouds,kevin_blocks,core_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Farewell - Room intro-01-future_west,Farewell - Room intro-02-launch_bottom,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",1
+Farewell - Room intro-01-future_west,Farewell - Room intro-03-space_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",1
+Farewell - Room a-00_west,Farewell - Room a-00_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",1
+Farewell - Room a-01_west,Farewell - Room a-01_east,"DISABLED,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",1
+Farewell - Room a-01_west,Farewell - Room a-01_east,"double_dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Farewell - Room a-02_west,Farewell - Room a-02_east,"DISABLED,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",1
+Farewell - Room a-04_west,Farewell - Room a-04_east,"DISABLED,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",1
+Farewell - Room a-05_west,Farewell - Room a-05_east,"DISABLED,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",1
+Farewell - Room b-06_west,Farewell - Room b-06_east,"DISABLED,dream_blocks,pufferfish,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",1
+Farewell - Room b-07_west,Farewell - Room b-07_east,"double_dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Farewell - Room c-03_south,Farewell - Room c-03_north,"jellyfish,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Farewell - Room e-01_south,Farewell - Room e-01_north,"DISABLED,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",1
+Farewell - Room e-02_west,Farewell - Room e-02_east,"DISABLED,jellyfish,springs,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",1
+Farewell - Room e-06_west,Farewell - Room e-06_east,"DISABLED,jellyfish,springs,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",1
+Farewell - Room f-07_west,Farewell - Room f-07_east,"DISABLED,traffic_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",1
+Farewell - Room f-08_west,Farewell - Room f-08_east,"move_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Farewell - Room g-00_bottom,Farewell - Room g-00_top,"DISABLED,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",1
+Farewell - Room g-00_bottom,Farewell - Room g-00_top,"DISABLED,traffic_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",1
+Farewell - Room h-00_west,Farewell - Room h-00_east,"swap_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1
+Farewell - Room h-01_west,Farewell - Room h-01_east,"DISABLED,double_dash_refills,springs,move_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",1
+Farewell - Room h-06_west,Farewell - Room h-06_east,"DISABLED,springs,feathers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",1
+Farewell - Room h-09_west,Farewell - Room h-09_east,"DISABLED,kevin_blocks,feathers,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",1
+Farewell - Room j-00_west,Farewell - Room j-00_east,"breaker_boxes,bird,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,1

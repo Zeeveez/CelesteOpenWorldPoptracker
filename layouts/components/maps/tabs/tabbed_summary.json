@@ -1,0 +1,59 @@
+{
+    "tabbed_summary": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Summary",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "summary"
+                    ]
+                }
+            },
+            {
+                "title": "Berries",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "berry_summary"
+                    ]
+                }
+            },
+            {
+                "title": "Rooms",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "room_summary"
+                    ]
+                }
+            },
+            {
+                "title": "Other",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "other_summary"
+                    ]
+                }
+            },
+            {
+                "title": "Everything",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "everything_summary"
+                    ]
+                }
+            },
+            {
+                "title": "Berries",
+                "content": {
+                    "type": "layout",
+                    "key": "berries"
+                }
+            }
+        ]
+    }
+}

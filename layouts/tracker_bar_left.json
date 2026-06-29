@@ -1,0 +1,97 @@
+{
+    "tracker_bar_left": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_recent_items_left"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_progress_graph_left"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_movement_left"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_items_left"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_checkpoints_left"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_keys_gems_left"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_progress_left"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_goal_left"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_sanities_left"
+                    }
+                ]
+            }
+        ]
+    }
+}

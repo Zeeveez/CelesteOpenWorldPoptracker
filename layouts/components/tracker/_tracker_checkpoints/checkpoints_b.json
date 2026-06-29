@@ -1,0 +1,56 @@
+{
+    "tracker_checkpoints_1b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "forsakencityb-icon", "forsakencityb-contraption", "forsakencityb-scrappit" ]
+        ]
+    },
+    "tracker_checkpoints_2b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "oldsiteb-icon", "oldsiteb-combinationlock", "oldsiteb-dreamaltar" ]
+        ]
+    },
+    "tracker_checkpoints_3b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "celestialresortb-icon", "celestialresortb-staffquarters", "celestialresortb-library", "celestialresortb-rooftop" ]
+        ]
+    },
+    "tracker_checkpoints_4b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "goldenridgeb-icon", "goldenridgeb-steppingstones", "goldenridgeb-gustycanyon", "goldenridgeb-eyeofthestorm" ]
+        ]
+    },
+    "tracker_checkpoints_5b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "mirrortempleb-icon", "mirrortempleb-centralchamber", "mirrortempleb-throughthemirror", "mirrortempleb-mixmaster" ]
+        ]
+    },
+    "tracker_checkpoints_6b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "reflectionb-icon", "reflectionb-reflection", "reflectionb-rockbottom", "reflectionb-reprieve" ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "tracker_checkpoints_1b": {
+        "type": "dock",
+        "content": []
+    },
+    "tracker_checkpoints_2b": {
+        "type": "dock",
+        "content": []
+    },
+    "tracker_checkpoints_3b": {
+        "type": "dock",
+        "content": []
+    },
+    "tracker_checkpoints_4b": {
+        "type": "dock",
+        "content": []
+    },
+    "tracker_checkpoints_5b": {
+        "type": "dock",
+        "content": []
+    },
+    "tracker_checkpoints_6b": {
+        "type": "dock",
+        "content": []
+    }
+}

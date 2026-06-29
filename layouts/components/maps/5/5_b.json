@@ -1,0 +1,83 @@
+{
+    "5_b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_5b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "5_b_0"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Central Chamber",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_5b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "5_b_1"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Through the Mirror",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_5b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "5_b_2"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Mix Master",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_5b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "5_b_3"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

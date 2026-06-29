@@ -1,0 +1,18 @@
+{
+    "tracker_items_c_1_2_3_4_5_6": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_size": "2,2",
+        "rows": [
+            [ "forsakencityc-icon", "", "", "", "", "forsakencityc-traffic_blocks", "forsakencityc-dash_refills", "", "", "forsakencityc-coins" ],
+            [ "oldsitec-icon", "", "", "", "", "", "oldsitec-dash_refills", "oldsitec-springs", "oldsitec-dream_blocks", "oldsitec-coins" ],
+            [ "celestialresortc-icon", "", "", "", "", "", "celestialresortc-dash_refills", "", "", "celestialresortc-coins", "", "celestialresortc-sinking_platforms" ],
+            [ "goldenridgec-icon", "", "", "", "", "", "goldenridgec-dash_refills", "", "", "", "", "", "", "goldenridgec-pink_clouds", "goldenridgec-move_blocks", "goldenridgec-blue_boosters" ],
+            [ "mirrortemplec-icon", "", "", "", "", "", "mirrortemplec-dash_refills", "mirrortemplec-springs" ],
+            [ "", "mirrortemplec-red_boosters", "mirrortemplec-swap_blocks", "mirrortemplec-dash_switches" ],
+            [ "reflectionc-icon", "", "", "", "", "", "reflectionc-dash_refills" ],
+            [ "", "", "", "", "reflectionc-feathers", "reflectionc-kevin_blocks", "reflectionc-bumpers" ]
+        ]
+    }
+}

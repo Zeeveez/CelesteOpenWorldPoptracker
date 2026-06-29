@@ -1,0 +1,64 @@
+{
+    "2_b": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_2b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "2_b_0"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Combination Lock",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_2b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "2_b_1"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Dream Altar",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_2b"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "2_b_2"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

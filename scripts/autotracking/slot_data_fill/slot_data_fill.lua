@@ -5,6 +5,9 @@ function FillSlotData(slot_data)
         local item_obj = Tracker:FindObjectForCode(item)
         if item_obj then
             local slot_value = GetSlotDataValue(slot_data, slot_data_settings[1])
+            if slot_value == nil then
+                slot_value = 0
+            end
 
             if item_obj.Type == "toggle" then
                 item_obj.Active = slot_value ~= 0
@@ -28,6 +31,20 @@ function FillSlotData(slot_data)
             end
         end
         ::continue::
+    end
+    ApplyBadgeTextData(slot_data)
+end
+
+function ApplyBadgeTextData(slot_data)
+    if slot_data["trap_expiration_amount"] ~= nil then
+        Tracker:FindObjectForCode("trap_expiration_action").BadgeText = slot_data["trap_expiration_amount"]
+    else
+        Tracker:FindObjectForCode("trap_expiration_action").BadgeText = ""
+    end
+    if slot_data["death_link_amnesty"] ~= nil then
+        Tracker:FindObjectForCode("include_goldens").BadgeText = slot_data["death_link_amnesty"]
+    else
+        Tracker:FindObjectForCode("include_goldens").BadgeText = ""
     end
 end
 

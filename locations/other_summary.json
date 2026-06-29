@@ -93,8 +93,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 125,
+                        "x": 550,
+                        "y": 75,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -111,8 +111,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 90,
-                        "y": 125,
+                        "x": 580,
+                        "y": 75,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -129,8 +129,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 105,
-                        "y": 125,
+                        "x": 595,
+                        "y": 75,
                         "size": 15
                     }
                 ],
@@ -146,8 +146,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 175,
+                        "x": 800,
+                        "y": 75,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -164,8 +164,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 175,
+                        "x": 815,
+                        "y": 75,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -182,8 +182,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 90,
-                        "y": 175,
+                        "x": 830,
+                        "y": 75,
                         "size": 15
                     }
                 ],
@@ -200,7 +200,7 @@
                     {
                         "map": "other_summary",
                         "x": 60,
-                        "y": 225,
+                        "y": 125,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -218,7 +218,7 @@
                     {
                         "map": "other_summary",
                         "x": 75,
-                        "y": 225,
+                        "y": 125,
                         "size": 15
                     }
                 ],
@@ -235,7 +235,7 @@
                     {
                         "map": "other_summary",
                         "x": 90,
-                        "y": 225,
+                        "y": 125,
                         "size": 15
                     }
                 ],
@@ -252,7 +252,7 @@
                     {
                         "map": "other_summary",
                         "x": 120,
-                        "y": 225,
+                        "y": 125,
                         "size": 15
                     }
                 ],
@@ -268,8 +268,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 275,
+                        "x": 550,
+                        "y": 125,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -286,8 +286,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 275,
+                        "x": 565,
+                        "y": 125,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -304,8 +304,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 90,
-                        "y": 275,
+                        "x": 580,
+                        "y": 125,
                         "size": 15
                     }
                 ],
@@ -321,8 +321,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 325,
+                        "x": 800,
+                        "y": 125,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -339,8 +339,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 325,
+                        "x": 815,
+                        "y": 125,
                         "size": 15
                     }
                 ],
@@ -357,7 +357,7 @@
                     {
                         "map": "other_summary",
                         "x": 60,
-                        "y": 375,
+                        "y": 175,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -375,7 +375,7 @@
                     {
                         "map": "other_summary",
                         "x": 75,
-                        "y": 375,
+                        "y": 175,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -393,7 +393,7 @@
                     {
                         "map": "other_summary",
                         "x": 90,
-                        "y": 375,
+                        "y": 175,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -411,7 +411,7 @@
                     {
                         "map": "other_summary",
                         "x": 120,
-                        "y": 375,
+                        "y": 175,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -429,7 +429,7 @@
                     {
                         "map": "other_summary",
                         "x": 135,
-                        "y": 375,
+                        "y": 175,
                         "size": 15
                     }
                 ],
@@ -446,7 +446,7 @@
                     {
                         "map": "other_summary",
                         "x": 165,
-                        "y": 375,
+                        "y": 175,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -464,7 +464,7 @@
                     {
                         "map": "other_summary",
                         "x": 180,
-                        "y": 375,
+                        "y": 175,
                         "size": 15
                     }
                 ],
@@ -481,7 +481,7 @@
                     {
                         "map": "other_summary",
                         "x": 210,
-                        "y": 375,
+                        "y": 175,
                         "size": 15
                     }
                 ],
@@ -497,8 +497,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 425,
+                        "x": 550,
+                        "y": 175,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -515,8 +515,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 90,
-                        "y": 425,
+                        "x": 580,
+                        "y": 175,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -533,8 +533,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 120,
-                        "y": 425,
+                        "x": 610,
+                        "y": 175,
                         "size": 15
                     }
                 ],
@@ -550,8 +550,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 475,
+                        "x": 800,
+                        "y": 175,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -568,8 +568,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 475,
+                        "x": 815,
+                        "y": 175,
                         "size": 15
                     }
                 ],
@@ -586,7 +586,7 @@
                     {
                         "map": "other_summary",
                         "x": 60,
-                        "y": 525,
+                        "y": 225,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -604,7 +604,7 @@
                     {
                         "map": "other_summary",
                         "x": 75,
-                        "y": 525,
+                        "y": 225,
                         "size": 15
                     }
                 ],
@@ -621,7 +621,7 @@
                     {
                         "map": "other_summary",
                         "x": 105,
-                        "y": 525,
+                        "y": 225,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -639,7 +639,7 @@
                     {
                         "map": "other_summary",
                         "x": 120,
-                        "y": 525,
+                        "y": 225,
                         "size": 15
                     }
                 ],
@@ -656,7 +656,7 @@
                     {
                         "map": "other_summary",
                         "x": 150,
-                        "y": 525,
+                        "y": 225,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -674,7 +674,7 @@
                     {
                         "map": "other_summary",
                         "x": 165,
-                        "y": 525,
+                        "y": 225,
                         "size": 15
                     }
                 ],
@@ -690,8 +690,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 575,
+                        "x": 550,
+                        "y": 225,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -708,8 +708,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 90,
-                        "y": 575,
+                        "x": 580,
+                        "y": 225,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -726,8 +726,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 120,
-                        "y": 575,
+                        "x": 610,
+                        "y": 225,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -744,8 +744,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 135,
-                        "y": 575,
+                        "x": 625,
+                        "y": 225,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -762,8 +762,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 150,
-                        "y": 575,
+                        "x": 640,
+                        "y": 225,
                         "size": 15
                     }
                 ],
@@ -779,8 +779,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 625,
+                        "x": 800,
+                        "y": 225,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -797,8 +797,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 625,
+                        "x": 815,
+                        "y": 225,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -815,8 +815,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 90,
-                        "y": 625,
+                        "x": 830,
+                        "y": 225,
                         "size": 15
                     }
                 ],
@@ -833,7 +833,7 @@
                     {
                         "map": "other_summary",
                         "x": 60,
-                        "y": 675,
+                        "y": 275,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -851,7 +851,7 @@
                     {
                         "map": "other_summary",
                         "x": 90,
-                        "y": 675,
+                        "y": 275,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -869,7 +869,7 @@
                     {
                         "map": "other_summary",
                         "x": 105,
-                        "y": 675,
+                        "y": 275,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -887,7 +887,7 @@
                     {
                         "map": "other_summary",
                         "x": 120,
-                        "y": 675,
+                        "y": 275,
                         "size": 15
                     }
                 ],
@@ -904,7 +904,7 @@
                     {
                         "map": "other_summary",
                         "x": 135,
-                        "y": 675,
+                        "y": 275,
                         "size": 15
                     }
                 ],
@@ -921,7 +921,7 @@
                     {
                         "map": "other_summary",
                         "x": 165,
-                        "y": 675,
+                        "y": 275,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -939,7 +939,7 @@
                     {
                         "map": "other_summary",
                         "x": 180,
-                        "y": 675,
+                        "y": 275,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -957,7 +957,7 @@
                     {
                         "map": "other_summary",
                         "x": 195,
-                        "y": 675,
+                        "y": 275,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -975,7 +975,7 @@
                     {
                         "map": "other_summary",
                         "x": 225,
-                        "y": 675,
+                        "y": 275,
                         "size": 15
                     }
                 ],
@@ -991,8 +991,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 725,
+                        "x": 550,
+                        "y": 275,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1009,8 +1009,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 725,
+                        "x": 565,
+                        "y": 275,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1027,8 +1027,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 90,
-                        "y": 725,
+                        "x": 580,
+                        "y": 275,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1045,8 +1045,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 120,
-                        "y": 725,
+                        "x": 610,
+                        "y": 275,
                         "size": 15
                     }
                 ],
@@ -1062,8 +1062,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 775,
+                        "x": 800,
+                        "y": 275,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1080,8 +1080,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 775,
+                        "x": 815,
+                        "y": 275,
                         "size": 15
                     }
                 ],
@@ -1098,7 +1098,7 @@
                     {
                         "map": "other_summary",
                         "x": 60,
-                        "y": 825,
+                        "y": 325,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1116,7 +1116,7 @@
                     {
                         "map": "other_summary",
                         "x": 75,
-                        "y": 825,
+                        "y": 325,
                         "size": 15
                     }
                 ],
@@ -1133,7 +1133,7 @@
                     {
                         "map": "other_summary",
                         "x": 90,
-                        "y": 825,
+                        "y": 325,
                         "size": 15
                     }
                 ],
@@ -1150,7 +1150,7 @@
                     {
                         "map": "other_summary",
                         "x": 120,
-                        "y": 825,
+                        "y": 325,
                         "size": 15
                     }
                 ],
@@ -1166,8 +1166,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 875,
+                        "x": 550,
+                        "y": 325,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1184,8 +1184,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 875,
+                        "x": 565,
+                        "y": 325,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1202,8 +1202,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 105,
-                        "y": 875,
+                        "x": 595,
+                        "y": 325,
                         "size": 15
                     }
                 ],
@@ -1219,8 +1219,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 925,
+                        "x": 800,
+                        "y": 325,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1237,8 +1237,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 925,
+                        "x": 815,
+                        "y": 325,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1255,8 +1255,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 90,
-                        "y": 925,
+                        "x": 830,
+                        "y": 325,
                         "size": 15
                     }
                 ],
@@ -1273,7 +1273,7 @@
                     {
                         "map": "other_summary",
                         "x": 60,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1291,7 +1291,7 @@
                     {
                         "map": "other_summary",
                         "x": 90,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1309,7 +1309,7 @@
                     {
                         "map": "other_summary",
                         "x": 105,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1327,7 +1327,7 @@
                     {
                         "map": "other_summary",
                         "x": 120,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1345,7 +1345,7 @@
                     {
                         "map": "other_summary",
                         "x": 135,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1363,7 +1363,7 @@
                     {
                         "map": "other_summary",
                         "x": 165,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1381,7 +1381,7 @@
                     {
                         "map": "other_summary",
                         "x": 180,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1399,7 +1399,7 @@
                     {
                         "map": "other_summary",
                         "x": 195,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1417,7 +1417,7 @@
                     {
                         "map": "other_summary",
                         "x": 210,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1435,7 +1435,7 @@
                     {
                         "map": "other_summary",
                         "x": 225,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1453,7 +1453,7 @@
                     {
                         "map": "other_summary",
                         "x": 255,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1471,7 +1471,7 @@
                     {
                         "map": "other_summary",
                         "x": 270,
-                        "y": 975,
+                        "y": 375,
                         "size": 15
                     }
                 ],
@@ -1488,7 +1488,7 @@
                     {
                         "map": "other_summary",
                         "x": 300,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1506,7 +1506,7 @@
                     {
                         "map": "other_summary",
                         "x": 330,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1524,7 +1524,7 @@
                     {
                         "map": "other_summary",
                         "x": 345,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1542,7 +1542,7 @@
                     {
                         "map": "other_summary",
                         "x": 375,
-                        "y": 975,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1560,7 +1560,7 @@
                     {
                         "map": "other_summary",
                         "x": 390,
-                        "y": 975,
+                        "y": 375,
                         "size": 15
                     }
                 ],
@@ -1577,7 +1577,7 @@
                     {
                         "map": "other_summary",
                         "x": 405,
-                        "y": 975,
+                        "y": 375,
                         "size": 15
                     }
                 ],
@@ -1593,8 +1593,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 1025,
+                        "x": 550,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1611,8 +1611,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 1025,
+                        "x": 565,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1629,8 +1629,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 105,
-                        "y": 1025,
+                        "x": 595,
+                        "y": 375,
                         "size": 15
                     }
                 ],
@@ -1646,8 +1646,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 1075,
+                        "x": 800,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1664,8 +1664,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 1075,
+                        "x": 815,
+                        "y": 375,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1682,8 +1682,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 90,
-                        "y": 1075,
+                        "x": 830,
+                        "y": 375,
                         "size": 15
                     }
                 ],
@@ -1700,7 +1700,7 @@
                     {
                         "map": "other_summary",
                         "x": 60,
-                        "y": 1125,
+                        "y": 425,
                         "size": 15
                     }
                 ],
@@ -1717,7 +1717,7 @@
                     {
                         "map": "other_summary",
                         "x": 60,
-                        "y": 1175,
+                        "y": 475,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1735,7 +1735,7 @@
                     {
                         "map": "other_summary",
                         "x": 90,
-                        "y": 1175,
+                        "y": 475,
                         "size": 15
                     }
                 ],
@@ -1752,7 +1752,7 @@
                     {
                         "map": "other_summary",
                         "x": 105,
-                        "y": 1175,
+                        "y": 475,
                         "size": 15
                     }
                 ],
@@ -1768,8 +1768,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 1225,
+                        "x": 550,
+                        "y": 475,
                         "size": 15
                     }
                 ],
@@ -1785,8 +1785,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 60,
-                        "y": 1275,
+                        "x": 800,
+                        "y": 475,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1803,8 +1803,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 75,
-                        "y": 1275,
+                        "x": 815,
+                        "y": 475,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1821,8 +1821,8 @@
                 "map_locations": [
                     {
                         "map": "other_summary",
-                        "x": 90,
-                        "y": 1275,
+                        "x": 830,
+                        "y": 475,
                         "size": 15
                     }
                 ],
@@ -1839,7 +1839,7 @@
                     {
                         "map": "other_summary",
                         "x": 60,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1857,7 +1857,7 @@
                     {
                         "map": "other_summary",
                         "x": 75,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1875,7 +1875,7 @@
                     {
                         "map": "other_summary",
                         "x": 105,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1893,7 +1893,7 @@
                     {
                         "map": "other_summary",
                         "x": 120,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1911,7 +1911,7 @@
                     {
                         "map": "other_summary",
                         "x": 135,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1929,7 +1929,7 @@
                     {
                         "map": "other_summary",
                         "x": 150,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1947,7 +1947,7 @@
                     {
                         "map": "other_summary",
                         "x": 165,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1965,7 +1965,7 @@
                     {
                         "map": "other_summary",
                         "x": 180,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -1983,7 +1983,7 @@
                     {
                         "map": "other_summary",
                         "x": 195,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2001,7 +2001,7 @@
                     {
                         "map": "other_summary",
                         "x": 210,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2019,7 +2019,7 @@
                     {
                         "map": "other_summary",
                         "x": 225,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2037,7 +2037,7 @@
                     {
                         "map": "other_summary",
                         "x": 240,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2055,7 +2055,7 @@
                     {
                         "map": "other_summary",
                         "x": 255,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2073,7 +2073,7 @@
                     {
                         "map": "other_summary",
                         "x": 270,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2091,7 +2091,7 @@
                     {
                         "map": "other_summary",
                         "x": 300,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2109,7 +2109,7 @@
                     {
                         "map": "other_summary",
                         "x": 315,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2127,7 +2127,7 @@
                     {
                         "map": "other_summary",
                         "x": 330,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2145,7 +2145,7 @@
                     {
                         "map": "other_summary",
                         "x": 345,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2163,7 +2163,7 @@
                     {
                         "map": "other_summary",
                         "x": 360,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2181,7 +2181,7 @@
                     {
                         "map": "other_summary",
                         "x": 375,
-                        "y": 1325,
+                        "y": 525,
                         "size": 15
                     }
                 ],
@@ -2198,7 +2198,7 @@
                     {
                         "map": "other_summary",
                         "x": 390,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2216,7 +2216,7 @@
                     {
                         "map": "other_summary",
                         "x": 420,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2234,7 +2234,7 @@
                     {
                         "map": "other_summary",
                         "x": 435,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2252,7 +2252,7 @@
                     {
                         "map": "other_summary",
                         "x": 450,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2270,7 +2270,7 @@
                     {
                         "map": "other_summary",
                         "x": 465,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2288,7 +2288,7 @@
                     {
                         "map": "other_summary",
                         "x": 480,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2306,7 +2306,7 @@
                     {
                         "map": "other_summary",
                         "x": 495,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2324,7 +2324,7 @@
                     {
                         "map": "other_summary",
                         "x": 510,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2342,7 +2342,7 @@
                     {
                         "map": "other_summary",
                         "x": 525,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2360,7 +2360,7 @@
                     {
                         "map": "other_summary",
                         "x": 555,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2378,7 +2378,7 @@
                     {
                         "map": "other_summary",
                         "x": 570,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2396,7 +2396,7 @@
                     {
                         "map": "other_summary",
                         "x": 585,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2414,7 +2414,7 @@
                     {
                         "map": "other_summary",
                         "x": 600,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2432,7 +2432,7 @@
                     {
                         "map": "other_summary",
                         "x": 615,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2450,7 +2450,7 @@
                     {
                         "map": "other_summary",
                         "x": 630,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2468,7 +2468,7 @@
                     {
                         "map": "other_summary",
                         "x": 645,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2486,7 +2486,7 @@
                     {
                         "map": "other_summary",
                         "x": 660,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2504,7 +2504,7 @@
                     {
                         "map": "other_summary",
                         "x": 675,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2522,7 +2522,7 @@
                     {
                         "map": "other_summary",
                         "x": 690,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2540,7 +2540,7 @@
                     {
                         "map": "other_summary",
                         "x": 720,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2558,7 +2558,7 @@
                     {
                         "map": "other_summary",
                         "x": 735,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2576,7 +2576,7 @@
                     {
                         "map": "other_summary",
                         "x": 750,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2594,7 +2594,7 @@
                     {
                         "map": "other_summary",
                         "x": 765,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2612,7 +2612,7 @@
                     {
                         "map": "other_summary",
                         "x": 795,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2630,7 +2630,7 @@
                     {
                         "map": "other_summary",
                         "x": 810,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2648,7 +2648,7 @@
                     {
                         "map": "other_summary",
                         "x": 825,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2666,7 +2666,7 @@
                     {
                         "map": "other_summary",
                         "x": 840,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2684,7 +2684,7 @@
                     {
                         "map": "other_summary",
                         "x": 855,
-                        "y": 1325,
+                        "y": 525,
                         "size": 10,
                         "shape": "trapezoid"
                     }
@@ -2702,7 +2702,7 @@
                     {
                         "map": "other_summary",
                         "x": 870,
-                        "y": 1325,
+                        "y": 525,
                         "size": 15
                     }
                 ],

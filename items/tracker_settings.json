@@ -2,85 +2,432 @@
     {
         "name": "Show Out of Logic",
         "type": "toggle",
-        "img": "images/icons/show-out-of-logic.png",
+        "img": "images/icons/items/tracker_settings/show-out-of-logic.png",
         "initial_active_state": true,
         "codes": "show_out_of_logic"
     },
     {
         "name": "Custom Logic",
         "type": "toggle",
-        "img": "images/icons/show-custom-logic.png",
-        "initial_active_state": true,
+        "img": "images/icons/items/tracker_settings/show-custom-logic.png",
+        "initial_active_state": false,
         "codes": "show_custom_logic"
     },
     {
         "name": "Smart Keys",
         "type": "toggle",
-        "img": "images/icons/items/keys_gems/key.png",
+        "img": "images/icons/items/tracker_settings/key.png",
         "initial_active_state": true,
         "codes": "smart_keys"
     },
     {
         "name": "Smart Gems",
         "type": "toggle",
-        "img": "images/icons/items/keys_gems/gem-1.png",
+        "img": "images/icons/items/tracker_settings/gem-1.png",
         "initial_active_state": true,
         "codes": "smart_gems"
     },
 
     {
-        "name": "Show Checkpoints",
+        "name": "Show Movement (Left)",
         "type": "toggle",
-        "img": "images/icons/checkpoint.png",
+        "img": "images/icons/items/tracker_settings/movement/movement_left.png",
         "initial_active_state": true,
-        "codes": "show_tracker_checkpoints"
+        "codes": "show_tracker_movement_left"
     },
     {
-        "name": "Show Goal",
+        "name": "Show Movement (Right)",
         "type": "toggle",
-        "img": "images/icons/chapters/7a.png",
+        "img": "images/icons/items/tracker_settings/movement/movement_right.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_movement_right"
+    },
+    {
+        "name": "Show Movement",
+        "type": "composite_toggle",
+        "item_left": "show_tracker_movement_left",
+        "item_right": "show_tracker_movement_right",
+        "codes": "show_tracker_movement",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/movement/movement_off.png"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/movement/movement_left.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/movement/movement_right.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/movement/movement.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Show Items (Left)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/items/items_left.png",
         "initial_active_state": true,
-        "codes": "show_tracker_goal"
+        "codes": "show_tracker_items_left"
+    },
+    {
+        "name": "Show Items (Right)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/items/items_right.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_items_right"
     },
     {
         "name": "Show Items",
+        "type": "composite_toggle",
+        "item_left": "show_tracker_items_left",
+        "item_right": "show_tracker_items_right",
+        "codes": "show_tracker_items",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/items/items_off.png"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/items/items_left.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/items/items_right.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/items/items.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Show Keys/Gems (Left)",
         "type": "toggle",
-        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "img": "images/icons/items/tracker_settings/keys_gems/keys_gems_left.png",
         "initial_active_state": true,
-        "codes": "show_tracker_items"
+        "codes": "show_tracker_keys_gems_left"
+    },
+    {
+        "name": "Show Keys/Gems (Right)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/keys_gems/keys_gems_right.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_keys_gems_right"
     },
     {
         "name": "Show Keys/Gems",
+        "type": "composite_toggle",
+        "item_left": "show_tracker_keys_gems_left",
+        "item_right": "show_tracker_keys_gems_right",
+        "codes": "show_tracker_keys_gems",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/keys_gems/keys_gems_off.png"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/keys_gems/keys_gems_left.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/keys_gems/keys_gems_right.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/keys_gems/keys_gems.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Show Progress Graph (Left)",
         "type": "toggle",
-        "img": "images/icons/items/keys_gems/key.png",
-        "initial_active_state": true,
-        "codes": "show_tracker_keys_gems"
+        "img": "images/icons/items/tracker_settings/progress_graph/progress_graph_left.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_progress_graph_left"
     },
     {
-        "name": "Show Progress",
+        "name": "Show Progress Graph (Right)",
         "type": "toggle",
-        "img": "images/icons/collectables/strawberry.png",
-        "initial_active_state": true,
-        "codes": "show_tracker_progress"
+        "img": "images/icons/items/tracker_settings/progress_graph/progress_graph_right.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_progress_graph_right"
     },
     {
         "name": "Show Progress Graph",
+        "type": "composite_toggle",
+        "item_left": "show_tracker_progress_graph_left",
+        "item_right": "show_tracker_progress_graph_right",
+        "codes": "show_tracker_progress_graph",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/progress_graph/progress_graph_off.png"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/progress_graph/progress_graph_left.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/progress_graph/progress_graph_right.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/progress_graph/progress_graph.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Show Checkpoints (Left)",
         "type": "toggle",
-        "img": "images/icons/progress_graph.png",
+        "img": "images/icons/items/tracker_settings/checkpoint/checkpoint_left.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_checkpoints_left"
+    },
+    {
+        "name": "Show Checkpoints (Right)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/checkpoint/checkpoint_right.png",
         "initial_active_state": true,
-        "codes": "show_tracker_progress_graph"
+        "codes": "show_tracker_checkpoints_right"
+    },
+    {
+        "name": "Show Checkpoints",
+        "type": "composite_toggle",
+        "item_left": "show_tracker_checkpoints_left",
+        "item_right": "show_tracker_checkpoints_right",
+        "codes": "show_tracker_checkpoints",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/checkpoint/checkpoint_off.png"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/checkpoint/checkpoint_left.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/checkpoint/checkpoint_right.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/checkpoint/checkpoint.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Show Progress (Left)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/progress/progress_left.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_progress_left"
+    },
+    {
+        "name": "Show Progress (Right)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/progress/progress_right.png",
+        "initial_active_state": true,
+        "codes": "show_tracker_progress_right"
+    },
+    {
+        "name": "Show Progress",
+        "type": "composite_toggle",
+        "item_left": "show_tracker_progress_left",
+        "item_right": "show_tracker_progress_right",
+        "codes": "show_tracker_progress",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/progress/progress_off.png"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/progress/progress_left.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/progress/progress_right.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/progress/progress.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Show Goal (Left)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/goal/goal_left.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_goal_left"
+    },
+    {
+        "name": "Show Goal (Right)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/goal/goal_right.png",
+        "initial_active_state": true,
+        "codes": "show_tracker_goal_right"
+    },
+    {
+        "name": "Show Goal",
+        "type": "composite_toggle",
+        "item_left": "show_tracker_goal_left",
+        "item_right": "show_tracker_goal_right",
+        "codes": "show_tracker_goal",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/goal/goal_off.png"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/goal/goal_left.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/goal/goal_right.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/goal/goal.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Show *-sanities (Left)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/sanities/sanities_left.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_sanities_left"
+    },
+    {
+        "name": "Show *-sanities (Right)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/sanities/sanities_right.png",
+        "initial_active_state": true,
+        "codes": "show_tracker_sanities_right"
     },
     {
         "name": "Show *-sanities",
-        "type": "toggle",
-        "img": "images/icons/sanities.png",
-        "initial_active_state": true,
-        "codes": "show_tracker_sanity"
+        "type": "composite_toggle",
+        "item_left": "show_tracker_sanities_left",
+        "item_right": "show_tracker_sanities_right",
+        "codes": "show_tracker_sanities",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/sanities/sanities_off.png"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/sanities/sanities_left.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/sanities/sanities_right.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/sanities/sanities.png"
+            }
+        ]
     },
+
+    {
+        "name": "Show Recent Items (Left)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/recent_items/recent_items_left.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_recent_items_left"
+    },
+    {
+        "name": "Show Recent Items (Right)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/recent_items/recent_items_right.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_recent_items_right"
+    },
+    {
+        "name": "Show Recent Items",
+        "type": "composite_toggle",
+        "item_left": "show_tracker_recent_items_left",
+        "item_right": "show_tracker_recent_items_right",
+        "codes": "show_tracker_recent_items",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/recent_items/recent_items_off.png"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/recent_items/recent_items_left.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/recent_items/recent_items_right.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/recent_items/recent_items.png"
+            }
+        ]
+    },
+
     {
         "name": "Show Triggers",
         "type": "toggle",
-        "img": "images/icons/hint_assist.png",
+        "img": "images/icons/items/tracker_settings/hint_assist.png",
         "initial_active_state": false,
         "codes": "show_tracker_triggers"
     }

@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
         "visibility_rules": [
             "include_b_sides",
             "goal_area_the_summit_b_side"
@@ -18,12 +20,6 @@
                 "x": 801,
                 "y": 27,
                 "size": 68
-            },
-            {
-                "map": "7_b_6_g-03",
-                "x": 407,
-                "y": 48,
-                "size": 25
             }
         ]
     }

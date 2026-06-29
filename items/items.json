@@ -1,5 +1,2444 @@
 [
     {
+        "name": "Forsaken City A - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "forsakencitya-traffic_blocks"
+    },
+    {
+        "name": "Forsaken City A - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "forsakencitya-dash_refills"
+    },
+    {
+        "name": "Forsaken City A - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "forsakencitya-springs"
+    },
+    {
+        "name": "Forsaken City A - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "forsakencitya-blue_cassette_blocks"
+    },
+    {
+        "name": "Forsaken City A - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "forsakencitya-pink_cassette_blocks"
+    },
+    {
+        "name": "Forsaken City B - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "forsakencityb-traffic_blocks"
+    },
+    {
+        "name": "Forsaken City B - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "forsakencityb-dash_refills"
+    },
+    {
+        "name": "Forsaken City B - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "forsakencityb-springs"
+    },
+    {
+        "name": "Forsaken City B - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "forsakencityb-blue_cassette_blocks"
+    },
+    {
+        "name": "Forsaken City B - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "forsakencityb-pink_cassette_blocks"
+    },
+    {
+        "name": "Forsaken City C - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "forsakencityc-dash_refills"
+    },
+    {
+        "name": "Forsaken City C - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "forsakencityc-coins"
+    },
+    {
+        "name": "Forsaken City C - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "forsakencityc-traffic_blocks"
+    },
+    {
+        "name": "Old Site A - Strawberry Seeds",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/strawberry_seeds.png",
+        "codes": "oldsitea-strawberry_seeds"
+    },
+    {
+        "name": "Old Site A - Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "oldsitea-dream_blocks"
+    },
+    {
+        "name": "Old Site A - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "oldsitea-dash_refills"
+    },
+    {
+        "name": "Old Site A - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "oldsitea-blue_cassette_blocks"
+    },
+    {
+        "name": "Old Site A - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "oldsitea-coins"
+    },
+    {
+        "name": "Old Site A - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "oldsitea-traffic_blocks"
+    },
+    {
+        "name": "Old Site A - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "oldsitea-springs"
+    },
+    {
+        "name": "Old Site A - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "oldsitea-pink_cassette_blocks"
+    },
+    {
+        "name": "Old Site B - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "oldsiteb-coins"
+    },
+    {
+        "name": "Old Site B - Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "oldsiteb-dream_blocks"
+    },
+    {
+        "name": "Old Site B - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "oldsiteb-dash_refills"
+    },
+    {
+        "name": "Old Site B - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "oldsiteb-springs"
+    },
+    {
+        "name": "Old Site B - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "oldsiteb-blue_cassette_blocks"
+    },
+    {
+        "name": "Old Site C - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "oldsitec-dash_refills"
+    },
+    {
+        "name": "Old Site C - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "oldsitec-coins"
+    },
+    {
+        "name": "Old Site C - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "oldsitec-springs"
+    },
+    {
+        "name": "Old Site C - Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "oldsitec-dream_blocks"
+    },
+    {
+        "name": "Celestial Resort A - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "celestialresorta-coins"
+    },
+    {
+        "name": "Celestial Resort A - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "celestialresorta-dash_refills"
+    },
+    {
+        "name": "Celestial Resort A - Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "celestialresorta-moving_platforms"
+    },
+    {
+        "name": "Celestial Resort A - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "celestialresorta-springs"
+    },
+    {
+        "name": "Celestial Resort A - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "celestialresorta-blue_cassette_blocks"
+    },
+    {
+        "name": "Celestial Resort A - Sinking Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
+        "codes": "celestialresorta-sinking_platforms"
+    },
+    {
+        "name": "Celestial Resort A - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "celestialresorta-pink_cassette_blocks"
+    },
+    {
+        "name": "Celestial Resort B - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "celestialresortb-coins"
+    },
+    {
+        "name": "Celestial Resort B - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "celestialresortb-dash_refills"
+    },
+    {
+        "name": "Celestial Resort B - Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "celestialresortb-moving_platforms"
+    },
+    {
+        "name": "Celestial Resort B - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "celestialresortb-springs"
+    },
+    {
+        "name": "Celestial Resort B - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "celestialresortb-blue_cassette_blocks"
+    },
+    {
+        "name": "Celestial Resort B - Sinking Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
+        "codes": "celestialresortb-sinking_platforms"
+    },
+    {
+        "name": "Celestial Resort B - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "celestialresortb-pink_cassette_blocks"
+    },
+    {
+        "name": "Celestial Resort C - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "celestialresortc-dash_refills"
+    },
+    {
+        "name": "Celestial Resort C - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "celestialresortc-coins"
+    },
+    {
+        "name": "Celestial Resort C - Sinking Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
+        "codes": "celestialresortc-sinking_platforms"
+    },
+    {
+        "name": "Golden Ridge A - Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "goldenridgea-pink_clouds"
+    },
+    {
+        "name": "Golden Ridge A - Strawberry Seeds",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/strawberry_seeds.png",
+        "codes": "goldenridgea-strawberry_seeds"
+    },
+    {
+        "name": "Golden Ridge A - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "goldenridgea-dash_refills"
+    },
+    {
+        "name": "Golden Ridge A - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "goldenridgea-blue_cassette_blocks"
+    },
+    {
+        "name": "Golden Ridge A - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "goldenridgea-coins"
+    },
+    {
+        "name": "Golden Ridge A - Blue Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "goldenridgea-blue_boosters"
+    },
+    {
+        "name": "Golden Ridge A - White Block",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/white_block.png",
+        "codes": "goldenridgea-white_block"
+    },
+    {
+        "name": "Golden Ridge A - Move Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "goldenridgea-move_blocks"
+    },
+    {
+        "name": "Golden Ridge A - Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "goldenridgea-moving_platforms"
+    },
+    {
+        "name": "Golden Ridge A - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "goldenridgea-springs"
+    },
+    {
+        "name": "Golden Ridge A - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "goldenridgea-pink_cassette_blocks"
+    },
+    {
+        "name": "Golden Ridge A - Blue Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "goldenridgea-blue_clouds"
+    },
+    {
+        "name": "Golden Ridge B - Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "goldenridgeb-pink_clouds"
+    },
+    {
+        "name": "Golden Ridge B - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "goldenridgeb-dash_refills"
+    },
+    {
+        "name": "Golden Ridge B - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "goldenridgeb-blue_cassette_blocks"
+    },
+    {
+        "name": "Golden Ridge B - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "goldenridgeb-coins"
+    },
+    {
+        "name": "Golden Ridge B - Blue Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "goldenridgeb-blue_boosters"
+    },
+    {
+        "name": "Golden Ridge B - Move Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "goldenridgeb-move_blocks"
+    },
+    {
+        "name": "Golden Ridge B - Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "goldenridgeb-moving_platforms"
+    },
+    {
+        "name": "Golden Ridge B - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "goldenridgeb-springs"
+    },
+    {
+        "name": "Golden Ridge B - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "goldenridgeb-pink_cassette_blocks"
+    },
+    {
+        "name": "Golden Ridge B - Blue Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "goldenridgeb-blue_clouds"
+    },
+    {
+        "name": "Golden Ridge C - Move Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "goldenridgec-move_blocks"
+    },
+    {
+        "name": "Golden Ridge C - Blue Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "goldenridgec-blue_boosters"
+    },
+    {
+        "name": "Golden Ridge C - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "goldenridgec-dash_refills"
+    },
+    {
+        "name": "Golden Ridge C - Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "goldenridgec-pink_clouds"
+    },
+    {
+        "name": "Mirror Temple A - Blue Torches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/blue_torches.png",
+        "codes": "mirrortemplea-blue_torches"
+    },
+    {
+        "name": "Mirror Temple A - Strawberry Seeds",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/strawberry_seeds.png",
+        "codes": "mirrortemplea-strawberry_seeds"
+    },
+    {
+        "name": "Mirror Temple A - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "mirrortemplea-dash_refills"
+    },
+    {
+        "name": "Mirror Temple A - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "mirrortemplea-blue_cassette_blocks"
+    },
+    {
+        "name": "Mirror Temple A - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "mirrortemplea-coins"
+    },
+    {
+        "name": "Mirror Temple A - Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "mirrortemplea-swap_blocks"
+    },
+    {
+        "name": "Mirror Temple A - Theo Crystal",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/theo_crystal.png",
+        "codes": "mirrortemplea-theo_crystal"
+    },
+    {
+        "name": "Mirror Temple A - Red Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "mirrortemplea-red_boosters"
+    },
+    {
+        "name": "Mirror Temple A - Yellow Torches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/yellow_torches.png",
+        "codes": "mirrortemplea-yellow_torches"
+    },
+    {
+        "name": "Mirror Temple A - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "mirrortemplea-springs"
+    },
+    {
+        "name": "Mirror Temple A - Dash Switches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/dash_switches.png",
+        "codes": "mirrortemplea-dash_switches"
+    },
+    {
+        "name": "Mirror Temple A - Seekers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/seekers.png",
+        "codes": "mirrortemplea-seekers"
+    },
+    {
+        "name": "Mirror Temple A - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "mirrortemplea-pink_cassette_blocks"
+    },
+    {
+        "name": "Mirror Temple B - Blue Torches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/blue_torches.png",
+        "codes": "mirrortempleb-blue_torches"
+    },
+    {
+        "name": "Mirror Temple B - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "mirrortempleb-dash_refills"
+    },
+    {
+        "name": "Mirror Temple B - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "mirrortempleb-blue_cassette_blocks"
+    },
+    {
+        "name": "Mirror Temple B - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "mirrortempleb-coins"
+    },
+    {
+        "name": "Mirror Temple B - Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "mirrortempleb-swap_blocks"
+    },
+    {
+        "name": "Mirror Temple B - Theo Crystal",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/theo_crystal.png",
+        "codes": "mirrortempleb-theo_crystal"
+    },
+    {
+        "name": "Mirror Temple B - Red Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "mirrortempleb-red_boosters"
+    },
+    {
+        "name": "Mirror Temple B - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "mirrortempleb-springs"
+    },
+    {
+        "name": "Mirror Temple B - Dash Switches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/dash_switches.png",
+        "codes": "mirrortempleb-dash_switches"
+    },
+    {
+        "name": "Mirror Temple B - Seekers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/seekers.png",
+        "codes": "mirrortempleb-seekers"
+    },
+    {
+        "name": "Mirror Temple B - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "mirrortempleb-pink_cassette_blocks"
+    },
+    {
+        "name": "Mirror Temple C - Dash Switches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/dash_switches.png",
+        "codes": "mirrortemplec-dash_switches"
+    },
+    {
+        "name": "Mirror Temple C - Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "mirrortemplec-swap_blocks"
+    },
+    {
+        "name": "Mirror Temple C - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "mirrortemplec-dash_refills"
+    },
+    {
+        "name": "Mirror Temple C - Red Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "mirrortemplec-red_boosters"
+    },
+    {
+        "name": "Mirror Temple C - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "mirrortemplec-springs"
+    },
+    {
+        "name": "Reflection A - Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "reflectiona-feathers"
+    },
+    {
+        "name": "Reflection A - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "reflectiona-dash_refills"
+    },
+    {
+        "name": "Reflection A - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "reflectiona-blue_cassette_blocks"
+    },
+    {
+        "name": "Reflection A - Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "reflectiona-badeline_boosters"
+    },
+    {
+        "name": "Reflection A - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "reflectiona-coins"
+    },
+    {
+        "name": "Reflection A - Bumpers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "reflectiona-bumpers"
+    },
+    {
+        "name": "Reflection A - Kevins",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "reflectiona-kevin_blocks"
+    },
+    {
+        "name": "Reflection A - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "reflectiona-springs"
+    },
+    {
+        "name": "Reflection A - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "reflectiona-pink_cassette_blocks"
+    },
+    {
+        "name": "Reflection B - Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "reflectionb-feathers"
+    },
+    {
+        "name": "Reflection B - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "reflectionb-dash_refills"
+    },
+    {
+        "name": "Reflection B - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "reflectionb-blue_cassette_blocks"
+    },
+    {
+        "name": "Reflection B - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "reflectionb-coins"
+    },
+    {
+        "name": "Reflection B - Bumpers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "reflectionb-bumpers"
+    },
+    {
+        "name": "Reflection B - Kevins",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "reflectionb-kevin_blocks"
+    },
+    {
+        "name": "Reflection B - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "reflectionb-springs"
+    },
+    {
+        "name": "Reflection B - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "reflectionb-pink_cassette_blocks"
+    },
+    {
+        "name": "Reflection C - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "reflectionc-dash_refills"
+    },
+    {
+        "name": "Reflection C - Kevins",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "reflectionc-kevin_blocks"
+    },
+    {
+        "name": "Reflection C - Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "reflectionc-feathers"
+    },
+    {
+        "name": "Reflection C - Bumpers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "reflectionc-bumpers"
+    },
+    {
+        "name": "The Summit A - Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "thesummita-dream_blocks"
+    },
+    {
+        "name": "The Summit A - Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "thesummita-badeline_boosters"
+    },
+    {
+        "name": "The Summit A - Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "thesummita-swap_blocks"
+    },
+    {
+        "name": "The Summit A - Red Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "thesummita-red_boosters"
+    },
+    {
+        "name": "The Summit A - Sinking Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
+        "codes": "thesummita-sinking_platforms"
+    },
+    {
+        "name": "The Summit A - Move Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "thesummita-move_blocks"
+    },
+    {
+        "name": "The Summit A - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "thesummita-springs"
+    },
+    {
+        "name": "The Summit A - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "thesummita-pink_cassette_blocks"
+    },
+    {
+        "name": "The Summit A - Blue Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "thesummita-blue_clouds"
+    },
+    {
+        "name": "The Summit A - Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "thesummita-pink_clouds"
+    },
+    {
+        "name": "The Summit A - Strawberry Seeds",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/strawberry_seeds.png",
+        "codes": "thesummita-strawberry_seeds"
+    },
+    {
+        "name": "The Summit A - Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "thesummita-feathers"
+    },
+    {
+        "name": "The Summit A - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "thesummita-dash_refills"
+    },
+    {
+        "name": "The Summit A - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "thesummita-blue_cassette_blocks"
+    },
+    {
+        "name": "The Summit A - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "thesummita-coins"
+    },
+    {
+        "name": "The Summit A - Blue Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "thesummita-blue_boosters"
+    },
+    {
+        "name": "The Summit A - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "thesummita-traffic_blocks"
+    },
+    {
+        "name": "The Summit A - Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "thesummita-moving_platforms"
+    },
+    {
+        "name": "The Summit A - Dash Switches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/dash_switches.png",
+        "codes": "thesummita-dash_switches"
+    },
+    {
+        "name": "The Summit B - Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "thesummitb-pink_clouds"
+    },
+    {
+        "name": "The Summit B - Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "thesummitb-dream_blocks"
+    },
+    {
+        "name": "The Summit B - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "thesummitb-dash_refills"
+    },
+    {
+        "name": "The Summit B - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "thesummitb-blue_cassette_blocks"
+    },
+    {
+        "name": "The Summit B - Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "thesummitb-badeline_boosters"
+    },
+    {
+        "name": "The Summit B - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "thesummitb-coins"
+    },
+    {
+        "name": "The Summit B - Blue Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "thesummitb-blue_boosters"
+    },
+    {
+        "name": "The Summit B - Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "thesummitb-swap_blocks"
+    },
+    {
+        "name": "The Summit B - Red Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "thesummitb-red_boosters"
+    },
+    {
+        "name": "The Summit B - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "thesummitb-traffic_blocks"
+    },
+    {
+        "name": "The Summit B - Move Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "thesummitb-move_blocks"
+    },
+    {
+        "name": "The Summit B - Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "thesummitb-moving_platforms"
+    },
+    {
+        "name": "The Summit B - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "thesummitb-springs"
+    },
+    {
+        "name": "The Summit B - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "thesummitb-pink_cassette_blocks"
+    },
+    {
+        "name": "The Summit B - Blue Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "thesummitb-blue_clouds"
+    },
+    {
+        "name": "The Summit C - Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "thesummitc-pink_clouds"
+    },
+    {
+        "name": "The Summit C - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "thesummitc-coins"
+    },
+    {
+        "name": "The Summit C - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "thesummitc-dash_refills"
+    },
+    {
+        "name": "The Summit C - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "thesummitc-springs"
+    },
+    {
+        "name": "The Summit C - Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "thesummitc-badeline_boosters"
+    },
+    {
+        "name": "Core A - Core Toggles",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_toggles.png",
+        "codes": "corea-core_toggles"
+    },
+    {
+        "name": "Core A - Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "corea-feathers"
+    },
+    {
+        "name": "Core A - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "corea-dash_refills"
+    },
+    {
+        "name": "Core A - Fire and Ice Balls",
+        "type": "toggle",
+        "img": "images/icons/items/core/fire_ice_balls.png",
+        "codes": "corea-fire_ice_balls"
+    },
+    {
+        "name": "Core A - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "corea-blue_cassette_blocks"
+    },
+    {
+        "name": "Core A - Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "corea-badeline_boosters"
+    },
+    {
+        "name": "Core A - Core Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_blocks.png",
+        "codes": "corea-core_blocks"
+    },
+    {
+        "name": "Core A - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "corea-coins"
+    },
+    {
+        "name": "Core A - Bumpers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "corea-bumpers"
+    },
+    {
+        "name": "Core A - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "corea-springs"
+    },
+    {
+        "name": "Core A - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "corea-pink_cassette_blocks"
+    },
+    {
+        "name": "Core B - Core Toggles",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_toggles.png",
+        "codes": "coreb-core_toggles"
+    },
+    {
+        "name": "Core B - Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "coreb-dream_blocks"
+    },
+    {
+        "name": "Core B - Fire and Ice Balls",
+        "type": "toggle",
+        "img": "images/icons/items/core/fire_ice_balls.png",
+        "codes": "coreb-fire_ice_balls"
+    },
+    {
+        "name": "Core B - Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "coreb-badeline_boosters"
+    },
+    {
+        "name": "Core B - Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "coreb-swap_blocks"
+    },
+    {
+        "name": "Core B - Kevins",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "coreb-kevin_blocks"
+    },
+    {
+        "name": "Core B - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "coreb-springs"
+    },
+    {
+        "name": "Core B - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "coreb-traffic_blocks"
+    },
+    {
+        "name": "Core B - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "coreb-pink_cassette_blocks"
+    },
+    {
+        "name": "Core B - Blue Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "coreb-blue_clouds"
+    },
+    {
+        "name": "Core B - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "coreb-dash_refills"
+    },
+    {
+        "name": "Core B - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "coreb-blue_cassette_blocks"
+    },
+    {
+        "name": "Core B - Core Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_blocks.png",
+        "codes": "coreb-core_blocks"
+    },
+    {
+        "name": "Core B - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "coreb-coins"
+    },
+    {
+        "name": "Core B - Bumpers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "coreb-bumpers"
+    },
+    {
+        "name": "Core B - Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "coreb-moving_platforms"
+    },
+    {
+        "name": "Core C - Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "corec-pink_clouds"
+    },
+    {
+        "name": "Core C - Core Toggles",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_toggles.png",
+        "codes": "corec-core_toggles"
+    },
+    {
+        "name": "Core C - Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "corec-dream_blocks"
+    },
+    {
+        "name": "Core C - Bumpers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "corec-bumpers"
+    },
+    {
+        "name": "Core C - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "corec-dash_refills"
+    },
+    {
+        "name": "Core C - Core Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_blocks.png",
+        "codes": "corec-core_blocks"
+    },
+    {
+        "name": "Core C - Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "corec-swap_blocks"
+    },
+    {
+        "name": "Core C - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "corec-traffic_blocks"
+    },
+    {
+        "name": "Core C - Kevins",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "corec-kevin_blocks"
+    },
+    {
+        "name": "Farewell - Pufferfish",
+        "type": "toggle",
+        "img": "images/icons/items/farewell/pufferfish.png",
+        "codes": "farewell-pufferfish"
+    },
+    {
+        "name": "Farewell - Bird",
+        "type": "toggle",
+        "img": "images/icons/items/farewell/bird.png",
+        "codes": "farewell-bird"
+    },
+    {
+        "name": "Farewell - Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "farewell-badeline_boosters"
+    },
+    {
+        "name": "Farewell - Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "farewell-swap_blocks"
+    },
+    {
+        "name": "Farewell - Kevins",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "farewell-kevin_blocks"
+    },
+    {
+        "name": "Farewell - Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "farewell-feathers"
+    },
+    {
+        "name": "Farewell - Core Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_blocks.png",
+        "codes": "farewell-core_blocks"
+    },
+    {
+        "name": "Farewell - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "farewell-coins"
+    },
+    {
+        "name": "Farewell - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "farewell-traffic_blocks"
+    },
+    {
+        "name": "Farewell - Jellyfish",
+        "type": "toggle",
+        "img": "images/icons/items/farewell/jellyfish.png",
+        "codes": "farewell-jellyfish"
+    },
+    {
+        "name": "Farewell - Dash Switches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/dash_switches.png",
+        "codes": "farewell-dash_switches"
+    },
+    {
+        "name": "Farewell - Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "farewell-dream_blocks"
+    },
+    {
+        "name": "Farewell - Fire and Ice Balls",
+        "type": "toggle",
+        "img": "images/icons/items/core/fire_ice_balls.png",
+        "codes": "farewell-fire_ice_balls"
+    },
+    {
+        "name": "Farewell - Double Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/double_dash_refills.png",
+        "codes": "farewell-double_dash_refills"
+    },
+    {
+        "name": "Farewell - Red Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "farewell-red_boosters"
+    },
+    {
+        "name": "Farewell - Breaker Boxes",
+        "type": "toggle",
+        "img": "images/icons/items/farewell/breaker_boxes.png",
+        "codes": "farewell-breaker_boxes"
+    },
+    {
+        "name": "Farewell - Move Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "farewell-move_blocks"
+    },
+    {
+        "name": "Farewell - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "farewell-springs"
+    },
+    {
+        "name": "Farewell - Blue Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "farewell-blue_clouds"
+    },
+    {
+        "name": "Farewell - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "farewell-pink_cassette_blocks"
+    },
+    {
+        "name": "Farewell - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "farewell-dash_refills"
+    },
+    {
+        "name": "Farewell - Green Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/green_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/green_cassette_blocks_off.png",
+        "codes": "farewell-green_cassette_blocks"
+    },
+    {
+        "name": "Farewell - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "farewell-blue_cassette_blocks"
+    },
+    {
+        "name": "Farewell - Yellow Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/yellow_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/yellow_cassette_blocks_off.png",
+        "codes": "farewell-yellow_cassette_blocks"
+    },
+    {
+        "name": "Farewell - Blue Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "farewell-blue_boosters"
+    },
+
+    {
+        "name": "A Side Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "a-badeline_boosters"
+    },
+    {
+        "name": "A Side Bird",
+        "type": "toggle",
+        "img": "images/icons/items/farewell/bird.png",
+        "codes": "a-bird"
+    },
+    {
+        "name": "A Side Blue Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "a-blue_boosters"
+    },
+    {
+        "name": "A Side Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "a-blue_cassette_blocks"
+    },
+    {
+        "name": "A Side Blue Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "a-blue_clouds"
+    },
+    {
+        "name": "A Side Blue Torches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/blue_torches.png",
+        "codes": "a-blue_torches"
+    },
+    {
+        "name": "A Side Breaker Boxes",
+        "type": "toggle",
+        "img": "images/icons/items/farewell/breaker_boxes.png",
+        "codes": "a-breaker_boxes"
+    },
+    {
+        "name": "A Side Bumpers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "a-bumpers"
+    },
+    {
+        "name": "A Side Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "a-coins"
+    },
+    {
+        "name": "A Side Core Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_blocks.png",
+        "codes": "a-core_blocks"
+    },
+    {
+        "name": "A Side Core Toggles",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_toggles.png",
+        "codes": "a-core_toggles"
+    },
+    {
+        "name": "A Side Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "a-dash_refills"
+    },
+    {
+        "name": "A Side Dash Switches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/dash_switches.png",
+        "codes": "a-dash_switches"
+    },
+    {
+        "name": "A Side Double Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/double_dash_refills.png",
+        "codes": "a-double_dash_refills"
+    },
+    {
+        "name": "A Side Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "a-dream_blocks"
+    },
+    {
+        "name": "A Side Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "a-feathers"
+    },
+    {
+        "name": "A Side Fire and Ice Balls",
+        "type": "toggle",
+        "img": "images/icons/items/core/fire_ice_balls.png",
+        "codes": "a-fire_ice_balls"
+    },
+    {
+        "name": "A Side Green Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/green_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/green_cassette_blocks_off.png",
+        "codes": "a-green_cassette_blocks"
+    },
+    {
+        "name": "A Side Jellyfish",
+        "type": "toggle",
+        "img": "images/icons/items/farewell/jellyfish.png",
+        "codes": "a-jellyfish"
+    },
+    {
+        "name": "A Side Kevins",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "a-kevin_blocks"
+    },
+    {
+        "name": "A Side Move Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "a-move_blocks"
+    },
+    {
+        "name": "A Side Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "a-moving_platforms"
+    },
+    {
+        "name": "A Side Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "a-pink_cassette_blocks"
+    },
+    {
+        "name": "A Side Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "a-pink_clouds"
+    },
+    {
+        "name": "A Side Pufferfish",
+        "type": "toggle",
+        "img": "images/icons/items/farewell/pufferfish.png",
+        "codes": "a-pufferfish"
+    },
+    {
+        "name": "A Side Red Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "a-red_boosters"
+    },
+    {
+        "name": "A Side Seekers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/seekers.png",
+        "codes": "a-seekers"
+    },
+    {
+        "name": "A Side Sinking Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
+        "codes": "a-sinking_platforms"
+    },
+    {
+        "name": "A Side Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "a-springs"
+    },
+    {
+        "name": "A Side Strawberry Seeds",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/strawberry_seeds.png",
+        "codes": "a-strawberry_seeds"
+    },
+    {
+        "name": "A Side Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "a-swap_blocks"
+    },
+    {
+        "name": "A Side Theo Crystal",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/theo_crystal.png",
+        "codes": "a-theo_crystal"
+    },
+    {
+        "name": "A Side Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "a-traffic_blocks"
+    },
+    {
+        "name": "A Side White Block",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/white_block.png",
+        "codes": "a-white_block"
+    },
+    {
+        "name": "A Side Yellow Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/yellow_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/yellow_cassette_blocks_off.png",
+        "codes": "a-yellow_cassette_blocks"
+    },
+    {
+        "name": "A Side Yellow Torches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/yellow_torches.png",
+        "codes": "a-yellow_torches"
+    },
+
+    {
+        "name": "B Side Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "b-badeline_boosters"
+    },
+    {
+        "name": "B Side Blue Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "b-blue_boosters"
+    },
+    {
+        "name": "B Side Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "b-blue_cassette_blocks"
+    },
+    {
+        "name": "B Side Blue Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "b-blue_clouds"
+    },
+    {
+        "name": "B Side Blue Torches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/blue_torches.png",
+        "codes": "b-blue_torches"
+    },
+    {
+        "name": "B Side Bumpers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "b-bumpers"
+    },
+    {
+        "name": "B Side Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "b-coins"
+    },
+    {
+        "name": "B Side Core Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_blocks.png",
+        "codes": "b-core_blocks"
+    },
+    {
+        "name": "B Side Core Toggles",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_toggles.png",
+        "codes": "b-core_toggles"
+    },
+    {
+        "name": "B Side Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "b-dash_refills"
+    },
+    {
+        "name": "B Side Dash Switches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/dash_switches.png",
+        "codes": "b-dash_switches"
+    },
+    {
+        "name": "B Side Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "b-dream_blocks"
+    },
+    {
+        "name": "B Side Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "b-feathers"
+    },
+    {
+        "name": "B Side Fire and Ice Balls",
+        "type": "toggle",
+        "img": "images/icons/items/core/fire_ice_balls.png",
+        "codes": "b-fire_ice_balls"
+    },
+    {
+        "name": "B Side Kevins",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "b-kevin_blocks"
+    },
+    {
+        "name": "B Side Move Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "b-move_blocks"
+    },
+    {
+        "name": "B Side Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "b-moving_platforms"
+    },
+    {
+        "name": "B Side Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "b-pink_cassette_blocks"
+    },
+    {
+        "name": "B Side Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "b-pink_clouds"
+    },
+    {
+        "name": "B Side Red Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "b-red_boosters"
+    },
+    {
+        "name": "B Side Seekers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/seekers.png",
+        "codes": "b-seekers"
+    },
+    {
+        "name": "B Side Sinking Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
+        "codes": "b-sinking_platforms"
+    },
+    {
+        "name": "B Side Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "b-springs"
+    },
+    {
+        "name": "B Side Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "b-swap_blocks"
+    },
+    {
+        "name": "B Side Theo Crystal",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/theo_crystal.png",
+        "codes": "b-theo_crystal"
+    },
+    {
+        "name": "B Side Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "b-traffic_blocks"
+    },
+
+    {
+        "name": "C Side Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "c-badeline_boosters"
+    },
+    {
+        "name": "C Side Blue Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "c-blue_boosters"
+    },
+    {
+        "name": "C Side Bumpers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "c-bumpers"
+    },
+    {
+        "name": "C Side Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "c-coins"
+    },
+    {
+        "name": "C Side Core Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_blocks.png",
+        "codes": "c-core_blocks"
+    },
+    {
+        "name": "C Side Core Toggles",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_toggles.png",
+        "codes": "c-core_toggles"
+    },
+    {
+        "name": "C Side Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "c-dash_refills"
+    },
+    {
+        "name": "C Side Dash Switches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/dash_switches.png",
+        "codes": "c-dash_switches"
+    },
+    {
+        "name": "C Side Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "c-dream_blocks"
+    },
+    {
+        "name": "C Side Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "c-feathers"
+    },
+    {
+        "name": "C Side Kevins",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "c-kevin_blocks"
+    },
+    {
+        "name": "C Side Move Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "c-move_blocks"
+    },
+    {
+        "name": "C Side Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "c-pink_clouds"
+    },
+    {
+        "name": "C Side Red Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "c-red_boosters"
+    },
+    {
+        "name": "C Side Sinking Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
+        "codes": "c-sinking_platforms"
+    },
+    {
+        "name": "C Side Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "c-springs"
+    },
+    {
+        "name": "C Side Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "c-swap_blocks"
+    },
+    {
+        "name": "C Side Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "c-traffic_blocks"
+    },
+
+    {
+        "name": "Forsaken City - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "forsakencity-blue_cassette_blocks"
+    },
+    {
+        "name": "Forsaken City - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "forsakencity-coins"
+    },
+    {
+        "name": "Forsaken City - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "forsakencity-dash_refills"
+    },
+    {
+        "name": "Forsaken City - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "forsakencity-pink_cassette_blocks"
+    },
+    {
+        "name": "Forsaken City - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "forsakencity-springs"
+    },
+    {
+        "name": "Forsaken City - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "forsakencity-traffic_blocks"
+    },
+
+    {
+        "name": "Old Site - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "oldsite-blue_cassette_blocks"
+    },
+    {
+        "name": "Old Site - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "oldsite-coins"
+    },
+    {
+        "name": "Old Site - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "oldsite-dash_refills"
+    },
+    {
+        "name": "Old Site - Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "oldsite-dream_blocks"
+    },
+    {
+        "name": "Old Site - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "oldsite-pink_cassette_blocks"
+    },
+    {
+        "name": "Old Site - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "oldsite-springs"
+    },
+    {
+        "name": "Old Site - Strawberry Seeds",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/strawberry_seeds.png",
+        "codes": "oldsite-strawberry_seeds"
+    },
+    {
+        "name": "Old Site - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "oldsite-traffic_blocks"
+    },
+
+    {
+        "name": "Celestial Resort - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "celestialresort-blue_cassette_blocks"
+    },
+    {
+        "name": "Celestial Resort - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "celestialresort-coins"
+    },
+    {
+        "name": "Celestial Resort - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "celestialresort-dash_refills"
+    },
+    {
+        "name": "Celestial Resort - Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "celestialresort-moving_platforms"
+    },
+    {
+        "name": "Celestial Resort - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "celestialresort-pink_cassette_blocks"
+    },
+    {
+        "name": "Celestial Resort - Sinking Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
+        "codes": "celestialresort-sinking_platforms"
+    },
+    {
+        "name": "Celestial Resort - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "celestialresort-springs"
+    },
+
+    {
+        "name": "Golden Ridge - Blue Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "goldenridge-blue_boosters"
+    },
+    {
+        "name": "Golden Ridge - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "goldenridge-blue_cassette_blocks"
+    },
+    {
+        "name": "Golden Ridge - Blue Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "goldenridge-blue_clouds"
+    },
+    {
+        "name": "Golden Ridge - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "goldenridge-coins"
+    },
+    {
+        "name": "Golden Ridge - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "goldenridge-dash_refills"
+    },
+    {
+        "name": "Golden Ridge - Move Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "goldenridge-move_blocks"
+    },
+    {
+        "name": "Golden Ridge - Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "goldenridge-moving_platforms"
+    },
+    {
+        "name": "Golden Ridge - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "goldenridge-pink_cassette_blocks"
+    },
+    {
+        "name": "Golden Ridge - Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "goldenridge-pink_clouds"
+    },
+    {
+        "name": "Golden Ridge - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "goldenridge-springs"
+    },
+    {
+        "name": "Golden Ridge - Strawberry Seeds",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/strawberry_seeds.png",
+        "codes": "goldenridge-strawberry_seeds"
+    },
+    {
+        "name": "Golden Ridge - White Block",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/white_block.png",
+        "codes": "goldenridge-white_block"
+    },
+
+    {
+        "name": "Mirror Temple - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "mirrortemple-blue_cassette_blocks"
+    },
+    {
+        "name": "Mirror Temple - Blue Torches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/blue_torches.png",
+        "codes": "mirrortemple-blue_torches"
+    },
+    {
+        "name": "Mirror Temple - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "mirrortemple-coins"
+    },
+    {
+        "name": "Mirror Temple - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "mirrortemple-dash_refills"
+    },
+    {
+        "name": "Mirror Temple - Dash Switches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/dash_switches.png",
+        "codes": "mirrortemple-dash_switches"
+    },
+    {
+        "name": "Mirror Temple - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "mirrortemple-pink_cassette_blocks"
+    },
+    {
+        "name": "Mirror Temple - Red Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "mirrortemple-red_boosters"
+    },
+    {
+        "name": "Mirror Temple - Seekers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/seekers.png",
+        "codes": "mirrortemple-seekers"
+    },
+    {
+        "name": "Mirror Temple - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "mirrortemple-springs"
+    },
+    {
+        "name": "Mirror Temple - Strawberry Seeds",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/strawberry_seeds.png",
+        "codes": "mirrortemple-strawberry_seeds"
+    },
+    {
+        "name": "Mirror Temple - Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "mirrortemple-swap_blocks"
+    },
+    {
+        "name": "Mirror Temple - Theo Crystal",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/theo_crystal.png",
+        "codes": "mirrortemple-theo_crystal"
+    },
+    {
+        "name": "Mirror Temple - Yellow Torches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/yellow_torches.png",
+        "codes": "mirrortemple-yellow_torches"
+    },
+    {
+        "name": "Reflection - Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "reflection-badeline_boosters"
+    },
+
+    {
+        "name": "Reflection - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "reflection-blue_cassette_blocks"
+    },
+    {
+        "name": "Reflection - Bumpers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "reflection-bumpers"
+    },
+    {
+        "name": "Reflection - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "reflection-coins"
+    },
+    {
+        "name": "Reflection - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "reflection-dash_refills"
+    },
+    {
+        "name": "Reflection - Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "reflection-feathers"
+    },
+    {
+        "name": "Reflection - Kevins",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "reflection-kevin_blocks"
+    },
+    {
+        "name": "Reflection - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "reflection-pink_cassette_blocks"
+    },
+    {
+        "name": "Reflection - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "reflection-springs"
+    },
+
+    {
+        "name": "The Summit - Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "thesummit-badeline_boosters"
+    },
+    {
+        "name": "The Summit - Blue Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "thesummit-blue_boosters"
+    },
+    {
+        "name": "The Summit - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "thesummit-blue_cassette_blocks"
+    },
+    {
+        "name": "The Summit - Blue Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "thesummit-blue_clouds"
+    },
+    {
+        "name": "The Summit - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "thesummit-coins"
+    },
+    {
+        "name": "The Summit - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "thesummit-dash_refills"
+    },
+    {
+        "name": "The Summit - Dash Switches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/dash_switches.png",
+        "codes": "thesummit-dash_switches"
+    },
+    {
+        "name": "The Summit - Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "thesummit-dream_blocks"
+    },
+    {
+        "name": "The Summit - Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "thesummit-feathers"
+    },
+    {
+        "name": "The Summit - Move Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "thesummit-move_blocks"
+    },
+    {
+        "name": "The Summit - Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "thesummit-moving_platforms"
+    },
+    {
+        "name": "The Summit - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "thesummit-pink_cassette_blocks"
+    },
+    {
+        "name": "The Summit - Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "thesummit-pink_clouds"
+    },
+    {
+        "name": "The Summit - Red Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "thesummit-red_boosters"
+    },
+    {
+        "name": "The Summit - Sinking Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
+        "codes": "thesummit-sinking_platforms"
+    },
+    {
+        "name": "The Summit - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "thesummit-springs"
+    },
+    {
+        "name": "The Summit - Strawberry Seeds",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/strawberry_seeds.png",
+        "codes": "thesummit-strawberry_seeds"
+    },
+    {
+        "name": "The Summit - Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "thesummit-swap_blocks"
+    },
+    {
+        "name": "The Summit - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "thesummit-traffic_blocks"
+    },
+
+    {
+        "name": "Core - Badeline Boosters",
+        "type": "toggle",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "core-badeline_boosters"
+    },
+    {
+        "name": "Core - Blue Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "core-blue_cassette_blocks"
+    },
+    {
+        "name": "Core - Blue Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "core-blue_clouds"
+    },
+    {
+        "name": "Core - Bumpers",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "core-bumpers"
+    },
+    {
+        "name": "Core - Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "core-coins"
+    },
+    {
+        "name": "Core - Core Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_blocks.png",
+        "codes": "core-core_blocks"
+    },
+    {
+        "name": "Core - Core Toggles",
+        "type": "toggle",
+        "img": "images/icons/items/core/core_toggles.png",
+        "codes": "core-core_toggles"
+    },
+    {
+        "name": "Core - Dash Refills",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "core-dash_refills"
+    },
+    {
+        "name": "Core - Dream Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "core-dream_blocks"
+    },
+    {
+        "name": "Core - Feathers",
+        "type": "toggle",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "core-feathers"
+    },
+    {
+        "name": "Core - Fire and Ice Balls",
+        "type": "toggle",
+        "img": "images/icons/items/core/fire_ice_balls.png",
+        "codes": "core-fire_ice_balls"
+    },
+    {
+        "name": "Core - Kevins",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "core-kevin_blocks"
+    },
+    {
+        "name": "Core - Moving Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "core-moving_platforms"
+    },
+    {
+        "name": "Core - Pink Cassette Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "core-pink_cassette_blocks"
+    },
+    {
+        "name": "Core - Pink Clouds",
+        "type": "toggle",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "core-pink_clouds"
+    },
+    {
+        "name": "Core - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "core-springs"
+    },
+    {
+        "name": "Core - Swap Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "core-swap_blocks"
+    },
+    {
+        "name": "Core - Traffic Blocks",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "core-traffic_blocks"
+    },
+
+    {
         "name": "Badeline Boosters",
         "type": "toggle",
         "img": "images/icons/items/boosters/badeline_boosters.png",
@@ -43,6 +2482,12 @@
         "codes": "bumpers"
     },
     {
+        "name": "Coins",
+        "type": "toggle",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "coins"
+    },
+    {
         "name": "Core Blocks",
         "type": "toggle",
         "img": "images/icons/items/core/core_blocks.png",
@@ -79,22 +2524,16 @@
         "codes": "dream_blocks"
     },
     {
-        "name": "Fire / Ice Balls",
-        "type": "toggle",
-        "img": "images/icons/items/core/fire_ice_balls.png",
-        "codes": "fire_ice_balls"
-    },
-    {
-        "name": "Sinking Platforms",
-        "type": "toggle",
-        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
-        "codes": "sinking_platforms"
-    },
-    {
         "name": "Feathers",
         "type": "toggle",
         "img": "images/icons/items/pickups/feathers.png",
         "codes": "feathers"
+    },
+    {
+        "name": "Fire and Ice Balls",
+        "type": "toggle",
+        "img": "images/icons/items/core/fire_ice_balls.png",
+        "codes": "fire_ice_balls"
     },
     {
         "name": "Green Cassette Blocks",
@@ -110,7 +2549,7 @@
         "codes": "jellyfish"
     },
     {
-        "name": "Kevin Blocks",
+        "name": "Kevins",
         "type": "toggle",
         "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
         "codes": "kevin_blocks"
@@ -159,6 +2598,12 @@
         "codes": "seekers"
     },
     {
+        "name": "Sinking Platforms",
+        "type": "toggle",
+        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
+        "codes": "sinking_platforms"
+    },
+    {
         "name": "Springs",
         "type": "toggle",
         "img": "images/icons/items/bouncers/springs.png",
@@ -183,18 +2628,6 @@
         "codes": "theo_crystal"
     },
     {
-        "name": "Torches",
-        "type": "toggle",
-        "img": "images/icons/items/switches/torches.png",
-        "codes": "torches"
-    },
-    {
-        "name": "Coins",
-        "type": "toggle",
-        "img": "images/icons/items/switches/coins.png",
-        "codes": "coins"
-    },
-    {
         "name": "Traffic Blocks",
         "type": "toggle",
         "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
@@ -212,5 +2645,17 @@
         "img": "images/icons/items/cassette_blocks/yellow_cassette_blocks.png",
         "disabled_img": "images/icons/items/cassette_blocks/yellow_cassette_blocks_off.png",
         "codes": "yellow_cassette_blocks"
+    },
+    {
+        "name": "Yellow Torches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/yellow_torches.png",
+        "codes": "yellow_torches"
+    },
+    {
+        "name": "Blue Torches",
+        "type": "toggle",
+        "img": "images/icons/items/switches/blue_torches.png",
+        "codes": "blue_torches"
     }
 ]

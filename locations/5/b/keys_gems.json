@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/key_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/key_opened.png",
         "visibility_rules": [
             "include_b_sides"
         ],
@@ -17,13 +19,6 @@
                 "x": 791,
                 "y": 1495,
                 "size": 36,
-                "shape": "trapezoid"
-            },
-            {
-                "map": "5_b_1_b-02",
-                "x": 71,
-                "y": 279,
-                "size": 25,
                 "shape": "trapezoid"
             }
         ]
@@ -37,6 +32,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/key_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/key_opened.png",
         "visibility_rules": [
             "include_b_sides"
         ],
@@ -46,13 +43,6 @@
                 "x": 967,
                 "y": 1495,
                 "size": 36,
-                "shape": "trapezoid"
-            },
-            {
-                "map": "5_b_1_b-02",
-                "x": 247,
-                "y": 279,
-                "size": 25,
                 "shape": "trapezoid"
             }
         ]

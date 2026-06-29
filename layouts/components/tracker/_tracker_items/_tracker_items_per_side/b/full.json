@@ -1,0 +1,13 @@
+{
+    "tracker_items_b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "b-sides-icon", "b-blue_cassette_blocks", "b-pink_cassette_blocks", "b-traffic_blocks", "b-dash_refills", "b-springs", "b-dream_blocks", "b-coins", "b-moving_platforms", "b-sinking_platforms", "b-blue_clouds" ],
+            [ "", "b-pink_clouds", "b-move_blocks", "b-blue_boosters", "b-red_boosters", "b-swap_blocks", "b-dash_switches", "b-theo_crystal", "b-seekers", "b-blue_torches", "b-feathers" ],
+            [ "", "b-kevin_blocks", "b-bumpers", "b-badeline_boosters", "b-core_toggles", "b-core_blocks", "b-fire_ice_balls" ]
+        ]
+    }
+}

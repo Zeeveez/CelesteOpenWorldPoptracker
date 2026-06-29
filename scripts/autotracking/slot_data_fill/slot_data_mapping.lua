@@ -10,10 +10,12 @@ SLOT_DATA_MAPPING = {
             ["9c"] = 5,
             ["10a"] = 6,
             ["10b"] = 7,
-            ["10c"] = 8
+            ["10c"] = 8,
+            ["poetry"] = 9
         }
 	},
 	['lock_goal_area'] = { { 'lock_goal_area' } },
+	['logic_difficulty'] = { { 'logic_difficulty' } },
 
 	['include_b_sides'] = { { 'include_b_sides' } },
 	['include_c_sides'] = { { 'include_c_sides' } },
@@ -27,6 +29,11 @@ SLOT_DATA_MAPPING = {
 	['gemsanity'] = { { 'gemsanity' } },
 	['binosanity'] = { { 'binosanity' } },
 	['checkpointsanity'] = { { 'checkpointsanity' } },
+	
+	['split_interactables'] = { { 'split_interactables' } },
+	['dash_shuffle'] = { { 'dash_shuffle' } },
+	['climb_shuffle'] = { { 'climb_shuffle' } },
+	['crouch_shuffle'] = { { 'crouch_shuffle' } },
 	
 	['trap_link'] = { { 'trap_link' } },
 	['baldtrap'] = { { 'active_traps', '32' } },
@@ -42,6 +49,7 @@ SLOT_DATA_MAPPING = {
 	['laughtertrap'] = { { 'active_traps', '42' } },
 	['hiccuptrap'] = { { 'active_traps', '43' } },
 	['zoomtrap'] = { { 'active_traps', '44' } },
+	['tinytrap'] = { { 'active_traps', '45' } },
 
 	['death_link_amnesty'] = { { 'death_link_amnesty' }, { 'death_link' } }
 }

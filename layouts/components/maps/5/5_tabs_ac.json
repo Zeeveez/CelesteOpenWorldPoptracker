@@ -1,0 +1,33 @@
+{
+    "5": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "A",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "5_a"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "C",
+                "content": {
+                    "type": "dock",
+                    "background": "#212121",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "5_c"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

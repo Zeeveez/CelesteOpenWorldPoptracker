@@ -1,0 +1,133 @@
+{
+    "6_a": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Start",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_6a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "6_a_0"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Lake",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_6a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "6_a_1"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Hollows",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_6a"
+                        },
+                        {
+                            "type": "itemgrid",
+                            "dock": "top",
+                            "item_margin": "2,2",
+                            "item_size": "3,3",
+                            "rows": [
+                                [ "dash_sequence_u", "dash_sequence_l", "dash_sequence_dr", "dash_sequence_ur", "dash_sequence_l", "dash_sequence_ul" ],
+                                [ "dash_sequence_u", "dash_sequence_r", "dash_sequence_dl", "dash_sequence_ul", "dash_sequence_r", "dash_sequence_ur" ],
+                                [ "dash_sequence_d", "dash_sequence_l", "dash_sequence_ur", "dash_sequence_dr", "dash_sequence_l", "dash_sequence_dl" ],
+                                [ "dash_sequence_d", "dash_sequence_r", "dash_sequence_ul", "dash_sequence_dl", "dash_sequence_r", "dash_sequence_dr" ]
+                            ]
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "6_a_2"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Reflection",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_6a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "6_a_3"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Rock Bottom",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_6a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "6_a_4"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Resolution",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_6a"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "6_a_5"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "tracker_sanities_left": {
+        "type": "group",
+        "background": "#00000000",
+        "header": "*-sanity",
+        "content": {
+            "type": "itemgrid",
+            "h_alignment": "left",
+            "item_margin": "2,2",
+            "item_size": "3,3",
+            "rows": [
+                [
+                    "carsanity",
+                    "roomsanity",
+                    "keysanity",
+                    "gemsanity",
+                    "binosanity",
+                    "checkpointsanity"
+                ]
+            ]
+        }
+    }
+}

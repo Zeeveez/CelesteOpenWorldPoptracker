@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/golden_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/golden_opened.png",
         "visibility_rules": [
             "include_b_sides,include_goldens",
             "goal_area_the_summit_b_side,include_goldens"
@@ -18,12 +20,6 @@
                 "x": 288,
                 "y": 1382,
                 "size": 40
-            },
-            {
-                "map": "7_b_0_a-00",
-                "x": 288,
-                "y": 126,
-                "size": 25
             }
         ]
     }

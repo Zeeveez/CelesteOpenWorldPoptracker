@@ -1,0 +1,18 @@
+{
+    "tracker_items_b_1_2_3_4_5_6": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_size": "2,2",
+        "rows": [
+            [ "forsakencityb-icon", "forsakencityb-blue_cassette_blocks", "forsakencityb-pink_cassette_blocks", "", "", "forsakencityb-traffic_blocks", "forsakencityb-dash_refills", "forsakencityb-springs" ],
+            [ "oldsiteb-icon", "oldsiteb-blue_cassette_blocks", "", "", "", "", "oldsiteb-dash_refills", "oldsiteb-springs", "oldsiteb-dream_blocks", "oldsiteb-coins" ],
+            [ "celestialresortb-icon", "celestialresortb-blue_cassette_blocks", "celestialresortb-pink_cassette_blocks", "", "", "", "celestialresortb-dash_refills", "celestialresortb-springs", "", "celestialresortb-coins", "celestialresortb-moving_platforms", "celestialresortb-sinking_platforms" ],
+            [ "goldenridgeb-icon", "goldenridgeb-blue_cassette_blocks", "goldenridgeb-pink_cassette_blocks", "", "", "", "goldenridgeb-dash_refills", "goldenridgeb-springs", "", "goldenridgeb-coins", "goldenridgeb-moving_platforms", "", "goldenridgeb-blue_clouds", "goldenridgeb-pink_clouds", "goldenridgeb-move_blocks", "goldenridgeb-blue_boosters" ],
+            [ "mirrortempleb-icon", "mirrortempleb-blue_cassette_blocks", "mirrortempleb-pink_cassette_blocks", "", "", "", "mirrortempleb-dash_refills", "mirrortempleb-springs", "", "mirrortempleb-coins" ],
+            [ "", "mirrortempleb-red_boosters", "mirrortempleb-swap_blocks", "mirrortempleb-dash_switches", "mirrortempleb-theo_crystal", "mirrortempleb-seekers", "mirrortempleb-blue_torches" ],
+            [ "reflectionb-icon", "reflectionb-blue_cassette_blocks", "reflectionb-pink_cassette_blocks", "", "", "", "reflectionb-dash_refills", "reflectionb-springs", "", "reflectionb-coins" ],
+            [ "", "", "", "", "reflectionb-feathers", "reflectionb-kevin_blocks", "reflectionb-bumpers" ]
+        ]
+    }
+}

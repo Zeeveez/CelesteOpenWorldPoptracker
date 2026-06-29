@@ -1,0 +1,42 @@
+{
+    "tracker_items": {
+        "type": "group",
+        "background": "#00000000",
+        "header": "Items",
+        "content": {
+            "type": "dock",
+            "content": [
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_items_1"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_items_2_3_4"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_items_5"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_items_6_7"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_items_9"
+                },
+                {
+                    "type": "layout",
+                    "dock": "top",
+                    "key": "tracker_items_10"
+                }
+            ]
+        }
+    }
+}

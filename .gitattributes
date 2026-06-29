@@ -68,5 +68,16 @@
 *.py export-ignore
 *.csv export-ignore
 /versions.json export-ignore
+/images/maps/0/*.png export-ignore
+/images/maps/1/*.png export-ignore
+/images/maps/2/*.png export-ignore
+/images/maps/3/*.png export-ignore
+/images/maps/4/*.png export-ignore
+/images/maps/5/*.png export-ignore
+/images/maps/6/*.png export-ignore
+/images/maps/7/*.png export-ignore
+/images/maps/8/*.png export-ignore
+/images/maps/9/*.png export-ignore
+/images/maps/10/*.png export-ignore
 /images/docs export-ignore
 /README.md export-ignore

@@ -1,0 +1,25 @@
+{
+    "tracker_items_2_3_4": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "oldsite-icon", "oldsite-blue_cassette_blocks", "oldsite-pink_cassette_blocks", "oldsite-strawberry_seeds", "oldsite-traffic_blocks", "oldsite-dash_refills", "oldsite-springs", "oldsite-dream_blocks", "oldsite-coins" ],
+            [ "celestialresort-icon", "celestialresort-blue_cassette_blocks", "celestialresort-pink_cassette_blocks", "celestialresort-dash_refills", "celestialresort-springs", "celestialresort-coins", "celestialresort-moving_platforms", "celestialresort-sinking_platforms" ],
+            [ "goldenridge-icon", "goldenridge-blue_cassette_blocks", "goldenridge-pink_cassette_blocks", "goldenridge-strawberry_seeds", "goldenridge-white_block", "goldenridge-dash_refills", "goldenridge-springs", "goldenridge-coins", "goldenridge-moving_platforms", "goldenridge-blue_clouds", "goldenridge-pink_clouds" ],
+            [ "", "goldenridge-move_blocks", "goldenridge-blue_boosters" ]
+        ]
+    },
+    "tracker_items_6_7": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "2,2",
+        "rows": [
+            [ "reflection-icon", "reflection-blue_cassette_blocks", "reflection-pink_cassette_blocks", "reflection-dash_refills", "reflection-springs", "reflection-coins", "reflection-feathers", "reflection-kevin_blocks", "reflection-bumpers", "reflection-badeline_boosters" ],
+            [ "thesummit-icon", "thesummit-blue_cassette_blocks", "thesummit-pink_cassette_blocks", "thesummit-strawberry_seeds", "thesummit-traffic_blocks", "thesummit-dash_refills", "thesummit-springs", "thesummit-dream_blocks", "thesummit-coins", "thesummit-moving_platforms", "thesummit-sinking_platforms" ],
+            [ "", "thesummit-blue_clouds", "thesummit-pink_clouds", "thesummit-move_blocks", "thesummit-blue_boosters", "thesummit-red_boosters", "thesummit-swap_blocks", "thesummit-dash_switches", "thesummit-feathers", "thesummit-badeline_boosters" ]
+        ]
+    }
+}

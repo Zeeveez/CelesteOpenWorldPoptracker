@@ -8,18 +8,14 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
         "map_locations": [
             {
                 "map": "0_a_0",
                 "x": 2486,
                 "y": 211,
                 "size": 42
-            },
-            {
-                "map": "0_a_0_3",
-                "x": 934,
-                "y": 115,
-                "size": 25
             }
         ]
     },
@@ -32,6 +28,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/car_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/car_opened.png",
         "visibility_rules": [
             "carsanity"
         ],
@@ -41,13 +39,6 @@
                 "x": 210,
                 "y": 326,
                 "size": 42,
-                "shape": "trapezoid"
-            },
-            {
-                "map": "0_a_0_-1",
-                "x": 210,
-                "y": 142,
-                "size": 25,
                 "shape": "trapezoid"
             }
         ]

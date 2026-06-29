@@ -1,0 +1,23 @@
+{
+    "tracker_progress_left": {
+        "type": "group",
+        "background": "#00000000",
+        "header": "Progress",
+        "content": {
+            "type": "itemgrid",
+            "h_alignment": "left",
+            "item_margin": "2,2",
+            "item_size": "4,4",
+            "rows": [
+                [
+                    "strawberry",
+                    "crystal_heart",
+                    "grannys_house_keys",
+                    "auto_tab",
+                    "auto_where_am_i",
+                    "where_am_i"
+                ]
+            ]
+        }
+    }
+}

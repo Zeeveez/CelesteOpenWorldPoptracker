@@ -1,0 +1,26 @@
+{
+    "2_c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Begin",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_2c"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "2_c_0"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

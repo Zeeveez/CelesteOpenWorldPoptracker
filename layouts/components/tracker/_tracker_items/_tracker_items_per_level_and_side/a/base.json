@@ -1,0 +1,48 @@
+{
+    "tracker_items_a_1_2_3_4_5_6": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_size": "2,2",
+        "rows": [
+            [ "forsakencitya-icon", "forsakencitya-blue_cassette_blocks", "forsakencitya-pink_cassette_blocks", "", "", "forsakencitya-traffic_blocks", "forsakencitya-dash_refills", "forsakencitya-springs" ],
+            [ "oldsitea-icon", "oldsitea-blue_cassette_blocks", "oldsitea-pink_cassette_blocks", "oldsitea-strawberry_seeds", "", "oldsitea-traffic_blocks", "oldsitea-dash_refills", "oldsitea-springs", "oldsitea-dream_blocks", "oldsitea-coins" ],
+            [ "celestialresorta-icon", "celestialresorta-blue_cassette_blocks", "celestialresorta-pink_cassette_blocks", "", "", "", "celestialresorta-dash_refills", "celestialresorta-springs", "", "celestialresorta-coins", "celestialresorta-moving_platforms", "celestialresorta-sinking_platforms" ],
+            [ "goldenridgea-icon", "goldenridgea-blue_cassette_blocks", "goldenridgea-pink_cassette_blocks", "goldenridgea-strawberry_seeds", "goldenridgea-white_block", "", "goldenridgea-dash_refills", "goldenridgea-springs", "", "goldenridgea-coins", "goldenridgea-moving_platforms", "", "goldenridgea-blue_clouds", "goldenridgea-pink_clouds", "goldenridgea-move_blocks", "goldenridgea-blue_boosters" ],
+            [ "mirrortemplea-icon", "mirrortemplea-blue_cassette_blocks", "mirrortemplea-pink_cassette_blocks", "mirrortemplea-strawberry_seeds", "", "", "mirrortemplea-dash_refills", "mirrortemplea-springs", "", "mirrortemplea-coins" ],
+            [ "", "mirrortemplea-red_boosters", "mirrortemplea-swap_blocks", "mirrortemplea-dash_switches", "mirrortemplea-theo_crystal", "mirrortemplea-seekers", "mirrortemplea-blue_torches", "mirrortemplea-yellow_torches" ],
+            [ "reflectiona-icon", "reflectiona-blue_cassette_blocks", "reflectiona-pink_cassette_blocks", "", "", "", "reflectiona-dash_refills", "reflectiona-springs", "", "reflectiona-coins" ],
+            [ "", "", "", "", "reflectiona-feathers", "reflectiona-kevin_blocks", "reflectiona-bumpers", "reflectiona-badeline_boosters" ]
+        ]
+    },
+    "tracker_items_a_7": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_size": "2,2",
+        "rows": [
+            [ "thesummita-icon", "thesummita-blue_cassette_blocks", "thesummita-pink_cassette_blocks", "thesummita-strawberry_seeds", "", "thesummita-traffic_blocks", "thesummita-dash_refills", "thesummita-springs", "thesummita-dream_blocks", "thesummita-coins", "thesummita-moving_platforms", "thesummita-sinking_platforms", "thesummita-blue_clouds", "thesummita-pink_clouds", "thesummita-move_blocks", "thesummita-blue_boosters" ],
+            [ "", "thesummita-red_boosters", "thesummita-swap_blocks", "thesummita-dash_switches", "thesummita-feathers", "", "", "thesummita-badeline_boosters" ]
+        ]
+    },
+    "tracker_items_a_9": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_size": "2,2",
+        "rows": [
+            [ "corea-icon", "corea-blue_cassette_blocks", "corea-pink_cassette_blocks", "", "", "", "corea-dash_refills", "corea-springs", "", "corea-coins" ],
+            [ "", "", "", "", "corea-feathers", "", "corea-bumpers", "corea-badeline_boosters", "corea-core_toggles", "corea-core_blocks", "corea-fire_ice_balls" ],
+        ]
+    },
+    "tracker_items_a_10": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_size": "2,2",
+        "rows": [
+            [ "farewell-icon", "farewell-blue_cassette_blocks", "farewell-pink_cassette_blocks", "farewell-green_cassette_blocks", "farewell-yellow_cassette_blocks", "farewell-traffic_blocks", "farewell-dash_refills", "farewell-springs", "farewell-dream_blocks", "farewell-coins", "", "", "farewell-blue_clouds", "", "farewell-move_blocks", "farewell-blue_boosters" ],
+            [ "", "farewell-red_boosters", "farewell-swap_blocks", "farewell-dash_switches", "farewell-feathers", "farewell-kevin_blocks", "", "farewell-badeline_boosters", "", "farewell-core_blocks", "farewell-fire_ice_balls", "farewell-double_dash_refills", "farewell-pufferfish", "farewell-jellyfish", "farewell-bird", "farewell-breaker_boxes" ]
+        ]
+    }
+}

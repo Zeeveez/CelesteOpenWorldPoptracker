@@ -1,0 +1,26 @@
+{
+    "9_c": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Begin",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "map_items_9c"
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "9_c_0"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

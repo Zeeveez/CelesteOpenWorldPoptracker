@@ -1,0 +1,11 @@
+{
+    "tracker_progress_graph_left": {
+        "type": "group",
+        "background": "#00000000",
+        "header": "Progress Graph",
+        "content": {
+            "type": "map",
+            "maps": [ "everything_summary" ]
+        }
+    }
+}

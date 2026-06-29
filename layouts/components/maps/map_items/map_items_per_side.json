@@ -1,0 +1,228 @@
+{
+    "map_items_1a": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "a-sides-icon", "a-springs", "a-traffic_blocks", "a-pink_cassette_blocks", "a-blue_cassette_blocks", "a-dash_refills" ]
+        ]
+    },
+    "map_items_1b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "b-sides-icon", "b-springs", "b-traffic_blocks", "b-pink_cassette_blocks", "b-blue_cassette_blocks", "b-dash_refills" ]
+        ]
+    },
+    "map_items_1c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "c-sides-icon", "c-traffic_blocks", "c-coins", "c-dash_refills" ]
+        ]
+    },
+    "map_items_2a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "a-sides-icon", "a-springs", "a-traffic_blocks", "a-pink_cassette_blocks", "a-blue_cassette_blocks", "a-dream_blocks", "a-coins", "a-dash_refills", "a-strawberry_seeds" ]
+        ]
+    },
+    "map_items_2b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "b-sides-icon", "b-springs", "b-blue_cassette_blocks", "b-dream_blocks", "b-coins", "b-dash_refills" ]
+        ]
+    },
+    "map_items_2c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "c-sides-icon", "c-springs", "c-dream_blocks", "c-coins", "c-dash_refills" ]
+        ]
+    },
+    "map_items_3a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "a-sides-icon", "a-springs", "a-pink_cassette_blocks", "a-blue_cassette_blocks", "a-coins", "a-moving_platforms", "a-dash_refills", "a-sinking_platforms" ]
+        ]
+    },
+    "map_items_3b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "b-sides-icon", "b-springs", "b-pink_cassette_blocks", "b-blue_cassette_blocks", "b-coins", "b-moving_platforms", "b-dash_refills", "b-sinking_platforms" ]
+        ]
+    },
+    "map_items_3c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "c-sides-icon", "c-coins", "c-dash_refills", "c-sinking_platforms" ]
+        ]
+    },
+    "map_items_4a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "a-sides-icon", "a-springs", "a-pink_cassette_blocks", "a-blue_cassette_blocks", "a-coins", "a-moving_platforms", "a-blue_boosters", "a-blue_clouds", "a-move_blocks", "a-pink_clouds", "a-dash_refills", "a-strawberry_seeds", "a-white_block" ]
+        ]
+    },
+    "map_items_4b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "b-sides-icon", "b-springs", "b-pink_cassette_blocks", "b-blue_cassette_blocks", "b-coins", "b-moving_platforms", "b-blue_boosters", "b-blue_clouds", "b-move_blocks", "b-pink_clouds", "b-dash_refills" ]
+        ]
+    },
+    "map_items_4c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "c-sides-icon", "c-blue_boosters", "c-move_blocks", "c-pink_clouds", "c-dash_refills" ]
+        ]
+    },
+    "map_items_5a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "a-sides-icon", "a-springs", "a-pink_cassette_blocks", "a-blue_cassette_blocks", "a-coins", "a-swap_blocks", "a-red_boosters", "a-theo_crystal", "a-dash_refills", "a-dash_switches", "a-seekers", "a-strawberry_seeds", "a-blue_torches", "a-yellow_torches" ]
+        ]
+    },
+    "map_items_5b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "b-sides-icon", "b-springs", "b-pink_cassette_blocks", "b-blue_cassette_blocks", "b-coins", "b-swap_blocks", "b-red_boosters", "b-theo_crystal", "b-dash_refills", "b-dash_switches", "b-seekers", "b-blue_torches" ]
+        ]
+    },
+    "map_items_5c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "c-sides-icon", "c-springs", "c-swap_blocks", "c-red_boosters", "c-dash_refills", "c-dash_switches" ]
+        ]
+    },
+    "map_items_6a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "a-sides-icon", "a-springs", "a-pink_cassette_blocks", "a-blue_cassette_blocks", "a-coins", "a-feathers", "a-bumpers", "a-kevin_blocks", "a-badeline_boosters", "a-dash_refills" ]
+        ]
+    },
+    "map_items_6b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "b-sides-icon", "b-springs", "b-pink_cassette_blocks", "b-blue_cassette_blocks", "b-coins", "b-feathers", "b-bumpers", "b-kevin_blocks", "b-dash_refills" ]
+        ]
+    },
+    "map_items_6c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "c-sides-icon", "c-feathers", "c-bumpers", "c-kevin_blocks", "c-dash_refills" ]
+        ]
+    },
+    "map_items_7a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "a-sides-icon", "a-springs", "a-traffic_blocks", "a-pink_cassette_blocks", "a-blue_cassette_blocks", "a-dream_blocks", "a-coins", "a-moving_platforms", "a-blue_boosters", "a-blue_clouds", "a-move_blocks", "a-swap_blocks", "a-red_boosters", "a-feathers", "a-pink_clouds", "a-badeline_boosters", "a-dash_refills", "a-dash_switches", "a-strawberry_seeds", "a-sinking_platforms" ]
+        ]
+    },
+    "map_items_7b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "b-sides-icon", "b-springs", "b-traffic_blocks", "b-pink_cassette_blocks", "b-blue_cassette_blocks", "b-dream_blocks", "b-coins", "b-moving_platforms", "b-blue_boosters", "b-move_blocks", "b-swap_blocks", "b-red_boosters", "b-pink_clouds", "b-badeline_boosters", "b-dash_refills" ]
+        ]
+    },
+    "map_items_7c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "c-sides-icon", "c-springs", "c-coins", "c-pink_clouds", "c-badeline_boosters", "c-dash_refills" ]
+        ]
+    },
+    "map_items_9a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "a-sides-icon", "a-springs", "a-pink_cassette_blocks", "a-blue_cassette_blocks", "a-coins", "a-feathers", "a-bumpers", "a-badeline_boosters", "a-fire_ice_balls", "a-core_toggles", "a-core_blocks", "a-dash_refills" ]
+        ]
+    },
+    "map_items_9b": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "b-sides-icon", "b-springs", "b-traffic_blocks", "b-pink_cassette_blocks", "b-blue_cassette_blocks", "b-dream_blocks", "b-coins", "b-moving_platforms", "b-blue_clouds", "b-swap_blocks", "b-bumpers", "b-kevin_blocks", "b-badeline_boosters", "b-fire_ice_balls", "b-core_toggles", "b-core_blocks", "b-dash_refills" ]
+        ]
+    },
+    "map_items_9c": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "c-sides-icon", "c-traffic_blocks", "c-dream_blocks", "c-swap_blocks", "c-bumpers", "c-kevin_blocks", "c-pink_clouds", "c-core_toggles", "c-core_blocks", "c-dash_refills" ]
+        ]
+    },
+    "map_items_10a": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "2,2",
+        "item_size": "3,3",
+        "rows": [
+            [ "a-sides-icon", "a-springs", "a-traffic_blocks", "a-blue_cassette_blocks", "a-pink_cassette_blocks", "a-dream_blocks", "a-coins", "a-blue_boosters", "a-blue_clouds", "a-move_blocks", "a-swap_blocks", "a-red_boosters", "a-feathers", "a-kevin_blocks" ],
+            [ "", "a-badeline_boosters", "a-fire_ice_balls", "a-core_blocks", "a-pufferfish", "a-jellyfish", "a-breaker_boxes", "a-dash_refills", "a-double_dash_refills", "a-yellow_cassette_blocks", "a-green_cassette_blocks", "a-dash_switches", "a-bird" ]
+        ]
+    }
+}

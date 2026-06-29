@@ -8,6 +8,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
             "include_b_sides"
         ],
@@ -16,13 +18,6 @@
                 "map": "2_b_1",
                 "x": 267,
                 "y": 865,
-                "size": 25,
-                "shape": "diamond"
-            },
-            {
-                "map": "2_b_1_03",
-                "x": 243,
-                "y": 153,
                 "size": 25,
                 "shape": "diamond"
             }
@@ -37,6 +32,8 @@
                 ]
             }
         ],
+        "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
             "include_b_sides"
         ],
@@ -46,13 +43,6 @@
                 "x": 35,
                 "y": 1657,
                 "size": 33,
-                "shape": "diamond"
-            },
-            {
-                "map": "2_b_2_08b",
-                "x": 35,
-                "y": 153,
-                "size": 25,
                 "shape": "diamond"
             }
         ]
