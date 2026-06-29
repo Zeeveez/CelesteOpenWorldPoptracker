@@ -1,6 +1,29 @@
 {
     "versions": [
         {
+            "package_version": "2.0.0",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v2.0.0.zip",
+            "sha256": "2FB0B35134BF2015AB21002C0BE3A00549E620BED1ED9B3C19F926A0C8C6B7F5",
+            "changelog": [
+                "Celeste (Open World) 1.1 Support",
+                "OOL Disabled - Pending rework for new settings",
+                "Recent Items feed",
+                "Layout rework",
+                "Issue#040: for vertical layout, allow picking which side various elements get placed on",
+                "Issue#041: combine b- and c-sides into a single row on the summary pages",
+                "Issue#042: 6c 01 -> 02 without dash refills",
+                "Issue#043: Hide B/C side related info when not enabled",
+                "Issue#044: 8a d-03 without springs",
+                "Issue#045: 7b f-02 missing springs",
+                "Issue#046: 4a d-02 cloudless or without blue boosters",
+                "Issue#047: 8a b-04 without core blocks",
+                "Issue#048: 8a b-05 without ice balls",
+                "Issue#049: 8a b-06 berry with bumpers only",
+                "Issue#050: farewell f-01 without springs",
+                "Issue#051: 8a d-04 -> d-05 itemless"
+            ]
+        },
+        {
             "package_version": "1.3.0",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v1.3.0.zip",
             "sha256": "515EA9CBB8DCFD09FD3D5DC6E81BAC938AB554B8FA483269731CE62583C6CDC4",
