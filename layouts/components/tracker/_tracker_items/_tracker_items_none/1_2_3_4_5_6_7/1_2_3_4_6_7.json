@@ -17,8 +17,7 @@
         "item_margin": "2,2",
         "item_size": "3,3",
         "rows": [
-            [ "reflection-icon", "feathers", "bumpers", "kevin_blocks", "badeline_boosters" ],
-            [ "thesummit-icon" ]
+            [ "reflection-icon", "feathers", "bumpers", "kevin_blocks", "badeline_boosters" ]
         ]
     }
 }
