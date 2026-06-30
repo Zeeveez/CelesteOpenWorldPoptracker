@@ -5,7 +5,7 @@
         "content": [
             {
                 "type": "group",
-                "header": "Goal",
+                "header": "Goal + Difficulty",
                 "content": {
                     "type": "itemgrid",
                     "h_alignment": "left",
