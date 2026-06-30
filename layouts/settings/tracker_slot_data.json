@@ -1,132 +1,152 @@
 {
     "tracker_slot_data": {
         "type": "array",
-        "orientation": "vertical",
+        "orientation": "horizontal",
         "content": [
             {
                 "type": "group",
-                "header": "Goal + Difficulty",
+                "header": "Logic",
                 "content": {
-                    "type": "itemgrid",
-                    "h_alignment": "left",
-                    "item_margin": "2,2",
-                    "item_size": "5,5",
-                    "rows": [
-                        [
-                            "strawberries_required",
-                            "goal_area",
-                            "lock_goal_area",
-                            "logic_difficulty"
-                        ]
+                    "type": "array",
+                    "orientation": "vertical",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Goal + Difficulty",
+                            "content": {
+                                "type": "itemgrid",
+                                "h_alignment": "left",
+                                "item_margin": "2,2",
+                                "item_size": "5,5",
+                                "rows": [
+                                    [
+                                        "strawberries_required",
+                                        "goal_area",
+                                        "lock_goal_area",
+                                        "logic_difficulty"
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Chapter Access",
+                            "content": {
+                                "type": "itemgrid",
+                                "h_alignment": "left",
+                                "item_margin": "2,2",
+                                "item_size": "5,5",
+                                "rows": [
+                                    [
+                                        "include_b_sides",
+                                        "include_c_sides",
+                                        "include_core",
+                                        "include_farewell",
+                                        "include_goldens"
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "*-sanity",
+                            "content": {
+                                "type": "itemgrid",
+                                "h_alignment": "left",
+                                "item_margin": "2,2",
+                                "item_size": "5,5",
+                                "rows": [
+                                    [
+                                        "carsanity",
+                                        "roomsanity",
+                                        "keysanity",
+                                        "gemsanity",
+                                        "binosanity",
+                                        "checkpointsanity"
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "content": {
+                                "type": "itemgrid",
+                                "h_alignment": "left",
+                                "item_margin": "2,2",
+                                "item_size": "5,5",
+                                "rows": [
+                                    [
+                                        "split_interactables",
+                                        "dash_shuffle",
+                                        "climb_shuffle",
+                                        "crouch_shuffle",
+                                        "torch_behavior"
+                                    ]
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "type": "group",
-                "header": "Chapter Access",
+                "header": "Death/Trap Links",
                 "content": {
-                    "type": "itemgrid",
-                    "h_alignment": "left",
-                    "item_margin": "2,2",
-                    "item_size": "5,5",
-                    "rows": [
-                        [
-                            "include_b_sides",
-                            "include_c_sides",
-                            "include_core",
-                            "include_farewell",
-                            "include_goldens"
-                        ]
-                    ]
-                }
-            },
-            {
-                "type": "group",
-                "header": "*-sanity",
-                "content": {
-                    "type": "itemgrid",
-                    "h_alignment": "left",
-                    "item_margin": "2,2",
-                    "item_size": "5,5",
-                    "rows": [
-                        [
-                            "carsanity",
-                            "roomsanity",
-                            "keysanity",
-                            "gemsanity",
-                            "binosanity",
-                            "checkpointsanity"
-                        ]
-                    ]
-                }
-            },
-            {
-                "type": "group",
-                "header": "Items",
-                "content": {
-                    "type": "itemgrid",
-                    "h_alignment": "left",
-                    "item_margin": "2,2",
-                    "item_size": "5,5",
-                    "rows": [
-                        [
-                            "split_interactables",
-                            "dash_shuffle",
-                            "climb_shuffle",
-                            "crouch_shuffle",
-                            "torch_behavior"
-                        ]
-                    ]
-                }
-            },
-            {
-                "type": "group",
-                "header": "Death Link",
-                "content": {
-                    "type": "itemgrid",
-                    "h_alignment": "left",
-                    "item_margin": "2,2",
-                    "item_size": "5,5",
-                    "rows": [
-                        [
-                            "death_link_amnesty",
-                            "death_link_receipt_style"
-                        ]
-                    ]
-                }
-            },
-            {
-                "type": "group",
-                "header": "Traps",
-                "content": {
-                    "type": "itemgrid",
-                    "h_alignment": "left",
-                    "item_margin": "2,2",
-                    "item_size": "5,5",
-                    "rows": [
-                        [
-                            "trap_link",
-                            "trap_expiration_action"
-                        ],
-                        [
-                            "baldtrap",
-                            "literaturetrap",
-                            "stuntrap",
-                            "invisibletrap",
-                            "fasttrap",
-                            "slowtrap"
-                        ],
-                        [
-                            "icetrap",
-                            "reversetrap",
-                            "screenfliptrap",
-                            "laughtertrap",
-                            "hiccuptrap",
-                            "zoomtrap"
-                        ],
-                        [
-                            "tinytrap"
-                        ]
+                    "type": "array",
+                    "orientation": "vertical",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Death Link",
+                            "content": {
+                                "type": "itemgrid",
+                                "h_alignment": "left",
+                                "item_margin": "2,2",
+                                "item_size": "5,5",
+                                "rows": [
+                                    [
+                                        "death_link_amnesty",
+                                        "death_link_receipt_style"
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Traps",
+                            "content": {
+                                "type": "itemgrid",
+                                "h_alignment": "left",
+                                "item_margin": "2,2",
+                                "item_size": "5,5",
+                                "rows": [
+                                    [
+                                        "trap_link",
+                                        "trap_expiration_action"
+                                    ],
+                                    [
+                                        "baldtrap",
+                                        "literaturetrap",
+                                        "stuntrap",
+                                        "invisibletrap",
+                                        "fasttrap",
+                                        "slowtrap"
+                                    ],
+                                    [
+                                        "icetrap",
+                                        "reversetrap",
+                                        "screenfliptrap",
+                                        "laughtertrap",
+                                        "hiccuptrap",
+                                        "zoomtrap"
+                                    ],
+                                    [
+                                        "tinytrap"
+                                    ]
+                                ]
+                            }
+                        }
                     ]
                 }
             }
