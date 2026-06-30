@@ -4,6 +4,7 @@ require("scripts/autotracking/ap_mapping/item_mapping")
 require("scripts/autotracking/ap_mapping/location_mapping")
 require("scripts/autotracking/slot_data_fill/slot_data_fill")
 
+BERRY_COUNT = 0
 CUR_INDEX = -1
 received_item_cache = {}
 
@@ -31,11 +32,17 @@ print(dump_table(slot_data))
     ResolveClimbShuffleChange()
     ResolveDashShuffleChange()
 
+    BERRY_COUNT = 0
+    for i = 0,1499 do 
+        local berry_farm_obj = Tracker:FindObjectForCode('berry_farm_'..i)
+        berry_farm_obj.Icon = "images/icons/collectables/empty.png"
+    end
+    local berry_farm_obj = Tracker:FindObjectForCode('berry_farm_golden')
+    berry_farm_obj.Icon = "images/icons/collectables/empty.png"
     ResetRecentItemfeed()
 end
 Archipelago:AddClearHandler("clear handler", onClear)
 
-BERRY_COUNT = 0
 function onItem(index, item_id, item_name, player_number)
     if index <= CUR_INDEX then
         return
