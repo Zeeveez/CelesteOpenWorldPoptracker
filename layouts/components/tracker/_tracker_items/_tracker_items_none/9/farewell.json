@@ -5,7 +5,7 @@
         "item_margin": "2,2",
         "item_size": "3,3",
         "rows": [
-            [ "core-icon", "", "core_blocks" ]
+            [ "core-icon", "fire_ice_balls", "core_blocks" ]
         ]
     }
 }

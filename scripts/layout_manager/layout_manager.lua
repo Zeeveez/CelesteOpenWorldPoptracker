@@ -122,7 +122,7 @@ function ItemsChange()
 			Tracker:AddLayouts("layouts/components/tracker/_tracker_items/_tracker_items_none/1_2_3_4_5_6_7/5_no_torches.json")
 		end
 
-		if include_core_a_side or include_core_b_side then
+		if include_core_a_side or include_core_b_side or (include_core_c_side and include_farewell) then
 			Tracker:AddLayouts("layouts/components/tracker/_tracker_items/_tracker_items_none/9/9.json")
 		elseif include_core_c_side then
 			Tracker:AddLayouts("layouts/components/tracker/_tracker_items/_tracker_items_none/9/9c.json")
