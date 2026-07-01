@@ -48,7 +48,7 @@
                 }
             },
             {
-                "title": "Berries",
+                "title": "Berry Journal",
                 "content": {
                     "type": "layout",
                     "key": "berries"
