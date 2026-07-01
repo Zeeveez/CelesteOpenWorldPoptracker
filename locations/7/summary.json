@@ -1411,10 +1411,6 @@
                 ],
                 "sections": [
                     {
-                        "name": "The Summit A - Gem 2",
-                        "ref": "The Summit A - Gem 2/"
-                    },
-                    {
                         "name": "The Summit A - Room b-01 Binoculars",
                         "ref": "The Summit A - Room b-01 Binoculars/"
                     },
@@ -1425,6 +1421,10 @@
                     {
                         "name": "The Summit A - Room b-02b Binoculars",
                         "ref": "The Summit A - Room b-02b Binoculars/"
+                    },
+                    {
+                        "name": "The Summit A - Gem 2",
+                        "ref": "The Summit A - Gem 2/"
                     }
                 ]
             },
@@ -1441,10 +1441,6 @@
                 ],
                 "sections": [
                     {
-                        "name": "The Summit A - Gem 3",
-                        "ref": "The Summit A - Gem 3/"
-                    },
-                    {
                         "name": "The Summit A - Room c-03b Binoculars",
                         "ref": "The Summit A - Room c-03b Binoculars/"
                     },
@@ -1459,6 +1455,10 @@
                     {
                         "name": "The Summit A - Room c-07b Binoculars",
                         "ref": "The Summit A - Room c-07b Binoculars/"
+                    },
+                    {
+                        "name": "The Summit A - Gem 3",
+                        "ref": "The Summit A - Gem 3/"
                     }
                 ]
             },

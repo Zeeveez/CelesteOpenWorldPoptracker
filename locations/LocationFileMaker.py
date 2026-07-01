@@ -16,7 +16,7 @@ def write_file(data, path):
         f.write(json.dumps(data, indent=4))
 
 TYPE_SETS = (
-    ('berries',('berry','golden')),
+    ('berries',('berry','golden','winged_golden','moon_berry','seeded_berry','winged_berry')),
     ('checkpoints',('checkpoint')),
     ('binos',('bino')),
     ('other',('clear','cassette','heart','car')),
@@ -31,7 +31,11 @@ SUMMARY_CHECKPOINT_SIZE = 10
 SUMMARY_CHECKPOINT_GAP = 15
 SPECIFIC_SUMMARY_SIZES = {
     'berry': 10,
+    'winged_berry': 10,
+    'seeded_berry': 10,
+    'moon_berry': 10,
     'golden': 15,
+    'winged_golden': 15,
     'checkpoint': 15,
     'room': 10,
     'clear': 15,
@@ -66,7 +70,7 @@ SUMMARY_TYPE_SETS = (
     },
     {
         'name': 'Golden Strawberries',
-        'types': ['golden'],
+        'types': ['golden', 'winged_golden'],
         'a': { 'x': 70, 'y': 155, 'size': 10 },
         'b': { 'x': 70, 'y': 370, 'size': 10 },
         'c': { 'x': 70, 'y': 470, 'size': 10 },
@@ -88,7 +92,7 @@ SUMMARY_TYPE_SETS = (
     # Chapter
     {
         'name': 'Strawberries',
-        'types': ['berry'],
+        'types': ['berry', 'winged_berry', 'moon_berry', 'seeded_berry'],
         'a': { 'x': 70, 'y': 210, 'size': 80 },
         'b': { 'x': 0, 'y': 0, 'size': 25 },
         'c': { 'x': 0, 'y': 0, 'size': 25 },
@@ -96,7 +100,7 @@ SUMMARY_TYPE_SETS = (
     # Checkpoint
     {
         'name': 'Strawberries',
-        'types': ['berry'],
+        'types': ['berry', 'winged_berry', 'moon_berry', 'seeded_berry'],
         'a': { 'x': 70, 'y': 270, 'size': 80 },
         'b': { 'x': 70, 'y': 415, 'size': 25 },
         'c': { 'x': 70, 'y': 515, 'size': 25 },
@@ -220,12 +224,6 @@ def make_location_obj(row):
         room_x = int(room['x'])
         room_y = int(room['y'])
 
-    img_name = row['Type']
-    if img_name == 'golden' and "Winged Golden" in row['Name']:
-        img_name = 'winged_golden'
-    elif img_name == 'berry' and "Moon Berry" in row['Name']:
-        img_name = 'moon_berry'
-
     obj = {
         'name': row['Name'],
         'sections': [
@@ -235,8 +233,8 @@ def make_location_obj(row):
                 ]
             }
         ],
-        'chest_unopened_img': f'images/icons/collectables/location_chests/{img_name}_unopened.png',
-        'chest_opened_img': f'images/icons/collectables/location_chests/{img_name}_opened.png',
+        'chest_unopened_img': f'images/icons/collectables/location_chests/{row['Type']}_unopened.png',
+        'chest_opened_img': f'images/icons/collectables/location_chests/{row['Type']}_opened.png',
     }
 
     if row['Chapter'] in ('7','9'):
@@ -249,7 +247,7 @@ def make_location_obj(row):
     base_visibility_rules = []
     if row['Type'] == 'room':
         base_visibility_rules += ['roomsanity']
-    if row['Type'] == 'golden' and row['Chapter'] != '10':
+    if (row['Type'] == 'golden' or row['Type'] == 'winged_golden') and row['Chapter'] != '10':
         base_visibility_rules += ['include_goldens']
     if row['Type'] == 'car':
         base_visibility_rules += ['carsanity']
@@ -368,16 +366,15 @@ def make_summary_obj(data, _chapter, _side, type_set):
         'sections': []
     }
 
-    for _type in type_set['types']:
-        for row in data:
-            if int(row['Chapter']) != _chapter: continue
-            if row['Side'] != _side: continue
-            if row['Type'] != _type: continue
+    for row in data:
+        if int(row['Chapter']) != _chapter: continue
+        if row['Side'] != _side: continue
+        if row['Type'] not in type_set['types']: continue
 
-            obj['sections'] += [{
-                'name': row['Name'],
-                'ref': f'{row['Name']}/'
-            }]
+        obj['sections'] += [{
+            'name': row['Name'],
+            'ref': f'{row['Name']}/'
+        }]
 
     return obj
 
@@ -397,17 +394,16 @@ def make_summary_checkpoint_obj(data, _chapter, _side, type_set):
         }
         if 'shape' in type_set[_side]: obj['map_locations'][0]['shape'] = type_set[_side]['shape']
 
-        for _type in type_set['types']:
-            for row in data:
-                if int(row['Chapter']) != _chapter: continue
-                if row['Side'] != _side: continue
-                if row['Type'] != _type: continue
-                if int(row['Checkpoint']) != _checkpoint: continue
+        for row in data:
+            if int(row['Chapter']) != _chapter: continue
+            if row['Side'] != _side: continue
+            if row['Type'] not in type_set['types']: continue
+            if int(row['Checkpoint']) != _checkpoint: continue
 
-                obj['sections'] += [{
-                    'name': row['Name'],
-                    'ref': f'{row['Name']}/'
-                }]
+            obj['sections'] += [{
+                'name': row['Name'],
+                'ref': f'{row['Name']}/'
+            }]
         out += [obj]
 
     out = list(filter(lambda o: len(o['sections']), out))
@@ -515,7 +511,7 @@ for chapter in range(11):
     summary_dat = make_summary(data, chapter)
     write_file(summary_dat, f'./locations/{chapter}/summary.json')
 # TODO: Resolve warnings triggered by peek room duplicates in room summary and everything summary
-write_file(make_specific_summary(data, [['berry', 'golden']], 'Berry', {'a': 0, 'b': 0, 'c': 0}, { 'b': 1000, 'c': 1100 }), f'./locations/berry_summary.json')
+write_file(make_specific_summary(data, [['berry', 'golden', 'winged_berry', 'winged_golden', 'moon_berry', 'seeded_berry']], 'Berry', {'a': 0, 'b': 0, 'c': 0}, { 'b': 1000, 'c': 1100 }), f'./locations/berry_summary.json')
 write_file(make_specific_summary(data, [['checkpoint', 'room']], 'Room', {'a': 0, 'b': 1, 'c': 1}, { 'c': 750 }), f'./locations/room_summary.json')
 write_file(make_specific_summary(data, [['clear', 'cassette', 'heart', 'key', 'gem', 'car', 'bino']], 'Other', {'a': 0, 'b': 0, 'c': 0}, { 'b': 550, 'c': 800 }), f'./locations/other_summary.json')
-write_file(make_specific_summary(data, [['berry', 'golden', 'clear', 'cassette', 'heart', 'key', 'gem', 'car', 'bino'], ['checkpoint', 'room']], 'Everything', {'a': 0, 'b': 1, 'c': 1}, { 'c': 900 }), f'./locations/everything_summary.json')
+write_file(make_specific_summary(data, [['berry', 'golden', 'winged_berry', 'winged_golden', 'moon_berry', 'seeded_berry', 'clear', 'cassette', 'heart', 'key', 'gem', 'car', 'bino'], ['checkpoint', 'room']], 'Everything', {'a': 0, 'b': 1, 'c': 1}, { 'c': 900 }), f'./locations/everything_summary.json')

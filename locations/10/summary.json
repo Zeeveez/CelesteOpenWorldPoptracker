@@ -716,26 +716,6 @@
                 ],
                 "sections": [
                     {
-                        "name": "Farewell - Power Source Key 1",
-                        "ref": "Farewell - Power Source Key 1/"
-                    },
-                    {
-                        "name": "Farewell - Power Source Key 2",
-                        "ref": "Farewell - Power Source Key 2/"
-                    },
-                    {
-                        "name": "Farewell - Power Source Key 3",
-                        "ref": "Farewell - Power Source Key 3/"
-                    },
-                    {
-                        "name": "Farewell - Power Source Key 4",
-                        "ref": "Farewell - Power Source Key 4/"
-                    },
-                    {
-                        "name": "Farewell - Power Source Key 5",
-                        "ref": "Farewell - Power Source Key 5/"
-                    },
-                    {
                         "name": "Farewell - Room d-00 Binoculars",
                         "ref": "Farewell - Room d-00 Binoculars/"
                     },
@@ -762,6 +742,26 @@
                     {
                         "name": "Farewell - Room e-00yb Binoculars",
                         "ref": "Farewell - Room e-00yb Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Power Source Key 1",
+                        "ref": "Farewell - Power Source Key 1/"
+                    },
+                    {
+                        "name": "Farewell - Power Source Key 2",
+                        "ref": "Farewell - Power Source Key 2/"
+                    },
+                    {
+                        "name": "Farewell - Power Source Key 3",
+                        "ref": "Farewell - Power Source Key 3/"
+                    },
+                    {
+                        "name": "Farewell - Power Source Key 4",
+                        "ref": "Farewell - Power Source Key 4/"
+                    },
+                    {
+                        "name": "Farewell - Power Source Key 5",
+                        "ref": "Farewell - Power Source Key 5/"
                     }
                 ]
             },
@@ -777,10 +777,6 @@
                     }
                 ],
                 "sections": [
-                    {
-                        "name": "Farewell - Secret Car",
-                        "ref": "Farewell - Secret Car/"
-                    },
                     {
                         "name": "Farewell - Room e-00b Binoculars",
                         "ref": "Farewell - Room e-00b Binoculars/"
@@ -800,6 +796,10 @@
                     {
                         "name": "Farewell - Room e-08 Binoculars",
                         "ref": "Farewell - Room e-08 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Secret Car",
+                        "ref": "Farewell - Secret Car/"
                     }
                 ]
             },
@@ -815,10 +815,6 @@
                     }
                 ],
                 "sections": [
-                    {
-                        "name": "Farewell - Internet Car",
-                        "ref": "Farewell - Internet Car/"
-                    },
                     {
                         "name": "Farewell - Room f-06 Binoculars",
                         "ref": "Farewell - Room f-06 Binoculars/"
@@ -846,6 +842,10 @@
                     {
                         "name": "Farewell - Room g-06 Binoculars",
                         "ref": "Farewell - Room g-06 Binoculars/"
+                    },
+                    {
+                        "name": "Farewell - Internet Car",
+                        "ref": "Farewell - Internet Car/"
                     }
                 ]
             },

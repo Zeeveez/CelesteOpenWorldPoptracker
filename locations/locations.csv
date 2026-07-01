@@ -8,10 +8,10 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 0,a,0,2,Prologue - Room 2,room,1232,96
 0,a,0,3,Prologue - Room 3,room,1552,96
 1,a,0,1,Forsaken City A - Golden Strawberry,golden,23,112
-1,a,2,end,Forsaken City A - Winged Golden Strawberry,golden,93,79
+1,a,2,end,Forsaken City A - Winged Golden Strawberry,winged_golden,93,79
 1,a,0,2,Forsaken City A - Room 2 Strawberry,berry,96,40
 1,a,0,3,Forsaken City A - Room 3 Strawberry,berry,288,128
-1,a,0,3b,Forsaken City A - Room 3b Strawberry,berry,120,64
+1,a,0,3b,Forsaken City A - Room 3b Strawberry,winged_berry,120,64
 1,a,0,5,Forsaken City A - Room 5 Strawberry,berry,32,32
 1,a,0,5z,Forsaken City A - Room 5z Strawberry,berry,144,248
 1,a,0,5a,Forsaken City A - Room 5a Strawberry,berry,240,48
@@ -102,7 +102,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 1,c,0,01,Forsaken City C - Room 01,room,688,24
 1,c,0,02,Forsaken City C - Room 02,room,1632,0
 10,a,1,a-00,Farewell - Golden Strawberry,golden,24,80
-10,a,8,j-19,Farewell - Moon Berry,berry,160,1520
+10,a,8,j-19,Farewell - Moon Berry,moon_berry,160,1520
 10,a,1,a-04,Farewell - Room a-04 Binoculars,bino,31,71
 10,a,1,b-06,Farewell - Room b-06 Binoculars,bino,23,55
 10,a,2,d-00,Farewell - Room d-00 Binoculars,bino,383,567
@@ -275,7 +275,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 2,a,0,d3,Old Site A - Room d3 Strawberry,berry,64,416
 2,a,0,d2,Old Site A - Room d2 Strawberry 1,berry,148,20
 2,a,0,d2,Old Site A - Room d2 Strawberry 2,berry,360,28
-2,a,0,d1,Old Site A - Room d1 Strawberry,berry,120,320
+2,a,0,d1,Old Site A - Room d1 Strawberry,seeded_berry,120,320
 2,a,0,d6,Old Site A - Room d6 Strawberry,berry,112,56
 2,a,0,d4,Old Site A - Room d4 Strawberry,berry,264,80
 2,a,0,d5,Old Site A - Room d5 Strawberry,berry,296,88
@@ -287,7 +287,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 2,a,1,10,Old Site A - Room 10 Strawberry,berry,280,248
 2,a,1,12c,Old Site A - Room 12c Strawberry,berry,112,72
 2,a,1,12d,Old Site A - Room 12d Strawberry,berry,352,96
-2,a,2,end_3c,Old Site A - Room end_3c Strawberry,berry,80,24
+2,a,2,end_3c,Old Site A - Room end_3c Strawberry,winged_berry,80,24
 2,a,0,d3,Old Site A - Room d3 Binoculars,bino,279,94
 2,a,1,3,Old Site A - Intervention,checkpoint,123,149
 2,a,2,end_3,Old Site A - Awake,checkpoint,47,301
@@ -376,7 +376,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 3,a,0,00-a,Celestial Resort A - Room 00-a Strawberry,berry,376,120
 3,a,0,00-b,Celestial Resort A - Room 00-b Strawberry,berry,88,72
 3,a,0,04-b,Celestial Resort A - Room 04-b Strawberry,berry,296,128
-3,a,0,06-a,Celestial Resort A - Room 06-a Strawberry,berry,272,80
+3,a,0,06-a,Celestial Resort A - Room 06-a Strawberry,winged_berry,272,80
 3,a,0,07-b,Celestial Resort A - Room 07-b Strawberry,berry,272,32
 3,a,0,06-b,Celestial Resort A - Room 06-b Strawberry,berry,120,144
 3,a,0,06-c,Celestial Resort A - Room 06-c Strawberry,berry,224,32
@@ -385,7 +385,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 3,a,1,10-y,Celestial Resort A - Room 10-y Strawberry,berry,112,48
 3,a,1,12-c,Celestial Resort A - Room 12-c Strawberry,berry,160,152
 3,a,1,11-d,Celestial Resort A - Room 11-d Strawberry,berry,288,120
-3,a,1,13-b,Celestial Resort A - Room 13-b Strawberry,berry,296,140
+3,a,1,13-b,Celestial Resort A - Room 13-b Strawberry,winged_berry,296,140
 3,a,1,13-x,Celestial Resort A - Room 13-x Strawberry,berry,136,136
 3,a,1,08-x,Celestial Resort A - Room 08-x Strawberry,berry,160,104
 3,a,2,06-d,Celestial Resort A - Room 06-d Strawberry,berry,296,40
@@ -518,7 +518,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 4,a,0,a-04,Golden Ridge A - Room a-04 Strawberry,berry,448,80
 4,a,0,a-06,Golden Ridge A - Room a-06 Strawberry,berry,160,160
 4,a,0,a-07,Golden Ridge A - Room a-07 Strawberry,berry,192,48
-4,a,0,a-10,Golden Ridge A - Room a-10 Strawberry,berry,184,104
+4,a,0,a-10,Golden Ridge A - Room a-10 Strawberry,seeded_berry,184,104
 4,a,0,a-09,Golden Ridge A - Room a-09 Strawberry,berry,184,112
 4,a,1,b-01,Golden Ridge A - Room b-01 Strawberry 1,berry,344,48
 4,a,1,b-01,Golden Ridge A - Room b-01 Strawberry 2,berry,416,72
@@ -530,7 +530,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 4,a,1,b-secb,Golden Ridge A - Room b-secb Strawberry,berry,72,48
 4,a,1,b-08,Golden Ridge A - Room b-08 Strawberry,berry,568,48
 4,a,2,c-00,Golden Ridge A - Room c-00 Strawberry,berry,424,208
-4,a,2,c-01,Golden Ridge A - Room c-01 Strawberry,berry,208,40
+4,a,2,c-01,Golden Ridge A - Room c-01 Strawberry,winged_berry,208,40
 4,a,2,c-05,Golden Ridge A - Room c-05 Strawberry,berry,656,80
 4,a,2,c-06,Golden Ridge A - Room c-06 Strawberry,berry,224,152
 4,a,2,c-06b,Golden Ridge A - Room c-06b Strawberry,berry,24,136
@@ -651,7 +651,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 5,a,1,b-01c,Mirror Temple A - Room b-01c Strawberry,berry,232,32
 5,a,1,b-20,Mirror Temple A - Room b-20 Strawberry 1,berry,240,64
 5,a,1,b-20,Mirror Temple A - Room b-20 Strawberry 2,berry,504,64
-5,a,1,b-21,Mirror Temple A - Room b-21 Strawberry,berry,88,48
+5,a,1,b-21,Mirror Temple A - Room b-21 Strawberry,winged_berry,88,48
 5,a,1,b-03,Mirror Temple A - Room b-03 Strawberry,berry,120,24
 5,a,1,b-05,Mirror Temple A - Room b-05 Strawberry,berry,288,96
 5,a,1,b-10,Mirror Temple A - Room b-10 Strawberry,berry,40,80
@@ -659,7 +659,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 5,a,1,b-17,Mirror Temple A - Room b-17 Strawberry 2,berry,272,216
 5,a,1,b-17,Mirror Temple A - Room b-17 Strawberry 1,berry,152,40
 5,a,2,c-08,Mirror Temple A - Room c-08 Strawberry,berry,336,128
-5,a,3,d-04,Mirror Temple A - Room d-04 Strawberry 2,berry,392,216
+5,a,3,d-04,Mirror Temple A - Room d-04 Strawberry 2,seeded_berry,392,216
 5,a,3,d-04,Mirror Temple A - Room d-04 Strawberry 1,berry,368,32
 5,a,3,d-15,Mirror Temple A - Room d-15 Strawberry 2,berry,400,328
 5,a,3,d-15,Mirror Temple A - Room d-15 Strawberry 1,berry,56,352
@@ -924,7 +924,7 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 7,a,1,b-02,The Summit A - Room b-02 Strawberry,berry,128,232
 7,a,1,b-02b,The Summit A - Room b-02b Strawberry,berry,272,40
 7,a,1,b-02e,The Summit A - Room b-02e Strawberry,berry,32,64
-7,a,1,b-04,The Summit A - Room b-04 Strawberry,berry,192,80
+7,a,1,b-04,The Summit A - Room b-04 Strawberry,winged_berry,192,80
 7,a,1,b-08,The Summit A - Room b-08 Strawberry,berry,540,24
 7,a,1,b-09,The Summit A - Room b-09 Strawberry,berry,368,632
 7,a,2,c-03b,The Summit A - Room c-03b Strawberry,berry,64,32
@@ -940,13 +940,13 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 7,a,3,d-04,The Summit A - Room d-04 Strawberry,berry,144,64
 7,a,3,d-07,The Summit A - Room d-07 Strawberry,berry,56,120
 7,a,3,d-08,The Summit A - Room d-08 Strawberry,berry,272,136
-7,a,3,d-10b,The Summit A - Room d-10b Strawberry,berry,288,320
+7,a,3,d-10b,The Summit A - Room d-10b Strawberry,winged_berry,288,320
 7,a,4,e-02,The Summit A - Room e-02 Strawberry,berry,480,64
 7,a,4,e-05,The Summit A - Room e-05 Strawberry,berry,928,144
 7,a,4,e-07,The Summit A - Room e-07 Strawberry,berry,76,180
-7,a,4,e-09,The Summit A - Room e-09 Strawberry,berry,48,72
+7,a,4,e-09,The Summit A - Room e-09 Strawberry,winged_berry,48,72
 7,a,4,e-11,The Summit A - Room e-11 Strawberry,berry,536,168
-7,a,4,e-12,The Summit A - Room e-12 Strawberry,berry,184,72
+7,a,4,e-12,The Summit A - Room e-12 Strawberry,seeded_berry,184,72
 7,a,4,e-10,The Summit A - Room e-10 Strawberry,berry,632,124
 7,a,4,e-13,The Summit A - Room e-13 Strawberry,berry,272,664
 7,a,5,f-00,The Summit A - Room f-00 Strawberry,berry,816,160

@@ -151,8 +151,8 @@
                 ]
             }
         ],
-        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
-        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "chest_unopened_img": "images/icons/collectables/location_chests/winged_berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/winged_berry_opened.png",
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -331,8 +331,8 @@
                 ]
             }
         ],
-        "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
-        "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "chest_unopened_img": "images/icons/collectables/location_chests/winged_berry_unopened.png",
+        "chest_opened_img": "images/icons/collectables/location_chests/winged_berry_opened.png",
         "map_locations": [
             {
                 "map": "3_a_1",
