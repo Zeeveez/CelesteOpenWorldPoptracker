@@ -2,7 +2,7 @@
 
 A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://github.com/ArchipelagoMW/Archipelago)
 
-![Image of Celeste (Open World) PopTracker](/images/docs/var_0_map_tracker_.png)
+![Image of Celeste (Open World) PopTracker](/images/docs/var_0_map_tracker.png)
 
 
 ## Requirements
@@ -70,7 +70,7 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
     <td colspan="2"><img src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/docs/settings_tracker.png"/></td>
   </tr>
   <tr>
-    <th colspan="2">Goal Settings</th>
+    <th colspan="2">Goal + Difficulty Settings</th>
     <th colspan="2">Logic Settings</th>
   </tr>
   <tr>
@@ -92,77 +92,119 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
     <td>Enable Smart Keys</td>
   </tr>
   <tr>
-    <th colspan="2">Chapter Access Settings</th>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/madeline.png"/></td>
+    <td>Logic Difficulty:<ul><li>Madeline: Developer Intended</li><li>Badeline: Vanilla Movement</li><li>Granny: Assist Mode</li>
+    </td>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/gem-1.png"/></td>
     <td>Enable Smart Gems</td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/chapters/b-sides.png"/></td>
-    <td>Include B-Sides</td>
+    <th colspan="2">Chapter Access Settings</th>
     <th colspan="2">Layout Settings</th>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/chapters/c-sides.png"/></td>
-    <td>Include C-Sides</td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/chapters/b-sides.png"/></td>
+    <td>Include B-Sides</td>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/tracker_settings/progress_graph/progress_graph.png"/></td>
     <td>Show Progress Graph</td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/chapters/8a.png"/></td>
-    <td>Include Core</td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/chapters/c-sides.png"/></td>
+    <td>Include C-Sides</td>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/tracker_settings/movement/movement.png"/></td>
     <td>Show Movement</td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/chapters/9.png"/></td>
-    <td>Include Farewell</td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/chapters/8a.png"/></td>
+    <td>Include Core</td>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/tracker_settings/items/items.png"/></td>
     <td>Show Items</td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/collectables/golden_strawberry.png"/></td>
-    <td>Include Goldens</td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/chapters/9.png"/></td>
+    <td>Include Farewell</td>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/tracker_settings/checkpoint/checkpoint.png"/></td>
     <td>Show Checkpoints</td>
   </tr>
   <tr>
-    <th colspan="2">*-sanity Settings</th>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/collectables/golden_strawberry.png"/></td>
+    <td>Include Goldens and Golden Amnesty</td>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/tracker_settings/keys_gems/keys_gems.png"/></td>
     <td>Show Keys/Gems</td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/carsanity.png"/></td>
-    <td>Enable Carsanity</td>
+    <th colspan="2">*-sanity Settings</th>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/tracker_settings/progress/progress.png"/></td>
     <td>Show Progress</td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/roomsanity.png"/></td>
-    <td>Enable Roomsanity</td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/carsanity.png"/></td>
+    <td>Enable Carsanity</td>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/tracker_settings/goal/goal.png"/></td>
     <td>Show Goal</td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/key.png"/></td>
-    <td>Enable Keysanity</td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/roomsanity.png"/></td>
+    <td>Enable Roomsanity</td>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/tracker_settings/sanities/sanities.png"/></td>
     <td>Show *-sanities</td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/gem-1.png"/></td>
-    <td>Enable Gemsanity</td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/key.png"/></td>
+    <td>Enable Keysanity</td>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/tracker_settings/recent_items/recent_items.png"/></td>
     <td>Show Recent Item Feed</td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/binos.png"/></td>
-    <td>Enable Binosanity</td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/keys_gems/gem-1.png"/></td>
+    <td>Enable Gemsanity</td>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/tracker_settings/map_controls/map_controls.png"/></td>
     <td>Show Map Controls</td>
   </tr>
   <tr>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/binos.png"/></td>
+    <td>Enable Binosanity</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/checkpoint.png"/></td>
     <td>Enable Checkpointsanity</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="2">Item Settings</th>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/slot_data/split_interactables_none.png"/></td>
+    <td>Split Interactables</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/movement/dash.png"/></td>
+    <td>Dash Shuffle</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/movement/climb.png"/></td>
+    <td>Climb Shuffle</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/movement/crouch.png"/></td>
+    <td>Crouch Shuffle</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/items/slot_data/torches_vanilla.png"/></td>
+    <td>Torch Behaviour</td>
     <td></td>
     <td></td>
   </tr>
@@ -178,6 +220,12 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
     <td></td>
   </tr>
   <tr>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/death_trap_link/death.png"/></td>
+    <td>Death Link Receipt Style</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <th colspan="2">Traps Settings</th>
     <td></td>
     <td></td>
@@ -185,6 +233,12 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
   <tr>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/death_trap_link/link_on.png"/></td>
     <td>Enable Trap Link</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/death_trap_link/return_to_menu.png"/></td>
+    <td>Trap Expiration Action and Action Count</td>
     <td></td>
     <td></td>
   </tr>
