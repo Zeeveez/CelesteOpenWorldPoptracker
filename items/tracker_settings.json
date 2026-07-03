@@ -425,6 +425,50 @@
     },
 
     {
+        "name": "Show Map Controls (Left)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/map_controls/map_controls_left.png",
+        "initial_active_state": false,
+        "codes": "show_tracker_map_controls_left"
+    },
+    {
+        "name": "Show Map Controls (Right)",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/map_controls/map_controls_right.png",
+        "initial_active_state": true,
+        "codes": "show_tracker_map_controls_right"
+    },
+    {
+        "name": "Show Map Controls",
+        "type": "composite_toggle",
+        "item_left": "show_tracker_map_controls_left",
+        "item_right": "show_tracker_map_controls_right",
+        "codes": "show_tracker_map_controls",
+        "images": [
+            {
+                "left": false,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/map_controls/map_controls_off.png"
+            },
+            {
+                "left": true,
+                "right": false,
+                "img": "images/icons/items/tracker_settings/map_controls/map_controls_left.png"
+            },
+            {
+                "left": false,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/map_controls/map_controls_right.png"
+            },
+            {
+                "left": true,
+                "right": true,
+                "img": "images/icons/items/tracker_settings/map_controls/map_controls.png"
+            }
+        ]
+    },
+
+    {
         "name": "Show Triggers",
         "type": "toggle",
         "img": "images/icons/items/tracker_settings/hint_assist.png",

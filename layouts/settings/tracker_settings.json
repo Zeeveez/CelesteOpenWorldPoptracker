@@ -41,7 +41,8 @@
                         [
                             "show_tracker_goal",
                             "show_tracker_sanities",
-                            "show_tracker_recent_items"
+                            "show_tracker_recent_items",
+                            "show_tracker_map_controls"
                         ]
                     ]
                 }

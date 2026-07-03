@@ -32,6 +32,8 @@ local LAYOUT_ITEMS = {
 	["show_tracker_sanities_right"] = { "tracker_sanities_right" },
 	["show_tracker_recent_items_left"] = { "tracker_recent_items_left" },
 	["show_tracker_recent_items_right"] = { "tracker_recent_items_right" },
+	["show_tracker_map_controls_left"] = { "tracker_map_controls_left" },
+	["show_tracker_map_controls_right"] = { "tracker_map_controls_right" },
 
 	["dash_shuffle"] = { "_tracker_dash", {
 		["dash_shuffle_none"] = "none",

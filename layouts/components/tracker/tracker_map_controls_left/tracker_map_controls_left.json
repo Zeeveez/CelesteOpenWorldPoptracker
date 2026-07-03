@@ -1,8 +1,8 @@
 {
-    "tracker_progress_right": {
+    "tracker_map_controls_left": {
         "type": "group",
         "background": "#00000000",
-        "header": "Progress",
+        "header": "Map Controls",
         "content": {
             "type": "itemgrid",
             "h_alignment": "left",
@@ -10,9 +10,9 @@
             "item_size": "4,4",
             "rows": [
                 [
-                    "strawberry",
-                    "crystal_heart",
-                    "grannys_house_keys"
+                    "auto_tab",
+                    "auto_where_am_i",
+                    "where_am_i"
                 ]
             ]
         }

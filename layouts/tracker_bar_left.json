@@ -91,6 +91,16 @@
                         "key": "tracker_sanities_left"
                     }
                 ]
+            },
+            {
+                "type": "array",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tracker_map_controls_left"
+                    }
+                ]
             }
         ]
     }
