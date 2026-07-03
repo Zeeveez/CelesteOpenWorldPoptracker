@@ -41,7 +41,7 @@ def process_ruleset(level, rule, config, rule_modifier = ['logic_difficulty_deve
             rule_out += [f'{level_name} - {rule_part}'.lower().replace(' ', '')]
         else:
             rule_out += [rule_part]
-    rule_out = list(set(rule_out))
+    rule_out = sorted(list(set(rule_out)))
     if rule_modifier != None:
         rule_out = rule_modifier + rule_out
     return rule_out
@@ -131,6 +131,8 @@ class Location:
 
         logic = []
         if config['logic'] == 'developer':
+            #if self.vm_rule == None:
+            #    logic += [[region_name, location_name, ['logic_difficulty_vanilla']]]
             if len(self.rule):
                 for rule in self.rule:
                     if 'cannot_access' in rule: continue

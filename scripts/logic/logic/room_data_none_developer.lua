@@ -371,7 +371,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 6_east"] = {
 		{ "Forsaken City A - Room 6_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'dash_refills' }
 		} },
 		{ "Forsaken City A - Room 6a_west", { {  } } },
 	},
@@ -390,7 +390,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer' }
 		} },
 		{ "Forsaken City A - Room 6z_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills' }
 		} },
 		{ "Forsaken City A - Room 6zb_east", { {  } } },
 	},
@@ -436,13 +436,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 7zb_east"] = {
 		{ "Forsaken City A - Room 7zb_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills' }
 		} },
 		{ "Forsaken City A - Room 6z_north-west", { {  } } },
 	},
 	["Forsaken City A - Room 7zb_west"] = {
 		{ "Forsaken City A - Room 7zb_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_ul', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills', 'springs' }
 		} },
 	},
 	["Forsaken City A - Room 6a"] = {
@@ -451,7 +451,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 6a_east"] = {
 		{ "Forsaken City A - Room 6a_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_u_ul', 'dash_refills' }
 		} },
 		{ "Forsaken City A - Room 6b_south-west", { {  } } },
 	},
@@ -468,7 +468,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 6b_north-west"] = {
 		{ "Forsaken City A - Room 6b_south-west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'traffic_blocks' }
 		} },
 		{ "Forsaken City A - Room 6b_north-east", {
 			{ 'logic_difficulty_developer', 'any_dash_u_ul' }
@@ -505,7 +505,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room s0_west"] = {
 		{ "Forsaken City A - Room s0_east", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'traffic_blocks' }
 		} },
 		{ "Forsaken City A - Room s1_east", { {  } } },
 	},
@@ -519,7 +519,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Crystal Heart"] = {
 		{ "Forsaken City A - Room s1_east", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'u_dash', 'ul_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dr_dash', 'l_dash', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Forsaken City A - Room 6c"] = {
@@ -577,7 +577,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 7z Strawberry"] = {
 		{ "Forsaken City A - Room 7z_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Forsaken City A - Room 7z_top"] = {
@@ -599,7 +599,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Forsaken City A - Room 8z_top"] = {
 		{ "Forsaken City A - Room 8z_bottom", {
 			{ 'logic_difficulty_developer', 'traffic_blocks', 'u_dash' },
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'traffic_blocks', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Forsaken City A - Room 8zb_west", { {  } } },
 	},
@@ -616,12 +616,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 8zb_center"] = {
 		{ "Forsaken City A - Room 8zb_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'ur_dash' }
 		} },
 	},
 	["Forsaken City A - Room 8zb Strawberry"] = {
 		{ "Forsaken City A - Room 8zb_center", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'ur_dash' }
 		} },
 	},
 	["Forsaken City A - Room 8zb_west"] = {
@@ -632,7 +632,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 8zb_east"] = {
 		{ "Forsaken City A - Room 8zb_center", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'ur_dash' }
 		} },
 	},
 	["Forsaken City A - Room 8"] = {
@@ -662,7 +662,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Forsaken City A - Room 8_north"] = {
 		{ "Forsaken City A - Room 8_south-west", {
 			{ 'logic_difficulty_developer', 'r_dash', 'u_dash' },
-			{ 'logic_difficulty_developer', 'ur_dash', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'ur_dash' }
 		} },
 		{ "Forsaken City A - Room 8_south-east", {
 			{ 'logic_difficulty_developer', 'u_dash' }
@@ -726,7 +726,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 8b Strawberry"] = {
 		{ "Forsaken City A - Room 8b_east", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City A - Room 8b_west"] = {
@@ -737,7 +737,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 8b_east"] = {
 		{ "Forsaken City A - Room 8b_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City A - Room 9"] = {
@@ -746,7 +746,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 9 Strawberry"] = {
 		{ "Forsaken City A - Room 9_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City A - Room 9_east"] = {
@@ -815,7 +815,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 9c Strawberry"] = {
 		{ "Forsaken City A - Room 9c_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City A - Room 10"] = {
@@ -881,17 +881,17 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 11_north"] = {
 		{ "Forsaken City A - Room 11_south-east", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City A - Room 11_south"] = {
 		{ "Forsaken City A - Room 11_south-west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City A - Room 11_west"] = {
 		{ "Forsaken City A - Room 11_south-west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'traffic_blocks' }
 		} },
 		{ "Forsaken City A - Room 11z_east", { {  } } },
 	},
@@ -926,7 +926,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 10a_top"] = {
 		{ "Forsaken City A - Room 10a_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_u_ul', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'dash_refills', 'u_dash' }
 		} },
 	},
 	["Forsaken City A - Room 12"] = {
@@ -969,7 +969,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 12z Strawberry"] = {
 		{ "Forsaken City A - Room 12z_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Forsaken City A - Room 12a"] = {
@@ -978,7 +978,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 12a_top"] = {
 		{ "Forsaken City A - Room 12a_bottom", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_l_u_ul', 'any_dash_r_u_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'any_dash_r_u_ur', 'springs', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City A - Room 12a_bottom"] = {
@@ -1003,12 +1003,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Golden Strawberry"] = {
 		{ "Forsaken City A - Room end_main", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'springs', 'any_dash_r_ur', 'traffic_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'springs', 'traffic_blocks', 'u_dash' }
 		} },
 	},
 	["Forsaken City A - Winged Golden Strawberry"] = {
 		{ "Forsaken City A - Room end_main", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City A - Room end_south"] = {
@@ -1083,7 +1083,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 01_east"] = {
 		{ "Forsaken City B - Room 01_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City B - Room 02"] = {
@@ -1092,7 +1092,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 02_east"] = {
 		{ "Forsaken City B - Room 02_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City B - Room 02b"] = {
@@ -1101,7 +1101,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 02b_east"] = {
 		{ "Forsaken City B - Room 02b_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City B - Room 03"] = {
@@ -1115,7 +1115,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 03_east"] = {
 		{ "Forsaken City B - Room 03_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'dash_refills', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'traffic_blocks', 'u_dash' }
 		} },
 	},
 	["Forsaken City B - Contraption"] = {
@@ -1133,7 +1133,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 04_east"] = {
 		{ "Forsaken City B - Room 04_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'crouch', 'r_dash', 'traffic_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'crouch', 'r_dash', 'springs', 'traffic_blocks', 'ur_dash' }
 		} },
 	},
 	["Forsaken City B - Room 05"] = {
@@ -1142,7 +1142,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 05_east"] = {
 		{ "Forsaken City B - Room 05_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City B - Room 05b"] = {
@@ -1151,7 +1151,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 05b_east"] = {
 		{ "Forsaken City B - Room 05b_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'any_dash_r_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'springs', 'u_dash' }
 		} },
 	},
 	["Forsaken City B - Room 06"] = {
@@ -1160,7 +1160,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 06_east"] = {
 		{ "Forsaken City B - Room 06_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'any_dash_u_ul', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_u_ul', 'dash_refills', 'springs' }
 		} },
 		{ "Forsaken City B - Room 07_bottom", { {  } } },
 	},
@@ -1170,7 +1170,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 07_top"] = {
 		{ "Forsaken City B - Room 07_bottom", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City B - Room 07_bottom"] = {
@@ -1203,7 +1203,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 08b_east"] = {
 		{ "Forsaken City B - Room 08b_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_u_ur', 'dash_refills', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_u_ur', 'dash_refills', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City B - Room 09"] = {
@@ -1233,7 +1233,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 10_east"] = {
 		{ "Forsaken City B - Room 10_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'dash_refills', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'traffic_blocks' }
 		} },
 		{ "Forsaken City B - Room 11_bottom", { {  } } },
 	},
@@ -1243,7 +1243,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room 11_top"] = {
 		{ "Forsaken City B - Room 11_bottom", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'dash_refills', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'traffic_blocks', 'u_dash' }
 		} },
 	},
 	["Forsaken City B - Room 11_bottom"] = {
@@ -1258,7 +1258,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Room end_goal"] = {
 		{ "Forsaken City B - Room end_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_cassette_blocks', 'any_dash_r_ur', 'any_dash_u_ul', 'any_dash_u_ur', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_u_ul', 'any_dash_u_ur', 'blue_cassette_blocks', 'dash_refills', 'pink_cassette_blocks' }
 		} },
 	},
 	["Forsaken City B - Level Clear"] = {
@@ -1268,7 +1268,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City B - Golden Strawberry"] = {
 		{ "Forsaken City B - Room end_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_cassette_blocks', 'ur_dash', 'u_dash', 'springs', 'r_dash', 'traffic_blocks', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'dash_refills', 'pink_cassette_blocks', 'r_dash', 'springs', 'traffic_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Forsaken City B - Room 01_west"] = {
@@ -1313,7 +1313,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City C - Room 00_east"] = {
 		{ "Forsaken City C - Room 00_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'dash_refills', 'any_dash_r_ur', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'traffic_blocks', 'u_dash' }
 		} },
 	},
 	["Forsaken City C - Room 01"] = {
@@ -1327,7 +1327,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City C - Room 01_east"] = {
 		{ "Forsaken City C - Room 01_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'traffic_blocks' }
 		} },
 	},
 	["Forsaken City C - Room 02"] = {
@@ -1341,7 +1341,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City C - Room 02_goal"] = {
 		{ "Forsaken City C - Room 02_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'r_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'r_dash', 'traffic_blocks', 'u_dash' }
 		} },
 	},
 	["Forsaken City C - Level Clear"] = {
@@ -1351,7 +1351,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City C - Golden Strawberry"] = {
 		{ "Forsaken City C - Room 02_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'traffic_blocks', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'r_dash', 'traffic_blocks', 'u_dash' }
 		} },
 	},
 	["Forsaken City C - Room 01_west"] = {
@@ -1389,7 +1389,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Old Site A - Room start_top"] = {
 		{ "Old Site A - Room start_east", {
 			{ 'logic_difficulty_developer', 'u_dash' },
-			{ 'logic_difficulty_developer', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Old Site A - Room s0_bottom", { {  } } },
 	},
@@ -1450,11 +1450,11 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 0_north-east"] = {
 		{ "Old Site A - Room 0_south-east", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'dream_blocks', 'ul_dash' },
+			{ 'logic_difficulty_developer', 'dream_blocks', 'ul_dash', 'ur_dash' },
 			{ 'logic_difficulty_developer', 'dream_blocks', 'u_dash' }
 		} },
 		{ "Old Site A - Room 0_north-west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'dream_blocks' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'ur_dash' }
 		} },
 		{ "Old Site A - Room 1_north-west", { {  } } },
 	},
@@ -1528,13 +1528,13 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur' }
 		} },
 		{ "Old Site A - Room d0_north-east", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room d1_north-east", { {  } } },
 	},
 	["Old Site A - Room d0_north-east"] = {
 		{ "Old Site A - Room d0_north", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_dr_r' }
+			{ 'logic_difficulty_developer', 'any_dash_dr_r', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room d0_north-west", {
 			{ 'logic_difficulty_developer', 'dream_blocks', 'r_dash' }
@@ -1631,7 +1631,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room d7_east"] = {
 		{ "Old Site A - Room d7_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_u_ul', 'dash_refills' }
 		} },
 		{ "Old Site A - Room d8_west", { {  } } },
 	},
@@ -1642,7 +1642,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room d8_south-east"] = {
 		{ "Old Site A - Room d8_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'dash_refills' }
 		} },
 		{ "Old Site A - Room d3_south", { {  } } },
 	},
@@ -1659,7 +1659,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room d3_north"] = {
 		{ "Old Site A - Room d3_west", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room d2_east", { {  } } },
 	},
@@ -1670,7 +1670,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room d3_west"] = {
 		{ "Old Site A - Room d3_north", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_d_dl_dr' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room d8_north-east", { {  } } },
 	},
@@ -1706,7 +1706,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room d2 Strawberry 2"] = {
 		{ "Old Site A - Room d2_east", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'dream_blocks' }
 		} },
 	},
 	["Old Site A - Room d9"] = {
@@ -1714,7 +1714,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Cassette"] = {
 		{ "Old Site A - Room d9_north-west", {
-			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'r_dash', 'pink_cassette_blocks', 'dream_blocks', 'l_dash' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'dream_blocks', 'l_dash', 'pink_cassette_blocks', 'r_dash' }
 		} },
 	},
 	["Old Site A - Room d1"] = {
@@ -1733,7 +1733,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room d1 Strawberry"] = {
 		{ "Old Site A - Room d1_south-east", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'dream_blocks', 'ul_dash', 'strawberry_seeds' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'strawberry_seeds', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Old Site A - Room d1_south-west"] = {
@@ -1782,7 +1782,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room d4 Strawberry"] = {
 		{ "Old Site A - Room d4_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'dream_blocks', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dream_blocks', 'traffic_blocks' }
 		} },
 	},
 	["Old Site A - Room d4_east"] = {
@@ -1810,7 +1810,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room d5 Strawberry"] = {
 		{ "Old Site A - Room d5_west", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_l_ul', 'r_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dream_blocks', 'r_dash' }
 		} },
 	},
 	["Old Site A - Room 3x"] = {
@@ -1819,12 +1819,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 3x_top"] = {
 		{ "Old Site A - Room 3x_bottom", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'u_dash', 'dream_blocks', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dr_dash', 'dream_blocks', 'l_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Old Site A - Room 3x_bottom"] = {
 		{ "Old Site A - Room 3x_top", {
-			{ 'logic_difficulty_developer', 'dl_dash', 'r_dash', 'd_dash', 'dream_blocks', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'd_dash', 'dl_dash', 'dream_blocks', 'r_dash', 'ul_dash' }
 		} },
 		{ "Old Site A - Room 0_north-west", { {  } } },
 	},
@@ -1836,7 +1836,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'oldsitea-intervention' }
 		} },
 		{ "Old Site A - Room 3_top", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room 3x_top", { {  } } },
 	},
@@ -1857,7 +1857,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 4_south-west"] = {
 		{ "Old Site A - Room 4_south-east", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room 4_north-east", {
 			{ 'logic_difficulty_developer', 'any_dash_dl_l', 'dream_blocks' }
@@ -1868,7 +1868,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 4_south-east"] = {
 		{ "Old Site A - Room 4_south-west", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_dr_r' }
+			{ 'logic_difficulty_developer', 'any_dash_dr_r', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room 3_top", { {  } } },
 	},
@@ -1879,7 +1879,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 4_north-west"] = {
 		{ "Old Site A - Room 4_south-west", {
-			{ 'logic_difficulty_developer', 'l_dash', 'dream_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'l_dash', 'u_dash' }
 		} },
 	},
 	["Old Site A - Room 4 Strawberry"] = {
@@ -1916,7 +1916,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 6_top"] = {
 		{ "Old Site A - Room 6_bottom", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'dream_blocks', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'coins', 'dream_blocks', 'l_dash' }
 		} },
 	},
 	["Old Site A - Room 7"] = {
@@ -1925,7 +1925,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 7_top"] = {
 		{ "Old Site A - Room 7_bottom", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'dream_blocks', 'ul_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dream_blocks', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Old Site A - Room 8"] = {
@@ -1939,7 +1939,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 8_top"] = {
 		{ "Old Site A - Room 8_bottom", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_dr_r' }
+			{ 'logic_difficulty_developer', 'any_dash_dr_r', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room 9_west", { {  } } },
 	},
@@ -2018,7 +2018,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 10_bottom"] = {
 		{ "Old Site A - Room 10_top", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'dream_blocks', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'coins', 'dash_refills', 'dream_blocks', 'l_dash' }
 		} },
 	},
 	["Old Site A - Room 2"] = {
@@ -2064,13 +2064,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 12b_north"] = {
 		{ "Old Site A - Room 12b_west", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_dr_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_dr_r_ur', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room 12b_south", {
 			{ 'logic_difficulty_developer', 'dream_blocks', 'u_dash' }
 		} },
 		{ "Old Site A - Room 12b_east", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room 12b_south-east", {
 			{ 'logic_difficulty_developer' }
@@ -2079,7 +2079,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 12b_west"] = {
 		{ "Old Site A - Room 12b_north", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room 11_east", { {  } } },
 	},
@@ -2091,7 +2091,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 12b_east"] = {
 		{ "Old Site A - Room 12b_north", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_dr_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_dr_r_ur', 'dream_blocks' }
 		} },
 		{ "Old Site A - Room 12_west", { {  } } },
 	},
@@ -2100,7 +2100,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 12c Strawberry"] = {
 		{ "Old Site A - Room 12c_south", {
-			{ 'logic_difficulty_developer', 'any_dash_dl_l', 'dream_blocks', 'any_dash_dr_r', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l', 'any_dash_dr_r', 'dream_blocks', 'u_dash' }
 		} },
 	},
 	["Old Site A - Room 12d"] = {
@@ -2109,7 +2109,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Room 12d Strawberry"] = {
 		{ "Old Site A - Room 12d_north-west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'dream_blocks', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Old Site A - Room 12d_north"] = {
@@ -2150,7 +2150,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site A - Golden Strawberry"] = {
 		{ "Old Site A - Room 13_phone", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dr_dash', 'ur_dash', 'd_dash', 'l_dash', 'dream_blocks', 'ul_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'd_dash', 'dash_refills', 'dr_dash', 'dream_blocks', 'l_dash', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Old Site A - Room 13_west"] = {
@@ -2185,7 +2185,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Old Site A - Room end_0_top"] = {
 		{ "Old Site A - Room end_0_east", {
 			{ 'logic_difficulty_developer', 'u_dash' },
-			{ 'logic_difficulty_developer', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Old Site A - Room end_s0_bottom", { {  } } },
 	},
@@ -2504,13 +2504,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 00_east"] = {
 		{ "Old Site B - Room 00_west", {
-			{ 'logic_difficulty_developer', 'r_dash', 'dream_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'r_dash', 'u_dash' }
 		} },
 		{ "Old Site B - Room 01_west", { {  } } },
 	},
 	["Old Site B - Room 00_west"] = {
 		{ "Old Site B - Room 00_east", {
-			{ 'logic_difficulty_developer', 'u_dash', 'dream_blocks', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'l_dash', 'u_dash' }
 		} },
 		{ "Old Site B - Room start_east", { {  } } },
 	},
@@ -2520,7 +2520,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 01_east"] = {
 		{ "Old Site B - Room 01_west", {
-			{ 'logic_difficulty_developer', 'u_dash', 'dream_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'r_dash', 'u_dash' }
 		} },
 	},
 	["Old Site B - Room 01b"] = {
@@ -2538,7 +2538,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 02b_east"] = {
 		{ "Old Site B - Room 02b_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'dream_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'dream_blocks', 'r_dash', 'u_dash' }
 		} },
 	},
 	["Old Site B - Room 02"] = {
@@ -2547,7 +2547,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 02_east"] = {
 		{ "Old Site B - Room 02_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'dream_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'dream_blocks', 'r_dash', 'u_dash' }
 		} },
 	},
 	["Old Site B - Combination Lock"] = {
@@ -2565,7 +2565,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 03_east"] = {
 		{ "Old Site B - Room 03_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'u_dash', 'r_dash', 'dream_blocks', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dr_dash', 'dream_blocks', 'l_dash', 'r_dash', 'u_dash' }
 		} },
 	},
 	["Old Site B - Room 04"] = {
@@ -2574,7 +2574,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 04_top"] = {
 		{ "Old Site B - Room 04_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dr_dash', 'any_dash_r_ur', 'l_dash', 'dream_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'dr_dash', 'dream_blocks', 'l_dash', 'u_dash' }
 		} },
 	},
 	["Old Site B - Room 05"] = {
@@ -2583,7 +2583,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 05_top"] = {
 		{ "Old Site B - Room 05_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'l_dash', 'dream_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'dream_blocks', 'l_dash', 'r_dash', 'u_dash' }
 		} },
 	},
 	["Old Site B - Room 06"] = {
@@ -2592,7 +2592,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 06_east"] = {
 		{ "Old Site B - Room 06_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'r_dash', 'dream_blocks', 'ul_dash', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dr_dash', 'dream_blocks', 'l_dash', 'r_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Old Site B - Room 07"] = {
@@ -2601,7 +2601,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 07_top"] = {
 		{ "Old Site B - Room 07_bottom", {
-			{ 'logic_difficulty_developer', 'u_dash', 'r_dash', 'dream_blocks', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dream_blocks', 'l_dash', 'r_dash', 'u_dash' }
 		} },
 	},
 	["Old Site B - Dream Altar"] = {
@@ -2619,7 +2619,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 08b_east"] = {
 		{ "Old Site B - Room 08b_west", {
-			{ 'logic_difficulty_developer', 'springs', 'r_dash', 'd_dash', 'dream_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'd_dash', 'dream_blocks', 'r_dash', 'springs', 'u_dash' }
 		} },
 	},
 	["Old Site B - Room 08"] = {
@@ -2628,7 +2628,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 08_east"] = {
 		{ "Old Site B - Room 08_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dr_dash', 'ur_dash', 'r_dash', 'd_dash', 'dream_blocks', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'd_dash', 'dash_refills', 'dr_dash', 'dream_blocks', 'r_dash', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Old Site B - Room 09"] = {
@@ -2637,7 +2637,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 09_east"] = {
 		{ "Old Site B - Room 09_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'dream_blocks', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'r_dash', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Old Site B - Room 10_west", { {  } } },
 	},
@@ -2652,7 +2652,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 10_east"] = {
 		{ "Old Site B - Room 10_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'r_dash', 'dream_blocks', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dream_blocks', 'l_dash', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Old Site B - Room 11"] = {
@@ -2666,7 +2666,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room 11_top"] = {
 		{ "Old Site B - Room 11_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'r_dash', 'l_dash', 'dream_blocks', 'ul_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'dream_blocks', 'l_dash', 'r_dash', 'springs', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["Old Site B - Room end"] = {
@@ -2675,7 +2675,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Room end_goal"] = {
 		{ "Old Site B - Room end_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_cassette_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'dash_refills', 'u_dash' }
 		} },
 	},
 	["Old Site B - Level Clear"] = {
@@ -2685,7 +2685,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site B - Golden Strawberry"] = {
 		{ "Old Site B - Room end_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_cassette_blocks', 'dr_dash', 'ur_dash', 'u_dash', 'r_dash', 'd_dash', 'l_dash', 'dream_blocks', 'ul_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'coins', 'd_dash', 'dash_refills', 'dr_dash', 'dream_blocks', 'l_dash', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Old Site B - Room 01_west"] = {
@@ -2752,7 +2752,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site C - Room 01_east"] = {
 		{ "Old Site C - Room 01_west", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'ul_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dream_blocks', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["Old Site C - Room 02"] = {
@@ -2766,7 +2766,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site C - Room 02_goal"] = {
 		{ "Old Site C - Room 02_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'r_dash', 'dream_blocks', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'dream_blocks', 'l_dash', 'r_dash', 'u_dash' }
 		} },
 	},
 	["Old Site C - Level Clear"] = {
@@ -2776,7 +2776,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Old Site C - Golden Strawberry"] = {
 		{ "Old Site C - Room 02_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'r_dash', 'dream_blocks', 'ul_dash', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'dream_blocks', 'l_dash', 'r_dash', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["Old Site C - Room 01_west"] = {
@@ -2852,7 +2852,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Celestial Resort A - Room s2 Strawberry 2"] = {
 		{ "Celestial Resort A - Room s2_north-west", {
 			{ 'logic_difficulty_developer', 'u_dash' },
-			{ 'logic_difficulty_developer', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Celestial Resort A - Room s2_west"] = {
@@ -2874,7 +2874,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Front Door Key"] = {
 		{ "Celestial Resort A - Room s3_west", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'any_dash_dl_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_u_ul', 'any_dash_u_ur' }
 		} },
 	},
 	["Celestial Resort A - Room s3_east"] = {
@@ -2938,10 +2938,10 @@ LOCATION_ACCESS_LOGIC = {
 	["Celestial Resort A - Room 02-a_main"] = {
 		{ "Celestial Resort A - Room 02-a_west", {
 			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'sinking_platforms' },
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills' }
 		} },
 		{ "Celestial Resort A - Room 02-a_top", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills' }
 		} },
 		{ "Celestial Resort A - Room 02-a_east", {
 			{ 'logic_difficulty_developer' }
@@ -2949,10 +2949,10 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 02-a_west"] = {
 		{ "Celestial Resort A - Room 02-a_top", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills' }
 		} },
 		{ "Celestial Resort A - Room 02-a_main", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills' }
 		} },
 		{ "Celestial Resort A - Room 00-a_east", { {  } } },
 	},
@@ -3140,7 +3140,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 04-b Strawberry"] = {
 		{ "Celestial Resort A - Room 04-b_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills', 'ur_dash' }
 		} },
 	},
 	["Celestial Resort A - Room 05-a"] = {
@@ -3149,13 +3149,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 05-a_east"] = {
 		{ "Celestial Resort A - Room 05-a_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_u_ur', 'moving_platforms' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'dash_refills', 'moving_platforms' }
 		} },
 		{ "Celestial Resort A - Room 06-a_west", { {  } } },
 	},
 	["Celestial Resort A - Room 05-a_west"] = {
 		{ "Celestial Resort A - Room 05-a_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'moving_platforms', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'dash_refills', 'moving_platforms' }
 		} },
 		{ "Celestial Resort A - Room 03-a_east", { {  } } },
 	},
@@ -3181,7 +3181,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 07-a_east"] = {
 		{ "Celestial Resort A - Room 07-a_west", {
-			{ 'logic_difficulty_developer', 'celestialresorta-hallwaykey2', 'dash_refills', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'celestialresorta-hallwaykey2', 'dash_refills' }
 		} },
 	},
 	["Celestial Resort A - Room 07-a_top"] = {
@@ -3195,7 +3195,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer' }
 		} },
 		{ "Celestial Resort A - Room 07-a_east", {
-			{ 'logic_difficulty_developer', 'celestialresorta-hallwaykey2', 'dash_refills', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'celestialresorta-hallwaykey2', 'dash_refills' }
 		} },
 		{ "Celestial Resort A - Room 06-a_east", { {  } } },
 	},
@@ -3254,15 +3254,15 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 06-b Strawberry"] = {
 		{ "Celestial Resort A - Room 06-b_strawberry", {
-			{ 'logic_difficulty_developer', 'sinking_platforms', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'sinking_platforms' }
 		} },
 	},
 	["Celestial Resort A - Room 06-b_west"] = {
 		{ "Celestial Resort A - Room 06-b_strawberry", {
-			{ 'logic_difficulty_developer', 'sinking_platforms', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'sinking_platforms' }
 		} },
 		{ "Celestial Resort A - Room 06-b_east", {
-			{ 'logic_difficulty_developer', 'sinking_platforms', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'sinking_platforms' }
 		} },
 	},
 	["Celestial Resort A - Room 06-c"] = {
@@ -3289,7 +3289,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 06-c Strawberry"] = {
 		{ "Celestial Resort A - Room 06-c_center", {
-			{ 'logic_difficulty_developer', 'ul_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'l_dash', 'ul_dash' }
 		} },
 	},
 	["Celestial Resort A - Room 06-c_south-west"] = {
@@ -3338,7 +3338,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 08-c_east"] = {
 		{ "Celestial Resort A - Room 08-c_west", {
-			{ 'logic_difficulty_developer', 'moving_platforms', 'any_dash_u_ul_ur', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'coins', 'moving_platforms', 'springs' }
 		} },
 		{ "Celestial Resort A - Room 08-b_east", { {  } } },
 	},
@@ -3423,7 +3423,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Huge Mess Key"] = {
 		{ "Celestial Resort A - Room 09-b_center", {
-			{ 'logic_difficulty_developer', 'green_clutter', 'brown_clutter', 'pink_clutter' }
+			{ 'logic_difficulty_developer', 'brown_clutter', 'green_clutter', 'pink_clutter' }
 		} },
 	},
 	["Celestial Resort A - Room 09-b_west"] = {
@@ -3435,7 +3435,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Celestial Resort A - Room 09-b_north-west"] = {
 		{ "Celestial Resort A - Room 09-b_center", {
 			{ 'logic_difficulty_developer', 'celestialresorta-hugemesskey', 'springs' },
-			{ 'logic_difficulty_developer', 'celestialresorta-hugemesskey', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'celestialresorta-hugemesskey' }
 		} },
 	},
 	["Celestial Resort A - Room 09-b_south-west"] = {
@@ -3561,7 +3561,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 12-y Strawberry"] = {
 		{ "Celestial Resort A - Room 12-y_west", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_r_ur' }
 		} },
 	},
 	["Celestial Resort A - Room 11-z"] = {
@@ -3570,13 +3570,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 11-z_east"] = {
 		{ "Celestial Resort A - Room 11-z_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills' }
 		} },
 		{ "Celestial Resort A - Room 11-y_south", { {  } } },
 	},
 	["Celestial Resort A - Room 11-z_west"] = {
 		{ "Celestial Resort A - Room 11-z_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills' }
 		} },
 		{ "Celestial Resort A - Room 10-z_bottom", { {  } } },
 	},
@@ -3586,7 +3586,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 10-z_top"] = {
 		{ "Celestial Resort A - Room 10-z_bottom", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'sinking_platforms', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_r_ur', 'sinking_platforms' }
 		} },
 	},
 	["Celestial Resort A - Room 10-z_bottom"] = {
@@ -3723,13 +3723,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 11-d_west"] = {
 		{ "Celestial Resort A - Room 11-d_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills' }
 		} },
 		{ "Celestial Resort A - Room 10-d_east", { {  } } },
 	},
 	["Celestial Resort A - Room 11-d_strawberry"] = {
 		{ "Celestial Resort A - Room 11-d_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills' }
 		} },
 	},
 	["Celestial Resort A - Room 10-d"] = {
@@ -3981,7 +3981,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 08-d_west"] = {
 		{ "Celestial Resort A - Room 08-d_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_u_ul_ur', 'coins' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'coins', 'dash_refills' }
 		} },
 	},
 	["Celestial Resort A - Room 06-d"] = {
@@ -4019,7 +4019,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 04-d_south"] = {
 		{ "Celestial Resort A - Room 04-d_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'dash_refills' }
 		} },
 		{ "Celestial Resort A - Room 04-c_east", { {  } } },
 	},
@@ -4075,7 +4075,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 02-c_west"] = {
 		{ "Celestial Resort A - Room 02-c_east", {
-			{ 'logic_difficulty_developer', 'sinking_platforms', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'sinking_platforms' }
 		} },
 		{ "Celestial Resort A - Room 01-c_east", { {  } } },
 	},
@@ -4127,7 +4127,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Cassette"] = {
 		{ "Celestial Resort A - Room 01-c_east", {
-			{ 'logic_difficulty_developer', 'u_dash', 'blue_cassette_blocks', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'pink_cassette_blocks', 'u_dash' }
 		} },
 	},
 	["Celestial Resort A - Room 02-d"] = {
@@ -4136,7 +4136,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room 02-d_west"] = {
 		{ "Celestial Resort A - Room 02-d_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ul_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'ul_dash' }
 		} },
 	},
 	["Celestial Resort A - Presidential Suite"] = {
@@ -4182,7 +4182,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room roof01_east"] = {
 		{ "Celestial Resort A - Room roof01_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'ur_dash' }
 		} },
 		{ "Celestial Resort A - Room roof02_west", { {  } } },
 	},
@@ -4213,7 +4213,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Room roof03_east"] = {
 		{ "Celestial Resort A - Room roof03_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'springs', 'ur_dash' }
 		} },
 		{ "Celestial Resort A - Room roof04_west", { {  } } },
 	},
@@ -4295,7 +4295,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort A - Golden Strawberry"] = {
 		{ "Celestial Resort A - Room roof07_main", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'celestialresorta-hugemesskey', 'celestialresorta-hallwaykey2', 'ur_dash', 'u_dash', 'celestialresorta-presidentialsuitekey', 'sinking_platforms', 'r_dash', 'moving_platforms', 'celestialresorta-hallwaykey1', 'celestialresorta-frontdoorkey', 'l_dash', 'ul_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'celestialresorta-frontdoorkey', 'celestialresorta-hallwaykey1', 'celestialresorta-hallwaykey2', 'celestialresorta-hugemesskey', 'celestialresorta-presidentialsuitekey', 'coins', 'dash_refills', 'l_dash', 'moving_platforms', 'r_dash', 'sinking_platforms', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Celestial Resort A - Room roof07_west"] = {
@@ -4413,7 +4413,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room back Binoculars"] = {
 		{ "Celestial Resort B - Room back_east", {
-			{ 'logic_difficulty_developer', 'dl_dash', 'crouch', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'crouch', 'dl_dash' }
 		} },
 	},
 	["Celestial Resort B - Room 01"] = {
@@ -4463,7 +4463,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room 04_east"] = {
 		{ "Celestial Resort B - Room 04_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'ur_dash' }
 		} },
 		{ "Celestial Resort B - Room 05_west", { {  } } },
 	},
@@ -4479,7 +4479,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room 05_east"] = {
 		{ "Celestial Resort B - Room 05_west", {
-			{ 'logic_difficulty_developer', 'moving_platforms', 'ur_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'coins', 'moving_platforms', 'springs', 'ur_dash' }
 		} },
 	},
 	["Celestial Resort B - Staff Quarters"] = {
@@ -4490,7 +4490,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'celestialresortb-staffquarters' }
 		} },
 		{ "Celestial Resort B - Room 06_east", {
-			{ 'logic_difficulty_developer', 'sinking_platforms', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'sinking_platforms' }
 		} },
 		{ "Celestial Resort B - Room 05_east", { {  } } },
 	},
@@ -4500,7 +4500,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room 06_east"] = {
 		{ "Celestial Resort B - Room 06_west", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'sinking_platforms', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_u_ur', 'sinking_platforms' }
 		} },
 		{ "Celestial Resort B - Room 07_west", { {  } } },
 	},
@@ -4526,7 +4526,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room 08_top"] = {
 		{ "Celestial Resort B - Room 08_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'any_dash_l_ul', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_r_ur', 'dash_refills', 'u_dash' }
 		} },
 	},
 	["Celestial Resort B - Room 08_bottom"] = {
@@ -4568,7 +4568,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'celestialresortb-library' }
 		} },
 		{ "Celestial Resort B - Room 11_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'dash_refills' }
 		} },
 		{ "Celestial Resort B - Room 10_east", { {  } } },
 	},
@@ -4578,7 +4578,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room 11_east"] = {
 		{ "Celestial Resort B - Room 11_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'dash_refills' }
 		} },
 		{ "Celestial Resort B - Room 13_west", { {  } } },
 	},
@@ -4604,13 +4604,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room 14_east"] = {
 		{ "Celestial Resort B - Room 14_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills' }
 		} },
 		{ "Celestial Resort B - Room 15_west", { {  } } },
 	},
 	["Celestial Resort B - Room 14_west"] = {
 		{ "Celestial Resort B - Room 14_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills' }
 		} },
 		{ "Celestial Resort B - Room 13_east", { {  } } },
 	},
@@ -4635,7 +4635,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room 12_east"] = {
 		{ "Celestial Resort B - Room 12_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'springs' }
 		} },
 	},
 	["Celestial Resort B - Rooftop"] = {
@@ -4665,7 +4665,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room 17_east"] = {
 		{ "Celestial Resort B - Room 17_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'springs', 'ur_dash' }
 		} },
 	},
 	["Celestial Resort B - Room 18"] = {
@@ -4689,7 +4689,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room 19_east"] = {
 		{ "Celestial Resort B - Room 19_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'springs', 'ur_dash' }
 		} },
 	},
 	["Celestial Resort B - Room 21"] = {
@@ -4698,7 +4698,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room 21_east"] = {
 		{ "Celestial Resort B - Room 21_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'ur_dash' }
 		} },
 	},
 	["Celestial Resort B - Room 20"] = {
@@ -4707,7 +4707,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room 20_east"] = {
 		{ "Celestial Resort B - Room 20_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'u_dash' }
 		} },
 	},
 	["Celestial Resort B - Room end"] = {
@@ -4716,7 +4716,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Room end_goal"] = {
 		{ "Celestial Resort B - Room end_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_cassette_blocks', 'ur_dash', 'u_dash', 'r_dash', 'pink_cassette_blocks', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'coins', 'dash_refills', 'pink_cassette_blocks', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Celestial Resort B - Level Clear"] = {
@@ -4726,7 +4726,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort B - Golden Strawberry"] = {
 		{ "Celestial Resort B - Room end_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_cassette_blocks', 'ur_dash', 'u_dash', 'sinking_platforms', 'r_dash', 'moving_platforms', 'pink_cassette_blocks', 'l_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'coins', 'dash_refills', 'l_dash', 'moving_platforms', 'pink_cassette_blocks', 'r_dash', 'sinking_platforms', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Celestial Resort B - Room back_east"] = {
@@ -4774,7 +4774,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort C - Room 00_east"] = {
 		{ "Celestial Resort C - Room 00_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'ur_dash' }
 		} },
 		{ "Celestial Resort C - Room 01_west", { {  } } },
 	},
@@ -4798,7 +4798,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort C - Room 02_goal"] = {
 		{ "Celestial Resort C - Room 02_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Celestial Resort C - Level Clear"] = {
@@ -4808,7 +4808,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Celestial Resort C - Golden Strawberry"] = {
 		{ "Celestial Resort C - Room 02_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'sinking_platforms', 'r_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'r_dash', 'sinking_platforms', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Celestial Resort C - Room 01_west"] = {
@@ -4930,13 +4930,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room a-04_east"] = {
 		{ "Golden Ridge A - Room a-04_west", {
-			{ 'logic_difficulty_developer', 'pink_clouds', 'blue_clouds', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'blue_clouds', 'pink_clouds' }
 		} },
 		{ "Golden Ridge A - Room a-05_west", { {  } } },
 	},
 	["Golden Ridge A - Room a-04 Strawberry"] = {
 		{ "Golden Ridge A - Room a-04_east", {
-			{ 'logic_difficulty_developer', 'blue_clouds', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'blue_clouds' }
 		} },
 	},
 	["Golden Ridge A - Room a-04_west"] = {
@@ -4988,7 +4988,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room a-07_east"] = {
 		{ "Golden Ridge A - Room a-07_west", {
-			{ 'logic_difficulty_developer', 'ul_dash', 'coins', 'blue_boosters', 'r_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'coins', 'r_dash', 'ul_dash' }
 		} },
 		{ "Golden Ridge A - Room a-08_west", { {  } } },
 	},
@@ -5004,13 +5004,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room a-08_north-west"] = {
 		{ "Golden Ridge A - Room a-08_west", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'blue_clouds', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'any_dash_r_ur', 'blue_clouds' }
 		} },
 		{ "Golden Ridge A - Room a-10_east", { {  } } },
 	},
 	["Golden Ridge A - Room a-08_east"] = {
 		{ "Golden Ridge A - Room a-08_west", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'blue_clouds', 'blue_boosters' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'blue_boosters', 'blue_clouds' }
 		} },
 	},
 	["Golden Ridge A - Room a-08_west"] = {
@@ -5034,7 +5034,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room a-10 Strawberry"] = {
 		{ "Golden Ridge A - Room a-10_east", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'any_dash_u_ul', 'strawberry_seeds', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'any_dash_u_ur', 'springs', 'strawberry_seeds' }
 		} },
 	},
 	["Golden Ridge A - Room a-10_west"] = {
@@ -5135,7 +5135,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul' }
 		} },
 		{ "Golden Ridge A - Room b-00_west", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'any_dash_u_ul_ur' }
 		} },
 		{ "Golden Ridge A - Room b-00_north", {
 			{ 'logic_difficulty_developer' }
@@ -5188,7 +5188,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room b-06_west"] = {
 		{ "Golden Ridge A - Room b-06_east", {
-			{ 'logic_difficulty_developer', 'move_blocks', 'blue_boosters', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'blue_boosters', 'move_blocks' }
 		} },
 		{ "Golden Ridge A - Room b-07_west", { {  } } },
 	},
@@ -5198,12 +5198,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room b-07 Strawberry"] = {
 		{ "Golden Ridge A - Room b-07_west", {
-			{ 'logic_difficulty_developer', 'move_blocks', 'blue_boosters', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'blue_boosters', 'move_blocks' }
 		} },
 	},
 	["Golden Ridge A - Room b-07_east"] = {
 		{ "Golden Ridge A - Room b-07_west", {
-			{ 'logic_difficulty_developer', 'move_blocks', 'blue_boosters', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'blue_boosters', 'move_blocks' }
 		} },
 		{ "Golden Ridge A - Room b-03_west", { {  } } },
 	},
@@ -5213,7 +5213,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room b-03 Strawberry"] = {
 		{ "Golden Ridge A - Room b-03_west", {
-			{ 'logic_difficulty_developer', 'move_blocks', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'move_blocks' }
 		} },
 	},
 	["Golden Ridge A - Room b-03_east"] = {
@@ -5237,7 +5237,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Golden Ridge A - Room b-02 Strawberry 1"] = {
 		{ "Golden Ridge A - Room b-02_south-west", {
 			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'move_blocks' },
-			{ 'logic_difficulty_developer', 'r_dash', 'move_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'move_blocks', 'r_dash', 'springs' }
 		} },
 	},
 	["Golden Ridge A - Room b-02 Binoculars"] = {
@@ -5277,7 +5277,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Crystal Heart"] = {
 		{ "Golden Ridge A - Room b-sec_west", {
-			{ 'logic_difficulty_developer', 'white_block', 'crouch', 'any_dash_l_r_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_l_r_u_ul_ur', 'crouch', 'white_block' }
 		} },
 	},
 	["Golden Ridge A - Room b-sec_east"] = {
@@ -5330,7 +5330,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room b-08b_east"] = {
 		{ "Golden Ridge A - Room b-08b_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'move_blocks', 'any_dash_u_ul', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'any_dash_u_ul', 'dash_refills', 'move_blocks' }
 		} },
 		{ "Golden Ridge A - Room b-08_west", { {  } } },
 	},
@@ -5396,7 +5396,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room c-00_east"] = {
 		{ "Golden Ridge A - Room c-00_center", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'u_dash', 'ur_dash' }
 		} },
 		{ "Golden Ridge A - Room c-02_west", { {  } } },
 	},
@@ -5429,7 +5429,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room c-04_east"] = {
 		{ "Golden Ridge A - Room c-04_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'pink_clouds' }
+			{ 'logic_difficulty_developer', 'pink_clouds', 'ur_dash' }
 		} },
 		{ "Golden Ridge A - Room c-05_west", { {  } } },
 	},
@@ -5440,24 +5440,24 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room c-05_east"] = {
 		{ "Golden Ridge A - Room c-05_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'move_blocks', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'move_blocks', 'u_dash', 'ur_dash' }
 		} },
 		{ "Golden Ridge A - Room c-06_bottom", { {  } } },
 	},
 	["Golden Ridge A - Room c-05 Strawberry"] = {
 		{ "Golden Ridge A - Room c-05_strawberry", {
-			{ 'logic_difficulty_developer', 'move_blocks', 'blue_boosters', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'blue_boosters', 'move_blocks' }
 		} },
 	},
 	["Golden Ridge A - Room c-05_west"] = {
 		{ "Golden Ridge A - Room c-05_east", {
-			{ 'logic_difficulty_developer', 'ul_dash', 'move_blocks', 'blue_boosters' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'move_blocks', 'ul_dash' }
 		} },
 		{ "Golden Ridge A - Room c-04_east", { {  } } },
 	},
 	["Golden Ridge A - Room c-05_strawberry"] = {
 		{ "Golden Ridge A - Room c-05_east", {
-			{ 'logic_difficulty_developer', 'move_blocks', 'blue_boosters' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'move_blocks' }
 		} },
 	},
 	["Golden Ridge A - Room c-06"] = {
@@ -5467,13 +5467,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room c-06_west"] = {
 		{ "Golden Ridge A - Room c-06_bottom", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'move_blocks', 'blue_clouds', 'blue_boosters' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'blue_boosters', 'blue_clouds', 'move_blocks' }
 		} },
 		{ "Golden Ridge A - Room c-06b_east", { {  } } },
 	},
 	["Golden Ridge A - Room c-06 Strawberry"] = {
 		{ "Golden Ridge A - Room c-06_west", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'move_blocks', 'coins' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'coins', 'move_blocks' }
 		} },
 	},
 	["Golden Ridge A - Room c-06_bottom"] = {
@@ -5492,7 +5492,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room c-06b Strawberry"] = {
 		{ "Golden Ridge A - Room c-06b_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_u_ul', 'blue_boosters', 'r_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'blue_boosters', 'dash_refills', 'r_dash' }
 		} },
 	},
 	["Golden Ridge A - Room c-09"] = {
@@ -5501,7 +5501,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room c-09_east"] = {
 		{ "Golden Ridge A - Room c-09_west", {
-			{ 'logic_difficulty_developer', 'move_blocks', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'move_blocks', 'u_dash' }
 		} },
 	},
 	["Golden Ridge A - Room c-07"] = {
@@ -5545,12 +5545,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room c-08_top"] = {
 		{ "Golden Ridge A - Room c-08_center", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'ul_dash', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Golden Ridge A - Room c-08 Strawberry"] = {
 		{ "Golden Ridge A - Room c-08_top", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'ul_dash', 'blue_boosters' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Golden Ridge A - Room c-10"] = {
@@ -5620,7 +5620,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room d-00b Strawberry"] = {
 		{ "Golden Ridge A - Room d-00b_east", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'move_blocks', 'blue_boosters', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_u_ul', 'blue_boosters', 'move_blocks' }
 		} },
 	},
 	["Golden Ridge A - Room d-00b Binoculars"] = {
@@ -5664,7 +5664,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room d-02_east"] = {
 		{ "Golden Ridge A - Room d-02_west", {
-			{ 'logic_difficulty_developer', 'coins', 'any_dash_r_ur', 'pink_clouds', 'move_blocks', 'blue_boosters' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'blue_boosters', 'coins', 'move_blocks', 'pink_clouds' }
 		} },
 		{ "Golden Ridge A - Room d-03_west", { {  } } },
 	},
@@ -5712,7 +5712,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Golden Ridge A - Room d-05_east"] = {
 		{ "Golden Ridge A - Room d-05_west", {
 			{ 'logic_difficulty_developer', 'r_dash' },
-			{ 'logic_difficulty_developer', 'ur_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'ur_dash' }
 		} },
 		{ "Golden Ridge A - Room d-06_west", { {  } } },
 	},
@@ -5765,7 +5765,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room d-08_east"] = {
 		{ "Golden Ridge A - Room d-08_west", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'blue_clouds', 'blue_boosters' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'blue_boosters', 'blue_clouds' }
 		} },
 		{ "Golden Ridge A - Room d-09_west", { {  } } },
 	},
@@ -5780,7 +5780,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Room d-09_east"] = {
 		{ "Golden Ridge A - Room d-09_west", {
-			{ 'logic_difficulty_developer', 'blue_boosters', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'blue_boosters' }
 		} },
 	},
 	["Golden Ridge A - Room d-10"] = {
@@ -5799,7 +5799,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge A - Golden Strawberry"] = {
 		{ "Golden Ridge A - Room d-10_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_clouds', 'coins', 'ur_dash', 'u_dash', 'r_dash', 'moving_platforms', 'pink_clouds', 'ul_dash', 'move_blocks', 'blue_boosters', 'springs' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'blue_clouds', 'coins', 'dash_refills', 'move_blocks', 'moving_platforms', 'pink_clouds', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Golden Ridge A - Room a-07_west"] = {
@@ -5874,7 +5874,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room a-00_east"] = {
 		{ "Golden Ridge B - Room a-00_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'u_dash', 'ur_dash' }
 		} },
 		{ "Golden Ridge B - Room a-01_west", { {  } } },
 	},
@@ -5884,7 +5884,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room a-01_east"] = {
 		{ "Golden Ridge B - Room a-01_west", {
-			{ 'logic_difficulty_developer', 'moving_platforms', 'any_dash_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'moving_platforms' }
 		} },
 		{ "Golden Ridge B - Room a-02_west", { {  } } },
 	},
@@ -5910,8 +5910,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room a-03_east"] = {
 		{ "Golden Ridge B - Room a-03_west", {
-			{ 'logic_difficulty_developer', 'r_dash', 'move_blocks', 'blue_boosters', 'u_dash' },
-			{ 'logic_difficulty_developer', 'ur_dash', 'move_blocks', 'r_dash', 'ul_dash', 'blue_boosters' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'move_blocks', 'r_dash', 'u_dash' },
+			{ 'logic_difficulty_developer', 'blue_boosters', 'move_blocks', 'r_dash', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Golden Ridge B - Room a-04_west", { {  } } },
 	},
@@ -5921,7 +5921,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room a-04_east"] = {
 		{ "Golden Ridge B - Room a-04_west", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'move_blocks', 'blue_boosters' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'blue_boosters', 'move_blocks' }
 		} },
 		{ "Golden Ridge B - Room b-00_west", { {  } } },
 	},
@@ -5943,7 +5943,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room b-00_east"] = {
 		{ "Golden Ridge B - Room b-00_west", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'blue_boosters', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_u_ul', 'blue_boosters' }
 		} },
 		{ "Golden Ridge B - Room b-01_west", { {  } } },
 	},
@@ -5953,7 +5953,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room b-01_east"] = {
 		{ "Golden Ridge B - Room b-01_west", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'any_dash_u_ul', 'blue_boosters', 'r_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'any_dash_u_ur', 'blue_boosters', 'r_dash' }
 		} },
 	},
 	["Golden Ridge B - Room b-02"] = {
@@ -5967,8 +5967,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room b-02_top"] = {
 		{ "Golden Ridge B - Room b-02_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ul_dash', 'move_blocks', 'springs' },
-			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'springs', 'move_blocks', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'move_blocks', 'springs', 'ul_dash' },
+			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'move_blocks', 'springs', 'u_dash' }
 		} },
 	},
 	["Golden Ridge B - Room b-03"] = {
@@ -5977,7 +5977,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room b-03_east"] = {
 		{ "Golden Ridge B - Room b-03_west", {
-			{ 'logic_difficulty_developer', 'moving_platforms', 'any_dash_l_ul', 'any_dash_u_ur', 'coins', 'blue_boosters', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_u_ur', 'blue_boosters', 'coins', 'moving_platforms', 'springs' }
 		} },
 	},
 	["Golden Ridge B - Room b-04"] = {
@@ -6005,7 +6005,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room c-00_east"] = {
 		{ "Golden Ridge B - Room c-00_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'l_dash', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'l_dash', 'u_dash', 'ur_dash' }
 		} },
 		{ "Golden Ridge B - Room c-01_west", { {  } } },
 	},
@@ -6015,7 +6015,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room c-01_east"] = {
 		{ "Golden Ridge B - Room c-01_west", {
-			{ 'logic_difficulty_developer', 'moving_platforms', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'moving_platforms', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Golden Ridge B - Room c-02_west", { {  } } },
 	},
@@ -6025,7 +6025,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room c-02_east"] = {
 		{ "Golden Ridge B - Room c-02_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'move_blocks', 'crouch' }
+			{ 'logic_difficulty_developer', 'crouch', 'move_blocks', 'ur_dash' }
 		} },
 		{ "Golden Ridge B - Room c-03_bottom", { {  } } },
 	},
@@ -6050,7 +6050,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room c-04_east"] = {
 		{ "Golden Ridge B - Room c-04_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'u_dash', 'ur_dash' }
 		} },
 		{ "Golden Ridge B - Room d-00_west", { {  } } },
 	},
@@ -6062,7 +6062,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'goldenridgeb-eyeofthestorm' }
 		} },
 		{ "Golden Ridge B - Room d-00_east", {
-			{ 'logic_difficulty_developer', 'blue_clouds', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'blue_clouds' }
 		} },
 		{ "Golden Ridge B - Room c-04_east", { {  } } },
 	},
@@ -6087,7 +6087,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room d-01_east"] = {
 		{ "Golden Ridge B - Room d-01_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'pink_clouds', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'pink_clouds', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Golden Ridge B - Room d-02"] = {
@@ -6096,7 +6096,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room d-02_east"] = {
 		{ "Golden Ridge B - Room d-02_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'blue_boosters', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'coins', 'dash_refills', 'u_dash', 'ur_dash' }
 		} },
 		{ "Golden Ridge B - Room d-03_west", { {  } } },
 	},
@@ -6106,7 +6106,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room d-03_east"] = {
 		{ "Golden Ridge B - Room d-03_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'blue_boosters', 'l_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'l_dash', 'r_dash', 'ur_dash' }
 		} },
 		{ "Golden Ridge B - Room end_west", { {  } } },
 	},
@@ -6121,7 +6121,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Room end_goal"] = {
 		{ "Golden Ridge B - Room end_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_cassette_blocks', 'ur_dash', 'r_dash', 'pink_cassette_blocks', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'blue_cassette_blocks', 'dash_refills', 'pink_cassette_blocks', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Golden Ridge B - Level Clear"] = {
@@ -6131,7 +6131,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge B - Golden Strawberry"] = {
 		{ "Golden Ridge B - Room end_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_clouds', 'blue_cassette_blocks', 'ul_dash', 'ur_dash', 'u_dash', 'blue_boosters', 'crouch', 'r_dash', 'moving_platforms', 'pink_clouds', 'pink_cassette_blocks', 'l_dash', 'move_blocks', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'blue_cassette_blocks', 'blue_clouds', 'coins', 'crouch', 'dash_refills', 'l_dash', 'move_blocks', 'moving_platforms', 'pink_cassette_blocks', 'pink_clouds', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Golden Ridge B - Room a-02_west"] = {
@@ -6191,7 +6191,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge C - Room 00_east"] = {
 		{ "Golden Ridge C - Room 00_west", {
-			{ 'logic_difficulty_developer', 'blue_boosters', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'blue_boosters' }
 		} },
 		{ "Golden Ridge C - Room 01_west", { {  } } },
 	},
@@ -6206,7 +6206,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge C - Room 01_east"] = {
 		{ "Golden Ridge C - Room 01_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'move_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'move_blocks', 'u_dash', 'ur_dash' }
 		} },
 		{ "Golden Ridge C - Room 02_west", { {  } } },
 	},
@@ -6221,7 +6221,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge C - Room 02_goal"] = {
 		{ "Golden Ridge C - Room 02_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'pink_clouds', 'move_blocks', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'move_blocks', 'pink_clouds', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Golden Ridge C - Level Clear"] = {
@@ -6231,7 +6231,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Golden Ridge C - Golden Strawberry"] = {
 		{ "Golden Ridge C - Room 02_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'pink_clouds', 'move_blocks', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'dash_refills', 'move_blocks', 'pink_clouds', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Golden Ridge C - Room 01_west"] = {
@@ -6354,7 +6354,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-01 Strawberry 1"] = {
 		{ "Mirror Temple A - Room a-01_center", {
-			{ 'logic_difficulty_developer', 'red_boosters', 'r_dash' }
+			{ 'logic_difficulty_developer', 'r_dash', 'red_boosters' }
 		} },
 	},
 	["Mirror Temple A - Room a-01 Strawberry 2"] = {
@@ -6382,7 +6382,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-01_north"] = {
 		{ "Mirror Temple A - Room a-01_center", {
-			{ 'logic_difficulty_developer', 'red_boosters', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'red_boosters' }
 		} },
 		{ "Mirror Temple A - Room a-08_south", { {  } } },
 	},
@@ -6405,7 +6405,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-02 Strawberry"] = {
 		{ "Mirror Temple A - Room a-02_west", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'any_dash_d_dl_dr_l_r_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr_l_r_u_ul_ur', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room a-02_north"] = {
@@ -6435,7 +6435,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-03 Strawberry"] = {
 		{ "Mirror Temple A - Room a-03_west", {
-			{ 'logic_difficulty_developer', 'd_dash', 'red_boosters', 'r_dash' }
+			{ 'logic_difficulty_developer', 'd_dash', 'r_dash', 'red_boosters' }
 		} },
 	},
 	["Mirror Temple A - Room a-03_east"] = {
@@ -6457,7 +6457,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-04 Strawberry"] = {
 		{ "Mirror Temple A - Room a-04_east", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'any_dash_u_ul', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'springs', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room a-04_north"] = {
@@ -6496,10 +6496,10 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer' }
 		} },
 		{ "Mirror Temple A - Room a-05_south-west", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'dash_switches' }
 		} },
 		{ "Mirror Temple A - Room a-05_south-east", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'dash_switches' }
 		} },
 	},
 	["Mirror Temple A - Room a-05 Strawberry"] = {
@@ -6521,13 +6521,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-05_south-west"] = {
 		{ "Mirror Temple A - Room a-05_center", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'swap_blocks' }
 		} },
 		{ "Mirror Temple A - Room a-07_east", { {  } } },
 	},
 	["Mirror Temple A - Room a-05_south-east"] = {
 		{ "Mirror Temple A - Room a-05_center", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'swap_blocks' }
+			{ 'logic_difficulty_developer', 'swap_blocks', 'ur_dash' }
 		} },
 		{ "Mirror Temple A - Room a-06_west", { {  } } },
 	},
@@ -6536,7 +6536,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-06 Strawberry"] = {
 		{ "Mirror Temple A - Room a-06_west", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'red_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'red_boosters', 'swap_blocks', 'u_dash' }
 		} },
 	},
 	["Mirror Temple A - Room a-07"] = {
@@ -6544,7 +6544,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-07 Strawberry"] = {
 		{ "Mirror Temple A - Room a-07_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'swap_blocks', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'dash_refills', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room a-08"] = {
@@ -6564,7 +6564,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer' }
 		} },
 		{ "Mirror Temple A - Room a-08_south-east", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_d_dl_dr' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches' }
 		} },
 		{ "Mirror Temple A - Room a-08_north-east", {
 			{ 'logic_difficulty_developer' }
@@ -6575,7 +6575,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-08_north"] = {
 		{ "Mirror Temple A - Room a-08_west", {
-			{ 'logic_difficulty_developer', 'u_dash', 'swap_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'r_dash', 'swap_blocks', 'u_dash' }
 		} },
 		{ "Mirror Temple A - Room a-14_south", { {  } } },
 	},
@@ -6587,7 +6587,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-08_north-east"] = {
 		{ "Mirror Temple A - Room a-08_center", {
-			{ 'logic_difficulty_developer', 'any_dash_dl_l', 'swap_blocks', 'red_boosters', 'crouch' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l', 'crouch', 'red_boosters', 'swap_blocks' }
 		} },
 		{ "Mirror Temple A - Room a-12_north-west", { {  } } },
 	},
@@ -6620,13 +6620,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-10_east"] = {
 		{ "Mirror Temple A - Room a-10_west", {
-			{ 'logic_difficulty_developer', 'd_dash', 'swap_blocks', 'crouch' }
+			{ 'logic_difficulty_developer', 'crouch', 'd_dash', 'swap_blocks' }
 		} },
 		{ "Mirror Temple A - Room a-08_west", { {  } } },
 	},
 	["Mirror Temple A - Room a-10_west"] = {
 		{ "Mirror Temple A - Room a-10_east", {
-			{ 'logic_difficulty_developer', 'any_dash_dl_l', 'swap_blocks', 'crouch' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l', 'crouch', 'swap_blocks' }
 		} },
 		{ "Mirror Temple A - Room a-09_east", { {  } } },
 	},
@@ -6651,7 +6651,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-11 Strawberry"] = {
 		{ "Mirror Temple A - Room a-11_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'swap_blocks', 'any_dash_dr_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_dr_r_ur', 'dash_refills', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room a-12"] = {
@@ -6668,7 +6668,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-12_east"] = {
 		{ "Mirror Temple A - Room a-12_south-west", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'dash_switches', 'red_boosters', 'any_dash_d_dl_dr' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_u_ur', 'dash_switches', 'red_boosters' }
 		} },
 		{ "Mirror Temple A - Room a-15_south", { {  } } },
 	},
@@ -6677,7 +6677,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-15 Strawberry"] = {
 		{ "Mirror Temple A - Room a-15_south", {
-			{ 'logic_difficulty_developer', 'red_boosters', 'coins', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'coins', 'red_boosters' }
 		} },
 	},
 	["Mirror Temple A - Room a-14"] = {
@@ -6685,7 +6685,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room a-14 Strawberry"] = {
 		{ "Mirror Temple A - Room a-14_south", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'swap_blocks' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'swap_blocks', 'ur_dash' }
 		} },
 	},
 	["Mirror Temple A - Room a-13"] = {
@@ -6722,7 +6722,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-00_east"] = {
 		{ "Mirror Temple A - Room b-00_west", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_d_dl_dr', 'crouch' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'crouch', 'dash_switches' }
 		} },
 	},
 	["Mirror Temple A - Room b-00_north-west"] = {
@@ -6736,7 +6736,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-18 Strawberry"] = {
 		{ "Mirror Temple A - Room b-18_south", {
-			{ 'logic_difficulty_developer', 'd_dash', 'red_boosters', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'd_dash', 'red_boosters' }
 		} },
 	},
 	["Mirror Temple A - Room b-01"] = {
@@ -6776,7 +6776,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-01_west"] = {
 		{ "Mirror Temple A - Room b-01_center", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room b-01_north"] = {
@@ -6872,7 +6872,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-20 Strawberry 2"] = {
 		{ "Mirror Temple A - Room b-20_east", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'swap_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'r_dash', 'swap_blocks', 'ur_dash' }
 		} },
 	},
 	["Mirror Temple A - Room b-21"] = {
@@ -6880,7 +6880,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-21 Strawberry"] = {
 		{ "Mirror Temple A - Room b-21_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'red_boosters', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'dash_refills', 'red_boosters' }
 		} },
 	},
 	["Mirror Temple A - Room b-01b"] = {
@@ -6894,7 +6894,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-01b_west"] = {
 		{ "Mirror Temple A - Room b-01b_east", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'swap_blocks' }
 		} },
 		{ "Mirror Temple A - Room b-01_east", { {  } } },
 	},
@@ -6924,7 +6924,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-02_north"] = {
 		{ "Mirror Temple A - Room b-02_center", {
-			{ 'logic_difficulty_developer', 'red_boosters', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'red_boosters' }
 		} },
 		{ "Mirror Temple A - Room b-04_south", { {  } } },
 	},
@@ -6994,7 +6994,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-03 Strawberry"] = {
 		{ "Mirror Temple A - Room b-03_east", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_d_u_ur', 'red_boosters', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_d_u_ur', 'any_dash_r_ur', 'red_boosters', 'ul_dash' }
 		} },
 	},
 	["Mirror Temple A - Room b-05"] = {
@@ -7002,7 +7002,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-05 Strawberry"] = {
 		{ "Mirror Temple A - Room b-05_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'red_boosters', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'red_boosters', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Mirror Temple A - Room b-04"] = {
@@ -7042,7 +7042,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-07_north"] = {
 		{ "Mirror Temple A - Room b-07_south", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'u_dash' }
 		} },
 		{ "Mirror Temple A - Room b-08_west", { {  } } },
 	},
@@ -7098,7 +7098,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-11_east"] = {
 		{ "Mirror Temple A - Room b-11_north-east", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'dash_switches' }
 		} },
 		{ "Mirror Temple A - Room b-13_west", { {  } } },
 	},
@@ -7129,7 +7129,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-12 Strawberry"] = {
 		{ "Mirror Temple A - Room b-12_east", {
-			{ 'logic_difficulty_developer', 'red_boosters', 'any_dash_l_r_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_l_r_u_ul_ur', 'red_boosters' }
 		} },
 	},
 	["Mirror Temple A - Room b-12_west"] = {
@@ -7151,8 +7151,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-13_east"] = {
 		{ "Mirror Temple A - Room b-13_west", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'dash_switches', 'u_dash' },
-			{ 'logic_difficulty_developer', 'ul_dash', 'swap_blocks', 'dash_switches', 'ur_dash' }
+			{ 'logic_difficulty_developer', 'dash_switches', 'swap_blocks', 'u_dash' },
+			{ 'logic_difficulty_developer', 'dash_switches', 'swap_blocks', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Mirror Temple A - Room b-17_west", { {  } } },
 	},
@@ -7169,7 +7169,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-17 Strawberry 2"] = {
 		{ "Mirror Temple A - Room b-17_west", {
-			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'strawberry_seeds', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'springs', 'strawberry_seeds' }
 		} },
 	},
 	["Mirror Temple A - Room b-17_east"] = {
@@ -7199,7 +7199,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Cassette"] = {
 		{ "Mirror Temple A - Room b-22_west", {
-			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'any_dash_r_ur', 'any_dash_l_ul', 'red_boosters', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_r_ur', 'blue_cassette_blocks', 'pink_cassette_blocks', 'red_boosters' }
 		} },
 	},
 	["Mirror Temple A - Room b-06"] = {
@@ -7209,7 +7209,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-06_north-east"] = {
 		{ "Mirror Temple A - Room b-06_west", {
-			{ 'logic_difficulty_developer', 'red_boosters', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'red_boosters' }
 		} },
 		{ "Mirror Temple A - Room b-19_north-west", { {  } } },
 	},
@@ -7237,7 +7237,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-19_east"] = {
 		{ "Mirror Temple A - Room b-19_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'red_boosters', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'red_boosters' }
 		} },
 	},
 	["Mirror Temple A - Room b-19_west"] = {
@@ -7259,13 +7259,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-14_south"] = {
 		{ "Mirror Temple A - Room b-14_west", {
-			{ 'logic_difficulty_developer', 'mirrortemplea-depthskey', 'any_dash_d_dl_dr' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'mirrortemplea-depthskey' }
 		} },
 		{ "Mirror Temple A - Room b-15_west", { {  } } },
 	},
 	["Mirror Temple A - Room b-14_west"] = {
 		{ "Mirror Temple A - Room b-14_south", {
-			{ 'logic_difficulty_developer', 'mirrortemplea-depthskey', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'mirrortemplea-depthskey' }
 		} },
 		{ "Mirror Temple A - Room b-14_north", {
 			{ 'logic_difficulty_developer' }
@@ -7277,7 +7277,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Crystal Heart"] = {
 		{ "Mirror Temple A - Room b-15_west", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room b-16"] = {
@@ -7286,7 +7286,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room b-16_mirror"] = {
 		{ "Mirror Temple A - Room b-16_bottom", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'red_boosters', 'any_dash_d_dl_dr' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches', 'red_boosters' }
 		} },
 	},
 	["Mirror Temple A - Room void"] = {
@@ -7344,7 +7344,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room c-01b_east"] = {
 		{ "Mirror Temple A - Room c-01b_west", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'swap_blocks', 'any_dash_u_ul_ur', 'any_dash_r_ur', 'any_dash_dl_l_ul', 'red_boosters' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'any_dash_r_ur', 'any_dash_u_ul_ur', 'dash_switches', 'red_boosters', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room c-01c"] = {
@@ -7353,7 +7353,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room c-01c_east"] = {
 		{ "Mirror Temple A - Room c-01c_west", {
-			{ 'logic_difficulty_developer', 'any_dash_l_r', 'swap_blocks', 'red_boosters' }
+			{ 'logic_difficulty_developer', 'any_dash_l_r', 'red_boosters', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room c-08b"] = {
@@ -7362,7 +7362,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room c-08b_east"] = {
 		{ "Mirror Temple A - Room c-08b_west", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'dash_switches' }
 		} },
 	},
 	["Mirror Temple A - Room c-08"] = {
@@ -7440,8 +7440,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room c-13_east"] = {
 		{ "Mirror Temple A - Room c-13_west", {
-			{ 'logic_difficulty_developer', 'seekers', 'coins' },
-			{ 'logic_difficulty_developer', 'ul_dash', 'coins', 'springs' },
+			{ 'logic_difficulty_developer', 'coins', 'seekers' },
+			{ 'logic_difficulty_developer', 'coins', 'springs', 'ul_dash' },
 			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'coins' }
 		} },
 	},
@@ -7462,7 +7462,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room d-00_north"] = {
 		{ "Mirror Temple A - Room d-00_south", {
-			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'red_boosters', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_u_ul', 'red_boosters' }
 		} },
 	},
 	["Mirror Temple A - Room d-00_west"] = {
@@ -7506,10 +7506,10 @@ LOCATION_ACCESS_LOGIC = {
 		} },
 		{ "Mirror Temple A - Room d-01_south-west-down", {
 			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur' },
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_d_dl_dr' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches' }
 		} },
 		{ "Mirror Temple A - Room d-01_south-east-down", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_d_dl_dr' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches' }
 		} },
 		{ "Mirror Temple A - Room d-00_north", { {  } } },
 	},
@@ -7577,7 +7577,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room d-09_west"] = {
 		{ "Mirror Temple A - Room d-09_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'swap_blocks', 'any_dash_u_ul_ur', 'any_dash_r_ur', 'red_boosters', 'l_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_u_ul_ur', 'dash_refills', 'l_dash', 'red_boosters', 'swap_blocks' }
 		} },
 		{ "Mirror Temple A - Room d-04_north", { {  } } },
 	},
@@ -7591,7 +7591,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room d-04_west"] = {
 		{ "Mirror Temple A - Room d-04_east", {
-			{ 'logic_difficulty_developer', 'mirrortemplea-searchkey1', 'red_boosters', 'mirrortemplea-searchkey2' }
+			{ 'logic_difficulty_developer', 'mirrortemplea-searchkey1', 'mirrortemplea-searchkey2', 'red_boosters' }
 		} },
 		{ "Mirror Temple A - Room d-19b_south-east-right", { {  } } },
 	},
@@ -7624,7 +7624,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room d-04 Strawberry 2"] = {
 		{ "Mirror Temple A - Room d-04_south-east", {
-			{ 'logic_difficulty_developer', 'dl_dash', 'swap_blocks', 'crouch', 'any_dash_u_ur', 'red_boosters' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'crouch', 'dl_dash', 'red_boosters', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room d-04 Strawberry 1"] = {
@@ -7640,7 +7640,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room d-05_west"] = {
 		{ "Mirror Temple A - Room d-05_north", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_dl_l', 'swap_blocks', 'red_boosters' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l', 'any_dash_r_ur', 'red_boosters', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room d-05_south"] = {
@@ -7663,13 +7663,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room d-06_north-east"] = {
 		{ "Mirror Temple A - Room d-06_south-east", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'swap_blocks', 'red_boosters' }
+			{ 'logic_difficulty_developer', 'red_boosters', 'swap_blocks', 'ur_dash' }
 		} },
 		{ "Mirror Temple A - Room d-04_south-west-right", { {  } } },
 	},
 	["Mirror Temple A - Room d-06_north-west"] = {
 		{ "Mirror Temple A - Room d-06_south-west", {
-			{ 'logic_difficulty_developer', 'r_dash', 'u_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'r_dash', 'springs', 'u_dash' }
 		} },
 		{ "Mirror Temple A - Room d-04_south-west-left", { {  } } },
 	},
@@ -7686,7 +7686,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Mirror Temple A - Room d-07_west"] = {
 		{ "Mirror Temple A - Room d-07_north", {
 			{ 'logic_difficulty_developer', 'coins', 'u_dash' },
-			{ 'logic_difficulty_developer', 'red_boosters', 'coins' }
+			{ 'logic_difficulty_developer', 'coins', 'red_boosters' }
 		} },
 		{ "Mirror Temple A - Room d-00_east", { {  } } },
 	},
@@ -7707,7 +7707,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room d-03_west"] = {
 		{ "Mirror Temple A - Room d-03_east", {
-			{ 'logic_difficulty_developer', 'seekers', 'any_dash_u_ul_ur', 'coins' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'coins', 'seekers' }
 		} },
 		{ "Mirror Temple A - Room d-06_south-west", { {  } } },
 	},
@@ -7723,7 +7723,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Search Key 3"] = {
 		{ "Mirror Temple A - Room d-15_north-west", {
-			{ 'logic_difficulty_developer', 'seekers', 'swap_blocks', 'any_dash_r_ur', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_r_ur', 'seekers', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room d-15_center"] = {
@@ -7734,7 +7734,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur' }
 		} },
 		{ "Mirror Temple A - Room d-15_east", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'dash_switches' }
 		} },
 	},
 	["Mirror Temple A - Room d-15_north-west"] = {
@@ -7769,12 +7769,12 @@ LOCATION_ACCESS_LOGIC = {
 	["Mirror Temple A - Room d-15_south-east"] = {
 		{ "Mirror Temple A - Room d-15_south-center", {
 			{ 'logic_difficulty_developer', 'any_dash_r_ur' },
-			{ 'logic_difficulty_developer', 'swap_blocks', 'l_dash' }
+			{ 'logic_difficulty_developer', 'l_dash', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room d-15_east"] = {
 		{ "Mirror Temple A - Room d-15_south-center", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'swap_blocks', 'any_dash_r_ur', 'l_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'l_dash', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple A - Room d-15 Strawberry 2"] = {
@@ -7844,7 +7844,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room d-19_west"] = {
 		{ "Mirror Temple A - Room d-19_east", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'any_dash_u_ul_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'springs', 'swap_blocks' }
 		} },
 		{ "Mirror Temple A - Room d-19b_south-west", { {  } } },
 	},
@@ -7854,12 +7854,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room d-10_east"] = {
 		{ "Mirror Temple A - Room d-10_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'dash_refills' }
 		} },
 	},
 	["Mirror Temple A - Room d-10_west"] = {
 		{ "Mirror Temple A - Room d-10_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'dash_refills' }
 		} },
 		{ "Mirror Temple A - Room d-19b_north-east", { {  } } },
 	},
@@ -7869,7 +7869,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room d-20_east"] = {
 		{ "Mirror Temple A - Room d-20_west", {
-			{ 'logic_difficulty_developer', 'seekers', 'coins' }
+			{ 'logic_difficulty_developer', 'coins', 'seekers' }
 		} },
 	},
 	["Mirror Temple A - Rescue"] = {
@@ -7899,7 +7899,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room e-01_east"] = {
 		{ "Mirror Temple A - Room e-01_west", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_u_ur', 'theo_crystal', 'any_dash_d_dl_dr' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_u_ur', 'dash_switches', 'theo_crystal' }
 		} },
 	},
 	["Mirror Temple A - Room e-02"] = {
@@ -7926,7 +7926,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room e-04_east"] = {
 		{ "Mirror Temple A - Room e-04_west", {
-			{ 'logic_difficulty_developer', 'theo_crystal', 'coins' }
+			{ 'logic_difficulty_developer', 'coins', 'theo_crystal' }
 		} },
 	},
 	["Mirror Temple A - Room e-06"] = {
@@ -7936,14 +7936,14 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room e-06_center"] = {
 		{ "Mirror Temple A - Room e-06_west", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'theo_crystal', 'springs' },
+			{ 'logic_difficulty_developer', 'dash_switches', 'springs', 'theo_crystal' },
 			{ 'logic_difficulty_developer', 'dash_switches', 'seekers', 'theo_crystal' },
-			{ 'logic_difficulty_developer', 'dash_switches', 'theo_crystal', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'dash_switches', 'theo_crystal' }
 		} },
 	},
 	["Mirror Temple A - Room e-06 Strawberry"] = {
 		{ "Mirror Temple A - Room e-06_center", {
-			{ 'logic_difficulty_developer', 'seekers', 'dash_switches', 'theo_crystal' }
+			{ 'logic_difficulty_developer', 'dash_switches', 'seekers', 'theo_crystal' }
 		} },
 	},
 	["Mirror Temple A - Room e-06_east"] = {
@@ -7957,7 +7957,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room e-05_east"] = {
 		{ "Mirror Temple A - Room e-05_west", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'theo_crystal', 'coins' }
+			{ 'logic_difficulty_developer', 'coins', 'swap_blocks', 'theo_crystal' }
 		} },
 	},
 	["Mirror Temple A - Room e-07"] = {
@@ -8005,7 +8005,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room e-10_east"] = {
 		{ "Mirror Temple A - Room e-10_west", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'swap_blocks', 'theo_crystal', 'springs' }
+			{ 'logic_difficulty_developer', 'dash_switches', 'springs', 'swap_blocks', 'theo_crystal' }
 		} },
 	},
 	["Mirror Temple A - Room e-11"] = {
@@ -8024,7 +8024,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Golden Strawberry"] = {
 		{ "Mirror Temple A - Room e-11_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'mirrortemplea-searchkey1', 'seekers', 'mirrortemplea-depthskey', 'dash_switches', 'swap_blocks', 'crouch', 'any_dash_d_dl_dr', 'theo_crystal', 'any_dash_r_ur', 'mirrortemplea-searchkey2', 'mirrortemplea-entrancekey', 'any_dash_u_ul', 'any_dash_u_ur', 'any_dash_l_ul', 'any_dash_l_r', 'red_boosters', 'coins' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_l_r', 'any_dash_l_ul', 'any_dash_r_ur', 'any_dash_u_ul', 'any_dash_u_ur', 'coins', 'crouch', 'dash_refills', 'dash_switches', 'mirrortemplea-depthskey', 'mirrortemplea-entrancekey', 'mirrortemplea-searchkey1', 'mirrortemplea-searchkey2', 'red_boosters', 'seekers', 'swap_blocks', 'theo_crystal' }
 		} },
 	},
 	["Mirror Temple A - Room a-00x_east"] = {
@@ -8237,7 +8237,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room a-01_east"] = {
 		{ "Mirror Temple B - Room a-01_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'd_dash', 'red_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'd_dash', 'dr_dash', 'red_boosters', 'u_dash', 'ur_dash' }
 		} },
 		{ "Mirror Temple B - Room a-02_west", { {  } } },
 	},
@@ -8298,16 +8298,16 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room b-01_north"] = {
 		{ "Mirror Temple B - Room b-01_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'swap_blocks' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'swap_blocks', 'ur_dash' }
 		} },
 		{ "Mirror Temple B - Room b-01_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'swap_blocks' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'swap_blocks', 'ur_dash' }
 		} },
 		{ "Mirror Temple B - Room b-04_east", { {  } } },
 	},
 	["Mirror Temple B - Room b-01_east"] = {
 		{ "Mirror Temple B - Room b-01_west", {
-			{ 'logic_difficulty_developer', 'dl_dash', 'mirrortempleb-centralchamberkey2', 'd_dash', 'red_boosters', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'd_dash', 'dl_dash', 'mirrortempleb-centralchamberkey2', 'red_boosters', 'u_dash', 'ul_dash' }
 		} },
 		{ "Mirror Temple B - Room b-07_south", { {  } } },
 	},
@@ -8317,7 +8317,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room b-04_west"] = {
 		{ "Mirror Temple B - Room b-04_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'swap_blocks', 'any_dash_l_r', 'red_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_l_r', 'dash_refills', 'red_boosters', 'swap_blocks', 'u_dash' }
 		} },
 		{ "Mirror Temple B - Room b-02_south-east", { {  } } },
 	},
@@ -8390,7 +8390,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room b-05_south"] = {
 		{ "Mirror Temple B - Room b-05_north", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'swap_blocks', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'swap_blocks', 'u_dash', 'ur_dash' }
 		} },
 		{ "Mirror Temple B - Room b-02_south-west", { {  } } },
 	},
@@ -8409,8 +8409,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room b-07_north"] = {
 		{ "Mirror Temple B - Room b-07_south", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'd_dash', 'swap_blocks' },
-			{ 'logic_difficulty_developer', 'swap_blocks', 'any_dash_dr_r' }
+			{ 'logic_difficulty_developer', 'd_dash', 'swap_blocks', 'ur_dash' },
+			{ 'logic_difficulty_developer', 'any_dash_dr_r', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple B - Room b-03"] = {
@@ -8421,12 +8421,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room b-03_north"] = {
 		{ "Mirror Temple B - Room b-03_main", {
-			{ 'logic_difficulty_developer', 'mirrortempleb-centralchamberkey1', 'dash_switches', 'red_boosters', 'any_dash_d_dl_dr' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches', 'mirrortempleb-centralchamberkey1', 'red_boosters' }
 		} },
 	},
 	["Mirror Temple B - Room b-03_west"] = {
 		{ "Mirror Temple B - Room b-03_main", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_d_dl_dr' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches' }
 		} },
 		{ "Mirror Temple B - Room b-02_north-east", { {  } } },
 	},
@@ -8435,7 +8435,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer', 'red_boosters' }
 		} },
 		{ "Mirror Temple B - Room b-03_east", {
-			{ 'logic_difficulty_developer', 'u_dash', 'red_boosters', 'l_dash' }
+			{ 'logic_difficulty_developer', 'l_dash', 'red_boosters', 'u_dash' }
 		} },
 	},
 	["Mirror Temple B - Room b-08"] = {
@@ -8445,13 +8445,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room b-08_south"] = {
 		{ "Mirror Temple B - Room b-08_east", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'any_dash_u_ul', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'springs', 'swap_blocks' }
 		} },
 		{ "Mirror Temple B - Room b-02_north", { {  } } },
 	},
 	["Mirror Temple B - Room b-08_north"] = {
 		{ "Mirror Temple B - Room b-08_east", {
-			{ 'logic_difficulty_developer', 'mirrortempleb-centralchamberkey1', 'swap_blocks', 'dash_switches', 'any_dash_u_ul', 'any_dash_dl_l_ul', 'red_boosters', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'any_dash_u_ul', 'dash_switches', 'mirrortempleb-centralchamberkey1', 'red_boosters', 'springs', 'swap_blocks' }
 		} },
 	},
 	["Mirror Temple B - Room b-09"] = {
@@ -8465,7 +8465,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room b-09_mirror"] = {
 		{ "Mirror Temple B - Room b-09_bottom", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'swap_blocks', 'any_dash_d_dl_dr', 'l_dash', 'red_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches', 'l_dash', 'red_boosters', 'swap_blocks', 'u_dash' }
 		} },
 	},
 	["Mirror Temple B - Through the Mirror"] = {
@@ -8483,7 +8483,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room c-00_bottom"] = {
 		{ "Mirror Temple B - Room c-00_mirror", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dash_switches', 'r_dash', 'any_dash_u_ul', 'any_dash_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'any_dash_u_ur', 'dash_refills', 'dash_switches', 'r_dash' }
 		} },
 	},
 	["Mirror Temple B - Room c-01"] = {
@@ -8492,7 +8492,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room c-01_east"] = {
 		{ "Mirror Temple B - Room c-01_west", {
-			{ 'logic_difficulty_developer', 'seekers', 'coins', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'coins', 'seekers' }
 		} },
 	},
 	["Mirror Temple B - Room c-02"] = {
@@ -8501,7 +8501,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room c-02_east"] = {
 		{ "Mirror Temple B - Room c-02_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dash_switches', 'any_dash_r_ur', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_u_ul_ur', 'dash_refills', 'dash_switches' }
 		} },
 	},
 	["Mirror Temple B - Room c-03"] = {
@@ -8510,7 +8510,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room c-03_east"] = {
 		{ "Mirror Temple B - Room c-03_west", {
-			{ 'logic_difficulty_developer', 'seekers', 'red_boosters', 'ur_dash' }
+			{ 'logic_difficulty_developer', 'red_boosters', 'seekers', 'ur_dash' }
 		} },
 	},
 	["Mirror Temple B - Room c-04"] = {
@@ -8519,7 +8519,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room c-04_east"] = {
 		{ "Mirror Temple B - Room c-04_west", {
-			{ 'logic_difficulty_developer', 'seekers', 'any_dash_r_ur', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'seekers', 'u_dash' }
 		} },
 	},
 	["Mirror Temple B - Mix Master"] = {
@@ -8546,7 +8546,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room d-01_east"] = {
 		{ "Mirror Temple B - Room d-01_west", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'theo_crystal', 'springs' }
+			{ 'logic_difficulty_developer', 'dash_switches', 'springs', 'theo_crystal' }
 		} },
 	},
 	["Mirror Temple B - Room d-02"] = {
@@ -8555,8 +8555,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room d-02_east"] = {
 		{ "Mirror Temple B - Room d-02_west", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'u_dash', 'theo_crystal', 'springs' },
-			{ 'logic_difficulty_developer', 'seekers', 'dash_switches', 'theo_crystal', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'dash_switches', 'springs', 'theo_crystal', 'u_dash' },
+			{ 'logic_difficulty_developer', 'dash_switches', 'seekers', 'springs', 'theo_crystal', 'ul_dash' }
 		} },
 	},
 	["Mirror Temple B - Room d-03"] = {
@@ -8565,7 +8565,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room d-03_east"] = {
 		{ "Mirror Temple B - Room d-03_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'swap_blocks', 'theo_crystal', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'coins', 'springs', 'swap_blocks', 'theo_crystal', 'ur_dash' }
 		} },
 	},
 	["Mirror Temple B - Room d-04"] = {
@@ -8574,7 +8574,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room d-04_east"] = {
 		{ "Mirror Temple B - Room d-04_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'theo_crystal', 'springs' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'springs', 'theo_crystal', 'ur_dash' }
 		} },
 		{ "Mirror Temple B - Room d-05_west", { {  } } },
 	},
@@ -8584,7 +8584,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Room d-05_goal"] = {
 		{ "Mirror Temple B - Room d-05_west", {
-			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'ur_dash', 'swap_blocks', 'theo_crystal', 'pink_cassette_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'pink_cassette_blocks', 'springs', 'swap_blocks', 'theo_crystal', 'ur_dash' }
 		} },
 	},
 	["Mirror Temple B - Level Clear"] = {
@@ -8594,7 +8594,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple B - Golden Strawberry"] = {
 		{ "Mirror Temple B - Room d-05_goal", {
-			{ 'logic_difficulty_developer', 'seekers', 'mirrortempleb-centralchamberkey1', 'blue_cassette_blocks', 'dl_dash', 'dash_switches', 'theo_crystal', 'pink_cassette_blocks', 'dr_dash', 'swap_blocks', 'd_dash', 'r_dash', 'ul_dash', 'coins', 'springs', 'dash_refills', 'l_dash', 'ur_dash', 'mirrortempleb-centralchamberkey2', 'red_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'coins', 'd_dash', 'dash_refills', 'dash_switches', 'dl_dash', 'dr_dash', 'l_dash', 'mirrortempleb-centralchamberkey1', 'mirrortempleb-centralchamberkey2', 'pink_cassette_blocks', 'r_dash', 'red_boosters', 'seekers', 'springs', 'swap_blocks', 'theo_crystal', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Mirror Temple B - Room a-00_west"] = {
@@ -8697,7 +8697,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple C - Room 02_goal"] = {
 		{ "Mirror Temple C - Room 02_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'dash_switches', 'swap_blocks', 'r_dash', 'd_dash', 'red_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'd_dash', 'dash_refills', 'dash_switches', 'r_dash', 'red_boosters', 'swap_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Mirror Temple C - Level Clear"] = {
@@ -8707,7 +8707,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple C - Golden Strawberry"] = {
 		{ "Mirror Temple C - Room 02_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'swap_blocks', 'dash_switches', 'r_dash', 'd_dash', 'red_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'd_dash', 'dash_refills', 'dash_switches', 'r_dash', 'red_boosters', 'swap_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Mirror Temple C - Room 01_west"] = {
@@ -8731,7 +8731,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 00_west"] = {
 		{ "Reflection A - Room 00_east", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_d_dl_dr', 'any_dash_dr_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dr_r_ur', 'kevin_blocks' }
 		} },
 	},
 	["Reflection A - Room 01"] = {
@@ -8740,7 +8740,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 01_top"] = {
 		{ "Reflection A - Room 01_bottom", {
-			{ 'logic_difficulty_developer', 'feathers', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'feathers' }
 		} },
 	},
 	["Reflection A - Room 01_bottom"] = {
@@ -8757,7 +8757,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 02_bottom-west"] = {
 		{ "Reflection A - Room 02_bottom", {
-			{ 'logic_difficulty_developer', 'feathers', 'kevin_blocks', 'any_dash_u_ul_ur', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul', 'any_dash_dr_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul', 'any_dash_dr_r_ur', 'any_dash_u_ul_ur', 'feathers', 'kevin_blocks' }
 		} },
 		{ "Reflection A - Room 03_bottom", { {  } } },
 	},
@@ -8772,7 +8772,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 03_top"] = {
 		{ "Reflection A - Room 03_bottom", {
-			{ 'logic_difficulty_developer', 'feathers', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'feathers' }
 		} },
 		{ "Reflection A - Room 02_top-west", { {  } } },
 	},
@@ -8782,7 +8782,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 02b_top"] = {
 		{ "Reflection A - Room 02b_bottom", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_u_ul_ur', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul', 'any_dash_u_ul_ur', 'kevin_blocks' }
 		} },
 	},
 	["Reflection A - Hollows"] = {
@@ -8816,10 +8816,10 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 04_south-west"] = {
 		{ "Reflection A - Room 04_south", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_u_ul', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'any_dash_u_ul', 'kevin_blocks' }
 		} },
 		{ "Reflection A - Room 04_north-west", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_u_ul_ur', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'any_dash_u_ul_ur', 'kevin_blocks' }
 		} },
 	},
 	["Reflection A - Room 04_south-east"] = {
@@ -8833,7 +8833,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 04_south-west-door"] = {
 		{ "Reflection A - Room 04_south-west", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_dr_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_dr_r_ur', 'kevin_blocks' }
 		} },
 		{ "Reflection A - Room 04e_east", { {  } } },
 	},
@@ -8845,7 +8845,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 04_north-west"] = {
 		{ "Reflection A - Room 04_east", {
-			{ 'logic_difficulty_developer', 'feathers', 'any_dash_d_dl_dr' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'feathers' }
 		} },
 		{ "Reflection A - Room 04b_east", { {  } } },
 	},
@@ -8870,7 +8870,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Crystal Heart"] = {
 		{ "Reflection A - Room 04c_east", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'dl_dash', 'r_dash', 'd_dash', 'l_dash', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'd_dash', 'dl_dash', 'dr_dash', 'l_dash', 'r_dash', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection A - Room 04d"] = {
@@ -8886,7 +8886,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Cassette"] = {
 		{ "Reflection A - Room 04e_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_cassette_blocks', 'pink_cassette_blocks', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'dash_refills', 'pink_cassette_blocks', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["Reflection A - Room 05"] = {
@@ -8895,7 +8895,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 05_east"] = {
 		{ "Reflection A - Room 05_west", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'kevin_blocks' }
 		} },
 		{ "Reflection A - Room 06_west", { {  } } },
 	},
@@ -8905,7 +8905,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 06_east"] = {
 		{ "Reflection A - Room 06_west", {
-			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'kevin_blocks', 'feathers', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'any_dash_r_u_ur', 'feathers', 'kevin_blocks' }
 		} },
 		{ "Reflection A - Room 07_west", { {  } } },
 	},
@@ -8941,12 +8941,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 08a_east"] = {
 		{ "Reflection A - Room 08a_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'kevin_blocks', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'dash_refills', 'kevin_blocks' }
 		} },
 	},
 	["Reflection A - Room 08a_west"] = {
 		{ "Reflection A - Room 08a_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'kevin_blocks', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'dash_refills', 'kevin_blocks' }
 		} },
 		{ "Reflection A - Room 07_east", { {  } } },
 	},
@@ -8956,7 +8956,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 08b_east"] = {
 		{ "Reflection A - Room 08b_west", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_d_dl_dr', 'feathers', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_r_u_ur', 'feathers', 'kevin_blocks' }
 		} },
 	},
 	["Reflection A - Room 08b_west"] = {
@@ -9012,7 +9012,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 10a_east"] = {
 		{ "Reflection A - Room 10a_west", {
-			{ 'logic_difficulty_developer', 'feathers', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'feathers' }
 		} },
 	},
 	["Reflection A - Room 10b"] = {
@@ -9075,7 +9075,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 12b_east"] = {
 		{ "Reflection A - Room 12b_west", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'kevin_blocks', 'any_dash_dl_l_ul', 'bumpers' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'any_dash_u_ur', 'bumpers', 'kevin_blocks' }
 		} },
 	},
 	["Reflection A - Room 12b_west"] = {
@@ -9095,16 +9095,16 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur' }
 		} },
 		{ "Reflection A - Room 13_east", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'any_dash_u_ul_ur' }
 		} },
 		{ "Reflection A - Room 13_north-east", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul', 'any_dash_u_ul_ur' }
 		} },
 		{ "Reflection A - Room 12b_east", { {  } } },
 	},
 	["Reflection A - Room 13_east"] = {
 		{ "Reflection A - Room 13_west", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'any_dash_d_dl_dr', 'any_dash_dr_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dr_r_ur', 'any_dash_u_ul_ur' }
 		} },
 		{ "Reflection A - Room 13_north-west", {
 			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dr_r_ur' }
@@ -9116,10 +9116,10 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 13_north-east"] = {
 		{ "Reflection A - Room 13_west", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'any_dash_dr_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_dr_r_ur', 'any_dash_u_ul_ur' }
 		} },
 		{ "Reflection A - Room 13_north-west", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'any_dash_d_dl_dr', 'any_dash_dr_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dr_r_ur', 'any_dash_u_ul_ur' }
 		} },
 		{ "Reflection A - Room 13_east", {
 			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur' }
@@ -9131,7 +9131,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr' }
 		} },
 		{ "Reflection A - Room 13_east", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul', 'any_dash_u_ul_ur' }
 		} },
 		{ "Reflection A - Room 13_north-east", {
 			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul' }
@@ -9144,7 +9144,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 14a_east"] = {
 		{ "Reflection A - Room 14a_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'any_dash_l_ul', 'bumpers' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_r_ur', 'bumpers', 'dash_refills' }
 		} },
 	},
 	["Reflection A - Room 14b"] = {
@@ -9153,7 +9153,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 14b_east"] = {
 		{ "Reflection A - Room 14b_west", {
-			{ 'logic_difficulty_developer', 'bumpers', 'any_dash_ul_ur', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_ul_ur', 'bumpers', 'coins', 'springs' }
 		} },
 	},
 	["Reflection A - Room 15"] = {
@@ -9233,7 +9233,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 17_north-east"] = {
 		{ "Reflection A - Room 17_west", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'kevin_blocks' }
 		} },
 		{ "Reflection A - Room 17_east", {
 			{ 'logic_difficulty_developer', 'any_dash_u_ur' }
@@ -9242,8 +9242,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 17_east"] = {
 		{ "Reflection A - Room 17_west", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_r_ur' },
-			{ 'logic_difficulty_developer', 'dr_dash', 'kevin_blocks', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'kevin_blocks' },
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'dr_dash', 'kevin_blocks' }
 		} },
 		{ "Reflection A - Room 17_north-east", {
 			{ 'logic_difficulty_developer' }
@@ -9262,7 +9262,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 18a_east"] = {
 		{ "Reflection A - Room 18a_west", {
-			{ 'logic_difficulty_developer', 'feathers', 'u_dash', 'l_dash', 'bumpers' }
+			{ 'logic_difficulty_developer', 'bumpers', 'feathers', 'l_dash', 'u_dash' }
 		} },
 	},
 	["Reflection A - Room 18b"] = {
@@ -9271,7 +9271,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 18b_east"] = {
 		{ "Reflection A - Room 18b_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'any_dash_r_ur', 'bumpers' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'bumpers', 'dash_refills', 'u_dash' }
 		} },
 	},
 	["Reflection A - Room 19"] = {
@@ -9287,10 +9287,10 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room 19_east"] = {
 		{ "Reflection A - Room 19_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'feathers', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dr_dash', 'feathers', 'r_dash', 'ur_dash' }
 		} },
 		{ "Reflection A - Room 19_north-west", {
-			{ 'logic_difficulty_developer', 'd_dash', 'ur_dash', 'feathers', 'r_dash' }
+			{ 'logic_difficulty_developer', 'd_dash', 'feathers', 'r_dash', 'ur_dash' }
 		} },
 		{ "Reflection A - Room 20_west", { {  } } },
 	},
@@ -9348,7 +9348,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room b-00b_top"] = {
 		{ "Reflection A - Room b-00b_bottom", {
-			{ 'logic_difficulty_developer', 'dl_dash', 'crouch', 'u_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'dl_dash', 'u_dash' }
 		} },
 		{ "Reflection A - Room b-00c_east", { {  } } },
 	},
@@ -9383,7 +9383,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room b-02_bottom"] = {
 		{ "Reflection A - Room b-02_top", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_u_ul_ur', 'any_dash_l_ul', 'bumpers' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_u_ul_ur', 'bumpers', 'kevin_blocks' }
 		} },
 		{ "Reflection A - Room b-02b_top", { {  } } },
 	},
@@ -9403,7 +9403,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room b-03_east"] = {
 		{ "Reflection A - Room b-03_west", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'kevin_blocks' }
 		} },
 	},
 	["Reflection A - Rock Bottom"] = {
@@ -9540,7 +9540,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room boss-08_east"] = {
 		{ "Reflection A - Room boss-08_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills' }
 		} },
 		{ "Reflection A - Room boss-09_west", { {  } } },
 	},
@@ -9586,7 +9586,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room boss-12_east"] = {
 		{ "Reflection A - Room boss-12_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_u_ul', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'any_dash_r_u_ur', 'dash_refills' }
 		} },
 		{ "Reflection A - Room boss-13_west", { {  } } },
 	},
@@ -9664,7 +9664,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room boss-18_east"] = {
 		{ "Reflection A - Room boss-18_west", {
-			{ 'logic_difficulty_developer', 'feathers', 'any_dash_r_ur', 'any_dash_l_ul', 'bumpers' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_r_ur', 'bumpers', 'feathers' }
 		} },
 		{ "Reflection A - Room boss-19_west", { {  } } },
 	},
@@ -9674,7 +9674,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room boss-19_east"] = {
 		{ "Reflection A - Room boss-19_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'feathers' }
+			{ 'logic_difficulty_developer', 'feathers', 'ur_dash' }
 		} },
 		{ "Reflection A - Room boss-20_west", { {  } } },
 	},
@@ -9693,7 +9693,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Golden Strawberry"] = {
 		{ "Reflection A - Room boss-20_center", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'bumpers', 'ur_dash', 'kevin_blocks', 'u_dash', 'r_dash', 'any_dash_d_dr', 'any_dash_l_ul', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dr', 'any_dash_l_ul', 'bumpers', 'dash_refills', 'feathers', 'kevin_blocks', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection A - Room boss-20_west"] = {
@@ -9734,7 +9734,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection A - Room after-01_goal"] = {
 		{ "Reflection A - Room after-01_bottom", {
-			{ 'logic_difficulty_developer', 'badeline_boosters', 'any_dash_u_ul_ur', 'any_dash_l_u_ul', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'any_dash_r_u_ur', 'any_dash_u_ul_ur', 'badeline_boosters' }
 		} },
 	},
 	["Reflection A - Level Clear"] = {
@@ -9853,7 +9853,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room a-00_top"] = {
 		{ "Reflection B - Room a-00_bottom", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'any_dash_dl_l_ul', 'any_dash_d_dl_dr', 'any_dash_dr_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul', 'any_dash_dr_r_ur', 'kevin_blocks' }
 		} },
 	},
 	["Reflection B - Room a-01"] = {
@@ -9862,7 +9862,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room a-01_top"] = {
 		{ "Reflection B - Room a-01_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'feathers', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'r_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection B - Room a-02"] = {
@@ -9876,7 +9876,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room a-02_top"] = {
 		{ "Reflection B - Room a-02_bottom", {
-			{ 'logic_difficulty_developer', 'feathers', 'bumpers', 'ur_dash', 'any_dash_l_ul', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'bumpers', 'feathers', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection B - Room a-03"] = {
@@ -9885,7 +9885,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room a-03_east"] = {
 		{ "Reflection B - Room a-03_west", {
-			{ 'logic_difficulty_developer', 'feathers', 'kevin_blocks', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul', 'coins', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul', 'any_dash_r_u_ur', 'coins', 'feathers', 'kevin_blocks' }
 		} },
 		{ "Reflection B - Room a-04_west", { {  } } },
 	},
@@ -9895,7 +9895,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room a-04_east"] = {
 		{ "Reflection B - Room a-04_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'bumpers' }
+			{ 'logic_difficulty_developer', 'bumpers', 'u_dash', 'ur_dash' }
 		} },
 		{ "Reflection B - Room a-05_west", { {  } } },
 	},
@@ -9905,7 +9905,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room a-05_east"] = {
 		{ "Reflection B - Room a-05_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'bumpers' }
+			{ 'logic_difficulty_developer', 'bumpers', 'u_dash', 'ur_dash' }
 		} },
 		{ "Reflection B - Room a-06_west", { {  } } },
 	},
@@ -9920,7 +9920,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room a-06_east"] = {
 		{ "Reflection B - Room a-06_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'bumpers', 'kevin_blocks', 'ul_dash', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'bumpers', 'coins', 'dash_refills', 'feathers', 'kevin_blocks', 'l_dash', 'ul_dash' }
 		} },
 		{ "Reflection B - Room b-00_west", { {  } } },
 	},
@@ -9969,7 +9969,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room b-03_bottom"] = {
 		{ "Reflection B - Room b-03_top", {
-			{ 'logic_difficulty_developer', 'r_dash', 'any_dash_l_u_ul', 'bumpers' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'bumpers', 'r_dash' }
 		} },
 		{ "Reflection B - Room b-04_top", { {  } } },
 	},
@@ -9989,7 +9989,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room b-05_bottom"] = {
 		{ "Reflection B - Room b-05_top", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'kevin_blocks', 'any_dash_d_dl_dr', 'r_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_refills', 'kevin_blocks', 'l_dash', 'r_dash' }
 		} },
 		{ "Reflection B - Room b-06_top", { {  } } },
 	},
@@ -10019,7 +10019,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room b-08_bottom"] = {
 		{ "Reflection B - Room b-08_top", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash', 'ul_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'r_dash', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Reflection B - Room b-10_west", { {  } } },
 	},
@@ -10029,7 +10029,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room b-10_east"] = {
 		{ "Reflection B - Room b-10_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'ur_dash', 'r_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection B - Rock Bottom"] = {
@@ -10040,7 +10040,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'reflectionb-rockbottom' }
 		} },
 		{ "Reflection B - Room c-00_east", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'r_dash', 'springs', 'ur_dash' }
 		} },
 		{ "Reflection B - Room b-10_east", { {  } } },
 	},
@@ -10050,7 +10050,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room c-00_east"] = {
 		{ "Reflection B - Room c-00_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'r_dash', 'springs', 'ur_dash' }
 		} },
 	},
 	["Reflection B - Room c-01"] = {
@@ -10059,12 +10059,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room c-01_east"] = {
 		{ "Reflection B - Room c-01_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'feathers' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'ur_dash' }
 		} },
 	},
 	["Reflection B - Room c-01_west"] = {
 		{ "Reflection B - Room c-01_east", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'r_dash', 'springs', 'ur_dash' }
 		} },
 		{ "Reflection B - Room c-00_east", { {  } } },
 	},
@@ -10074,12 +10074,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room c-02_east"] = {
 		{ "Reflection B - Room c-02_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'ur_dash', 'r_dash', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'l_dash', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection B - Room c-02_west"] = {
 		{ "Reflection B - Room c-02_east", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'r_dash', 'springs', 'ur_dash' }
 		} },
 		{ "Reflection B - Room c-01_east", { {  } } },
 	},
@@ -10089,7 +10089,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room c-03_east"] = {
 		{ "Reflection B - Room c-03_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'coins', 'r_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'feathers', 'r_dash' }
 		} },
 	},
 	["Reflection B - Room c-04"] = {
@@ -10098,7 +10098,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room c-04_east"] = {
 		{ "Reflection B - Room c-04_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'bumpers', 'r_dash', 'ul_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'bumpers', 'dash_refills', 'feathers', 'l_dash', 'r_dash', 'ul_dash' }
 		} },
 	},
 	["Reflection B - Reprieve"] = {
@@ -10116,7 +10116,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room d-00_east"] = {
 		{ "Reflection B - Room d-00_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'kevin_blocks', 'any_dash_dl_l_ul', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'dash_refills', 'kevin_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection B - Room d-01"] = {
@@ -10125,7 +10125,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room d-01_east"] = {
 		{ "Reflection B - Room d-01_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'bumpers' }
+			{ 'logic_difficulty_developer', 'bumpers', 'u_dash', 'ur_dash' }
 		} },
 		{ "Reflection B - Room d-02_west", { {  } } },
 	},
@@ -10135,7 +10135,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room d-02_east"] = {
 		{ "Reflection B - Room d-02_west", {
-			{ 'logic_difficulty_developer', 'feathers', 'bumpers', 'ur_dash', 'ul_dash', 'coins' }
+			{ 'logic_difficulty_developer', 'bumpers', 'coins', 'feathers', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Reflection B - Room d-03_west", { {  } } },
 	},
@@ -10145,7 +10145,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room d-03_east"] = {
 		{ "Reflection B - Room d-03_west", {
-			{ 'logic_difficulty_developer', 'l_dash', 'kevin_blocks', 'ul_dash', 'bumpers' }
+			{ 'logic_difficulty_developer', 'bumpers', 'kevin_blocks', 'l_dash', 'ul_dash' }
 		} },
 		{ "Reflection B - Room d-04_west", { {  } } },
 	},
@@ -10155,7 +10155,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room d-04_east"] = {
 		{ "Reflection B - Room d-04_west", {
-			{ 'logic_difficulty_developer', 'feathers', 'bumpers', 'ur_dash', 'kevin_blocks', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'bumpers', 'feathers', 'kevin_blocks', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Reflection B - Room d-05_west", { {  } } },
 	},
@@ -10165,7 +10165,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Room d-05_goal"] = {
 		{ "Reflection B - Room d-05_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'blue_cassette_blocks', 'bumpers' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'bumpers', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection B - Level Clear"] = {
@@ -10175,7 +10175,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection B - Golden Strawberry"] = {
 		{ "Reflection B - Room d-05_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'blue_cassette_blocks', 'bumpers', 'ur_dash', 'kevin_blocks', 'u_dash', 'any_dash_d_dl_dr', 'r_dash', 'l_dash', 'ul_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'blue_cassette_blocks', 'bumpers', 'coins', 'dash_refills', 'feathers', 'kevin_blocks', 'l_dash', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection B - Room a-01_bottom"] = {
@@ -10256,7 +10256,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection C - Room 00_east"] = {
 		{ "Reflection C - Room 00_west", {
-			{ 'logic_difficulty_developer', 'r_dash', 'u_dash', 'bumpers' }
+			{ 'logic_difficulty_developer', 'bumpers', 'r_dash', 'u_dash' }
 		} },
 		{ "Reflection C - Room 01_west", { {  } } },
 	},
@@ -10281,12 +10281,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection C - Room 02 Binoculars 2"] = {
 		{ "Reflection C - Room 02_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'bumpers', 'ur_dash', 'kevin_blocks', 'r_dash', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'bumpers', 'dash_refills', 'kevin_blocks', 'l_dash', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection C - Room 02_goal"] = {
 		{ "Reflection C - Room 02_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'bumpers', 'ur_dash', 'kevin_blocks', 'r_dash', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'bumpers', 'dash_refills', 'kevin_blocks', 'l_dash', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection C - Level Clear"] = {
@@ -10296,7 +10296,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Reflection C - Golden Strawberry"] = {
 		{ "Reflection C - Room 02_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'bumpers', 'ur_dash', 'kevin_blocks', 'r_dash', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'bumpers', 'dash_refills', 'feathers', 'kevin_blocks', 'l_dash', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Reflection C - Room 01_west"] = {
@@ -10326,7 +10326,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room a-01_east"] = {
 		{ "The Summit A - Room a-01_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room a-02"] = {
@@ -10337,12 +10337,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room a-02_north"] = {
 		{ "The Summit A - Room a-02_west", {
-			{ 'logic_difficulty_developer', 'u_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'u_dash' }
 		} },
 	},
 	["The Summit A - Room a-02_east"] = {
 		{ "The Summit A - Room a-02_west", {
-			{ 'logic_difficulty_developer', 'u_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'u_dash' }
 		} },
 		{ "The Summit A - Room a-03_west", { {  } } },
 	},
@@ -10364,7 +10364,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room a-02b Strawberry"] = {
 		{ "The Summit A - Room a-02b_east", {
-			{ 'logic_difficulty_developer', 'r_dash', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'r_dash', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["The Summit A - Room a-02b_west"] = {
@@ -10384,13 +10384,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room a-03_east"] = {
 		{ "The Summit A - Room a-03_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'r_dash', 'springs', 'ur_dash' }
 		} },
 		{ "The Summit A - Room a-04_west", { {  } } },
 	},
 	["The Summit A - Room a-03_west"] = {
 		{ "The Summit A - Room a-03_east", {
-			{ 'logic_difficulty_developer', 'l_dash', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'l_dash', 'springs', 'ul_dash' }
 		} },
 		{ "The Summit A - Room a-02_east", { {  } } },
 	},
@@ -10401,7 +10401,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room a-04_east"] = {
 		{ "The Summit A - Room a-04_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'u_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'springs', 'u_dash', 'ur_dash' }
 		} },
 		{ "The Summit A - Room a-04_north", {
 			{ 'logic_difficulty_developer' }
@@ -10425,12 +10425,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room a-04b Strawberry 1"] = {
 		{ "The Summit A - Room a-04b_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'springs', 'r_dash', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'r_dash', 'springs', 'u_dash' }
 		} },
 	},
 	["The Summit A - Room a-04b Strawberry 2"] = {
 		{ "The Summit A - Room a-04b_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'r_dash', 'u_dash' }
 		} },
 	},
 	["The Summit A - Room a-05"] = {
@@ -10440,10 +10440,10 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room a-05_center"] = {
 		{ "The Summit A - Room a-05_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'dash_refills' }
 		} },
 		{ "The Summit A - Room a-05_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'dash_refills' }
 		} },
 	},
 	["The Summit A - Room a-05 Strawberry"] = {
@@ -10453,13 +10453,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room a-05_west"] = {
 		{ "The Summit A - Room a-05_center", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'dash_refills' }
 		} },
 		{ "The Summit A - Room a-04_east", { {  } } },
 	},
 	["The Summit A - Room a-05_east"] = {
 		{ "The Summit A - Room a-05_center", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'dash_refills' }
 		} },
 		{ "The Summit A - Room a-06_bottom", { {  } } },
 	},
@@ -10470,7 +10470,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room a-06_top"] = {
 		{ "The Summit A - Room a-06_bottom", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'badeline_boosters', 'any_dash_l_ul', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_u_ur', 'badeline_boosters', 'springs' }
 		} },
 		{ "The Summit A - Room a-06_top-side", {
 			{ 'logic_difficulty_developer', 'badeline_boosters' }
@@ -10478,7 +10478,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room a-06_top-side"] = {
 		{ "The Summit A - Room a-06_bottom", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'badeline_boosters', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'badeline_boosters', 'springs', 'ul_dash' }
 		} },
 	},
 	["The Summit A - Gem 1"] = {
@@ -10504,7 +10504,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-00_top"] = {
 		{ "The Summit A - Room b-00_bottom", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'dash_refills', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'dash_refills', 'traffic_blocks' }
 		} },
 	},
 	["The Summit A - Room b-01"] = {
@@ -10518,7 +10518,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-01_east"] = {
 		{ "The Summit A - Room b-01_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'ur_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'traffic_blocks', 'ur_dash' }
 		} },
 		{ "The Summit A - Room b-02_south", { {  } } },
 	},
@@ -10536,7 +10536,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-02_center"] = {
 		{ "The Summit A - Room b-02_south", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'traffic_blocks' }
 		} },
 		{ "The Summit A - Room b-02_north-east", {
 			{ 'logic_difficulty_developer' }
@@ -10553,13 +10553,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-02 Strawberry"] = {
 		{ "The Summit A - Room b-02_center", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_l_ul' },
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'traffic_blocks' },
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_r_ur' }
 		} },
 	},
 	["The Summit A - Room b-02_north-west"] = {
 		{ "The Summit A - Room b-02_center", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'any_dash_l_ul', 'traffic_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills', 'r_dash', 'traffic_blocks', 'u_dash' }
 		} },
 		{ "The Summit A - Room b-02b_south", { {  } } },
 	},
@@ -10590,7 +10590,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-02b_north-east"] = {
 		{ "The Summit A - Room b-02b_south", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_r_u_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'springs', 'traffic_blocks' }
 		} },
 		{ "The Summit A - Room b-02b_north-west", {
 			{ 'logic_difficulty_developer', 'any_dash_r_u_ur' }
@@ -10619,7 +10619,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-02e Strawberry"] = {
 		{ "The Summit A - Room b-02e_east", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'traffic_blocks' }
 		} },
 	},
 	["The Summit A - Room b-02c"] = {
@@ -10629,7 +10629,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-02c_east"] = {
 		{ "The Summit A - Room b-02c_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'dash_refills', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'dash_refills', 'traffic_blocks' }
 		} },
 		{ "The Summit A - Room b-02c_south-east", {
 			{ 'logic_difficulty_developer', 'any_dash_u_ur' }
@@ -10637,7 +10637,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-02c_south-east"] = {
 		{ "The Summit A - Room b-02c_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'dash_refills', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'dash_refills', 'traffic_blocks' }
 		} },
 		{ "The Summit A - Room b-02c_east", {
 			{ 'logic_difficulty_developer' }
@@ -10646,7 +10646,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-02c_west"] = {
 		{ "The Summit A - Room b-02c_east", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'dash_refills', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'dash_refills', 'traffic_blocks' }
 		} },
 		{ "The Summit A - Room b-02b_north-east", { {  } } },
 	},
@@ -10656,7 +10656,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-02d_south"] = {
 		{ "The Summit A - Room b-02d_north", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'r_dash' }
 		} },
 	},
 	["The Summit A - Gem 2"] = {
@@ -10666,7 +10666,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-02d_north"] = {
 		{ "The Summit A - Room b-02d_south", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'r_dash' }
 		} },
 		{ "The Summit A - Room b-02c_south-east", { {  } } },
 	},
@@ -10692,7 +10692,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-03_north"] = {
 		{ "The Summit A - Room b-03_east", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'dash_refills', 'any_dash_l_ul', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills', 'traffic_blocks', 'u_dash' }
 		} },
 	},
 	["The Summit A - Room b-04"] = {
@@ -10700,7 +10700,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-04 Strawberry"] = {
 		{ "The Summit A - Room b-04_west", {
-			{ 'logic_difficulty_developer', 'u_dash', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["The Summit A - Room b-05"] = {
@@ -10710,7 +10710,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-05_east"] = {
 		{ "The Summit A - Room b-05_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_u_ur', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'coins', 'dash_refills', 'springs' }
 		} },
 		{ "The Summit A - Room b-06_west", { {  } } },
 	},
@@ -10726,7 +10726,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-06_east"] = {
 		{ "The Summit A - Room b-06_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'ur_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'traffic_blocks', 'u_dash', 'ur_dash' }
 		} },
 		{ "The Summit A - Room b-07_west", { {  } } },
 	},
@@ -10742,7 +10742,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-07_east"] = {
 		{ "The Summit A - Room b-07_west", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'u_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'r_dash', 'traffic_blocks', 'u_dash' }
 		} },
 		{ "The Summit A - Room b-08_west", { {  } } },
 	},
@@ -10759,7 +10759,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-08_center"] = {
 		{ "The Summit A - Room b-08_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room b-08 Strawberry"] = {
@@ -10780,13 +10780,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room b-09_top"] = {
 		{ "The Summit A - Room b-09_bottom", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'badeline_boosters', 'ur_dash', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'badeline_boosters', 'traffic_blocks', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room b-09_top-side"] = {
 		{ "The Summit A - Room b-09_top", {
 			{ 'logic_difficulty_developer', 'u_dash' },
-			{ 'logic_difficulty_developer', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room b-09 Strawberry"] = {
@@ -10809,7 +10809,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-00_east"] = {
 		{ "The Summit A - Room c-00_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'dream_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room c-01"] = {
@@ -10818,12 +10818,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-01_top"] = {
 		{ "The Summit A - Room c-01_bottom", {
-			{ 'logic_difficulty_developer', 'l_dash', 'dream_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'l_dash', 'r_dash' }
 		} },
 	},
 	["The Summit A - Room c-01_bottom"] = {
 		{ "The Summit A - Room c-01_top", {
-			{ 'logic_difficulty_developer', 'l_dash', 'dream_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'l_dash', 'r_dash' }
 		} },
 		{ "The Summit A - Room c-00_east", { {  } } },
 	},
@@ -10833,7 +10833,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-02_top"] = {
 		{ "The Summit A - Room c-02_bottom", {
-			{ 'logic_difficulty_developer', 'u_dash', 'dream_blocks', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'coins', 'dream_blocks', 'springs', 'u_dash' }
 		} },
 	},
 	["The Summit A - Room c-03"] = {
@@ -10849,7 +10849,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-03_east"] = {
 		{ "The Summit A - Room c-03_south", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'dream_blocks', 'ul_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'r_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room c-03_south"] = {
@@ -10868,7 +10868,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-03b Strawberry"] = {
 		{ "The Summit A - Room c-03b_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'dream_blocks', 'ul_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'dream_blocks', 'l_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room c-04"] = {
@@ -10903,7 +10903,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-04_north-east"] = {
 		{ "The Summit A - Room c-04_east", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'dream_blocks' }
 		} },
 		{ "The Summit A - Room c-06b_south", { {  } } },
 	},
@@ -10917,7 +10917,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-05 Strawberry"] = {
 		{ "The Summit A - Room c-05_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'dl_dash', 'dream_blocks', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'dl_dash', 'dr_dash', 'dream_blocks', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room c-06"] = {
@@ -10928,13 +10928,13 @@ LOCATION_ACCESS_LOGIC = {
 	["The Summit A - Room c-06_north"] = {
 		{ "The Summit A - Room c-06_south", {
 			{ 'logic_difficulty_developer', 'dream_blocks', 'u_dash' },
-			{ 'logic_difficulty_developer', 'ur_dash', 'dream_blocks', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room c-06_east"] = {
 		{ "The Summit A - Room c-06_south", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'dream_blocks' },
-			{ 'logic_difficulty_developer', 'r_dash', 'dream_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'ur_dash' },
+			{ 'logic_difficulty_developer', 'dream_blocks', 'r_dash', 'u_dash' }
 		} },
 		{ "The Summit A - Room c-06_north", {
 			{ 'logic_difficulty_developer', 'dream_blocks', 'r_dash' }
@@ -10946,7 +10946,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer' }
 		} },
 		{ "The Summit A - Room c-06_east", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_dl_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'dream_blocks' }
 		} },
 		{ "The Summit A - Room c-04_north-west", { {  } } },
 	},
@@ -10959,7 +10959,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-06b_center"] = {
 		{ "The Summit A - Room c-06b_south", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dream_blocks', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dream_blocks', 'u_dash', 'ul_dash' }
 		} },
 		{ "The Summit A - Room c-06b_west", {
 			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dream_blocks', 'u_dash' }
@@ -10994,7 +10994,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Gem 3"] = {
 		{ "The Summit A - Room c-06c_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'dream_blocks', 'ul_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dream_blocks', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room c-07"] = {
@@ -11029,7 +11029,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-07_east"] = {
 		{ "The Summit A - Room c-07_south-east", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'dream_blocks' }
+			{ 'logic_difficulty_developer', 'dr_dash', 'dream_blocks', 'ur_dash' }
 		} },
 		{ "The Summit A - Room c-08_west", { {  } } },
 	},
@@ -11043,7 +11043,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-07b Strawberry"] = {
 		{ "The Summit A - Room c-07b_east", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'dream_blocks', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room c-08"] = {
@@ -11062,7 +11062,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-08_center"] = {
 		{ "The Summit A - Room c-08_west", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dream_blocks', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_r_ur', 'dream_blocks' }
 		} },
 	},
 	["The Summit A - Room c-08 Strawberry"] = {
@@ -11072,10 +11072,10 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-08_west"] = {
 		{ "The Summit A - Room c-08_center", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dream_blocks' }
 		} },
 		{ "The Summit A - Room c-08_east", {
-			{ 'logic_difficulty_developer', 'dream_blocks', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dream_blocks' }
 		} },
 		{ "The Summit A - Room c-07_east", { {  } } },
 	},
@@ -11085,8 +11085,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room c-09_top"] = {
 		{ "The Summit A - Room c-09_bottom", {
-			{ 'logic_difficulty_developer', 'badeline_boosters', 'dream_blocks', 'ul_dash', 'r_dash' },
-			{ 'logic_difficulty_developer', 'u_dash', 'r_dash', 'badeline_boosters', 'dream_blocks', 'l_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'dream_blocks', 'r_dash', 'ul_dash' },
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'dream_blocks', 'l_dash', 'r_dash', 'u_dash' }
 		} },
 	},
 	["The Summit A - Room c-09 Strawberry"] = {
@@ -11112,12 +11112,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-00 Strawberry"] = {
 		{ "The Summit A - Room d-00_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_u_ul_ur', 'any_dash_r_ur', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_r_ur', 'any_dash_u_ul_ur', 'dash_refills' }
 		} },
 	},
 	["The Summit A - Room d-00_top"] = {
 		{ "The Summit A - Room d-00_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'u_dash' }
 		} },
 	},
 	["The Summit A - Room d-01"] = {
@@ -11132,7 +11132,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-01_west"] = {
 		{ "The Summit A - Room d-01_east", {
-			{ 'logic_difficulty_developer', 'sinking_platforms', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'sinking_platforms' }
 		} },
 		{ "The Summit A - Room d-00_top", { {  } } },
 	},
@@ -11186,7 +11186,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-01c Strawberry"] = {
 		{ "The Summit A - Room d-01c_east", {
-			{ 'logic_difficulty_developer', 'sinking_platforms', 'any_dash_l_u_ul', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'any_dash_r_u_ur', 'sinking_platforms' }
 		} },
 	},
 	["The Summit A - Room d-01c_west"] = {
@@ -11207,7 +11207,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-01d Strawberry"] = {
 		{ "The Summit A - Room d-01d_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'ul_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room d-01d_east"] = {
@@ -11228,7 +11228,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-02_east"] = {
 		{ "The Summit A - Room d-02_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'ul_dash', 'coins' }
+			{ 'logic_difficulty_developer', 'coins', 'ul_dash', 'ur_dash' }
 		} },
 		{ "The Summit A - Room d-03_west", { {  } } },
 	},
@@ -11249,12 +11249,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-03 Strawberry"] = {
 		{ "The Summit A - Room d-03_center", {
-			{ 'logic_difficulty_developer', 'ul_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'r_dash', 'ul_dash' }
 		} },
 	},
 	["The Summit A - Room d-03_east"] = {
 		{ "The Summit A - Room d-03_center", {
-			{ 'logic_difficulty_developer', 'u_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'r_dash', 'u_dash' }
 		} },
 		{ "The Summit A - Room d-03_north-east", {
 			{ 'logic_difficulty_developer' }
@@ -11284,7 +11284,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Cassette"] = {
 		{ "The Summit A - Room d-03b_east", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'blue_cassette_blocks', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'pink_cassette_blocks', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room d-03b_west"] = {
@@ -11338,8 +11338,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-05_east"] = {
 		{ "The Summit A - Room d-05_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'coins' },
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'ur_dash' },
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'u_dash' }
 		} },
 		{ "The Summit A - Room d-05_north-east", {
 			{ 'logic_difficulty_developer' }
@@ -11363,7 +11363,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Gem 4"] = {
 		{ "The Summit A - Room d-05b_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'u_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'r_dash', 'u_dash' }
 		} },
 	},
 	["The Summit A - Room d-06"] = {
@@ -11407,8 +11407,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-07 Strawberry"] = {
 		{ "The Summit A - Room d-07_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'ul_dash' },
-			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'ul_dash', 'ur_dash' },
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'springs', 'ul_dash' }
 		} },
 	},
 	["The Summit A - Room d-08"] = {
@@ -11418,12 +11418,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-08_east"] = {
 		{ "The Summit A - Room d-08_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'u_dash' }
 		} },
 	},
 	["The Summit A - Room d-08_strawberry"] = {
 		{ "The Summit A - Room d-08_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'u_dash' }
 		} },
 		{ "The Summit A - Room d-08_east", {
 			{ 'logic_difficulty_developer' }
@@ -11446,8 +11446,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-09_east"] = {
 		{ "The Summit A - Room d-09_west", {
-			{ 'logic_difficulty_developer', 'u_dash', 'springs' },
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'u_dash' },
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'springs', 'ul_dash' }
 		} },
 	},
 	["The Summit A - Room d-10"] = {
@@ -11465,7 +11465,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer' }
 		} },
 		{ "The Summit A - Room d-10_north-east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'dash_refills' }
 		} },
 		{ "The Summit A - Room d-09_east", { {  } } },
 	},
@@ -11478,18 +11478,18 @@ LOCATION_ACCESS_LOGIC = {
 	["The Summit A - Room d-10_north-east"] = {
 		{ "The Summit A - Room d-10_north-west", {
 			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash' },
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'ul_dash', 'ur_dash' }
 		} },
 		{ "The Summit A - Room d-10_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'dash_refills' }
 		} },
 	},
 	["The Summit A - Room d-10_east"] = {
 		{ "The Summit A - Room d-10_north-west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'dash_refills' }
 		} },
 		{ "The Summit A - Room d-10_north-east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'dash_refills' }
 		} },
 		{ "The Summit A - Room d-11_bottom", { {  } } },
 	},
@@ -11505,7 +11505,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-10b Strawberry"] = {
 		{ "The Summit A - Room d-10b_east", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room d-10b_west"] = {
@@ -11519,7 +11519,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room d-11_top"] = {
 		{ "The Summit A - Room d-11_bottom", {
-			{ 'logic_difficulty_developer', 'ul_dash', 'badeline_boosters', 'ur_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room d-11_bottom"] = {
@@ -11536,7 +11536,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'thesummita-2000m' }
 		} },
 		{ "The Summit A - Room e-00b_top", {
-			{ 'logic_difficulty_developer', 'ul_dash', 'blue_boosters', 'r_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'r_dash', 'ul_dash' }
 		} },
 		{ "The Summit A - Room d-11_top", { {  } } },
 	},
@@ -11571,7 +11571,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-00_east"] = {
 		{ "The Summit A - Room e-00_south-west", {
-			{ 'logic_difficulty_developer', 'blue_clouds', 'blue_boosters', 'r_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'blue_clouds', 'r_dash' }
 		} },
 		{ "The Summit A - Room e-03_south-west", { {  } } },
 	},
@@ -11609,7 +11609,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-01b_west"] = {
 		{ "The Summit A - Room e-01b_east", {
-			{ 'logic_difficulty_developer', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["The Summit A - Room e-01c"] = {
@@ -11632,12 +11632,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-02 Strawberry"] = {
 		{ "The Summit A - Room e-02_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'pink_clouds' }
+			{ 'logic_difficulty_developer', 'pink_clouds', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room e-02_east"] = {
 		{ "The Summit A - Room e-02_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'pink_clouds' }
+			{ 'logic_difficulty_developer', 'pink_clouds', 'ur_dash' }
 		} },
 		{ "The Summit A - Room e-03_west", { {  } } },
 	},
@@ -11648,8 +11648,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-03_east"] = {
 		{ "The Summit A - Room e-03_south-west", {
-			{ 'logic_difficulty_developer', 'moving_platforms', 'blue_boosters', 'u_dash' },
-			{ 'logic_difficulty_developer', 'moving_platforms', 'ur_dash', 'ul_dash', 'blue_boosters' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'moving_platforms', 'u_dash' },
+			{ 'logic_difficulty_developer', 'blue_boosters', 'moving_platforms', 'ul_dash', 'ur_dash' }
 		} },
 		{ "The Summit A - Room e-03_west", {
 			{ 'logic_difficulty_developer' }
@@ -11668,7 +11668,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-04_east"] = {
 		{ "The Summit A - Room e-04_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'springs', 'r_dash', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 		{ "The Summit A - Room e-05_west", { {  } } },
 	},
@@ -11710,7 +11710,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-06_east"] = {
 		{ "The Summit A - Room e-06_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'move_blocks' }
+			{ 'logic_difficulty_developer', 'move_blocks', 'ur_dash' }
 		} },
 		{ "The Summit A - Room e-07_bottom", { {  } } },
 	},
@@ -11720,12 +11720,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-07 Strawberry"] = {
 		{ "The Summit A - Room e-07_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'move_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'move_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room e-07_top"] = {
 		{ "The Summit A - Room e-07_bottom", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'move_blocks' }
+			{ 'logic_difficulty_developer', 'move_blocks', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room e-08"] = {
@@ -11735,7 +11735,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-08_west"] = {
 		{ "The Summit A - Room e-08_south", {
-			{ 'logic_difficulty_developer', 'blue_clouds', 'any_dash_u_ul', 'l_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'blue_clouds', 'l_dash' }
 		} },
 		{ "The Summit A - Room e-09_east", { {  } } },
 	},
@@ -11782,13 +11782,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-11_north"] = {
 		{ "The Summit A - Room e-11_south", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'move_blocks' }
+			{ 'logic_difficulty_developer', 'move_blocks', 'ur_dash' }
 		} },
 		{ "The Summit A - Room e-12_west", { {  } } },
 	},
 	["The Summit A - Room e-11_east"] = {
 		{ "The Summit A - Room e-11_south", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'move_blocks', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'move_blocks', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room e-11_south"] = {
@@ -11807,7 +11807,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-12 Strawberry"] = {
 		{ "The Summit A - Room e-12_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ul_dash', 'strawberry_seeds' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'strawberry_seeds', 'ul_dash' }
 		} },
 	},
 	["The Summit A - Room e-10"] = {
@@ -11817,12 +11817,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-10 Strawberry"] = {
 		{ "The Summit A - Room e-10_south", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'blue_boosters', 'r_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'r_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room e-10_east"] = {
 		{ "The Summit A - Room e-10_south", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'blue_boosters' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'ur_dash' }
 		} },
 		{ "The Summit A - Room e-10b_west", { {  } } },
 	},
@@ -11838,7 +11838,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-10b_east"] = {
 		{ "The Summit A - Room e-10b_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'any_dash_u_ul', 'move_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'any_dash_u_ul', 'dash_refills', 'move_blocks', 'springs' }
 		} },
 		{ "The Summit A - Room e-13_bottom", { {  } } },
 	},
@@ -11848,7 +11848,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room e-13_top"] = {
 		{ "The Summit A - Room e-13_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'badeline_boosters', 'any_dash_l_ul', 'move_blocks', 'blue_boosters', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'badeline_boosters', 'blue_boosters', 'dash_refills', 'move_blocks', 'springs', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room e-13 Strawberry"] = {
@@ -11907,13 +11907,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-01 Strawberry"] = {
 		{ "The Summit A - Room f-01_south", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'swap_blocks', 'red_boosters', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'red_boosters', 'swap_blocks', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room f-01_north"] = {
 		{ "The Summit A - Room f-01_south", {
 			{ 'logic_difficulty_developer', 'ur_dash' },
-			{ 'logic_difficulty_developer', 'red_boosters', 'any_dash_u_ul' },
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'red_boosters' },
 			{ 'logic_difficulty_developer', 'any_dash_dr_r', 'u_dash' }
 		} },
 	},
@@ -11931,7 +11931,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-02_east"] = {
 		{ "The Summit A - Room f-02_west", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'r_dash', 'swap_blocks' }
 		} },
 		{ "The Summit A - Room f-02_north-east", {
 			{ 'logic_difficulty_developer' }
@@ -11950,7 +11950,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-02b_east"] = {
 		{ "The Summit A - Room f-02b_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'dash_switches', 'swap_blocks', 'r_dash', 'red_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'dash_switches', 'r_dash', 'red_boosters', 'swap_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Gem 6"] = {
@@ -11964,7 +11964,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-04_east"] = {
 		{ "The Summit A - Room f-04_west", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'r_dash', 'swap_blocks' }
 		} },
 		{ "The Summit A - Room f-03_west", { {  } } },
 	},
@@ -11974,7 +11974,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-03_east"] = {
 		{ "The Summit A - Room f-03_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'swap_blocks' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'swap_blocks', 'ur_dash' }
 		} },
 		{ "The Summit A - Room f-05_west", { {  } } },
 	},
@@ -12029,8 +12029,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-05_north-west"] = {
 		{ "The Summit A - Room f-05_south", {
-			{ 'logic_difficulty_developer', 'red_boosters', 'r_dash' },
-			{ 'logic_difficulty_developer', 'ul_dash', 'r_dash' },
+			{ 'logic_difficulty_developer', 'r_dash', 'red_boosters' },
+			{ 'logic_difficulty_developer', 'r_dash', 'ul_dash' },
 			{ 'logic_difficulty_developer', 'any_dash_u_ur' }
 		} },
 	},
@@ -12107,7 +12107,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - 2500 M Key"] = {
 		{ "The Summit A - Room f-07_south-east", {
-			{ 'logic_difficulty_developer', 'red_boosters', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'red_boosters' }
 		} },
 	},
 	["The Summit A - Room f-08"] = {
@@ -12123,9 +12123,9 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-08_east"] = {
 		{ "The Summit A - Room f-08_west", {
-			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'swap_blocks', 'red_boosters', 'ul_dash' },
-			{ 'logic_difficulty_developer', 'swap_blocks', 'any_dash_r_ur', 'l_dash', 'red_boosters', 'u_dash' },
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'swap_blocks', 'red_boosters', 'l_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'red_boosters', 'swap_blocks', 'ul_dash' },
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'l_dash', 'red_boosters', 'swap_blocks', 'u_dash' },
+			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'red_boosters', 'swap_blocks', 'ur_dash' }
 		} },
 		{ "The Summit A - Room f-09_west", { {  } } },
 	},
@@ -12147,7 +12147,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-08b Strawberry"] = {
 		{ "The Summit A - Room f-08b_east", {
-			{ 'logic_difficulty_developer', 'swap_blocks', 'any_dash_r_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'springs', 'swap_blocks' }
 		} },
 	},
 	["The Summit A - Room f-08b_west"] = {
@@ -12162,7 +12162,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-08d_east"] = {
 		{ "The Summit A - Room f-08d_west", {
-			{ 'logic_difficulty_developer', 'any_dash_l_r', 'u_dash', 'dash_switches', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_l_r', 'dash_switches', 'springs', 'u_dash' }
 		} },
 		{ "The Summit A - Room f-08c_west", { {  } } },
 	},
@@ -12172,7 +12172,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-08c_east"] = {
 		{ "The Summit A - Room f-08c_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'swap_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'swap_blocks' }
 		} },
 	},
 	["The Summit A - Room f-08c Strawberry"] = {
@@ -12210,7 +12210,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-10b_east"] = {
 		{ "The Summit A - Room f-10b_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'dash_switches', 'springs', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'dash_switches', 'springs', 'u_dash', 'ur_dash' }
 		} },
 		{ "The Summit A - Room f-11_bottom", { {  } } },
 	},
@@ -12220,7 +12220,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-11_top"] = {
 		{ "The Summit A - Room f-11_bottom", {
-			{ 'logic_difficulty_developer', 'any_dash_d_u', 'ur_dash', 'swap_blocks', 'badeline_boosters', 'red_boosters', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_d_u', 'badeline_boosters', 'red_boosters', 'springs', 'swap_blocks', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room f-11 Strawberry 1"] = {
@@ -12235,7 +12235,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room f-11 Strawberry 3"] = {
 		{ "The Summit A - Room f-11_top", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'dash_switches' }
 		} },
 	},
 	["The Summit A - 3000 M"] = {
@@ -12253,8 +12253,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room g-00_top"] = {
 		{ "The Summit A - Room g-00_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'badeline_boosters', 'u_dash' },
-			{ 'logic_difficulty_developer', 'dash_refills', 'badeline_boosters', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'dash_refills', 'u_dash' },
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'dash_refills', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-00b"] = {
@@ -12266,42 +12266,42 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Crystal Heart"] = {
 		{ "The Summit A - Room g-00b_bottom", {
-			{ 'logic_difficulty_developer', 'thesummita-gem1', 'crouch', 'thesummita-gem5', 'any_dash_dl_dr_l_r_u_ul_ur', 'thesummita-gem2', 'thesummita-gem3', 'thesummita-gem4', 'thesummita-gem6' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_dr_l_r_u_ul_ur', 'crouch', 'thesummita-gem1', 'thesummita-gem2', 'thesummita-gem3', 'thesummita-gem4', 'thesummita-gem5', 'thesummita-gem6' }
 		} },
 	},
 	["The Summit A - Room g-00b_c26"] = {
 		{ "The Summit A - Room g-00b_bottom", {
-			{ 'logic_difficulty_developer', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["The Summit A - Room g-00b Strawberry 1"] = {
 		{ "The Summit A - Room g-00b_c26", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-00b_c24"] = {
 		{ "The Summit A - Room g-00b_c26", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-00b Strawberry 2"] = {
 		{ "The Summit A - Room g-00b_c24", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-00b_c21"] = {
 		{ "The Summit A - Room g-00b_c24", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-00b Strawberry 3"] = {
 		{ "The Summit A - Room g-00b_c21", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-00b_top"] = {
 		{ "The Summit A - Room g-00b_c21", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'springs', 'badeline_boosters', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'dash_refills', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-01"] = {
@@ -12317,17 +12317,17 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room g-01 Strawberry 1"] = {
 		{ "The Summit A - Room g-01_c18", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'blue_clouds', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'blue_clouds', 'dash_refills', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-01_c16"] = {
 		{ "The Summit A - Room g-01_c18", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'blue_clouds' }
+			{ 'logic_difficulty_developer', 'blue_clouds', 'dash_refills', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-01 Strawberry 2"] = {
 		{ "The Summit A - Room g-01_c16", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-01 Strawberry 3"] = {
@@ -12337,7 +12337,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room g-01_top"] = {
 		{ "The Summit A - Room g-01_c16", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'u_dash', 'badeline_boosters', 'pink_clouds', 'l_dash', 'ul_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'coins', 'dash_refills', 'l_dash', 'pink_clouds', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-02"] = {
@@ -12346,7 +12346,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room g-02_top"] = {
 		{ "The Summit A - Room g-02_bottom", {
-			{ 'logic_difficulty_developer', 'feathers', 'blue_clouds', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_clouds', 'feathers', 'u_dash' }
 		} },
 	},
 	["The Summit A - Room g-03"] = {
@@ -12355,17 +12355,17 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Room g-03 Binoculars"] = {
 		{ "The Summit A - Room g-03_bottom", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-03 Strawberry"] = {
 		{ "The Summit A - Room g-03_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'ur_dash', 'springs', 'r_dash', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'l_dash', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room g-03_goal"] = {
 		{ "The Summit A - Room g-03_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'ur_dash', 'springs', 'r_dash', 'l_dash', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'l_dash', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Level Clear"] = {
@@ -12375,7 +12375,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit A - Golden Strawberry"] = {
 		{ "The Summit A - Room g-03_goal", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'sinking_platforms', 'badeline_boosters', 'pink_clouds', 'blue_clouds', 'swap_blocks', 'traffic_blocks', 'dream_blocks', 'feathers', 'r_dash', 'ul_dash', 'blue_boosters', 'coins', 'dash_refills', 'springs', 'l_dash', 'thesummita-2500mkey', 'ur_dash', 'red_boosters', 'move_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'blue_boosters', 'blue_clouds', 'coins', 'dash_refills', 'dash_switches', 'dream_blocks', 'feathers', 'l_dash', 'move_blocks', 'pink_clouds', 'r_dash', 'red_boosters', 'sinking_platforms', 'springs', 'swap_blocks', 'thesummita-2500mkey', 'traffic_blocks', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit A - Room a-01_west"] = {
@@ -12555,7 +12555,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room a-00_east"] = {
 		{ "The Summit B - Room a-00_west", {
-			{ 'logic_difficulty_developer', 'r_dash', 'u_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'r_dash', 'springs', 'u_dash' }
 		} },
 		{ "The Summit B - Room a-01_west", { {  } } },
 	},
@@ -12565,7 +12565,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room a-01_east"] = {
 		{ "The Summit B - Room a-01_west", {
-			{ 'logic_difficulty_developer', 'r_dash', 'u_dash', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'r_dash', 'springs', 'u_dash', 'ul_dash' }
 		} },
 		{ "The Summit B - Room a-02_west", { {  } } },
 	},
@@ -12575,7 +12575,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room a-02_east"] = {
 		{ "The Summit B - Room a-02_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'u_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit B - Room a-03"] = {
@@ -12584,7 +12584,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room a-03_top"] = {
 		{ "The Summit B - Room a-03_bottom", {
-			{ 'logic_difficulty_developer', 'springs', 'r_dash', 'badeline_boosters', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'l_dash', 'r_dash', 'springs', 'u_dash' }
 		} },
 	},
 	["The Summit B - 500 M"] = {
@@ -12605,7 +12605,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room b-00_top"] = {
 		{ "The Summit B - Room b-00_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ul_dash', 'traffic_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'traffic_blocks', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["The Summit B - Room b-01"] = {
@@ -12619,7 +12619,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room b-01_top"] = {
 		{ "The Summit B - Room b-01_bottom", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'r_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'r_dash', 'traffic_blocks', 'u_dash' }
 		} },
 	},
 	["The Summit B - Room b-02"] = {
@@ -12629,7 +12629,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room b-02_center"] = {
 		{ "The Summit B - Room b-02_west", {
-			{ 'logic_difficulty_developer', 'u_dash', 'any_dash_r_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'springs', 'u_dash' }
 		} },
 	},
 	["The Summit B - Room b-02 Binoculars"] = {
@@ -12639,7 +12639,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room b-02_east"] = {
 		{ "The Summit B - Room b-02_center", {
-			{ 'logic_difficulty_developer', 'u_dash', 'any_dash_r_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'springs', 'u_dash' }
 		} },
 		{ "The Summit B - Room b-03_bottom", { {  } } },
 	},
@@ -12649,7 +12649,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room b-03_top"] = {
 		{ "The Summit B - Room b-03_bottom", {
-			{ 'logic_difficulty_developer', 'traffic_blocks', 'badeline_boosters', 'any_dash_r_ur', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'badeline_boosters', 'traffic_blocks', 'u_dash' }
 		} },
 	},
 	["The Summit B - 1000 M"] = {
@@ -12667,7 +12667,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room c-01_east"] = {
 		{ "The Summit B - Room c-01_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'u_dash', 'r_dash', 'dream_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'dr_dash', 'dream_blocks', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit B - Room c-00"] = {
@@ -12676,7 +12676,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room c-00_east"] = {
 		{ "The Summit B - Room c-00_west", {
-			{ 'logic_difficulty_developer', 'l_dash', 'u_dash', 'dream_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'l_dash', 'r_dash', 'u_dash' }
 		} },
 	},
 	["The Summit B - Room c-02"] = {
@@ -12685,7 +12685,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room c-02_east"] = {
 		{ "The Summit B - Room c-02_west", {
-			{ 'logic_difficulty_developer', 'r_dash', 'u_dash', 'dream_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'r_dash', 'springs', 'u_dash' }
 		} },
 	},
 	["The Summit B - Room c-03"] = {
@@ -12694,7 +12694,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room c-03_top"] = {
 		{ "The Summit B - Room c-03_bottom", {
-			{ 'logic_difficulty_developer', 'u_dash', 'r_dash', 'badeline_boosters', 'dream_blocks', 'l_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'dream_blocks', 'l_dash', 'r_dash', 'u_dash' }
 		} },
 	},
 	["The Summit B - 1500 M"] = {
@@ -12712,7 +12712,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room d-00_east"] = {
 		{ "The Summit B - Room d-00_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'u_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 		{ "The Summit B - Room d-01_west", { {  } } },
 	},
@@ -12732,7 +12732,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room d-02_east"] = {
 		{ "The Summit B - Room d-02_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'springs', 'moving_platforms', 'ul_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'moving_platforms', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 		{ "The Summit B - Room d-03_bottom", { {  } } },
 	},
@@ -12742,7 +12742,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room d-03_top"] = {
 		{ "The Summit B - Room d-03_bottom", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'springs', 'badeline_boosters', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit B - 2000 M"] = {
@@ -12760,7 +12760,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room e-00_east"] = {
 		{ "The Summit B - Room e-00_west", {
-			{ 'logic_difficulty_developer', 'r_dash', 'blue_clouds', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'blue_clouds', 'r_dash', 'u_dash' }
 		} },
 	},
 	["The Summit B - Room e-01"] = {
@@ -12769,7 +12769,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room e-01_east"] = {
 		{ "The Summit B - Room e-01_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'move_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'move_blocks', 'r_dash', 'springs', 'ur_dash' }
 		} },
 	},
 	["The Summit B - Room e-02"] = {
@@ -12788,7 +12788,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room e-03_top"] = {
 		{ "The Summit B - Room e-03_bottom", {
-			{ 'logic_difficulty_developer', 'blue_clouds', 'r_dash', 'badeline_boosters', 'pink_clouds', 'l_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'blue_clouds', 'coins', 'l_dash', 'pink_clouds', 'r_dash', 'u_dash' }
 		} },
 	},
 	["The Summit B - 2500 M"] = {
@@ -12806,7 +12806,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room f-00_east"] = {
 		{ "The Summit B - Room f-00_west", {
-			{ 'logic_difficulty_developer', 'u_dash', 'l_dash', 'swap_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'l_dash', 'springs', 'swap_blocks', 'u_dash' }
 		} },
 		{ "The Summit B - Room f-01_west", { {  } } },
 	},
@@ -12816,7 +12816,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room f-01_east"] = {
 		{ "The Summit B - Room f-01_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'r_dash', 'red_boosters', 'l_dash' }
+			{ 'logic_difficulty_developer', 'l_dash', 'r_dash', 'red_boosters', 'u_dash', 'ur_dash' }
 		} },
 		{ "The Summit B - Room f-02_west", { {  } } },
 	},
@@ -12826,7 +12826,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room f-02_east"] = {
 		{ "The Summit B - Room f-02_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'swap_blocks', 'u_dash', 'r_dash', 'any_dash_l_ul', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills', 'r_dash', 'springs', 'swap_blocks', 'u_dash', 'ur_dash' }
 		} },
 		{ "The Summit B - Room f-03_bottom", { {  } } },
 	},
@@ -12836,7 +12836,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room f-03_top"] = {
 		{ "The Summit B - Room f-03_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dr_dash', 'ur_dash', 'dl_dash', 'swap_blocks', 'u_dash', 'r_dash', 'badeline_boosters', 'red_boosters', 'l_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'dash_refills', 'dl_dash', 'dr_dash', 'l_dash', 'r_dash', 'red_boosters', 'swap_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit B - 3000 M"] = {
@@ -12854,7 +12854,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room g-00_top"] = {
 		{ "The Summit B - Room g-00_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'springs', 'r_dash', 'badeline_boosters', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'dash_refills', 'l_dash', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit B - Room g-01"] = {
@@ -12863,7 +12863,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room g-01_top"] = {
 		{ "The Summit B - Room g-01_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_clouds', 'ur_dash', 'u_dash', 'r_dash', 'badeline_boosters', 'pink_clouds', 'l_dash', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'blue_clouds', 'dash_refills', 'l_dash', 'pink_clouds', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit B - Room g-02"] = {
@@ -12872,7 +12872,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room g-02_top"] = {
 		{ "The Summit B - Room g-02_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_clouds', 'ur_dash', 'u_dash', 'r_dash', 'badeline_boosters', 'pink_clouds', 'l_dash', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'blue_clouds', 'dash_refills', 'l_dash', 'pink_clouds', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit B - Room g-03"] = {
@@ -12881,7 +12881,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Room g-03_goal"] = {
 		{ "The Summit B - Room g-03_bottom", {
-			{ 'logic_difficulty_developer', 'blue_clouds', 'blue_cassette_blocks', 'u_dash', 'pink_cassette_blocks', 'ul_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'blue_clouds', 'l_dash', 'pink_cassette_blocks', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["The Summit B - Level Clear"] = {
@@ -12891,7 +12891,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit B - Golden Strawberry"] = {
 		{ "The Summit B - Room g-03_goal", {
-			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'dl_dash', 'badeline_boosters', 'pink_clouds', 'pink_cassette_blocks', 'blue_clouds', 'dr_dash', 'swap_blocks', 'traffic_blocks', 'dream_blocks', 'r_dash', 'ul_dash', 'blue_boosters', 'l_dash', 'dash_refills', 'coins', 'springs', 'ur_dash', 'moving_platforms', 'red_boosters', 'move_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'blue_boosters', 'blue_cassette_blocks', 'blue_clouds', 'coins', 'dash_refills', 'dl_dash', 'dr_dash', 'dream_blocks', 'l_dash', 'move_blocks', 'moving_platforms', 'pink_cassette_blocks', 'pink_clouds', 'r_dash', 'red_boosters', 'springs', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit B - Room a-01_west"] = {
@@ -12974,7 +12974,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit C - Room 01_east"] = {
 		{ "The Summit C - Room 01_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'badeline_boosters', 'r_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'dash_refills', 'r_dash', 'u_dash' }
 		} },
 	},
 	["The Summit C - Room 02"] = {
@@ -12983,7 +12983,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit C - Room 02_east"] = {
 		{ "The Summit C - Room 02_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'springs', 'badeline_boosters', 'ul_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'coins', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit C - Room 03"] = {
@@ -12997,7 +12997,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit C - Room 03_goal"] = {
 		{ "The Summit C - Room 03_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'springs', 'r_dash', 'pink_clouds', 'l_dash', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'pink_clouds', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit C - Level Clear"] = {
@@ -13007,7 +13007,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["The Summit C - Golden Strawberry"] = {
 		{ "The Summit C - Room 03_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'u_dash', 'r_dash', 'badeline_boosters', 'pink_clouds', 'l_dash', 'ul_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'coins', 'dash_refills', 'l_dash', 'pink_clouds', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["The Summit C - Room 02_west"] = {
@@ -13082,7 +13082,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room 01_east"] = {
 		{ "Core A - Room 01_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'dash_refills' }
 		} },
 		{ "Core A - Room 02_west", { {  } } },
 	},
@@ -13115,7 +13115,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'corea-intothecore' }
 		} },
 		{ "Core A - Room a-00_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'dash_refills' }
 		} },
 		{ "Core A - Room 02_east", { {  } } },
 	},
@@ -13125,7 +13125,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room a-00_east"] = {
 		{ "Core A - Room a-00_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills' }
 		} },
 		{ "Core A - Room a-01_west", { {  } } },
 	},
@@ -13135,7 +13135,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room a-01_east"] = {
 		{ "Core A - Room a-01_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'springs' }
 		} },
 		{ "Core A - Room a-02_west", { {  } } },
 	},
@@ -13151,12 +13151,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room a-02_east"] = {
 		{ "Core A - Room a-02_west", {
-			{ 'logic_difficulty_developer', 'core_blocks', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'core_blocks' }
 		} },
 	},
 	["Core A - Room a-02_west"] = {
 		{ "Core A - Room a-02_east", {
-			{ 'logic_difficulty_developer', 'core_blocks', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'core_blocks' }
 		} },
 		{ "Core A - Room a-01_east", { {  } } },
 	},
@@ -13167,7 +13167,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Core A - Room a-03_top"] = {
 		{ "Core A - Room a-03_bottom", {
 			{ 'logic_difficulty_developer', 'u_dash' },
-			{ 'logic_difficulty_developer', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Core A - Room a-03_bottom"] = {
@@ -13208,7 +13208,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room b-00_north"] = {
 		{ "Core A - Room b-00_south", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'core_blocks', 'any_dash_r_ur', 'fire_ice_balls', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'coins', 'core_blocks', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'u_dash' }
 		} },
 	},
 	["Core A - Room b-01"] = {
@@ -13233,13 +13233,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room b-02_east"] = {
 		{ "Core A - Room b-02_west", {
-			{ 'logic_difficulty_developer', 'core_blocks', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'core_blocks' }
 		} },
 		{ "Core A - Room b-03_west", { {  } } },
 	},
 	["Core A - Room b-02_west"] = {
 		{ "Core A - Room b-02_east", {
-			{ 'logic_difficulty_developer', 'core_blocks', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'core_blocks' }
 		} },
 		{ "Core A - Room b-01_east", { {  } } },
 	},
@@ -13272,7 +13272,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room b-04_east"] = {
 		{ "Core A - Room b-04_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'core_blocks', 'any_dash_r_ur', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'core_blocks', 'core_toggles', 'u_dash' }
 		} },
 	},
 	["Core A - Room b-05"] = {
@@ -13281,7 +13281,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room b-05_west"] = {
 		{ "Core A - Room b-05_east", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'u_dash' }
 		} },
 		{ "Core A - Room b-04_north-west", { {  } } },
 	},
@@ -13290,7 +13290,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room b-06 Strawberry"] = {
 		{ "Core A - Room b-06_east", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'bumpers', 'core_blocks', 'any_dash_r_ur', 'fire_ice_balls', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'bumpers', 'coins', 'core_blocks', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'u_dash' }
 		} },
 	},
 	["Core A - Room b-07b"] = {
@@ -13299,7 +13299,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room b-07b_top"] = {
 		{ "Core A - Room b-07b_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'core_toggles', 'dash_refills' }
 		} },
 	},
 	["Core A - Room b-07b_bottom"] = {
@@ -13314,7 +13314,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room b-07_top"] = {
 		{ "Core A - Room b-07_bottom", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'core_blocks', 'any_dash_u_ul_ur', 'bumpers' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'bumpers', 'core_blocks', 'core_toggles' }
 		} },
 	},
 	["Core A - Hot and Cold"] = {
@@ -13333,7 +13333,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room c-00_east"] = {
 		{ "Core A - Room c-00_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'core_blocks', 'dash_refills', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'core_blocks', 'core_toggles', 'dash_refills' }
 		} },
 		{ "Core A - Room c-00_north-east", {
 			{ 'logic_difficulty_developer', 'core_toggles' }
@@ -13342,7 +13342,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room c-00_north-east"] = {
 		{ "Core A - Room c-00_east", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'ur_dash', 'dash_refills', 'fire_ice_balls' }
+			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'ur_dash' }
 		} },
 		{ "Core A - Room c-00b_west", { {  } } },
 	},
@@ -13351,7 +13351,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room c-00b Strawberry"] = {
 		{ "Core A - Room c-00b_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'bumpers' }
+			{ 'logic_difficulty_developer', 'bumpers', 'core_toggles', 'dash_refills', 'fire_ice_balls' }
 		} },
 	},
 	["Core A - Room c-01"] = {
@@ -13360,13 +13360,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room c-01_east"] = {
 		{ "Core A - Room c-01_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'ur_dash', 'core_blocks', 'fire_ice_balls' }
+			{ 'logic_difficulty_developer', 'core_blocks', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'ur_dash' }
 		} },
 		{ "Core A - Room c-02_west", { {  } } },
 	},
 	["Core A - Room c-01_west"] = {
 		{ "Core A - Room c-01_east", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'core_blocks', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'core_blocks', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'ul_dash' }
 		} },
 		{ "Core A - Room c-00_east", { {  } } },
 	},
@@ -13376,12 +13376,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room c-02 Strawberry"] = {
 		{ "Core A - Room c-02_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'bumpers', 'ur_dash', 'core_blocks', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'bumpers', 'core_blocks', 'core_toggles', 'dash_refills', 'ur_dash' }
 		} },
 	},
 	["Core A - Room c-02_east"] = {
 		{ "Core A - Room c-02_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'bumpers', 'ur_dash', 'core_blocks' }
+			{ 'logic_difficulty_developer', 'bumpers', 'core_blocks', 'core_toggles', 'dash_refills', 'ur_dash' }
 		} },
 		{ "Core A - Room c-03_west", { {  } } },
 	},
@@ -13394,13 +13394,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room c-03_north"] = {
 		{ "Core A - Room c-03_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'any_dash_u_ur', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'ul_dash' }
 		} },
 		{ "Core A - Room c-03b_south", { {  } } },
 	},
 	["Core A - Room c-03_east"] = {
 		{ "Core A - Room c-03_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'core_blocks', 'any_dash_u_ur', 'fire_ice_balls' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'core_blocks', 'core_toggles', 'dash_refills', 'fire_ice_balls' }
 		} },
 		{ "Core A - Room c-03_north-east", {
 			{ 'logic_difficulty_developer' }
@@ -13445,12 +13445,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room c-04_east"] = {
 		{ "Core A - Room c-04_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'dash_refills' }
 		} },
 	},
 	["Core A - Room c-04_west"] = {
 		{ "Core A - Room c-04_east", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'dash_refills' }
 		} },
 		{ "Core A - Room c-03_east", { {  } } },
 	},
@@ -13469,7 +13469,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-00_top"] = {
 		{ "Core A - Room d-00_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'dash_refills' }
 		} },
 	},
 	["Core A - Room d-01"] = {
@@ -13478,7 +13478,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-01_top"] = {
 		{ "Core A - Room d-01_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'any_dash_r_ur', 'dash_refills' }
 		} },
 	},
 	["Core A - Room d-02"] = {
@@ -13487,7 +13487,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-02_top"] = {
 		{ "Core A - Room d-02_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'any_dash_u_ul_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur', 'core_toggles', 'dash_refills' }
 		} },
 	},
 	["Core A - Room d-03"] = {
@@ -13496,8 +13496,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-03_top"] = {
 		{ "Core A - Room d-03_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'core_blocks', 'u_dash' },
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'ur_dash', 'core_blocks', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'core_blocks', 'core_toggles', 'dash_refills', 'u_dash' },
+			{ 'logic_difficulty_developer', 'core_blocks', 'core_toggles', 'dash_refills', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Core A - Room d-04"] = {
@@ -13507,7 +13507,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Core A - Room d-04_top"] = {
 		{ "Core A - Room d-04_bottom", {
 			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash' },
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Core A - Room d-05"] = {
@@ -13516,7 +13516,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-05_top"] = {
 		{ "Core A - Room d-05_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'fire_ice_balls', 'any_dash_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'core_toggles', 'dash_refills', 'fire_ice_balls' }
 		} },
 	},
 	["Core A - Room d-06"] = {
@@ -13525,14 +13525,14 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-06 Strawberry"] = {
 		{ "Core A - Room d-06_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_blocks', 'u_dash' },
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'core_blocks', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'core_blocks', 'dash_refills', 'u_dash' },
+			{ 'logic_difficulty_developer', 'core_blocks', 'dash_refills', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Core A - Room d-06_top"] = {
 		{ "Core A - Room d-06_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_blocks', 'u_dash' },
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'core_blocks', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'core_blocks', 'dash_refills', 'u_dash' },
+			{ 'logic_difficulty_developer', 'core_blocks', 'dash_refills', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Core A - Room d-07"] = {
@@ -13541,7 +13541,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-07_top"] = {
 		{ "Core A - Room d-07_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'ur_dash', 'core_blocks', 'badeline_boosters', 'ul_dash', 'fire_ice_balls', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'core_blocks', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'springs', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Core A - Room d-08"] = {
@@ -13550,7 +13550,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-08_east"] = {
 		{ "Core A - Room d-08_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'bumpers', 'core_blocks', 'any_dash_r_ur', 'fire_ice_balls' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'bumpers', 'core_blocks', 'core_toggles', 'dash_refills', 'fire_ice_balls' }
 		} },
 	},
 	["Core A - Room d-09"] = {
@@ -13559,7 +13559,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-09_east"] = {
 		{ "Core A - Room d-09_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'core_toggles', 'dash_refills' }
 		} },
 	},
 	["Core A - Room d-10"] = {
@@ -13568,7 +13568,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-10_east"] = {
 		{ "Core A - Room d-10_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'bumpers' }
+			{ 'logic_difficulty_developer', 'bumpers', 'core_toggles' }
 		} },
 	},
 	["Core A - Room d-10b"] = {
@@ -13577,7 +13577,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-10b_east"] = {
 		{ "Core A - Room d-10b_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'bumpers', 'ur_dash', 'core_blocks', 'r_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'bumpers', 'core_blocks', 'core_toggles', 'dash_refills', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Core A - Room d-10c"] = {
@@ -13586,7 +13586,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-10c_east"] = {
 		{ "Core A - Room d-10c_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'feathers', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'core_toggles', 'feathers' }
 		} },
 	},
 	["Core A - Room d-11"] = {
@@ -13596,7 +13596,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Room d-11_center"] = {
 		{ "Core A - Room d-11_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'core_blocks', 'blue_cassette_blocks', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'core_blocks', 'core_toggles', 'pink_cassette_blocks' }
 		} },
 	},
 	["Core A - Cassette"] = {
@@ -13625,7 +13625,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core A - Golden Strawberry"] = {
 		{ "Core A - Room space_goal", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'feathers', 'blue_cassette_blocks', 'bumpers', 'ul_dash', 'ur_dash', 'core_blocks', 'u_dash', 'r_dash', 'badeline_boosters', 'pink_cassette_blocks', 'fire_ice_balls', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'blue_cassette_blocks', 'bumpers', 'coins', 'core_blocks', 'core_toggles', 'dash_refills', 'feathers', 'fire_ice_balls', 'pink_cassette_blocks', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Core A - Room 0x_east"] = {
@@ -13747,7 +13747,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room a-01_east"] = {
 		{ "Core B - Room a-01_west", {
-			{ 'logic_difficulty_developer', 'core_blocks', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'core_blocks' }
 		} },
 		{ "Core B - Room a-02_west", { {  } } },
 	},
@@ -13757,7 +13757,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room a-02_east"] = {
 		{ "Core B - Room a-02_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'core_blocks', 'any_dash_r_ur', 'ul_dash', 'fire_ice_balls' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'core_blocks', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'ul_dash' }
 		} },
 	},
 	["Core B - Room a-03"] = {
@@ -13766,7 +13766,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room a-03_east"] = {
 		{ "Core B - Room a-03_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'fire_ice_balls' }
+			{ 'logic_difficulty_developer', 'fire_ice_balls', 'ur_dash' }
 		} },
 		{ "Core B - Room a-04_west", { {  } } },
 	},
@@ -13776,7 +13776,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room a-04_east"] = {
 		{ "Core B - Room a-04_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'core_blocks', 'dash_refills', 'r_dash' }
 		} },
 		{ "Core B - Room a-05_west", { {  } } },
 	},
@@ -13786,7 +13786,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room a-05_east"] = {
 		{ "Core B - Room a-05_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'bumpers', 'core_blocks', 'r_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'bumpers', 'core_blocks', 'core_toggles', 'dash_refills', 'r_dash', 'u_dash' }
 		} },
 	},
 	["Core B - Burning or Freezing"] = {
@@ -13814,7 +13814,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room b-01_east"] = {
 		{ "Core B - Room b-01_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'r_dash', 'core_blocks', 'bumpers' }
+			{ 'logic_difficulty_developer', 'bumpers', 'core_blocks', 'core_toggles', 'r_dash' }
 		} },
 		{ "Core B - Room b-02_west", { {  } } },
 	},
@@ -13824,7 +13824,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room b-02_east"] = {
 		{ "Core B - Room b-02_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'bumpers', 'ur_dash', 'any_dash_u_ul', 'fire_ice_balls', 'coins' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'bumpers', 'coins', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'ur_dash' }
 		} },
 		{ "Core B - Room b-03_west", { {  } } },
 	},
@@ -13834,7 +13834,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room b-03_east"] = {
 		{ "Core B - Room b-03_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'ur_dash', 'r_dash' }
+			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'r_dash', 'ur_dash' }
 		} },
 		{ "Core B - Room b-04_west", { {  } } },
 	},
@@ -13854,7 +13854,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room b-05_east"] = {
 		{ "Core B - Room b-05_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'ur_dash', 'fire_ice_balls', 'u_dash' }
+			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Core B - Heartbeat"] = {
@@ -13872,7 +13872,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room c-01_top"] = {
 		{ "Core B - Room c-01_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'ur_dash', 'core_blocks', 'u_dash', 'l_dash', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'core_blocks', 'core_toggles', 'dash_refills', 'l_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Core B - Room c-02"] = {
@@ -13881,7 +13881,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room c-02_top"] = {
 		{ "Core B - Room c-02_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'bumpers', 'ur_dash', 'fire_ice_balls', 'u_dash' }
+			{ 'logic_difficulty_developer', 'bumpers', 'core_toggles', 'dash_refills', 'fire_ice_balls', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Core B - Room c-03"] = {
@@ -13890,7 +13890,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room c-03_top"] = {
 		{ "Core B - Room c-03_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'u_dash', 'springs', 'ul_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'l_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Core B - Room c-04"] = {
@@ -13899,7 +13899,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room c-04_top"] = {
 		{ "Core B - Room c-04_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_clouds', 'kevin_blocks', 'swap_blocks', 'core_blocks', 'u_dash', 'any_dash_d_dl_dr', 'moving_platforms', 'badeline_boosters', 'traffic_blocks', 'dream_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'badeline_boosters', 'blue_clouds', 'core_blocks', 'dash_refills', 'dream_blocks', 'kevin_blocks', 'moving_platforms', 'springs', 'swap_blocks', 'traffic_blocks', 'u_dash' }
 		} },
 	},
 	["Core B - Room c-05"] = {
@@ -13908,7 +13908,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room c-05_east"] = {
 		{ "Core B - Room c-05_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'bumpers', 'ur_dash', 'core_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'bumpers', 'core_blocks', 'core_toggles', 'dash_refills', 'u_dash', 'ur_dash' }
 		} },
 		{ "Core B - Room c-06_west", { {  } } },
 	},
@@ -13918,7 +13918,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room c-06_east"] = {
 		{ "Core B - Room c-06_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'ur_dash', 'core_blocks', 'fire_ice_balls' }
+			{ 'logic_difficulty_developer', 'core_blocks', 'core_toggles', 'fire_ice_balls', 'ur_dash' }
 		} },
 		{ "Core B - Room c-08_west", { {  } } },
 	},
@@ -13928,7 +13928,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room c-08_east"] = {
 		{ "Core B - Room c-08_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'ur_dash', 'r_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 		{ "Core B - Room c-07_west", { {  } } },
 	},
@@ -13938,7 +13938,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room c-07_east"] = {
 		{ "Core B - Room c-07_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'u_dash', 'core_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'core_blocks', 'dash_refills', 'r_dash', 'u_dash' }
 		} },
 	},
 	["Core B - Room space"] = {
@@ -13947,7 +13947,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Room space_goal"] = {
 		{ "Core B - Room space_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_cassette_blocks', 'ur_dash', 'u_dash', 'r_dash', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'dash_refills', 'pink_cassette_blocks', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Core B - Level Clear"] = {
@@ -13957,7 +13957,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core B - Golden Strawberry"] = {
 		{ "Core B - Room space_goal", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'blue_cassette_blocks', 'badeline_boosters', 'pink_cassette_blocks', 'blue_clouds', 'kevin_blocks', 'swap_blocks', 'traffic_blocks', 'dream_blocks', 'core_blocks', 'any_dash_d_dl_dr', 'r_dash', 'fire_ice_balls', 'coins', 'springs', 'dash_refills', 'ul_dash', 'l_dash', 'bumpers', 'ur_dash', 'moving_platforms', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'badeline_boosters', 'blue_cassette_blocks', 'blue_clouds', 'bumpers', 'coins', 'core_blocks', 'core_toggles', 'dash_refills', 'dream_blocks', 'fire_ice_balls', 'kevin_blocks', 'l_dash', 'moving_platforms', 'pink_cassette_blocks', 'r_dash', 'springs', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Core B - Room a-01_west"] = {
@@ -14039,7 +14039,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core C - Room 00_east"] = {
 		{ "Core C - Room 00_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dr_dash', 'crouch' }
+			{ 'logic_difficulty_developer', 'crouch', 'dash_refills', 'dr_dash' }
 		} },
 	},
 	["Core C - Room 01"] = {
@@ -14053,7 +14053,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core C - Room 01_east"] = {
 		{ "Core C - Room 01_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'core_toggles', 'bumpers', 'ur_dash', 'core_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'bumpers', 'core_blocks', 'core_toggles', 'dash_refills', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Core C - Room 02"] = {
@@ -14067,7 +14067,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core C - Room 02_goal"] = {
 		{ "Core C - Room 02_west", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'bumpers', 'dr_dash', 'ur_dash', 'kevin_blocks', 'swap_blocks', 'core_blocks', 'crouch', 'r_dash', 'pink_clouds', 'any_dash_dl_l_ul', 'traffic_blocks', 'dream_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'bumpers', 'core_blocks', 'core_toggles', 'crouch', 'dash_refills', 'dr_dash', 'dream_blocks', 'kevin_blocks', 'pink_clouds', 'r_dash', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Core C - Level Clear"] = {
@@ -14077,7 +14077,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core C - Golden Strawberry"] = {
 		{ "Core C - Room 02_goal", {
-			{ 'logic_difficulty_developer', 'core_toggles', 'dash_refills', 'bumpers', 'dr_dash', 'ur_dash', 'kevin_blocks', 'swap_blocks', 'core_blocks', 'crouch', 'r_dash', 'pink_clouds', 'any_dash_dl_l_ul', 'traffic_blocks', 'dream_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'bumpers', 'core_blocks', 'core_toggles', 'crouch', 'dash_refills', 'dr_dash', 'dream_blocks', 'kevin_blocks', 'pink_clouds', 'r_dash', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Core C - Room 00_west"] = {
@@ -14113,7 +14113,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room intro-01-future_east"] = {
 		{ "Farewell - Room intro-01-future_west", {
-			{ 'logic_difficulty_developer', 'badeline_boosters', 'blue_clouds', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'badeline_boosters', 'blue_clouds' }
 		} },
 	},
 	["Farewell - Room intro-02-launch"] = {
@@ -14123,7 +14123,7 @@ LOCATION_ACCESS_LOGIC = {
 	["Farewell - Room intro-02-launch_top"] = {
 		{ "Farewell - Room intro-02-launch_bottom", {
 			{ 'logic_difficulty_developer', 'badeline_boosters', 'blue_clouds', 'u_dash' },
-			{ 'logic_difficulty_developer', 'ul_dash', 'badeline_boosters', 'ur_dash', 'blue_clouds' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'blue_clouds', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room intro-02-launch_bottom"] = {
@@ -14160,7 +14160,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room a-00_east"] = {
 		{ "Farewell - Room a-00_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'any_dash_u_ur', 'r_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'double_dash_refills', 'r_dash' }
 		} },
 		{ "Farewell - Room a-01_west", { {  } } },
 	},
@@ -14170,13 +14170,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room a-01_east"] = {
 		{ "Farewell - Room a-01_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'u_dash', 'dash_refills', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'double_dash_refills', 'r_dash', 'u_dash' }
 		} },
 		{ "Farewell - Room a-02_west", { {  } } },
 	},
 	["Farewell - Room a-01_west"] = {
 		{ "Farewell - Room a-01_east", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'u_dash', 'dash_refills', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'double_dash_refills', 'l_dash', 'u_dash' }
 		} },
 		{ "Farewell - Room a-00_east", { {  } } },
 	},
@@ -14186,7 +14186,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room a-02_east"] = {
 		{ "Farewell - Room a-02_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'ur_dash', 'swap_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'double_dash_refills', 'swap_blocks', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room a-03_west", { {  } } },
 	},
@@ -14196,7 +14196,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room a-03_east"] = {
 		{ "Farewell - Room a-03_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'u_dash', 'swap_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'double_dash_refills', 'r_dash', 'swap_blocks', 'u_dash' }
 		} },
 		{ "Farewell - Room a-04_west", { {  } } },
 	},
@@ -14211,7 +14211,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room a-04_east"] = {
 		{ "Farewell - Room a-04_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'any_dash_r_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'double_dash_refills', 'springs' }
 		} },
 		{ "Farewell - Room a-05_west", { {  } } },
 	},
@@ -14221,7 +14221,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room a-05_east"] = {
 		{ "Farewell - Room a-05_west", {
-			{ 'logic_difficulty_developer', 'springs', 'r_dash', 'any_dash_l_ul', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'coins', 'r_dash', 'springs', 'u_dash' }
 		} },
 		{ "Farewell - Room b-00_west", { {  } } },
 	},
@@ -14241,7 +14241,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room b-01_east"] = {
 		{ "Farewell - Room b-01_west", {
-			{ 'logic_difficulty_developer', 'pufferfish', 'ur_dash', 'u_dash', 'r_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'l_dash', 'pufferfish', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room b-02_west", { {  } } },
 	},
@@ -14251,7 +14251,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room b-02_east"] = {
 		{ "Farewell - Room b-02_west", {
-			{ 'logic_difficulty_developer', 'pufferfish', 'r_dash', 'any_dash_u_ur', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'coins', 'l_dash', 'pufferfish', 'r_dash' }
 		} },
 		{ "Farewell - Room b-03_west", { {  } } },
 	},
@@ -14261,7 +14261,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room b-03_east"] = {
 		{ "Farewell - Room b-03_west", {
-			{ 'logic_difficulty_developer', 'pufferfish', 'u_dash', 'd_dash', 'dream_blocks', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'd_dash', 'dream_blocks', 'l_dash', 'pufferfish', 'u_dash' }
 		} },
 		{ "Farewell - Room b-04_west", { {  } } },
 	},
@@ -14271,7 +14271,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room b-04_east"] = {
 		{ "Farewell - Room b-04_west", {
-			{ 'logic_difficulty_developer', 'pufferfish', 'u_dash', 'springs', 'r_dash', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'l_dash', 'pufferfish', 'r_dash', 'springs', 'u_dash' }
 		} },
 		{ "Farewell - Room b-05_west", { {  } } },
 	},
@@ -14281,7 +14281,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room b-05_east"] = {
 		{ "Farewell - Room b-05_west", {
-			{ 'logic_difficulty_developer', 'pufferfish', 'u_dash', 'any_dash_r_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'pufferfish', 'springs', 'u_dash' }
 		} },
 		{ "Farewell - Room b-06_west", { {  } } },
 	},
@@ -14296,7 +14296,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room b-06_east"] = {
 		{ "Farewell - Room b-06_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'pufferfish', 'ur_dash', 'r_dash', 'l_dash', 'dream_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'dream_blocks', 'l_dash', 'pufferfish', 'r_dash', 'springs', 'ur_dash' }
 		} },
 		{ "Farewell - Room b-07_west", { {  } } },
 	},
@@ -14306,7 +14306,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room b-07_east"] = {
 		{ "Farewell - Room b-07_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash', 'double_dash_refills', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'double_dash_refills', 'l_dash', 'r_dash', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room c-00_west", { {  } } },
 	},
@@ -14332,7 +14332,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room c-00_north-east"] = {
 		{ "Farewell - Room c-00_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dr_dash', 'ur_dash', 'crouch', 'jellyfish', 'r_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'dash_refills', 'dr_dash', 'jellyfish', 'r_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room c-alt-00_west", { {  } } },
 	},
@@ -14342,7 +14342,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room c-00b_east"] = {
 		{ "Farewell - Room c-00b_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'jellyfish', 'springs' }
+			{ 'logic_difficulty_developer', 'jellyfish', 'springs', 'ur_dash' }
 		} },
 		{ "Farewell - Room c-01_west", { {  } } },
 	},
@@ -14352,7 +14352,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room c-01_east"] = {
 		{ "Farewell - Room c-01_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'jellyfish' }
+			{ 'logic_difficulty_developer', 'jellyfish', 'ur_dash' }
 		} },
 		{ "Farewell - Room c-02_west", { {  } } },
 	},
@@ -14362,7 +14362,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room c-02_east"] = {
 		{ "Farewell - Room c-02_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'jellyfish' }
+			{ 'logic_difficulty_developer', 'jellyfish', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room c-alt-00"] = {
@@ -14371,7 +14371,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room c-alt-00_east"] = {
 		{ "Farewell - Room c-alt-00_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'ur_dash', 'jellyfish' }
+			{ 'logic_difficulty_developer', 'double_dash_refills', 'jellyfish', 'ur_dash' }
 		} },
 		{ "Farewell - Room c-alt-01_west", { {  } } },
 	},
@@ -14400,7 +14400,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room c-03_north"] = {
 		{ "Farewell - Room c-03_south", {
-			{ 'logic_difficulty_developer', 'u_dash', 'ul_dash', 'jellyfish', 'springs' }
+			{ 'logic_difficulty_developer', 'jellyfish', 'springs', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["Farewell - Room d-00"] = {
@@ -14434,13 +14434,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room d-00_north"] = {
 		{ "Farewell - Room d-00_south", {
-			{ 'logic_difficulty_developer', 'farewell-powersourcekey4', 'farewell-powersourcekey3', 'farewell-powersourcekey5', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'red_boosters' }
+			{ 'logic_difficulty_developer', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'red_boosters' }
 		} },
 	},
 	["Farewell - Room d-00_south-west-door"] = {
 		{ "Farewell - Room d-00_south", {
-			{ 'logic_difficulty_developer', 'power_source_breaker', 'any_dash_l_u_ul' },
-			{ 'logic_difficulty_developer', 'power_source_breaker', 'jellyfish' },
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'power_source_breaker' },
+			{ 'logic_difficulty_developer', 'jellyfish', 'power_source_breaker' },
 			{ 'logic_difficulty_developer', 'power_source_breaker', 'springs' }
 		} },
 		{ "Farewell - Room d-01_east", { {  } } },
@@ -14450,10 +14450,10 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer', 'farewell-powersourcekey5' }
 		} },
 		{ "Farewell - Room d-00_south-east-door", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'u_dash', 'any_dash_d_dl_dr', 'double_dash_refills', 'l_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches', 'double_dash_refills', 'l_dash', 'u_dash' }
 		} },
 		{ "Farewell - Room d-00_west-door", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_d_dl_dr', 'jellyfish' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches', 'jellyfish' }
 		} },
 		{ "Farewell - Room d-00_breaker", {
 			{ 'logic_difficulty_developer' }
@@ -14462,7 +14462,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer', 'power_source_breaker' }
 		} },
 		{ "Farewell - Room d-00_south-west-door", {
-			{ 'logic_difficulty_developer', 'power_source_breaker', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'power_source_breaker' }
 		} },
 		{ "Farewell - Room d-00_north-west-door", {
 			{ 'logic_difficulty_developer', 'power_source_breaker' }
@@ -14471,12 +14471,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room d-00_west-door"] = {
 		{ "Farewell - Room d-00_south-east-door", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_d_dl_dr', 'springs', 'double_dash_refills', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches', 'double_dash_refills', 'l_dash', 'springs', 'u_dash' }
 		} },
 		{ "Farewell - Room d-00_south-west-door", {
-			{ 'logic_difficulty_developer', 'power_source_breaker', 'u_dash', 'springs' },
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'power_source_breaker', 'ul_dash', 'springs' },
-			{ 'logic_difficulty_developer', 'power_source_breaker', 'ur_dash', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'power_source_breaker', 'springs', 'u_dash' },
+			{ 'logic_difficulty_developer', 'double_dash_refills', 'power_source_breaker', 'springs', 'ul_dash' },
+			{ 'logic_difficulty_developer', 'power_source_breaker', 'springs', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room d-00_north-west-door", {
 			{ 'logic_difficulty_developer', 'power_source_breaker' }
@@ -14486,17 +14486,17 @@ LOCATION_ACCESS_LOGIC = {
 	["Farewell - Room d-00_north-east-door"] = {
 		{ "Farewell - Room d-00_south-east-door", {
 			{ 'logic_difficulty_developer', 'power_source_breaker', 'springs' },
-			{ 'logic_difficulty_developer', 'power_source_breaker', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'power_source_breaker' }
 		} },
 		{ "Farewell - Room d-00_breaker", {
 			{ 'logic_difficulty_developer', 'power_source_breaker', 'springs' },
-			{ 'logic_difficulty_developer', 'power_source_breaker', 'any_dash_r_u_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'power_source_breaker' }
 		} },
 		{ "Farewell - Room d-04_west", { {  } } },
 	},
 	["Farewell - Room d-00_breaker"] = {
 		{ "Farewell - Room d-00_west-door", {
-			{ 'logic_difficulty_developer', 'dash_switches', 'any_dash_d_dl_dr', 'jellyfish', 'springs', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches', 'jellyfish', 'springs', 'u_dash' }
 		} },
 	},
 	["Farewell - Power Source - Breaker Disable"] = {
@@ -14506,7 +14506,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room d-00_north-west-door"] = {
 		{ "Farewell - Room d-00_breaker", {
-			{ 'logic_difficulty_developer', 'power_source_breaker', 'any_dash_l_ul' },
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'power_source_breaker' },
 			{ 'logic_difficulty_developer', 'power_source_breaker', 'springs' }
 		} },
 		{ "Farewell - Room d-05_west", { {  } } },
@@ -14521,7 +14521,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Power Source Key 1"] = {
 		{ "Farewell - Room d-04_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'ur_dash', 'jellyfish', 'r_dash' }
+			{ 'logic_difficulty_developer', 'double_dash_refills', 'jellyfish', 'r_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room d-03"] = {
@@ -14534,7 +14534,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Power Source Key 2"] = {
 		{ "Farewell - Room d-03_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'power_source_breaker', 'ur_dash', 'jellyfish' }
+			{ 'logic_difficulty_developer', 'double_dash_refills', 'jellyfish', 'power_source_breaker', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room d-01"] = {
@@ -14560,7 +14560,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Power Source Key 4"] = {
 		{ "Farewell - Room d-02_bottom", {
-			{ 'logic_difficulty_developer', 'power_source_breaker', 'u_dash', 'jellyfish', 'double_dash_refills', 'move_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'double_dash_refills', 'jellyfish', 'move_blocks', 'power_source_breaker', 'springs', 'u_dash' }
 		} },
 	},
 	["Farewell - Room d-05"] = {
@@ -14575,7 +14575,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Power Source Key 5"] = {
 		{ "Farewell - Room d-05_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'jellyfish', 'r_dash', 'double_dash_refills', 'red_boosters', 'coins' }
+			{ 'logic_difficulty_developer', 'coins', 'double_dash_refills', 'jellyfish', 'r_dash', 'red_boosters', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room d-05_north"] = {
@@ -14600,7 +14600,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-00y_south-east"] = {
 		{ "Farewell - Room e-00y_south", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'crouch', 'u_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room e-00yb_south", { {  } } },
 	},
@@ -14621,7 +14621,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-00yb_north"] = {
 		{ "Farewell - Room e-00yb_south", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'any_dash_l_ul', 'double_dash_refills', 'red_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'dash_refills', 'double_dash_refills', 'red_boosters', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room e-00y_north-east", { {  } } },
 	},
@@ -14652,7 +14652,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-00_north"] = {
 		{ "Farewell - Room e-00_south", {
-			{ 'logic_difficulty_developer', 'blue_clouds', 'pufferfish', 'double_dash_refills', 'l_dash', 'ul_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_clouds', 'coins', 'double_dash_refills', 'l_dash', 'pufferfish', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["Farewell - Room e-00b"] = {
@@ -14666,7 +14666,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-00b_north"] = {
 		{ "Farewell - Room e-00b_south", {
-			{ 'logic_difficulty_developer', 'jellyfish', 'r_dash', 'springs', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'jellyfish', 'r_dash', 'springs', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["Farewell - Room e-00b_south"] = {
@@ -14687,12 +14687,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-01_north"] = {
 		{ "Farewell - Room e-01_south", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'u_dash', 'jellyfish', 'springs', 'r_dash', 'ul_dash', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'jellyfish', 'l_dash', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room e-01_car-nook"] = {
 		{ "Farewell - Room e-01_south", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'jellyfish', 'springs', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'jellyfish', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Secret Car"] = {
@@ -14711,7 +14711,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-02_east"] = {
 		{ "Farewell - Room e-02_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'jellyfish', 'any_dash_u_ul', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'coins', 'dash_refills', 'jellyfish', 'springs', 'ur_dash' }
 		} },
 		{ "Farewell - Room e-03_west", { {  } } },
 	},
@@ -14721,13 +14721,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-03_east"] = {
 		{ "Farewell - Room e-03_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'pufferfish', 'any_dash_u_ur', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ur', 'double_dash_refills', 'pufferfish', 'springs' }
 		} },
 		{ "Farewell - Room e-04_west", { {  } } },
 	},
 	["Farewell - Room e-03_west"] = {
 		{ "Farewell - Room e-03_east", {
-			{ 'logic_difficulty_developer', 'pufferfish', 'any_dash_l_u_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul', 'pufferfish' }
 		} },
 		{ "Farewell - Room e-02_east", { {  } } },
 	},
@@ -14742,7 +14742,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-04_east"] = {
 		{ "Farewell - Room e-04_west", {
-			{ 'logic_difficulty_developer', 'u_dash', 'dash_switches', 'jellyfish', 'springs' }
+			{ 'logic_difficulty_developer', 'dash_switches', 'jellyfish', 'springs', 'u_dash' }
 		} },
 		{ "Farewell - Room e-05_west", { {  } } },
 	},
@@ -14752,7 +14752,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-05_east"] = {
 		{ "Farewell - Room e-05_west", {
-			{ 'logic_difficulty_developer', 'pufferfish', 'traffic_blocks', 'ul_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'coins', 'pufferfish', 'springs', 'traffic_blocks', 'ul_dash' }
 		} },
 		{ "Farewell - Room e-05b_west", { {  } } },
 	},
@@ -14782,7 +14782,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-06_east"] = {
 		{ "Farewell - Room e-06_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'jellyfish', 'springs', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'jellyfish', 'springs', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room e-07_west", { {  } } },
 	},
@@ -14792,7 +14792,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-07_east"] = {
 		{ "Farewell - Room e-07_west", {
-			{ 'logic_difficulty_developer', 'pufferfish', 'ur_dash', 'u_dash', 'springs', 'r_dash', 'double_dash_refills', 'move_blocks', 'l_dash' }
+			{ 'logic_difficulty_developer', 'double_dash_refills', 'l_dash', 'move_blocks', 'pufferfish', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room e-08_west", { {  } } },
 	},
@@ -14807,7 +14807,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-08_east"] = {
 		{ "Farewell - Room e-08_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'jellyfish', 'springs', 'r_dash', 'double_dash_refills', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'double_dash_refills', 'jellyfish', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Crystal Heart?"] = {
@@ -14948,7 +14948,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-door_east"] = {
 		{ "Farewell - Room f-door_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'any_dash_r_ur' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'double_dash_refills' }
 		} },
 		{ "Farewell - Room f-00_west", { {  } } },
 	},
@@ -14963,13 +14963,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-00_east"] = {
 		{ "Farewell - Room f-00_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'crouch', 'springs', 'r_dash', 'd_dash', 'dream_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'd_dash', 'dr_dash', 'dream_blocks', 'r_dash', 'springs', 'u_dash' }
 		} },
 		{ "Farewell - Room f-01_west", { {  } } },
 	},
 	["Farewell - Room f-00_west"] = {
 		{ "Farewell - Room f-00_east", {
-			{ 'logic_difficulty_developer', 'u_dash', 'dream_blocks', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'l_dash', 'u_dash' }
 		} },
 		{ "Farewell - Room f-door_east", { {  } } },
 	},
@@ -14979,13 +14979,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-01_east"] = {
 		{ "Farewell - Room f-01_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'crouch', 'u_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'dr_dash', 'u_dash' }
 		} },
 		{ "Farewell - Room f-02_west", { {  } } },
 	},
 	["Farewell - Room f-01_west"] = {
 		{ "Farewell - Room f-01_east", {
-			{ 'logic_difficulty_developer', 'dl_dash', 'crouch', 'any_dash_l_ul' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'crouch', 'dl_dash' }
 		} },
 		{ "Farewell - Room f-00_east", { {  } } },
 	},
@@ -14995,7 +14995,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-02_east"] = {
 		{ "Farewell - Room f-02_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'crouch' }
+			{ 'logic_difficulty_developer', 'crouch', 'dr_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room f-03_west", { {  } } },
 	},
@@ -15005,7 +15005,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-03_east"] = {
 		{ "Farewell - Room f-03_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'dr_dash', 'crouch', 'u_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'double_dash_refills', 'dr_dash', 'u_dash' }
 		} },
 		{ "Farewell - Room f-04_west", { {  } } },
 	},
@@ -15015,13 +15015,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-04_east"] = {
 		{ "Farewell - Room f-04_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'crouch' }
+			{ 'logic_difficulty_developer', 'crouch', 'dr_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room f-05_west", { {  } } },
 	},
 	["Farewell - Room f-04_west"] = {
 		{ "Farewell - Room f-04_east", {
-			{ 'logic_difficulty_developer', 'dl_dash', 'crouch' }
+			{ 'logic_difficulty_developer', 'crouch', 'dl_dash' }
 		} },
 		{ "Farewell - Room f-03_east", { {  } } },
 	},
@@ -15031,7 +15031,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-05_east"] = {
 		{ "Farewell - Room f-05_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'crouch', 'r_dash', 'double_dash_refills' }
+			{ 'logic_difficulty_developer', 'crouch', 'double_dash_refills', 'dr_dash', 'r_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room f-06_west", { {  } } },
 	},
@@ -15046,7 +15046,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-06_east"] = {
 		{ "Farewell - Room f-06_west", {
-			{ 'logic_difficulty_developer', 'kevin_blocks', 'crouch', 'double_dash_refills', 'dream_blocks', 'ul_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'crouch', 'double_dash_refills', 'dream_blocks', 'kevin_blocks', 'u_dash', 'ul_dash' }
 		} },
 		{ "Farewell - Room f-07_west", { {  } } },
 	},
@@ -15061,7 +15061,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-07_east"] = {
 		{ "Farewell - Room f-07_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dr_dash', 'crouch', 'traffic_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'dash_refills', 'dr_dash', 'traffic_blocks', 'u_dash' }
 		} },
 		{ "Farewell - Room f-08_west", { {  } } },
 	},
@@ -15076,7 +15076,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-08_east"] = {
 		{ "Farewell - Room f-08_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'double_dash_refills', 'l_dash', 'move_blocks', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'double_dash_refills', 'l_dash', 'move_blocks', 'u_dash' }
 		} },
 		{ "Farewell - Room f-09_west", { {  } } },
 	},
@@ -15091,7 +15091,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room f-09_east"] = {
 		{ "Farewell - Room f-09_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dr_dash', 'ur_dash', 'crouch', 'double_dash_refills', 'ul_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'crouch', 'dash_refills', 'double_dash_refills', 'dr_dash', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room g-00"] = {
@@ -15120,7 +15120,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room g-01_top"] = {
 		{ "Farewell - Room g-01_bottom", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'dl_dash', 'crouch', 'ul_dash', 'blue_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'crouch', 'dl_dash', 'dr_dash', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["Farewell - Room g-01_bottom"] = {
@@ -15135,7 +15135,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room g-03_top"] = {
 		{ "Farewell - Room g-03_bottom", {
-			{ 'logic_difficulty_developer', 'r_dash', 'dream_blocks', 'ul_dash', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'dream_blocks', 'l_dash', 'r_dash', 'ul_dash' }
 		} },
 	},
 	["Farewell - Room g-02"] = {
@@ -15144,7 +15144,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room g-02_east"] = {
 		{ "Farewell - Room g-02_west", {
-			{ 'logic_difficulty_developer', 'u_dash', 'dream_blocks', 'r_dash' }
+			{ 'logic_difficulty_developer', 'dream_blocks', 'r_dash', 'u_dash' }
 		} },
 	},
 	["Farewell - Room g-04"] = {
@@ -15158,7 +15158,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room g-04_east"] = {
 		{ "Farewell - Room g-04_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'crouch', 'springs', 'move_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'dr_dash', 'move_blocks', 'springs', 'u_dash' }
 		} },
 		{ "Farewell - Room g-05_west", { {  } } },
 	},
@@ -15178,12 +15178,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room g-06 Binoculars"] = {
 		{ "Farewell - Room g-06_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'ur_dash', 'feathers', 'u_dash' }
+			{ 'logic_difficulty_developer', 'double_dash_refills', 'feathers', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room g-06_east"] = {
 		{ "Farewell - Room g-06_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'dr_dash', 'ur_dash', 'crouch', 'springs', 'r_dash', 'double_dash_refills', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'dash_refills', 'double_dash_refills', 'dr_dash', 'feathers', 'l_dash', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room h-00b_west", { {  } } },
 	},
@@ -15202,7 +15202,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-00b_east"] = {
 		{ "Farewell - Room h-00b_west", {
-			{ 'logic_difficulty_developer', 'feathers', 'dr_dash', 'ur_dash', 'crouch', 'r_dash', 'double_dash_refills' }
+			{ 'logic_difficulty_developer', 'crouch', 'double_dash_refills', 'dr_dash', 'feathers', 'r_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room h-00_west", { {  } } },
 	},
@@ -15212,7 +15212,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-00_east"] = {
 		{ "Farewell - Room h-00_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'swap_blocks', 'r_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'r_dash', 'swap_blocks', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room h-01_west", { {  } } },
 	},
@@ -15227,7 +15227,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-01_east"] = {
 		{ "Farewell - Room h-01_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ul_dash', 'ur_dash', 'u_dash', 'springs', 'double_dash_refills', 'move_blocks', 'l_dash' }
+			{ 'logic_difficulty_developer', 'dash_refills', 'double_dash_refills', 'l_dash', 'move_blocks', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room h-02"] = {
@@ -15241,7 +15241,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-02_east"] = {
 		{ "Farewell - Room h-02_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'crouch', 'r_dash', 'd_dash', 'red_boosters', 'u_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'd_dash', 'dr_dash', 'r_dash', 'red_boosters', 'u_dash' }
 		} },
 		{ "Farewell - Room h-03_west", { {  } } },
 	},
@@ -15251,7 +15251,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-03_east"] = {
 		{ "Farewell - Room h-03_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'u_dash', 'crouch', 'r_dash', 'double_dash_refills', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'coins', 'crouch', 'double_dash_refills', 'dr_dash', 'r_dash', 'springs', 'u_dash' }
 		} },
 		{ "Farewell - Room h-03b_west", { {  } } },
 	},
@@ -15266,7 +15266,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-03b_east"] = {
 		{ "Farewell - Room h-03b_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'core_blocks', 'crouch', 'double_dash_refills', 'coins' }
+			{ 'logic_difficulty_developer', 'coins', 'core_blocks', 'crouch', 'double_dash_refills', 'dr_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room h-04_top", { {  } } },
 	},
@@ -15282,13 +15282,13 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-04_east"] = {
 		{ "Farewell - Room h-04_top", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'crouch', 'r_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'dr_dash', 'r_dash' }
 		} },
 		{ "Farewell - Room h-04b_west", { {  } } },
 	},
 	["Farewell - Room h-04_bottom"] = {
 		{ "Farewell - Room h-04_top", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'red_boosters', 'crouch', 'l_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'dr_dash', 'l_dash', 'red_boosters' }
 		} },
 		{ "Farewell - Room h-05_west", { {  } } },
 	},
@@ -15298,7 +15298,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-04b_east"] = {
 		{ "Farewell - Room h-04b_west", {
-			{ 'logic_difficulty_developer', 'double_dash_refills', 'crouch', 'r_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'double_dash_refills', 'r_dash' }
 		} },
 	},
 	["Farewell - Room h-05"] = {
@@ -15319,7 +15319,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-05_east"] = {
 		{ "Farewell - Room h-05_top", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'crouch', 'double_dash_refills', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'crouch', 'double_dash_refills', 'dr_dash', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room h-06_west", { {  } } },
 	},
@@ -15335,7 +15335,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-06_east"] = {
 		{ "Farewell - Room h-06_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'dr_dash', 'ur_dash', 'crouch', 'r_dash', 'any_dash_u_ul', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_u_ul', 'crouch', 'dash_refills', 'dr_dash', 'feathers', 'r_dash', 'springs', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room h-06b"] = {
@@ -15349,7 +15349,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-06b_top"] = {
 		{ "Farewell - Room h-06b_bottom", {
-			{ 'logic_difficulty_developer', 'fire_ice_balls', 'ur_dash', 'ul_dash', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'fire_ice_balls', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room h-06b_bottom"] = {
@@ -15370,7 +15370,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-07_center"] = {
 		{ "Farewell - Room h-07_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'u_dash', 'crouch', 'blue_boosters', 'r_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'blue_boosters', 'coins', 'crouch', 'dr_dash', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room h-07 Binoculars 2"] = {
@@ -15380,7 +15380,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-07_east"] = {
 		{ "Farewell - Room h-07_center", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'crouch', 'springs', 'l_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'dr_dash', 'l_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room h-08"] = {
@@ -15395,7 +15395,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-08_north-east"] = {
 		{ "Farewell - Room h-08_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'any_dash_r_ur', 'double_dash_refills', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'coins', 'dash_refills', 'double_dash_refills', 'u_dash' }
 		} },
 		{ "Farewell - Room h-09_north-west", { {  } } },
 	},
@@ -15417,7 +15417,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room h-09_east"] = {
 		{ "Farewell - Room h-09_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'ur_dash', 'kevin_blocks', 'crouch', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul', 'double_dash_refills', 'coins', 'u_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'any_dash_dl_l_ul', 'coins', 'crouch', 'dash_refills', 'double_dash_refills', 'feathers', 'kevin_blocks', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room h-10_west", { {  } } },
 	},
@@ -15445,8 +15445,8 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room i-00_east"] = {
 		{ "Farewell - Room i-00_west", {
-			{ 'logic_difficulty_developer', 'green_cassette_blocks', 'blue_cassette_blocks', 'yellow_cassette_blocks', 'pink_cassette_blocks', 'springs' },
-			{ 'logic_difficulty_developer', 'green_cassette_blocks', 'blue_cassette_blocks', 'ur_dash', 'yellow_cassette_blocks', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'green_cassette_blocks', 'pink_cassette_blocks', 'springs', 'yellow_cassette_blocks' },
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'green_cassette_blocks', 'pink_cassette_blocks', 'ur_dash', 'yellow_cassette_blocks' }
 		} },
 		{ "Farewell - Room i-00b_west", { {  } } },
 	},
@@ -15461,7 +15461,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room i-00b_east"] = {
 		{ "Farewell - Room i-00b_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'blue_cassette_blocks', 'green_cassette_blocks', 'u_dash', 'springs', 'r_dash', 'yellow_cassette_blocks', 'double_dash_refills', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'dash_refills', 'double_dash_refills', 'green_cassette_blocks', 'pink_cassette_blocks', 'r_dash', 'springs', 'u_dash', 'yellow_cassette_blocks' }
 		} },
 		{ "Farewell - Room i-01_west", { {  } } },
 	},
@@ -15471,7 +15471,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room i-01_east"] = {
 		{ "Farewell - Room i-01_west", {
-			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'any_dash_r_u_ur', 'springs', 'yellow_cassette_blocks', 'ul_dash', 'coins', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'any_dash_r_u_ur', 'blue_cassette_blocks', 'coins', 'pink_cassette_blocks', 'springs', 'ul_dash', 'yellow_cassette_blocks' }
 		} },
 		{ "Farewell - Room i-02_west", { {  } } },
 	},
@@ -15486,7 +15486,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room i-02_east"] = {
 		{ "Farewell - Room i-02_west", {
-			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'dr_dash', 'ur_dash', 'u_dash', 'crouch', 'double_dash_refills', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'crouch', 'double_dash_refills', 'dr_dash', 'pink_cassette_blocks', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room i-03_west", { {  } } },
 	},
@@ -15496,7 +15496,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room i-03_east"] = {
 		{ "Farewell - Room i-03_west", {
-			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'dr_dash', 'u_dash', 'crouch', 'yellow_cassette_blocks', 'double_dash_refills', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'crouch', 'double_dash_refills', 'dr_dash', 'pink_cassette_blocks', 'u_dash', 'yellow_cassette_blocks' }
 		} },
 		{ "Farewell - Room i-04_west", { {  } } },
 	},
@@ -15511,7 +15511,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room i-04_east"] = {
 		{ "Farewell - Room i-04_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'r_dash', 'd_dash', 'red_boosters', 'coins', 'l_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'd_dash', 'l_dash', 'r_dash', 'red_boosters', 'ur_dash' }
 		} },
 		{ "Farewell - Room i-05_west", { {  } } },
 	},
@@ -15526,7 +15526,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room i-05_east"] = {
 		{ "Farewell - Room i-05_west", {
-			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'dr_dash', 'ur_dash', 'u_dash', 'crouch', 'springs', 'r_dash', 'yellow_cassette_blocks', 'double_dash_refills', 'pink_cassette_blocks' }
+			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'crouch', 'double_dash_refills', 'dr_dash', 'pink_cassette_blocks', 'r_dash', 'springs', 'u_dash', 'ur_dash', 'yellow_cassette_blocks' }
 		} },
 	},
 	["Farewell - Reconciliation"] = {
@@ -15544,7 +15544,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-00_east"] = {
 		{ "Farewell - Room j-00_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dr_dash', 'ur_dash', 'crouch', 'r_dash', 'badeline_boosters', 'breaker_boxes' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'breaker_boxes', 'crouch', 'dash_refills', 'dr_dash', 'r_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room j-00b_west", { {  } } },
 	},
@@ -15554,7 +15554,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-00b_east"] = {
 		{ "Farewell - Room j-00b_west", {
-			{ 'logic_difficulty_developer', 'breaker_boxes', 'ur_dash', 'u_dash', 'jellyfish', 'r_dash', 'badeline_boosters', 'bird', 'double_dash_refills', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'bird', 'breaker_boxes', 'double_dash_refills', 'jellyfish', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room j-01_west", { {  } } },
 	},
@@ -15564,7 +15564,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-01_east"] = {
 		{ "Farewell - Room j-01_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'springs', 'badeline_boosters', 'bird', 'breaker_boxes' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'bird', 'breaker_boxes', 'dash_refills', 'springs', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room j-02"] = {
@@ -15573,7 +15573,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-02_east"] = {
 		{ "Farewell - Room j-02_west", {
-			{ 'logic_difficulty_developer', 'ur_dash', 'u_dash', 'jellyfish', 'springs', 'badeline_boosters', 'bird', 'breaker_boxes' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'bird', 'breaker_boxes', 'jellyfish', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room j-03"] = {
@@ -15582,7 +15582,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-03_east"] = {
 		{ "Farewell - Room j-03_west", {
-			{ 'logic_difficulty_developer', 'breaker_boxes', 'pufferfish', 'u_dash', 'r_dash', 'badeline_boosters', 'any_dash_l_ul', 'bird', 'double_dash_refills', 'springs' }
+			{ 'logic_difficulty_developer', 'any_dash_l_ul', 'badeline_boosters', 'bird', 'breaker_boxes', 'double_dash_refills', 'pufferfish', 'r_dash', 'springs', 'u_dash' }
 		} },
 		{ "Farewell - Room j-04_west", { {  } } },
 	},
@@ -15592,7 +15592,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-04_east"] = {
 		{ "Farewell - Room j-04_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'ur_dash', 'crouch', 'jellyfish', 'bird' }
+			{ 'logic_difficulty_developer', 'bird', 'crouch', 'dr_dash', 'jellyfish', 'ur_dash' }
 		} },
 		{ "Farewell - Room j-05_west", { {  } } },
 	},
@@ -15602,7 +15602,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-05_east"] = {
 		{ "Farewell - Room j-05_west", {
-			{ 'logic_difficulty_developer', 'badeline_boosters', 'feathers', 'bird' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'bird', 'feathers' }
 		} },
 		{ "Farewell - Room j-06_west", { {  } } },
 	},
@@ -15612,7 +15612,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-06_east"] = {
 		{ "Farewell - Room j-06_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'r_dash', 'badeline_boosters', 'bird', 'double_dash_refills', 'breaker_boxes' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'bird', 'breaker_boxes', 'dash_refills', 'double_dash_refills', 'r_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room j-07_west", { {  } } },
 	},
@@ -15622,7 +15622,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-07_east"] = {
 		{ "Farewell - Room j-07_west", {
-			{ 'logic_difficulty_developer', 'feathers', 'dr_dash', 'pufferfish', 'ur_dash', 'crouch', 'bird', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'bird', 'crouch', 'dr_dash', 'feathers', 'pufferfish', 'springs', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room j-08_west", { {  } } },
 	},
@@ -15632,7 +15632,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-08_east"] = {
 		{ "Farewell - Room j-08_west", {
-			{ 'logic_difficulty_developer', 'u_dash', 'r_dash', 'badeline_boosters', 'd_dash', 'bird', 'double_dash_refills', 'dream_blocks', 'breaker_boxes' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'bird', 'breaker_boxes', 'd_dash', 'double_dash_refills', 'dream_blocks', 'r_dash', 'u_dash' }
 		} },
 		{ "Farewell - Room j-09_west", { {  } } },
 	},
@@ -15642,7 +15642,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-09_east"] = {
 		{ "Farewell - Room j-09_west", {
-			{ 'logic_difficulty_developer', 'breaker_boxes', 'ur_dash', 'jellyfish', 'badeline_boosters', 'bird', 'double_dash_refills', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'bird', 'breaker_boxes', 'double_dash_refills', 'jellyfish', 'springs', 'ur_dash' }
 		} },
 		{ "Farewell - Room j-10_west", { {  } } },
 	},
@@ -15652,7 +15652,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-10_east"] = {
 		{ "Farewell - Room j-10_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'pufferfish', 'ur_dash', 'swap_blocks', 'u_dash', 'r_dash', 'badeline_boosters', 'bird', 'double_dash_refills', 'any_dash_dl_l_ul', 'breaker_boxes' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'badeline_boosters', 'bird', 'breaker_boxes', 'dash_refills', 'double_dash_refills', 'pufferfish', 'r_dash', 'swap_blocks', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room j-11_west", { {  } } },
 	},
@@ -15662,7 +15662,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-11_east"] = {
 		{ "Farewell - Room j-11_west", {
-			{ 'logic_difficulty_developer', 'breaker_boxes', 'ul_dash', 'ur_dash', 'u_dash', 'badeline_boosters', 'bird', 'double_dash_refills', 'move_blocks', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'bird', 'breaker_boxes', 'double_dash_refills', 'move_blocks', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room j-12_west", { {  } } },
 	},
@@ -15672,7 +15672,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-12_east"] = {
 		{ "Farewell - Room j-12_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'dr_dash', 'ur_dash', 'u_dash', 'crouch', 'bird', 'double_dash_refills', 'springs' }
+			{ 'logic_difficulty_developer', 'bird', 'crouch', 'dash_refills', 'double_dash_refills', 'dr_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 		{ "Farewell - Room j-13_west", { {  } } },
 	},
@@ -15682,7 +15682,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-13_east"] = {
 		{ "Farewell - Room j-13_west", {
-			{ 'logic_difficulty_developer', 'feathers', 'ur_dash', 'r_dash', 'double_dash_refills', 'springs' }
+			{ 'logic_difficulty_developer', 'double_dash_refills', 'feathers', 'r_dash', 'springs', 'ur_dash' }
 		} },
 		{ "Farewell - Room j-14_west", { {  } } },
 	},
@@ -15692,7 +15692,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-14_east"] = {
 		{ "Farewell - Room j-14_west", {
-			{ 'logic_difficulty_developer', 'pufferfish', 'u_dash', 'double_dash_refills', 'badeline_boosters', 'any_dash_r_ur', 'bird', 'traffic_blocks', 'l_dash', 'breaker_boxes' }
+			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'badeline_boosters', 'bird', 'breaker_boxes', 'double_dash_refills', 'l_dash', 'pufferfish', 'traffic_blocks', 'u_dash' }
 		} },
 		{ "Farewell - Room j-14b_west", { {  } } },
 	},
@@ -15702,7 +15702,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-14b_east"] = {
 		{ "Farewell - Room j-14b_west", {
-			{ 'logic_difficulty_developer', 'jellyfish', 'r_dash', 'springs', 'double_dash_refills', 'u_dash' }
+			{ 'logic_difficulty_developer', 'double_dash_refills', 'jellyfish', 'r_dash', 'springs', 'u_dash' }
 		} },
 		{ "Farewell - Room j-15_west", { {  } } },
 	},
@@ -15712,7 +15712,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-15_east"] = {
 		{ "Farewell - Room j-15_west", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'kevin_blocks', 'crouch', 'badeline_boosters', 'bird', 'any_dash_u_ur', 'any_dash_dl_l_ul', 'breaker_boxes' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'any_dash_u_ur', 'badeline_boosters', 'bird', 'breaker_boxes', 'crouch', 'dr_dash', 'kevin_blocks' }
 		} },
 	},
 	["Farewell - Farewell"] = {
@@ -15736,12 +15736,12 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-16_east"] = {
 		{ "Farewell - Room j-16_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'breaker_boxes', 'pufferfish', 'ur_dash', 'u_dash', 'jellyfish', 'r_dash', 'badeline_boosters', 'bird', 'double_dash_refills', 'l_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'bird', 'breaker_boxes', 'coins', 'dash_refills', 'double_dash_refills', 'feathers', 'jellyfish', 'l_dash', 'pufferfish', 'r_dash', 'springs', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room j-16_top"] = {
 		{ "Farewell - Room j-16_west", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'feathers', 'breaker_boxes', 'pufferfish', 'ur_dash', 'u_dash', 'dl_dash', 'crouch', 'jellyfish', 'r_dash', 'dr_dash', 'badeline_boosters', 'bird', 'double_dash_refills', 'l_dash', 'ul_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'bird', 'breaker_boxes', 'coins', 'crouch', 'dash_refills', 'dl_dash', 'double_dash_refills', 'dr_dash', 'feathers', 'jellyfish', 'l_dash', 'pufferfish', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room j-17"] = {
@@ -15792,7 +15792,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room j-19_moonberry"] = {
 		{ "Farewell - Room j-19_bottom", {
-			{ 'logic_difficulty_developer', 'dash_refills', 'ur_dash', 'u_dash', 'jellyfish', 'r_dash', 'double_dash_refills', 'l_dash', 'ul_dash', 'coins', 'springs' }
+			{ 'logic_difficulty_developer', 'coins', 'dash_refills', 'double_dash_refills', 'jellyfish', 'l_dash', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Moon Berry"] = {
@@ -15990,22 +15990,22 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room end-golden Binoculars 2"] = {
 		{ "Farewell - Room end-golden_bottom", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'crouch', 'jellyfish', 'r_dash', 'double_dash_refills', 'ul_dash', 'u_dash' }
+			{ 'logic_difficulty_developer', 'crouch', 'double_dash_refills', 'dr_dash', 'jellyfish', 'r_dash', 'u_dash', 'ul_dash' }
 		} },
 	},
 	["Farewell - Room end-golden Binoculars 3"] = {
 		{ "Farewell - Room end-golden_bottom", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'pufferfish', 'ur_dash', 'u_dash', 'crouch', 'jellyfish', 'r_dash', 'double_dash_refills', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'crouch', 'double_dash_refills', 'dr_dash', 'jellyfish', 'pufferfish', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Room end-golden_top"] = {
 		{ "Farewell - Room end-golden_bottom", {
-			{ 'logic_difficulty_developer', 'dr_dash', 'pufferfish', 'ur_dash', 'u_dash', 'crouch', 'jellyfish', 'r_dash', 'badeline_boosters', 'double_dash_refills', 'ul_dash', 'springs' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'crouch', 'double_dash_refills', 'dr_dash', 'jellyfish', 'pufferfish', 'r_dash', 'springs', 'u_dash', 'ul_dash', 'ur_dash' }
 		} },
 	},
 	["Farewell - Golden Strawberry"] = {
 		{ "Farewell - Room end-golden_top", {
-			{ 'logic_difficulty_developer', 'blue_cassette_blocks', 'dl_dash', 'pufferfish', 'badeline_boosters', 'yellow_cassette_blocks', 'breaker_boxes', 'pink_cassette_blocks', 'blue_clouds', 'dr_dash', 'farewell-powersourcekey4', 'kevin_blocks', 'swap_blocks', 'crouch', 'jellyfish', 'd_dash', 'bird', 'traffic_blocks', 'farewell-powersourcekey1', 'dream_blocks', 'feathers', 'green_cassette_blocks', 'core_blocks', 'r_dash', 'fire_ice_balls', 'coins', 'blue_boosters', 'dash_refills', 'springs', 'l_dash', 'ul_dash', 'ur_dash', 'farewell-powersourcekey3', 'farewell-powersourcekey5', 'double_dash_refills', 'farewell-powersourcekey2', 'red_boosters', 'move_blocks', 'u_dash' }
+			{ 'logic_difficulty_developer', 'badeline_boosters', 'bird', 'blue_boosters', 'blue_cassette_blocks', 'blue_clouds', 'breaker_boxes', 'coins', 'core_blocks', 'crouch', 'd_dash', 'dash_refills', 'dl_dash', 'double_dash_refills', 'dr_dash', 'dream_blocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'feathers', 'fire_ice_balls', 'green_cassette_blocks', 'jellyfish', 'kevin_blocks', 'l_dash', 'move_blocks', 'pink_cassette_blocks', 'pufferfish', 'r_dash', 'red_boosters', 'springs', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ul_dash', 'ur_dash', 'yellow_cassette_blocks' }
 		} },
 	},
 	["Epilogue - Level Clear"] = {
@@ -16013,10 +16013,10 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room end-golden_bottom"] = {
 		{ "Farewell - Room j-16_east", {
-			{ 'blue_cassette_blocks', 'dl_dash', 'pufferfish', 'badeline_boosters', 'yellow_cassette_blocks', 'r_climb', 'l_climb', 'breaker_boxes', 'pink_cassette_blocks', 'farewell-powersourcekey4', 'dr_dash', 'kevin_blocks', 'swap_blocks', 'crouch', 'jellyfish', 'd_dash', 'bird', 'traffic_blocks', 'farewell-powersourcekey1', 'dream_blocks', 'feathers', 'green_cassette_blocks', 'core_blocks', 'r_dash', 'fire_ice_balls', 'coins', 'blue_boosters', 'dash_refills', 'springs', 'l_dash', 'ul_dash', 'ur_dash', 'farewell-powersourcekey3', 'farewell-powersourcekey5', 'double_dash_refills', 'farewell-powersourcekey2', 'red_boosters', 'move_blocks', 'u_dash' }
+			{ 'badeline_boosters', 'bird', 'blue_boosters', 'blue_cassette_blocks', 'breaker_boxes', 'coins', 'core_blocks', 'crouch', 'd_dash', 'dash_refills', 'dl_dash', 'double_dash_refills', 'dr_dash', 'dream_blocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'feathers', 'fire_ice_balls', 'green_cassette_blocks', 'jellyfish', 'kevin_blocks', 'l_climb', 'l_dash', 'move_blocks', 'pink_cassette_blocks', 'pufferfish', 'r_climb', 'r_dash', 'red_boosters', 'springs', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ul_dash', 'ur_dash', 'yellow_cassette_blocks' }
 		} },
 		{ "Farewell - Room j-19_top", {
-			{ 'blue_cassette_blocks', 'dl_dash', 'pufferfish', 'badeline_boosters', 'yellow_cassette_blocks', 'r_climb', 'l_climb', 'breaker_boxes', 'pink_cassette_blocks', 'farewell-powersourcekey4', 'dr_dash', 'kevin_blocks', 'swap_blocks', 'crouch', 'jellyfish', 'd_dash', 'bird', 'traffic_blocks', 'farewell-powersourcekey1', 'dream_blocks', 'feathers', 'green_cassette_blocks', 'core_blocks', 'r_dash', 'fire_ice_balls', 'coins', 'blue_boosters', 'dash_refills', 'springs', 'l_dash', 'ul_dash', 'ur_dash', 'farewell-powersourcekey3', 'farewell-powersourcekey5', 'double_dash_refills', 'farewell-powersourcekey2', 'red_boosters', 'move_blocks', 'u_dash' }
+			{ 'badeline_boosters', 'bird', 'blue_boosters', 'blue_cassette_blocks', 'breaker_boxes', 'coins', 'core_blocks', 'crouch', 'd_dash', 'dash_refills', 'dl_dash', 'double_dash_refills', 'dr_dash', 'dream_blocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'feathers', 'fire_ice_balls', 'green_cassette_blocks', 'jellyfish', 'kevin_blocks', 'l_climb', 'l_dash', 'move_blocks', 'pink_cassette_blocks', 'pufferfish', 'r_climb', 'r_dash', 'red_boosters', 'springs', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ul_dash', 'ur_dash', 'yellow_cassette_blocks' }
 		} },
 	},
 }
