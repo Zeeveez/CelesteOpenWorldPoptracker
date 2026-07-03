@@ -203,7 +203,7 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
     <td></td>
   </tr>
   <tr>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/items/slot_data/torches_vanilla.png"/></td>
+    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/items/slot_data/torches_vanilla.png"/></td>
     <td>Torch Behaviour</td>
     <td></td>
     <td></td>
