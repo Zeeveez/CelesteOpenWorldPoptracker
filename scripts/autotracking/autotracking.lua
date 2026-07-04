@@ -9,7 +9,6 @@ CUR_INDEX = -1
 received_item_cache = {}
 
 function onClear(slot_data)
-print(dump_table(slot_data))
     received_item_cache = {}    
     CUR_INDEX = -1
 

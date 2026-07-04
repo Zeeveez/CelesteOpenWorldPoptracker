@@ -51,7 +51,7 @@
                 "title": "Berry Journal",
                 "content": {
                     "type": "layout",
-                    "key": "berries"
+                    "key": "berry_journal"
                 }
             }
         ]

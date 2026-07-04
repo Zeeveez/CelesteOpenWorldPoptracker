@@ -48,6 +48,13 @@
                 }
             },
             {
+                "title": "Berry Journal",
+                "content": {
+                    "type": "layout",
+                    "key": "berry_journal"
+                }
+            },
+            {
                 "title": "Debug",
                 "content": {
                     "type": "array",
@@ -55,7 +62,6 @@
                     "content": [
                         {
                             "type": "group",
-                            "background": "#00000000",
                             "header": "Items (Per Level and Side)",
                             "dock": "left",
                             "content": {
@@ -111,7 +117,6 @@
                             "content": [
                                 {
                                     "type": "group",
-                                    "background": "#00000000",
                                     "header": "Items (Per Level)",
                                     "content": {
                                         "type": "itemgrid",
@@ -139,7 +144,6 @@
                                 },
                                 {
                                     "type": "group",
-                                    "background": "#00000000",
                                     "header": "Items (Per Side)",
                                     "content": {
                                         "type": "itemgrid",
@@ -167,7 +171,6 @@
                             "content": [
                                 {
                                     "type": "group",
-                                    "background": "#00000000",
                                     "header": "Items",
                                     "content": {
                                         "type": "itemgrid",
@@ -179,7 +182,7 @@
                                             [ "oldsite-icon", "dream_blocks", "coins", "strawberry_seeds", "", "", "" ],
                                             [ "celestialresort-icon", "sinking_platforms", "moving_platforms", "", "", "", "" ],
                                             [ "goldenridge-icon", "blue_clouds", "pink_clouds", "blue_boosters", "move_blocks", "white_block", "" ],
-                                            [ "mirrortemple-icon", "swap_blocks", "red_boosters", "dash_switches", "seekers", "theo_crystal", "torches" ],
+                                            [ "mirrortemple-icon", "swap_blocks", "red_boosters", "dash_switches", "seekers", "theo_crystal", "blue_torches", "yellow_torches" ],
                                             [ "reflection-icon", "feathers", "bumpers", "kevin_blocks", "badeline_boosters", "", "" ],
                                             [ "thesummit-icon", "", "", "", "", "", "" ],
                                             [ "core-icon", "fire_ice_balls", "core_blocks", "core_toggles", "", "", "" ],
@@ -190,7 +193,6 @@
                                 },
                                 {
                                     "type": "group",
-                                    "background": "#00000000",
                                     "header": "Climb (Unified)",
                                     "content": {
                                         "type": "itemgrid",
@@ -204,7 +206,6 @@
                                 },
                                 {
                                     "type": "group",
-                                    "background": "#00000000",
                                     "header": "Climb (Split)",
                                     "content": {
                                         "type": "itemgrid",
@@ -218,7 +219,6 @@
                                 },
                                 {
                                     "type": "group",
-                                    "background": "#00000000",
                                     "header": "Crouch",
                                     "content": {
                                         "type": "itemgrid",
@@ -238,7 +238,6 @@
                             "content": [
                                 {
                                     "type": "group",
-                                    "background": "#00000000",
                                     "header": "Dash (Unified)",
                                     "content": {
                                         "type": "itemgrid",
@@ -252,7 +251,6 @@
                                 },
                                 {
                                     "type": "group",
-                                    "background": "#00000000",
                                     "header": "Dash (Cardinal Loose)",
                                     "content": {
                                         "type": "itemgrid",
@@ -268,7 +266,6 @@
                                 },
                                 {
                                     "type": "group",
-                                    "background": "#00000000",
                                     "header": "Dash (Cardinal Restrictive)",
                                     "content": {
                                         "type": "itemgrid",
@@ -284,7 +281,6 @@
                                 },
                                 {
                                     "type": "group",
-                                    "background": "#00000000",
                                     "header": "Dash (Octal)",
                                     "content": {
                                         "type": "itemgrid",

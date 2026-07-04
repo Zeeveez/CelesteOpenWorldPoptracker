@@ -11,7 +11,7 @@ Tracker:AddLayouts("layouts/components/tracker/_tracker_keys_gems/tracker_keys_g
 Tracker:AddLayouts("layouts/components/tracker/_tracker_checkpoints/tracker_checkpoints.json")
 Tracker:AddLayouts("layouts/components/tracker/_tracker_recent_items/tracker_recent_items.json")
 
-Tracker:AddLayouts("layouts/components/maps/berries/berries.json")
+Tracker:AddLayouts("layouts/components/maps/berry_journal/berry_journal.json")
 
 local LAYOUT_ITEMS = {
 	["show_tracker_movement_left"] = { "tracker_movement_left" },
