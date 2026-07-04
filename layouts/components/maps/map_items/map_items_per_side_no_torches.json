@@ -212,7 +212,7 @@
         "item_margin": "2,2",
         "item_size": "3,3",
         "rows": [
-            [ "c-sides-icon", "c-traffic_blocks", "c-dream_blocks", "c-swap_blocks", "c-bumpers", "c-kevin_blocks", "c-pink_clouds", "c-core_toggles", "c-core_blocks", "c-dash_refills" ]
+            [ "c-sides-icon", "c-springs", "c-traffic_blocks", "c-dream_blocks", "c-swap_blocks", "c-bumpers", "c-kevin_blocks", "c-pink_clouds", "c-core_toggles", "c-core_blocks", "c-dash_refills" ]
         ]
     },
     "map_items_10a": {

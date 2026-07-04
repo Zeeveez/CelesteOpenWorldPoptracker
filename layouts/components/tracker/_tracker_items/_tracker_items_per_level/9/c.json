@@ -5,7 +5,7 @@
         "item_margin": "2,2",
         "item_size": "2,2",
         "rows": [
-            [ "core-icon", "core-traffic_blocks", "core-dash_refills", "core-dream_blocks", "core-pink_clouds", "core-swap_blocks", "core-kevin_blocks", "core-bumpers", "core-core_toggles", "core-core_blocks" ]
+            [ "core-icon", "core-traffic_blocks", "core-dash_refills", "core-springs", "core-dream_blocks", "core-pink_clouds", "core-swap_blocks", "core-kevin_blocks", "core-bumpers", "core-core_toggles", "core-core_blocks" ]
         ]
     }
 }

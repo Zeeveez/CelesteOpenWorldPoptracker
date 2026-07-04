@@ -1165,6 +1165,12 @@
         "codes": "coreb-moving_platforms"
     },
     {
+        "name": "Core C - Springs",
+        "type": "toggle",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "corec-springs"
+    },
+    {
         "name": "Core C - Pink Clouds",
         "type": "toggle",
         "img": "images/icons/items/clouds/pink_clouds.png",

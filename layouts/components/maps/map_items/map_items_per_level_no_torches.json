@@ -212,7 +212,7 @@
         "item_margin": "2,2",
         "item_size": "3,3",
         "rows": [
-            [ "core-icon", "core-traffic_blocks", "core-dream_blocks", "core-swap_blocks", "core-bumpers", "core-kevin_blocks", "core-pink_clouds", "core-core_toggles", "core-core_blocks", "core-dash_refills" ]
+            [ "core-icon", "core-springs", "core-traffic_blocks", "core-dream_blocks", "core-swap_blocks", "core-bumpers", "core-kevin_blocks", "core-pink_clouds", "core-core_toggles", "core-core_blocks", "core-dash_refills" ]
         ]
     },
     "map_items_10a": {

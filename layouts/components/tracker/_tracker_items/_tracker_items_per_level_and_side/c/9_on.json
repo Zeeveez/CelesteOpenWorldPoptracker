@@ -5,7 +5,7 @@
         "item_margin": "1,1",
         "item_size": "2,2",
         "rows": [
-            [ "corec-icon", "", "", "", "", "corec-traffic_blocks", "corec-dash_refills", "", "corec-dream_blocks", "", "", "", "", "corec-pink_clouds" ],
+            [ "corec-icon", "", "", "", "", "corec-traffic_blocks", "corec-dash_refills", "corec-springs", "corec-dream_blocks", "", "", "", "", "corec-pink_clouds" ],
             [ "", "", "corec-swap_blocks", "", "", "corec-kevin_blocks", "corec-bumpers", "", "corec-core_toggles", "corec-core_blocks" ]
         ]
     }

@@ -642,7 +642,8 @@ ITEM_MAPPING = {
 	[CELESTE_BASE + PER_LEVEL_SIDE_ITEM_BASE + 0x953] = { { "coreb-core_toggles" }, false, true },
 	[CELESTE_BASE + PER_LEVEL_SIDE_ITEM_BASE + 0x954] = { { "coreb-core_blocks" }, false, true },
 	[CELESTE_BASE + PER_LEVEL_SIDE_ITEM_BASE + 0x958] = { { "coreb-dash_refills" }, false, true },
-
+	
+	[CELESTE_BASE + PER_LEVEL_SIDE_ITEM_BASE + 0x980] = { { "corec-springs" }, false, true },
 	[CELESTE_BASE + PER_LEVEL_SIDE_ITEM_BASE + 0x990] = { { "corec-pink_clouds" }, false, true },
 	[CELESTE_BASE + PER_LEVEL_SIDE_ITEM_BASE + 0x993] = { { "corec-core_toggles" }, false, true },
 	[CELESTE_BASE + PER_LEVEL_SIDE_ITEM_BASE + 0x984] = { { "corec-dream_blocks" }, false, true },

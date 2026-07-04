@@ -212,7 +212,7 @@
         "item_margin": "2,2",
         "item_size": "3,3",
         "rows": [
-            [ "corec-icon", "corec-traffic_blocks", "corec-dream_blocks", "corec-swap_blocks", "corec-bumpers", "corec-kevin_blocks", "corec-pink_clouds", "corec-core_toggles", "corec-core_blocks", "corec-dash_refills" ]
+            [ "corec-icon", "corec-springs", "corec-traffic_blocks", "corec-dream_blocks", "corec-swap_blocks", "corec-bumpers", "corec-kevin_blocks", "corec-pink_clouds", "corec-core_toggles", "corec-core_blocks", "corec-dash_refills" ]
         ]
     },
     "map_items_10a": {
