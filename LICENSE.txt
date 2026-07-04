@@ -22,7 +22,7 @@ licensed to the copyright holder under separate terms. This License does not
 grant any rights to redistribute, modify, or otherwise use such assets except
 as expressly permitted by their respective licenses or by the applicable
 copyright holder. Users are responsible for obtaining any required permissions
-before redistributing or using such assets.
+before copying, modifying and/or redistributing such assets.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
