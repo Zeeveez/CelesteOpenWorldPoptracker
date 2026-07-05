@@ -1,6 +1,24 @@
 {
     "versions": [
         {
+            "package_version": "2.0.1",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v2.0.1.zip",
+            "sha256": "A5240048DBDDD8F2D6C683CA7D16AD0E90C29EC7ABEDB36C092BEBB2DF7760B1",
+            "changelog": [
+                "Incorporate Celeste (Open World) v1.1.2 logic",
+                "Correct missing items in Core item grid when Farewell or Farewell + Core C only enabled",
+                "Remove The Summit from item grid where no items shown for it",
+                "Mention that goal section of slot data settings also includes difficulty",
+                "Reorganise slot data settings tab to be less tall",
+                "Reset berry farm on clear",
+                "Update location images (thanks to @sterlia)",
+                "Updated label of berries tab that mimics in game journal",
+                "Move map controls to separate group with its own toggle",
+                "README updates for 1.1",
+                "Add missing Core C - Springs"
+            ]
+        },
+        {
             "package_version": "2.0.0",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v2.0.0.zip",
             "sha256": "2FB0B35134BF2015AB21002C0BE3A00549E620BED1ED9B3C19F926A0C8C6B7F5",
