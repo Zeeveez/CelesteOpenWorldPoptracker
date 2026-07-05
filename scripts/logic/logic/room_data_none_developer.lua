@@ -212,7 +212,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 4_west"] = {
 		{ "Forsaken City A - Room 4_east", {
-			{ 'logic_difficulty_developer' }
+			{ 'logic_difficulty_developer', 'any_dash_l_u_ul' }
 		} },
 		{ "Forsaken City A - Room 3_east", { {  } } },
 	},
@@ -838,9 +838,6 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Forsaken City A - Room 10_south-east"] = {
 		{ "Forsaken City A - Room 10_south-west", {
-			{ 'logic_difficulty_developer' }
-		} },
-		{ "Forsaken City A - Room 10_north-west", {
 			{ 'logic_difficulty_developer' }
 		} },
 		{ "Forsaken City A - Room 10_north-east", {
@@ -6566,9 +6563,6 @@ LOCATION_ACCESS_LOGIC = {
 		{ "Mirror Temple A - Room a-08_south-east", {
 			{ 'logic_difficulty_developer', 'any_dash_d_dl_dr', 'dash_switches' }
 		} },
-		{ "Mirror Temple A - Room a-08_north-east", {
-			{ 'logic_difficulty_developer' }
-		} },
 		{ "Mirror Temple A - Room a-08_north", {
 			{ 'logic_difficulty_developer', 'swap_blocks' }
 		} },
@@ -7526,7 +7520,7 @@ LOCATION_ACCESS_LOGIC = {
 		{ "Mirror Temple A - Room d-01_center", {
 			{ 'logic_difficulty_developer' }
 		} },
-		{ "Mirror Temple A - Room d-09_east", { {  } } },
+		{ "Mirror Temple A - Room d-04_east", { {  } } },
 	},
 	["Mirror Temple A - Room d-01_east"] = {
 		{ "Mirror Temple A - Room d-01_center", {
@@ -7616,6 +7610,7 @@ LOCATION_ACCESS_LOGIC = {
 		{ "Mirror Temple A - Room d-04_north", {
 			{ 'logic_difficulty_developer' }
 		} },
+		{ "Mirror Temple A - Room d-01_west", { {  } } },
 	},
 	["Mirror Temple A - Search Key 2"] = {
 		{ "Mirror Temple A - Room d-04_south-west-right", {
@@ -7714,10 +7709,10 @@ LOCATION_ACCESS_LOGIC = {
 	["Mirror Temple A - Room d-15"] = {
 		{ "Mirror Temple A - Room d-15_north-west", { {  } } },
 		{ "Mirror Temple A - Room d-15_center", { {  } } },
+		{ "Mirror Temple A - Room d-15_east", { {  } } },
 		{ "Mirror Temple A - Room d-15_west", { {  } } },
 		{ "Mirror Temple A - Room d-15_south-west", { {  } } },
 		{ "Mirror Temple A - Room d-15_south-center", { {  } } },
-		{ "Mirror Temple A - Room d-15_east", { {  } } },
 		{ "Mirror Temple A - Room d-15_south", { {  } } },
 		{ "Mirror Temple A - Room d-15_south-east", { {  } } },
 	},
@@ -7730,11 +7725,11 @@ LOCATION_ACCESS_LOGIC = {
 		{ "Mirror Temple A - Room d-15_north-west", {
 			{ 'logic_difficulty_developer' }
 		} },
-		{ "Mirror Temple A - Room d-15_south-center", {
-			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur' }
-		} },
 		{ "Mirror Temple A - Room d-15_east", {
 			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'dash_switches' }
+		} },
+		{ "Mirror Temple A - Room d-15_south-center", {
+			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur' }
 		} },
 	},
 	["Mirror Temple A - Room d-15_north-west"] = {
@@ -7752,6 +7747,11 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer', 'any_dash_r_u_ur' }
 		} },
 		{ "Mirror Temple A - Room d-15_south", {
+			{ 'logic_difficulty_developer' }
+		} },
+	},
+	["Mirror Temple A - Room d-15 Strawberry 2"] = {
+		{ "Mirror Temple A - Room d-15_east", {
 			{ 'logic_difficulty_developer' }
 		} },
 	},
@@ -7775,11 +7775,6 @@ LOCATION_ACCESS_LOGIC = {
 	["Mirror Temple A - Room d-15_east"] = {
 		{ "Mirror Temple A - Room d-15_south-center", {
 			{ 'logic_difficulty_developer', 'any_dash_r_ur', 'dash_refills', 'l_dash', 'swap_blocks' }
-		} },
-	},
-	["Mirror Temple A - Room d-15 Strawberry 2"] = {
-		{ "Mirror Temple A - Room d-15_east", {
-			{ 'logic_difficulty_developer' }
 		} },
 	},
 	["Mirror Temple A - Room d-13"] = {
@@ -8137,7 +8132,6 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Mirror Temple A - Room d-09_east"] = {
 		{ "Mirror Temple A - Room d-01_north-west", { {  } } },
-		{ "Mirror Temple A - Room d-01_west", { {  } } },
 	},
 	["Mirror Temple A - Room d-05_north"] = {
 		{ "Mirror Temple A - Room d-01_south-west-down", { {  } } },
@@ -12033,6 +12027,7 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer', 'r_dash', 'ul_dash' },
 			{ 'logic_difficulty_developer', 'any_dash_u_ur' }
 		} },
+		{ "The Summit A - Room f-07_south-west", { {  } } },
 	},
 	["The Summit A - Room f-05_north"] = {
 		{ "The Summit A - Room f-05_south", {
@@ -12045,6 +12040,7 @@ LOCATION_ACCESS_LOGIC = {
 		{ "The Summit A - Room f-05_south", {
 			{ 'logic_difficulty_developer', 'any_dash_u_ul_ur' }
 		} },
+		{ "The Summit A - Room f-07_south-east", { {  } } },
 	},
 	["The Summit A - Room f-05_south-east"] = {
 		{ "The Summit A - Room f-05_south", {
@@ -14067,7 +14063,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core C - Room 02_goal"] = {
 		{ "Core C - Room 02_west", {
-			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'bumpers', 'core_blocks', 'core_toggles', 'crouch', 'dash_refills', 'dr_dash', 'dream_blocks', 'kevin_blocks', 'pink_clouds', 'r_dash', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ur_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'bumpers', 'core_blocks', 'core_toggles', 'crouch', 'dash_refills', 'dr_dash', 'dream_blocks', 'kevin_blocks', 'pink_clouds', 'r_dash', 'springs', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Core C - Level Clear"] = {
@@ -14077,7 +14073,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Core C - Golden Strawberry"] = {
 		{ "Core C - Room 02_goal", {
-			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'bumpers', 'core_blocks', 'core_toggles', 'crouch', 'dash_refills', 'dr_dash', 'dream_blocks', 'kevin_blocks', 'pink_clouds', 'r_dash', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ur_dash' }
+			{ 'logic_difficulty_developer', 'any_dash_dl_l_ul', 'bumpers', 'core_blocks', 'core_toggles', 'crouch', 'dash_refills', 'dr_dash', 'dream_blocks', 'kevin_blocks', 'pink_clouds', 'r_dash', 'springs', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ur_dash' }
 		} },
 	},
 	["Core C - Room 00_west"] = {
@@ -14752,7 +14748,7 @@ LOCATION_ACCESS_LOGIC = {
 	},
 	["Farewell - Room e-05_east"] = {
 		{ "Farewell - Room e-05_west", {
-			{ 'logic_difficulty_developer', 'coins', 'pufferfish', 'springs', 'traffic_blocks', 'ul_dash' }
+			{ 'logic_difficulty_developer', 'coins', 'pufferfish', 'springs', 'traffic_blocks', 'u_dash' }
 		} },
 		{ "Farewell - Room e-05b_west", { {  } } },
 	},
