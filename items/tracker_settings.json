@@ -14,6 +14,13 @@
         "codes": "show_custom_logic"
     },
     {
+        "name": "Show Higher Difficulties",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/show-higher-difficulties.png",
+        "initial_active_state": true,
+        "codes": "show_higher_difficulties"
+    },
+    {
         "name": "Smart Keys",
         "type": "toggle",
         "img": "images/icons/items/tracker_settings/key.png",

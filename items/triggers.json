@@ -27,5 +27,10 @@
         "img": "images/icons/where_am_i.png",
         "disabled_img_mods": "",
         "codes": "where_am_i"
+    },
+    {
+        "name": "Access Trigger (Re-triggers access checks after sync generation of logic",
+        "type": "toggle",
+        "codes": "access_trigger"
     }
 ]

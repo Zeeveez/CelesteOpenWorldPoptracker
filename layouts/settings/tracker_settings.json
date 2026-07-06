@@ -15,6 +15,7 @@
                         [
                             "show_out_of_logic",
                             "",
+                            "show_higher_difficulties",
                             "smart_keys",
                             "smart_gems"
                         ]

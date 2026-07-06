@@ -1,8 +1,7 @@
-require("scripts/logic/item_locations")
+require("scripts/logic/logic_related_items")
 
-item_cache_stale = true
-in_logic_item_cache = {}
-out_of_logic_item_cache = {}
+reachable_location_cache_stale = true
+reachable_locations = {}
 
 STAGE_ID_TO_GOAL_IDX = {
     ["7a"] = 0,
@@ -101,171 +100,49 @@ end
 ResolveDashShuffleChange()
 ScriptHost:AddWatchForCode('ResolveDashShuffleChange', 'dash_shuffle', ResolveDashShuffleChange)
 
-function LogicChange()
-    filename = 'room_data'
-    --interactables
-    if Tracker:ProviderCountForCode("split_interactables_none") ~= 0 then filename = filename..'_none' end
-    if Tracker:ProviderCountForCode("split_interactables_per_level") ~= 0 then filename = filename..'_per_level' end
-    if Tracker:ProviderCountForCode("split_interactables_per_side") ~= 0 then filename = filename..'_per_side' end
-    if Tracker:ProviderCountForCode("split_interactables_per_level_and_side") ~= 0 then filename = filename..'_per_level_and_side' end
-    --logic
-    if Tracker:ProviderCountForCode("logic_difficulty_developer") ~= 0 then filename = filename..'_developer' end
-    if Tracker:ProviderCountForCode("logic_difficulty_vanilla") ~= 0 then filename = filename..'_vanilla' end
-    if Tracker:ProviderCountForCode("logic_difficulty_assist") ~= 0 then filename = filename..'_assist' end
-    ScriptHost:LoadScript("scripts/logic/logic/"..filename..'.lua')
+function InvalidateReachableLocationCache(code)
+    if code == "access_trigger" then return end
+    reachable_location_cache_stale = true
 end
-LogicChange()
-ScriptHost:AddWatchForCode('LogicChange_split_interactables', 'split_interactables', LogicChange)
-ScriptHost:AddWatchForCode('LogicChange_logic_difficulty', 'logic_difficulty', LogicChange)
+ScriptHost:AddWatchForCode("ReachableLocationCacheInvalidation", "*", InvalidateReachableLocationCache)
 
-function UpdateAccessibleItems(test_item)
-    in_logic_item_cache = {}
-    out_of_logic_item_cache = {}
-    for _, item_location in ipairs(ITEM_LOCATIONS) do
-        local item = item_location[1]
-        local location = item_location[2]
-        local only_no_keysanity = item_location[3]
-        local only_no_gemsanity = item_location[4]
-        local code_filter = item_location[5]
-        
-        if only_no_keysanity then
-            if not Tracker:FindObjectForCode("keysanity").Active and Tracker:FindObjectForCode("smart_keys").Active then
-                out_of_logic_item_cache[item] = out_of_logic_item_cache[item] or CanAccessLocation(location, {}, true, out_of_logic_item_cache, test_item)
+function CanAccess(location_name)
+    if reachable_location_cache_stale then
+        reachable_location_cache_stale = false
+        local provider_counts = {}
+        for _, item in ipairs(LOGIC_RELATED_ITEMS) do
+            provider_counts[item] = Tracker:ProviderCountForCode(item)
+        end
+        ScriptHost:RunScriptAsync("scripts/logic/generate_access.lua", {
+            ["provider_counts"] = provider_counts
+        }, function(res)
+            reachable_locations = res[1]
+            reachable_items = res[2]
+            Tracker:FindObjectForCode("access_trigger").Active = false
+            Tracker:FindObjectForCode("access_trigger").Active = true
+
+            if HaveStrawberries() then
+                local poetry_goal_in_logic = Tracker:ProviderCountForCode("goal_area_poetry") ~= 0 and HaveCrystalHearts()
+                local other_goal_in_logic = reachable_items["GOMODE"]
+
+                local keys = Tracker:FindObjectForCode("grannys_house_keys")
+                if poetry_goal_in_logic or other_goal_in_logic == 1 then
+                    keys.BadgeText = "GO"
+                    keys.BadgeTextColor = '#00ff00'
+                elseif other_goal_in_logic == 5 then
+                    keys.BadgeText = "GO"
+                    keys.BadgeTextColor = '#ffff00'
+                else
+                    keys.BadgeText = ""
+                end
+            else
+                local keys = Tracker:FindObjectForCode("grannys_house_keys")
+                keys.BadgeText = ""
             end
-        elseif only_no_gemsanity then
-            if not Tracker:FindObjectForCode("gemsanity").Active and Tracker:FindObjectForCode("smart_gems").Active then
-                out_of_logic_item_cache[item] = out_of_logic_item_cache[item] or CanAccessLocation(location, {}, true, out_of_logic_item_cache, test_item)
-            end
-        elseif code_filter then
-            if Tracker:ProviderCountForCode(code_filter) ~= 0 then
-                in_logic_item_cache[item] = in_logic_item_cache[item] or CanAccessLocation(location, {}, false, in_logic_item_cache, test_item)
-                out_of_logic_item_cache[item] = out_of_logic_item_cache[item] or CanAccessLocation(location, {}, Tracker:FindObjectForCode("show_custom_logic").Active, out_of_logic_item_cache, test_item)
-            end
-        else
-            in_logic_item_cache[item] = in_logic_item_cache[item] or CanAccessLocation(location, {}, false, in_logic_item_cache, test_item)
-            out_of_logic_item_cache[item] = out_of_logic_item_cache[item] or CanAccessLocation(location, {}, Tracker:FindObjectForCode("show_custom_logic").Active, out_of_logic_item_cache, test_item)
-        end
-    end
-end
-
-function UpdateAccessCache(test_item)
-    if item_cache_stale or test_item then
-        item_cache_stale = false
-        UpdateAccessibleItems(test_item)
-    end
-end
-function InvalidateItemCache(code)
-    -- Don't invalidate item cache for layout changes
-    if code:sub(1,5) == 'show_' then return end
-    item_cache_stale = true
-end
-ScriptHost:AddWatchForCode("StateChanged", "*", InvalidateItemCache)
-
-function MeetsRequirements(possible_requirements, seen_rooms, include_custom, accessible_items, test_item)
-    for _, item_code in ipairs(possible_requirements) do
-        -- If doing a no-custom check and custom found, return false
-        if item_code == 'custom' then
-            if include_custom then goto continue end
-            return false
-        end
-
-        local dont_want = item_code:sub(1, 1) == '!'
-        local search_code = item_code
-        if dont_want then
-            search_code = search_code:sub(2)
-        end
-
-        local item_count = Tracker:ProviderCountForCode(search_code)
-            
-        local has = item_count ~= 0 or accessible_items[search_code] or search_code == test_item
-        if dont_want then
-            if has then
-                return false
-            end
-        else
-            if not has then
-                return false
-            end
-        end
-        ::continue::
-    end
-    return true
-end
-
-function MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, include_custom, accessible_items, test_item)
-    if #list_of_possible_requirements == 0 then
-        return true
+        end)
     end
 
-    for _, possible_requirements in ipairs(list_of_possible_requirements) do
-        if MeetsRequirements(possible_requirements, seen_rooms, include_custom, accessible_items, test_item) then
-            return true
-        end
-    end
-    return false
-end
-
-function CanAccessLocation(location_name, seen_rooms, include_custom, accessible_items, test_item)
-    local queue = {}
-    table.insert(queue, location_name)
-
-    while #queue ~= 0 do
-        local current_location = table.remove(queue)
-        if seen_rooms[current_location] then goto continue end
-        seen_rooms[current_location] = true
-        
-        local access_logic = LOCATION_ACCESS_LOGIC[current_location]
-        if access_logic == nil then
-            if current_location ~= "<levelselect>" then
-                print("No access to "..current_location)
-                goto continue
-            end
-            return true
-        end
-
-        for _, possible_room_requirements in ipairs(access_logic) do
-            local previous_room = possible_room_requirements[1]
-            local list_of_possible_requirements = possible_room_requirements[2]
-            if MeetsAnyRequirements(list_of_possible_requirements, seen_rooms, include_custom, accessible_items, test_item) then
-                table.insert(queue, previous_room)
-            end
-        end
-
-        ::continue::
-    end
-    return false
-end
-
-function CanAccess(location_name, test_item)
-    UpdateAccessCache()
-    if HaveStrawberries() then
-        local poetry_goal_in_logic = Tracker:ProviderCountForCode("goal_area_poetry") ~= 0 and HaveCrystalHearts()
-        local other_goal_in_logic = in_logic_item_cache["GOMODE"]
-        local other_goal_out_of_logic = out_of_logic_item_cache["GOMODE"] and Tracker:FindObjectForCode("show_out_of_logic").Active
-
-        local keys = Tracker:FindObjectForCode("grannys_house_keys")
-        if poetry_goal_in_logic or other_goal_in_logic then
-            keys.BadgeText = "GO"
-            keys.BadgeTextColor = '#00ff00'
-        elseif other_goal_out_of_logic then
-            keys.BadgeText = "GO"
-            keys.BadgeTextColor = '#ffff00'
-        else
-            keys.BadgeText = ""
-        end
-    else
-        local keys = Tracker:FindObjectForCode("grannys_house_keys")
-        keys.BadgeText = ""
-    end
-
-    if CanAccessLocation(location_name, {}, false, in_logic_item_cache, test_item) then
-        return true -- In logic
-    end
-    if Tracker:FindObjectForCode("show_out_of_logic").Active and CanAccessLocation(location_name, {}, Tracker:FindObjectForCode("show_custom_logic").Active, out_of_logic_item_cache, test_item) then
-        return 5 -- Sequence break - Custom Logic
-    end
-
-    return false
+    return reachable_locations[location_name]
 end
 
 function HaveStrawberries()
@@ -287,8 +164,4 @@ end
 
 function HasFarewellAccess()
     return not (not HasChapterAccess("10a") or not HasChapterAccess("10b") or not HasChapterAccess("10c"))
-end
-
-function Trace(location_name)
-    -- TODO: Implement function that traces path to given location
 end
