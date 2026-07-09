@@ -38,6 +38,8 @@ function onClear(slot_data)
     end
     local berry_farm_obj = Tracker:FindObjectForCode('berry_farm_golden')
     berry_farm_obj.Icon = "images/icons/collectables/empty.png"
+    reachable_locations = {}
+    reachable_items = {}
     ResetRecentItemfeed()
 end
 Archipelago:AddClearHandler("clear handler", onClear)
@@ -87,8 +89,6 @@ function onLocation(location_id, location_name)
     ReceiveLocation(location)
 end
 Archipelago:AddLocationHandler("location handler", onLocation)
-
-
 
 require("scripts/autotracking/autotabbing/autotabbing")
 require("scripts/autotracking/autostatus/autostatus")
