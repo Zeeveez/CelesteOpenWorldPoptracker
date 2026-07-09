@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "2.0.2",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v2.0.2.zip",
+            "sha256": "5DABD463A67B9797D576ED1623AB8D2A7222BF828E3C7E3F1C82876199CAF56A",
+            "changelog": [
+                "Logic Overhaul and Out of Logic support"
+            ]
+        },
+        {
             "package_version": "2.0.1",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v2.0.1.zip",
             "sha256": "A5240048DBDDD8F2D6C683CA7D16AD0E90C29EC7ABEDB36C092BEBB2DF7760B1",
