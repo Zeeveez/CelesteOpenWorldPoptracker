@@ -1,81 +1,202 @@
 ITEM_LOCATIONS = {
-	-- Item, Location, filter1, invert filter 1, filter2
-	["celestialresorta-frontdoorkey"] = { "Celestial Resort A - Front Door Key", 'keysanity', true, 'smart_keys' },
-	["celestialresorta-hallwaykey1"] = { "Celestial Resort A - Hallway Key 1" , 'keysanity', true, 'smart_keys' },
-	["celestialresorta-hallwaykey2"] = { "Celestial Resort A - Hallway Key 2" , 'keysanity', true, 'smart_keys' },
-	["brown_clutter"] = { "Celestial Resort A - Brown Clutter" , nil, nil, nil },
-	["green_clutter"] = { "Celestial Resort A - Green Clutter" , nil, nil, nil },
-	["pink_clutter"] = { "Celestial Resort A - Pink Clutter" , nil, nil, nil },
-	["celestialresorta-hugemesskey"] = { "Celestial Resort A - Huge Mess Key" , 'keysanity', true, 'smart_keys' },
-	["celestialresorta-presidentialsuitekey"] = { "Celestial Resort A - Presidential Suite Key" , 'keysanity', true, 'smart_keys' },
-	["mirrortemplea-entrancekey"] = { "Mirror Temple A - Entrance Key" , 'keysanity', true, 'smart_keys' },
-	["mirrortemplea-depthskey"] = { "Mirror Temple A - Depths Key" , 'keysanity', true, 'smart_keys' },
-	["mirrortemplea-searchkey1"] = { "Mirror Temple A - Search Key 1" , 'keysanity', true, 'smart_keys' },
-	["mirrortemplea-searchkey2"] = { "Mirror Temple A - Search Key 2" , 'keysanity', true, 'smart_keys' },
-	["mirrortemplea-searchkey3"] = { "Mirror Temple A - Search Key 3" , 'keysanity', true, 'smart_keys' },
-	["mirrortempleb-centralchamberkey1"] = { "Mirror Temple B - Central Chamber Key 1" , 'keysanity', true, 'smart_keys' },
-	["mirrortempleb-centralchamberkey2"] = { "Mirror Temple B - Central Chamber Key 2" , 'keysanity', true, 'smart_keys' },
-	["thesummita-gem1"] = { "The Summit A - Gem 1" , 'gemsanity', true, 'smart_gems' },
-	["thesummita-gem2"] = { "The Summit A - Gem 2" , 'gemsanity', true, 'smart_gems' },
-	["thesummita-gem3"] = { "The Summit A - Gem 3" , 'gemsanity', true, 'smart_gems' },
-	["thesummita-gem4"] = { "The Summit A - Gem 4" , 'gemsanity', true, 'smart_gems' },
-	["thesummita-gem5"] = { "The Summit A - Gem 5" , 'gemsanity', true, 'smart_gems' },
-	["thesummita-gem6"] = { "The Summit A - Gem 6" , 'gemsanity', true, 'smart_gems' },
-	["thesummita-2500mkey"] = { "The Summit A - 2500 M Key" , 'keysanity', true, 'smart_keys' },
-	["power_source_breaker"] = { "Farewell - Power Source - Breaker Disable", nil, nil, nil },
-	["farewell-powersourcekey1"] = { "Farewell - Power Source Key 1" , 'keysanity', true, 'smart_keys' },
-	["farewell-powersourcekey2"] = { "Farewell - Power Source Key 2" , 'keysanity', true, 'smart_keys' },
-	["farewell-powersourcekey3"] = { "Farewell - Power Source Key 3" , 'keysanity', true, 'smart_keys' },
-	["farewell-powersourcekey4"] = { "Farewell - Power Source Key 4" , 'keysanity', true, 'smart_keys' },
-	["farewell-powersourcekey5"] = { "Farewell - Power Source Key 5" , 'keysanity', true, 'smart_keys' },
-	["GOMODE"] = { "The Summit A - Level Clear" , 'goal_area_the_summit_a_side', nil, nil },
-	["GOMODE"] = { "The Summit B - Level Clear" , 'goal_area_the_summit_b_side', nil, nil },
-	["GOMODE"] = { "The Summit C - Level Clear" , 'goal_area_the_summit_c_side', nil, nil },
-	["GOMODE"] = { "Core A - Level Clear" , 'goal_area_core_a_side', nil, nil },
-	["GOMODE"] = { "Core B - Level Clear" , 'goal_area_core_b_side', nil, nil },
-	["GOMODE"] = { "Core C - Level Clear" , 'goal_area_core_c_side', nil, nil },
-	["GOMODE"] = { "Farewell - Crystal Heart?" , 'goal_area_empty_space', nil, nil },
-	["GOMODE"] = { "Farewell - Level Clear" , 'goal_area_farewell', nil, nil },
-	["GOMODE"] = { "Farewell - Golden Strawberry" , 'goal_area_farewell_golden', nil, nil }
-}
+    ["Celestial Resort A - Front Door Key"] = {
+        ["item"] = "celestialresorta-frontdoorkey",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Celestial Resort A - Hallway Key 1"] = {
+        ["item"] = "celestialresorta-hallwaykey1",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Celestial Resort A - Hallway Key 2"] = {
+        ["item"] = "celestialresorta-hallwaykey2",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Celestial Resort A - Huge Mess Key"] = {
+        ["item"] = "celestialresorta-hugemesskey",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Celestial Resort A - Presidential Suite Key"] = {
+        ["item"] = "celestialresorta-presidentialsuitekey",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    
+    ["Mirror Temple A - Entrance Key"] = {
+        ["item"] = "mirrortemplea-entrancekey",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Mirror Temple A - Depths Key"] = {
+        ["item"] = "mirrortemplea-depthskey",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Mirror Temple A - Search Key 1"] = {
+        ["item"] = "mirrortemplea-searchkey1",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Mirror Temple A - Search Key 2"] = {
+        ["item"] = "mirrortemplea-searchkey2",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Mirror Temple A - Search Key 3"] = {
+        ["item"] = "mirrortemplea-searchkey3",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    
+    ["Mirror Temple B - Central Chamber Key 1"] = {
+        ["item"] = "mirrortempleb-centralchamberkey1",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Mirror Temple B - Central Chamber Key 2"] = {
+        ["item"] = "mirrortempleb-centralchamberkey2",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    
+    ["The Summit A - 2500 M Key"] = {
+        ["item"] = "thesummita-2500mkey",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    
+    ["Farewell - Power Source Key 1"] = {
+        ["item"] = "farewell-powersourcekey1",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Farewell - Power Source Key 2"] = {
+        ["item"] = "farewell-powersourcekey2",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Farewell - Power Source Key 3"] = {
+        ["item"] = "farewell-powersourcekey3",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Farewell - Power Source Key 4"] = {
+        ["item"] = "farewell-powersourcekey4",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    ["Farewell - Power Source Key 5"] = {
+        ["item"] = "farewell-powersourcekey5",
+        ["disable"] = "keysanity",
+        ["enable"] = "smart_keys",
+        ["force_accessibility"] = 5
+    },
+    
+    ["The Summit A - Gem 1"] = {
+        ["item"] = "thesummita-gem1",
+        ["disable"] = "gemsanity",
+        ["enable"] = "smart_gems",
+        ["force_accessibility"] = 5
+    },
+    ["The Summit A - Gem 2"] = {
+        ["item"] = "thesummita-gem2",
+        ["disable"] = "gemsanity",
+        ["enable"] = "smart_gems",
+        ["force_accessibility"] = 5
+    },
+    ["The Summit A - Gem 3"] = {
+        ["item"] = "thesummita-gem3",
+        ["disable"] = "gemsanity",
+        ["enable"] = "smart_gems",
+        ["force_accessibility"] = 5
+    },
+    ["The Summit A - Gem 4"] = {
+        ["item"] = "thesummita-gem4",
+        ["disable"] = "gemsanity",
+        ["enable"] = "smart_gems",
+        ["force_accessibility"] = 5
+    },
+    ["The Summit A - Gem 5"] = {
+        ["item"] = "thesummita-gem5",
+        ["disable"] = "gemsanity",
+        ["enable"] = "smart_gems",
+        ["force_accessibility"] = 5
+    },
+    ["The Summit A - Gem 6"] = {
+        ["item"] = "thesummita-gem6",
+        ["disable"] = "gemsanity",
+        ["enable"] = "smart_gems",
+        ["force_accessibility"] = 5
+    },
 
-ITEM_UNLOCKS = {
-	-- Item, Location, no keysanity only, no gemsanity only, code filter
-	["Celestial Resort A - Front Door Key"] = { "celestialresorta-frontdoorkey", 'keysanity', true, 'smart_keys' },
-	["Celestial Resort A - Hallway Key 1"] = { "celestialresorta-hallwaykey1" , 'keysanity', true, 'smart_keys' },
-	["Celestial Resort A - Hallway Key 2"] = { "celestialresorta-hallwaykey2" , 'keysanity', true, 'smart_keys' },
-	["Celestial Resort A - Brown Clutter"] = { "brown_clutter", nil, nil, nil },
-	["Celestial Resort A - Green Clutter"] = { "green_clutter", nil, nil, nil },
-	["Celestial Resort A - Pink Clutter"] = { "pink_clutter", nil, nil, nil },
-	["Celestial Resort A - Huge Mess Key"] = { "celestialresorta-hugemesskey" , 'keysanity', true, 'smart_keys' },
-	["Celestial Resort A - Presidential Suite Key"] = { "celestialresorta-presidentialsuitekey" , 'keysanity', true, 'smart_keys' },
-	["Mirror Temple A - Entrance Key"] = { "mirrortemplea-entrancekey" , 'keysanity', true, 'smart_keys' },
-	["Mirror Temple A - Depths Key"] = { "mirrortemplea-depthskey" , 'keysanity', true, 'smart_keys' },
-	["Mirror Temple A - Search Key 1"] = { "mirrortemplea-searchkey1" , 'keysanity', true, 'smart_keys' },
-	["Mirror Temple A - Search Key 2"] = { "mirrortemplea-searchkey2" , 'keysanity', true, 'smart_keys' },
-	["Mirror Temple A - Search Key 3"] = { "mirrortemplea-searchkey3" , 'keysanity', true, 'smart_keys' },
-	["Mirror Temple B - Central Chamber Key 1"] = { "mirrortempleb-centralchamberkey1" , 'keysanity', true, 'smart_keys' },
-	["Mirror Temple B - Central Chamber Key 2"] = { "mirrortempleb-centralchamberkey2" , 'keysanity', true, 'smart_keys' },
-	["The Summit A - Gem 1"] = { "thesummita-gem1" , 'gemsanity', true, 'smart_gems' },
-	["The Summit A - Gem 2"] = { "thesummita-gem2" , 'gemsanity', true, 'smart_gems' },
-	["The Summit A - Gem 3"] = { "thesummita-gem3" , 'gemsanity', true, 'smart_gems' },
-	["The Summit A - Gem 4"] = { "thesummita-gem4" , 'gemsanity', true, 'smart_gems' },
-	["The Summit A - Gem 5"] = { "thesummita-gem5" , 'gemsanity', true, 'smart_gems' },
-	["The Summit A - Gem 6"] = { "thesummita-gem6" , 'gemsanity', true, 'smart_gems' },
-	["The Summit A - 2500 M Key"] = { "thesummita-2500mkey" , 'keysanity', true, 'smart_keys' },
-	["Farewell - Power Source - Breaker Disable"] = { "power_source_breaker" , nil, nil, nil },
-	["Farewell - Power Source Key 1"] = { "farewell-powersourcekey1" , 'keysanity', true, 'smart_keys' },
-	["Farewell - Power Source Key 2"] = { "farewell-powersourcekey2" , 'keysanity', true, 'smart_keys' },
-	["Farewell - Power Source Key 3"] = { "farewell-powersourcekey3" , 'keysanity', true, 'smart_keys' },
-	["Farewell - Power Source Key 4"] = { "farewell-powersourcekey4" , 'keysanity', true, 'smart_keys' },
-	["Farewell - Power Source Key 5"] = { "farewell-powersourcekey5" , 'keysanity', true, 'smart_keys' },
-	["The Summit A - Level Clear"] = { "GOMODE" , 'goal_area_the_summit_a_side', nil, nil },
-	["The Summit B - Level Clear"] = { "GOMODE" , 'goal_area_the_summit_b_side', nil, nil },
-	["The Summit C - Level Clear"] = { "GOMODE" , 'goal_area_the_summit_c_side', nil, nil },
-	["Core A - Level Clear"] = { "GOMODE" , 'goal_area_core_a_side', nil, nil },
-	["Core B - Level Clear"] = { "GOMODE" , 'goal_area_core_b_side', nil, nil },
-	["Core C - Level Clear"] = { "GOMODE" , 'goal_area_core_c_side', nil, nil },
-	["Farewell - Crystal Heart?"] = { "GOMODE" , 'goal_area_empty_space', nil, nil },
-	["Farewell - Level Clear"] = { "GOMODE" , 'goal_area_farewell', nil, nil },
-	["Farewell - Golden Strawberry"] = { "GOMODE" , 'goal_area_farewell_golden', nil, nil }
+    ["Celestial Resort A - Brown Clutter"] = {
+        ["item"] = "brown_clutter"
+    },
+    ["Celestial Resort A - Green Clutter"] = {
+        ["item"] = "green_clutter"
+    },
+    ["Celestial Resort A - Pink Clutter"] = {
+        ["item"] = "pink_clutter"
+    },
+
+    ["Farewell - Power Source - Breaker Disable"] = {
+        ["item"] = "power_source_breaker"
+    },
+
+    ["The Summit A - Level Clear"] = {
+        ["item"] = "GOMODE",
+        ["enable"] = "goal_area_the_summit_a_side"
+    },
+    ["The Summit B - Level Clear"] = {
+        ["item"] = "GOMODE",
+        ["enable"] = "goal_area_the_summit_b_side"
+    },
+    ["The Summit C - Level Clear"] = {
+        ["item"] = "GOMODE",
+        ["enable"] = "goal_area_the_summit_c_side"
+    },
+    ["Core A - Level Clear"] = {
+        ["item"] = "GOMODE",
+        ["enable"] = "goal_area_core_a_side"
+    },
+    ["Core B - Level Clear"] = {
+        ["item"] = "GOMODE",
+        ["enable"] = "goal_area_core_b_side"
+    },
+    ["Core C - Level Clear"] = {
+        ["item"] = "GOMODE",
+        ["enable"] = "goal_area_core_c_side"
+    },
+    ["Farewell - Crystal Heart?"] = {
+        ["item"] = "GOMODE",
+        ["enable"] = "goal_area_empty_space"
+    },
+    ["Farewell - Level Clear"] = {
+        ["item"] = "GOMODE",
+        ["enable"] = "goal_area_farewell"
+    },
+    ["Farewell - Golden Strawberry"] = {
+        ["item"] = "GOMODE",
+        ["enable"] = "goal_area_farewell_golden"
+    }
 }

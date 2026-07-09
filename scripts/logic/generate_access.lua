@@ -1,23 +1,49 @@
 require("scripts/logic/item_locations")
-require("scripts/logic/room_data")
+require("scripts/logic/access_logic")
 
-PROVIDER_COUNTS = arg['provider_counts']
+local PROVIDER_COUNTS = arg['provider_counts']
 
-local reachable_locations = {}
-local reachable_items = {}
-local reachable_item_location_backlog = {}
+function HasItem(item_code)
+    return PROVIDER_COUNTS[item_code] and PROVIDER_COUNTS[item_code] ~= 0
+end
 
-function UpdateReachableLocationCache()
-    reachable_locations = {}
-    reachable_items = {}
-    reachable_item_location_backlog = {}
+local SHOW_OOL = HasItem('show_out_of_logic')
+local INCLUDE_CUSTOM = HasItem('show_custom_logic')
+local SHOW_HIGHER_DIFFICULTIES = HasItem('show_higher_difficulties')
+local VANILLA_DIFFICULTY_ITEM = 'logic_difficulty_vanilla'
+local DEVELOPER_DIFFICULTY_ENABLED = HasItem('logic_difficulty_developer')
 
+function GetItemAtLocation(location, reachable_items, current_accessibility)
+    local reachable_item = ITEM_LOCATIONS[location]
+    if reachable_item then
+        local enabled = true
+        if reachable_item["enable"] and not HasItem(reachable_item["enable"]) then enabled = false end
+        if reachable_item["disable"] and HasItem(reachable_item["disable"]) then enabled = false end
+
+        local item_accessibility = current_accessibility
+        if reachable_item["force_accessibility"] then item_accessibility = reachable_item["force_accessibility"] end
+
+        if enabled then
+            -- Already reached with same or better accessibility
+            if reachable_items[reachable_item["item"]] and reachable_items[reachable_item["item"]] <= item_accessibility then
+                return false
+            end
+            reachable_items[reachable_item["item"]] = item_accessibility
+            return true
+        end
+    end
+    return false
+end
+
+function GetReachable()
+    local reachable_items = {}
+    
+    ::restart::
     local queue = {}
     local backlog = {}
     table.insert(queue, { "<levelselect>", 1 } )
     local seen_rooms = {}
     
-    ::retry::
     while #queue ~= 0 do
         local next = table.remove(queue)
         local current_location = next[1]
@@ -26,116 +52,54 @@ function UpdateReachableLocationCache()
         seen_rooms[current_location] = current_accessibility
 
         -- Region has item
-        local reachable_item = ITEM_UNLOCKS[current_location]
-        if reachable_item ~= nil and PROVIDER_COUNTS['show_out_of_logic'] and PROVIDER_COUNTS['show_out_of_logic'] ~= 0 then 
-            if reachable_item[2] == nil then
-                reachable_items[reachable_item[1]] = current_accessibility
-            else
-                local filter1_enabled = PROVIDER_COUNTS[reachable_item[2]] and PROVIDER_COUNTS[reachable_item[2]] ~= 0
-                if reachable_item[3] then filter1_enabled = not filter1_enabled end
-                if filter1_enabled then
-                    local filter2_enabled = reachable_item[4] == nil or (PROVIDER_COUNTS[reachable_item[4]] and PROVIDER_COUNTS[reachable_item[4]] ~= 0)
-                    if filter2_enabled then
-                        reachable_items[reachable_item[1]] = current_accessibility
-                    end
-                end
-            end
-        end
+        if GetItemAtLocation(current_location, reachable_items, current_accessibility) then goto restart end
         
-        -- Region has no children, i.e. it's an AP location
+        -- Region has no children, i.e. it's an AP location, like a strawberry
         local access_logic = LOCATION_ACCESS_LOGIC[current_location]
-        if access_logic == nil then goto continue end
-
-        for _, possible_room_requirements in ipairs(access_logic) do
-            local destination = possible_room_requirements[1]
-            local list_of_possible_requirements = possible_room_requirements[2]
-            local accessibility = MeetsAnyRequirements(list_of_possible_requirements, include_custom)
-            if accessibility ~= 0 then
-                table.insert(queue, { destination, math.max(current_accessibility, accessibility) })
-            else
-                local required_item = RequiresPlacedItem(list_of_possible_requirements)
-                if required_item ~= nil then
-                    if reachable_item_location_backlog[required_item] == nil then reachable_item_location_backlog[required_item] = {} end
-                    table.insert(reachable_item_location_backlog[required_item], { current_location, math.max(current_accessibility, accessibility) })
+        if access_logic then
+            for _, possible_room_requirements in ipairs(access_logic) do
+                local destination = possible_room_requirements[1]
+                local list_of_possible_requirements = possible_room_requirements[2]
+                local accessibility = MeetsAnyRequirements(list_of_possible_requirements, reachable_items)
+                if accessibility ~= 0 then
+                    table.insert(queue, { destination, math.max(current_accessibility, accessibility) })
                 end
             end
         end
-
         ::continue::
     end
 
-    local locations_to_check = false
-    for item, _ in pairs(reachable_item_location_backlog) do
-        if reachable_items[item] then
-            for _, location in ipairs(reachable_item_location_backlog[item]) do
-                table.insert(queue, location)
-                seen_rooms[location[1]] = false
-                locations_to_check = true
-            end
-            reachable_item_location_backlog[item] = nil
-        end
-    end
-    if locations_to_check then goto retry end
-
-    reachable_locations = seen_rooms
+    return { seen_rooms, reachable_items }
 end
 
-function MeetsRequirements(possible_requirements, include_custom)
+function MeetsRequirements(possible_requirements, reachable_items)
     local accessibility = 1
     for _, item_code in ipairs(possible_requirements) do
-        -- If doing a no-custom check and custom found, return false
-        if item_code == 'custom' then
-            if include_custom then goto continue end
-            return 0
-        elseif item_code == 'logic_difficulty_vanilla' and PROVIDER_COUNTS['logic_difficulty_developer'] and PROVIDER_COUNTS['logic_difficulty_developer'] ~= 0 then
-            if PROVIDER_COUNTS['show_higher_difficulties'] and PROVIDER_COUNTS['show_higher_difficulties'] ~= 0 and PROVIDER_COUNTS['show_out_of_logic'] and PROVIDER_COUNTS['show_out_of_logic'] ~= 0 then
-                accessibility = 5
-                goto continue
-            end
-            return 0
-        end
-
-        if not reachable_items[item_code] and (PROVIDER_COUNTS[item_code] == 0 or PROVIDER_COUNTS[item_code] == nil)  then
-            return 0
-        end
-
-        if reachable_items[item_code] and (PROVIDER_COUNTS[item_code] == 0 or PROVIDER_COUNTS[item_code] == nil) then
+        -- Allow custom logic if enabled
+        if item_code == 'custom' and INCLUDE_CUSTOM then
             accessibility = 5
+        elseif item_code == VANILLA_DIFFICULTY_ITEM and DEVELOPER_DIFFICULTY_ENABLED and SHOW_HIGHER_DIFFICULTIES then
+            accessibility = 5
+        elseif not HasItem(item_code) then
+            if reachable_items[item_code] then
+                accessibility = math.max(accessibility, reachable_items[item_code])
+            else
+                return 0
+            end
         end
-        ::continue::
     end
     return accessibility
 end
 
-function MeetsAnyRequirements(list_of_possible_requirements, include_custom)
-    if #list_of_possible_requirements == 0 then
-        return 1
-    end
-
-    local ool = false
+function MeetsAnyRequirements(list_of_possible_requirements, reachable_items)
+    if #list_of_possible_requirements == 0 then return 1 end
+    local current_accessibility = 0
     for _, possible_requirements in ipairs(list_of_possible_requirements) do
-        local accessibility = MeetsRequirements(possible_requirements, include_custom)
-        if accessibility == 1 then
-            return 1
-        elseif accessibility == 5 then
-            ool = true
-        end
+        local accessibility = MeetsRequirements(possible_requirements, reachable_items)
+        if accessibility == 1 then return 1 end
+        current_accessibility = math.max(accessibility, current_accessibility)
     end
-    if ool then 
-        return 5
-    else
-        return 0
-    end
+    if SHOW_OOL then return current_accessibility else return 0 end
 end
 
-function RequiresPlacedItem(list_of_possible_requirements)
-    for _, possible_requirements in ipairs(list_of_possible_requirements) do
-        for _, item_code in ipairs(possible_requirements) do
-            if ITEM_LOCATIONS[item_code] ~= nil and reachable_items[item_code] == nil then return item_code end
-        end
-    end
-    return nil
-end
-
-UpdateReachableLocationCache()
-return { reachable_locations, reachable_items }
+return GetReachable()

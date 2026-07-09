@@ -248,7 +248,7 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
             for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
                 add_connection(logic, row['from'], row['to'], [process_ruleset(None, rule, interactable_mode, None, level)])
 
-with open('./scripts/logic/room_data.lua','w') as f:
+with open('./scripts/logic/access_logic.lua','w') as f:
     f.write('LOCATION_ACCESS_LOGIC = {\n')
     for room in logic:
         f.write(f'\t["{room}"] = {{\n')
