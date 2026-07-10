@@ -22,6 +22,12 @@ function CanAccess(location_name)
         }, function(res)
             reachable_locations = res[1]
             reachable_items = res[2]
+            
+            local in_logic = res[3]["in_logic"]
+            local out_of_logic = res[3]["out_of_logic"]
+            print("in_logic:"..in_logic)
+            print("out_of_logic:"..out_of_logic)
+
             Tracker:FindObjectForCode("access_trigger").Active = false
             Tracker:FindObjectForCode("access_trigger").Active = true
 

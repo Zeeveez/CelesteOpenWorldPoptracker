@@ -1,5 +1,6 @@
 require("scripts/logic/item_locations")
 require("scripts/logic/access_logic")
+require("scripts/autotracking/ap_mapping/location_mapping")
 
 local PROVIDER_COUNTS = arg['provider_counts']
 
@@ -102,4 +103,28 @@ function MeetsAnyRequirements(list_of_possible_requirements, reachable_items)
     if SHOW_OOL then return current_accessibility else return 0 end
 end
 
-return GetReachable()
+local res = GetReachable()
+reachable_locations = res[1]
+reachable_items = res[2]
+
+local in_logic = 0
+local out_of_logic = 0
+for _, location in pairs(LOCATION_MAPPING) do 
+    local accessibility = reachable_locations[string.sub(location, 2, -2)]
+    if accessibility then
+        if accessibility == 1 then
+            in_logic = in_logic + 1
+        elseif accessibility == 5 then
+            out_of_logic = out_of_logic + 1
+        end
+    end
+end
+
+return {
+    reachable_locations,
+    reachable_items,
+    {
+        ["in_logic"] = in_logic,
+        ["out_of_logic"] = out_of_logic
+    }
+}
