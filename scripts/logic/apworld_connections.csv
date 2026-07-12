@@ -1,4 +1,4 @@
-from,to,access,notes
+from,to,items,note
 Epilogue - Room outside,Epilogue - Level Clear,,"Go Mode",0
 Farewell - Room e-08_east,Farewell - Room f-door_west,"include_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two: https://github.com/ArchipelagoMW/Archipelago/blob/799e0b7b0fa3c965995a6288c651d2f4d800e4ff/worlds/celeste_open_world/Locations.py#L240"
 Farewell - Room e-08_east,Farewell - Room f-door_west,"goal_area_farewell","Source puts post Crystal Heart? as Farewell B, hack in connection between the two: https://github.com/ArchipelagoMW/Archipelago/blob/799e0b7b0fa3c965995a6288c651d2f4d800e4ff/worlds/celeste_open_world/Locations.py#L240"

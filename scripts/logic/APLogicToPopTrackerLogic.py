@@ -242,18 +242,35 @@ import csv
 with open('./scripts/logic/apworld_connections.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        rule = row['access'].split(',') if len(row['access']) else []
-        level = row['from'].split(' - ')[0]
-        for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
-            add_connection(logic, row['from'], row['to'], [process_ruleset(None, rule, interactable_mode, None, level)])
+        from_region = row['from']
+        to_region = row['to']
+        items = row['items']
 
-# with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
-#     reader = csv.DictReader(csvfile)
-#     for row in reader:
-#         rule = ['custom'] + (row['access'].split(',') if len(row['access']) else [])
-#         level = row['from'].split(' - ')[0]
-#         for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
-#             add_connection(logic, row['from'], row['to'], [process_ruleset(None, rule, interactable_mode, None, level)])
+        rule = items.split(',') if len(items) else []
+        level = from_region.split(' - ')[0]
+        for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
+            add_connection(logic, from_region, to_region, [process_ruleset(None, rule, interactable_mode, None, level)])
+
+with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        continue
+        from_region = row['from']
+        to_region = row['to']
+        items = row['items']
+        note = row['note']
+        difficulty = int(row['difficulty'])
+        video_link = row['video_link']
+        blockers = row['blockers']
+        multi_room = row['multiroom']
+        core_state = row['core_state']
+        dts = row['core_state']
+        assist_mode = row['assist_mode']
+
+        rule = ['custom'] + (items.split(',') if len(items) else [])
+        level = from_region.split(' - ')[0]
+        for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
+            add_connection(logic, from_region, to_region, [process_ruleset(None, rule, interactable_mode, None, level)])
 
 with open('./scripts/logic/access_logic.lua','w') as f:
     f.write('LOCATION_ACCESS_LOGIC = {\n')

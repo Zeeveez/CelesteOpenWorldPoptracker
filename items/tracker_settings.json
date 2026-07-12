@@ -8,10 +8,45 @@
     },
     {
         "name": "Custom Logic",
-        "type": "toggle",
-        "img": "images/icons/items/tracker_settings/show-custom-logic.png",
-        "initial_active_state": false,
-        "codes": "show_custom_logic"
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/items/tracker_settings/show-custom-logic.png",
+                "img_mods": "@disabled",
+                "name": "Custom Logic - Off",
+                "inherit_codes": false,
+                "codes": "custom_logic"
+            },
+            {
+                "img": "images/icons/items/tracker_settings/show-custom-logic.png",
+                "img_mods": "overlay|images/icons/items/tracker_settings/green_overlay.png",
+                "name": "Custom Logic - Green (Easy)",
+                "inherit_codes": false,
+                "codes": "custom_logic,custom_green"
+            },
+            {
+                "img": "images/icons/items/tracker_settings/show-custom-logic.png",
+                "img_mods": "overlay|images/icons/items/tracker_settings/yellow_overlay.png",
+                "name": "Custom Logic - Yellow (Medium)",
+                "inherit_codes": false,
+                "codes": "custom_logic,custom_green,custom_yellow"
+            },
+            {
+                "img": "images/icons/items/tracker_settings/show-custom-logic.png",
+                "img_mods": "overlay|images/icons/items/tracker_settings/red_overlay.png",
+                "name": "Custom Logic - Red (Hard)",
+                "inherit_codes": false,
+                "codes": "custom_logic,custom_green,custom_yellow,custom_red"
+            },
+            {
+                "img": "images/icons/items/tracker_settings/show-custom-logic.png",
+                "img_mods": "overlay|images/icons/items/tracker_settings/purple_overlay.png",
+                "name": "Custom Logic - Purple (Brutal)",
+                "inherit_codes": false,
+                "codes": "custom_logic,custom_green,custom_yellow,custom_red,custom_purple"
+            }
+        ]
     },
     {
         "name": "Show Higher Difficulties",
