@@ -237,16 +237,23 @@ def add_connection(logic, src_room, dst_room, access_rules = []):
 world = World(raw_logic)
 logic = world.generate_logic()
 
+# Note no need to include access modifier from difficulty for these connections, as either they're just inherent to the apworld in general, or are custom and filtered elsewhere
 import csv
-with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
+with open('./scripts/logic/apworld_connections.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        if int(row['custom']):continue
-        rule = (['custom'] if int(row['custom']) else []) + (row['access'].split(',') if row['access'] else [])
+        rule = row['access'].split(',') if len(row['access']) else []
         level = row['from'].split(' - ')[0]
-        for difficulty in {'developer', 'vanilla', 'assist'}:
-            for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
-                add_connection(logic, row['from'], row['to'], [process_ruleset(None, rule, interactable_mode, None, level)])
+        for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
+            add_connection(logic, row['from'], row['to'], [process_ruleset(None, rule, interactable_mode, None, level)])
+
+# with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
+#     reader = csv.DictReader(csvfile)
+#     for row in reader:
+#         rule = ['custom'] + (row['access'].split(',') if len(row['access']) else [])
+#         level = row['from'].split(' - ')[0]
+#         for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
+#             add_connection(logic, row['from'], row['to'], [process_ruleset(None, rule, interactable_mode, None, level)])
 
 with open('./scripts/logic/access_logic.lua','w') as f:
     f.write('LOCATION_ACCESS_LOGIC = {\n')
