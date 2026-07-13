@@ -39,9 +39,9 @@ def process_ruleset(level, rule, interactable_mode, rule_modifier = ['logic_diff
             rule_out += [f'{level_name} - {rule_part}'.lower().replace(' ', '')]
         else:
             rule_out += [rule_part]
-    rule_out = sorted(list(set(rule_out)))
+    rule_out = [f'split_interactables_{interactable_mode}'] + sorted(list(set(rule_out)))
     if rule_modifier != None:
-        rule_out = rule_modifier + [f'split_interactables_{interactable_mode}'] + rule_out
+        rule_out = rule_modifier + rule_out
     return rule_out      
 
 class Door:
@@ -254,12 +254,12 @@ with open('./scripts/logic/apworld_connections.csv', newline='') as csvfile:
 with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        continue
+        if row['from'] == '#': break
         from_region = row['from']
         to_region = row['to']
         items = row['items']
         note = row['note']
-        difficulty = int(row['difficulty'])
+        difficulty = ["BAD","BAD","BAD","custom_green","custom_yellow","custom_red","custom_purple"][int(row['difficulty'])]
         video_link = row['video_link']
         blockers = row['blockers']
         multi_room = row['multiroom']
@@ -267,7 +267,7 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
         dts = row['core_state']
         assist_mode = row['assist_mode']
 
-        rule = ['custom'] + (items.split(',') if len(items) else [])
+        rule = [difficulty] + (items.split(',') if len(items) else [])
         level = from_region.split(' - ')[0]
         for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
             add_connection(logic, from_region, to_region, [process_ruleset(None, rule, interactable_mode, None, level)])

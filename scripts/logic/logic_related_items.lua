@@ -457,12 +457,9 @@ LOGIC_RELATED_ITEMS = {
     "thesummita-gem5",
     "thesummita-gem6",
 
-    "climb",
-    "climb_static",
     "l_climb",
     "r_climb",
     "crouch",
-    "crouch_static",
     "d_dash",
     "any_dash_d_dl",
     "any_dash_d_dl_dr",
@@ -1508,6 +1505,11 @@ LOGIC_RELATED_ITEMS = {
     "logic_difficulty_developer",
     "logic_difficulty_vanilla",
     "logic_difficulty_assist",
+
+    "custom_green",
+    "custom_yellow",
+    "custom_red",
+    "custom_purple",
 
     "carsanity",
     "roomsanity",

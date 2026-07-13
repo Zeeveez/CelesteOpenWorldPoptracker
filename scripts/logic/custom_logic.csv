@@ -1,15 +1,23 @@
 from,to,items,note,difficulty,video_link,blockers,multiroom,core_state,dts,assist_mode
-Forsaken City A - Room 5_bottom,Forsaken City A - Room 5_north-west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Forsaken City A - Room 6_west,Forsaken City A - Room 6_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Forsaken City A - Room 7z_bottom,Forsaken City A - Room 7z Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Forsaken City A - Room 9_west,Forsaken City A - Room 9 Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Forsaken City A - Room 9b_west,Forsaken City A - Room 9b_north-west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Forsaken City A - Room 9c_west,Forsaken City A - Room 9c Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Forsaken City A - Room 11_south-west,Forsaken City A - Room 11_south,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Forsaken City A - Room 11z_east,Forsaken City A - Cassette,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Forsaken City A - Room 12z_east,Forsaken City A - Room 12z Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Forsaken City A - Room 12a_bottom,Forsaken City A - Room 12a_top,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Forsaken City A - Room end_main,Forsaken City A - Golden Strawberry,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
+Forsaken City A - Room 6_west,Forsaken City A - Room 6_east,r_dash,,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 6_west,Forsaken City A - Room 6_east,r_climb,,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 6_west,Forsaken City A - Room 6_east,"crouch,dr_dash,any_dash_u_ur",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 7z_bottom,Forsaken City A - Room 7z Strawberry,"crouch,dl_dash,ur_dash",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 7z_bottom,Forsaken City A - Room 7z Strawberry,"l_dash,ur_dash",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 9_west,Forsaken City A - Room 9 Strawberry,"crouch,dr_dash,u_dash",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 9_west,Forsaken City A - Room 9 Strawberry,"crouch,dr_dash,r_dash,l_climb",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 9_west,Forsaken City A - Room 9 Strawberry,"ur_dash,l_climb",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 9b_west,Forsaken City A - Room 9b_north-west,"crouch,l_dash",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 9b_west,Forsaken City A - Room 9b_north-west,"crouch,ul_dash",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 9c_west,Forsaken City A - Room 9c Strawberry,any_dash_r_dr,,3,,,TRUE,,FALSE,FALSE
+Forsaken City A - Room 11_south-west,Forsaken City A - Room 11_south,ur_dash,,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 11_south-west,Forsaken City A - Room 11_south,"u_dash,r_climb",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 11z_east,Forsaken City A - Cassette,"crouch,dl_dash,ul_dash,any_dash_u_ur",,3,,,TRUE,,FALSE,FALSE
+Forsaken City A - Room 11z_east,Forsaken City A - Cassette,"r_climb,ul_dash,crouch",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 12z_east,Forsaken City A - Room 12z Strawberry,"crouch,dl_dash,ul_dash,r_climb",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 12z_east,Forsaken City A - Room 12z Strawberry,"r_climb,l_climb",,3,,,FALSE,,FALSE,FALSE
+Forsaken City A - Room 12a_bottom,Forsaken City A - Room 12a_top,ur_dash,,3,,,TRUE,,FALSE,FALSE
+#
 Forsaken City B - Room 02b_west,Forsaken City B - Room 02b_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
 Forsaken City B - Room 03_west,Forsaken City B - Room 03_east,"traffic_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
 Forsaken City B - Room 04_west,Forsaken City B - Room 04_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
@@ -126,26 +134,26 @@ Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,fire_i
 Core B - Room a-01_west,Core B - Room a-01_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
 Core B - Room c-01_bottom,Core B - Room c-01_top,"dash_refills,core_blocks,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
 Core C - Room 02_west,Core C - Room 02_goal,"springs,traffic_blocks,dash_refills,core_toggles,dream_blocks,bumpers,pink_clouds,kevin_blocks,core_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Farewell - Room intro-01-future_west,Farewell - Room intro-02-launch_bottom,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",3,,,,,,
-Farewell - Room intro-01-future_west,Farewell - Room intro-03-space_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",3,,,,,,
-Farewell - Room a-00_west,Farewell - Room a-00_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",3,,,,,,
-Farewell - Room a-01_west,Farewell - Room a-01_east,"DISABLED,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",3,,,,,,
+Farewell - Room intro-01-future_west,Farewell - Room intro-02-launch_bottom,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS,3,,,,,,
+Farewell - Room intro-01-future_west,Farewell - Room intro-03-space_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS,3,,,,,,
+Farewell - Room a-00_west,Farewell - Room a-00_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS,3,,,,,,
+Farewell - Room a-01_west,Farewell - Room a-01_east,"DISABLED,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS?,3,,,,,,
 Farewell - Room a-01_west,Farewell - Room a-01_east,"double_dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Farewell - Room a-02_west,Farewell - Room a-02_east,"DISABLED,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",3,,,,,,
-Farewell - Room a-04_west,Farewell - Room a-04_east,"DISABLED,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",3,,,,,,
-Farewell - Room a-05_west,Farewell - Room a-05_east,"DISABLED,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",3,,,,,,
-Farewell - Room b-06_west,Farewell - Room b-06_east,"DISABLED,dream_blocks,pufferfish,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",3,,,,,,
+Farewell - Room a-02_west,Farewell - Room a-02_east,"DISABLED,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS?,3,,,,,,
+Farewell - Room a-04_west,Farewell - Room a-04_east,"DISABLED,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS?,3,,,,,,
+Farewell - Room a-05_west,Farewell - Room a-05_east,"DISABLED,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS?,3,,,,,,
+Farewell - Room b-06_west,Farewell - Room b-06_east,"DISABLED,dream_blocks,pufferfish,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS?,3,,,,,,
 Farewell - Room b-07_west,Farewell - Room b-07_east,"double_dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
 Farewell - Room c-03_south,Farewell - Room c-03_north,"jellyfish,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Farewell - Room e-01_south,Farewell - Room e-01_north,"DISABLED,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",3,,,,,,
-Farewell - Room e-02_west,Farewell - Room e-02_east,"DISABLED,jellyfish,springs,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",3,,,,,,
-Farewell - Room e-06_west,Farewell - Room e-06_east,"DISABLED,jellyfish,springs,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",3,,,,,,
-Farewell - Room f-07_west,Farewell - Room f-07_east,"DISABLED,traffic_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",3,,,,,,
+Farewell - Room e-01_south,Farewell - Room e-01_north,"DISABLED,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS?,3,,,,,,
+Farewell - Room e-02_west,Farewell - Room e-02_east,"DISABLED,jellyfish,springs,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS?,3,,,,,,
+Farewell - Room e-06_west,Farewell - Room e-06_east,"DISABLED,jellyfish,springs,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS?,3,,,,,,
+Farewell - Room f-07_west,Farewell - Room f-07_east,"DISABLED,traffic_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS?,3,,,,,,
 Farewell - Room f-08_west,Farewell - Room f-08_east,"move_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Farewell - Room g-00_bottom,Farewell - Room g-00_top,"DISABLED,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",3,,,,,,
-Farewell - Room g-00_bottom,Farewell - Room g-00_top,"DISABLED,traffic_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",3,,,,,,
+Farewell - Room g-00_bottom,Farewell - Room g-00_top,"DISABLED,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS,3,,,,,,
+Farewell - Room g-00_bottom,Farewell - Room g-00_top,"DISABLED,traffic_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS,3,,,,,,
 Farewell - Room h-00_west,Farewell - Room h-00_east,"swap_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
-Farewell - Room h-01_west,Farewell - Room h-01_east,"DISABLED,double_dash_refills,springs,move_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",3,,,,,,
-Farewell - Room h-06_west,Farewell - Room h-06_east,"DISABLED,springs,feathers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS?",3,,,,,,
-Farewell - Room h-09_west,Farewell - Room h-09_east,"DISABLED,kevin_blocks,feathers,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb","DTS",3,,,,,,
+Farewell - Room h-01_west,Farewell - Room h-01_east,"DISABLED,double_dash_refills,springs,move_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS?,3,,,,,,
+Farewell - Room h-06_west,Farewell - Room h-06_east,"DISABLED,springs,feathers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS?,3,,,,,,
+Farewell - Room h-09_west,Farewell - Room h-09_east,"DISABLED,kevin_blocks,feathers,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",DTS,3,,,,,,
 Farewell - Room j-00_west,Farewell - Room j-00_east,"breaker_boxes,bird,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",,3,,,,,,
