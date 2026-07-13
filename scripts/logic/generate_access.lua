@@ -9,7 +9,6 @@ function HasItem(item_code)
 end
 
 local SHOW_OOL = HasItem('show_out_of_logic')
-local INCLUDE_CUSTOM = HasItem('show_custom_logic')
 local SHOW_HIGHER_DIFFICULTIES = HasItem('show_higher_difficulties')
 local VANILLA_DIFFICULTY_ITEM = 'logic_difficulty_vanilla'
 local DEVELOPER_DIFFICULTY_ENABLED = HasItem('logic_difficulty_developer')
@@ -76,8 +75,7 @@ end
 function MeetsRequirements(possible_requirements, reachable_items)
     local accessibility = 1
     for _, item_code in ipairs(possible_requirements) do
-        -- Allow custom logic if enabled
-        if item_code == 'custom' and INCLUDE_CUSTOM then
+        if (item_code == 'custom_green' or item_code == 'custom_yellow' or item_code == 'custom_red' or item_code == 'custom_purple') and HasItem(item_code) then
             accessibility = 5
         elseif item_code == VANILLA_DIFFICULTY_ITEM and DEVELOPER_DIFFICULTY_ENABLED and SHOW_HIGHER_DIFFICULTIES then
             accessibility = 5
