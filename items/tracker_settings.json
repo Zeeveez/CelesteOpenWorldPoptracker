@@ -7,53 +7,53 @@
         "codes": "show_out_of_logic"
     },
     {
-        "name": "Custom Logic",
+        "name": "Harder Logic",
         "type": "progressive",
         "allow_disabled": false,
+        "initial_stage_idx": 1,
         "stages": [
             {
                 "img": "images/icons/items/tracker_settings/show-custom-logic.png",
                 "img_mods": "@disabled",
-                "name": "Custom Logic - Off",
+                "name": "Harder Logic - Off",
                 "inherit_codes": false,
-                "codes": "custom_logic"
+                "codes": "harder_logic"
+            },
+            {
+                "img": "images/icons/items/tracker_settings/show-higher-difficulties.png",
+                "name": "Harder Logic - Vanilla Movement",
+                "inherit_codes": false,
+                "codes": "harder_logic,harder_logic_vanilla"
             },
             {
                 "img": "images/icons/items/tracker_settings/show-custom-logic.png",
                 "img_mods": "overlay|images/icons/items/tracker_settings/green_overlay.png",
                 "name": "Custom Logic - Green (Easy)",
                 "inherit_codes": false,
-                "codes": "custom_logic,custom_green"
+                "codes": "harder_logic,harder_logic_vanilla,custom_green"
             },
             {
                 "img": "images/icons/items/tracker_settings/show-custom-logic.png",
                 "img_mods": "overlay|images/icons/items/tracker_settings/yellow_overlay.png",
                 "name": "Custom Logic - Yellow (Medium)",
                 "inherit_codes": false,
-                "codes": "custom_logic,custom_green,custom_yellow"
+                "codes": "harder_logic,harder_logic_vanilla,custom_green,custom_yellow"
             },
             {
                 "img": "images/icons/items/tracker_settings/show-custom-logic.png",
                 "img_mods": "overlay|images/icons/items/tracker_settings/red_overlay.png",
                 "name": "Custom Logic - Red (Hard)",
                 "inherit_codes": false,
-                "codes": "custom_logic,custom_green,custom_yellow,custom_red"
+                "codes": "harder_logic,harder_logic_vanilla,custom_green,custom_yellow,custom_red"
             },
             {
                 "img": "images/icons/items/tracker_settings/show-custom-logic.png",
                 "img_mods": "overlay|images/icons/items/tracker_settings/purple_overlay.png",
                 "name": "Custom Logic - Purple (Brutal)",
                 "inherit_codes": false,
-                "codes": "custom_logic,custom_green,custom_yellow,custom_red,custom_purple"
+                "codes": "harder_logic,harder_logic_vanilla,custom_green,custom_yellow,custom_red,custom_purple"
             }
         ]
-    },
-    {
-        "name": "Show Higher Difficulties",
-        "type": "toggle",
-        "img": "images/icons/items/tracker_settings/show-higher-difficulties.png",
-        "initial_active_state": true,
-        "codes": "show_higher_difficulties"
     },
     {
         "name": "Smart Keys",

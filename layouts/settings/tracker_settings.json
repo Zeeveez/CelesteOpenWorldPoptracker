@@ -14,8 +14,7 @@
                     "rows": [
                         [
                             "show_out_of_logic",
-                            "custom_logic",
-                            "show_higher_difficulties",
+                            "harder_logic",
                             "smart_keys",
                             "smart_gems"
                         ]

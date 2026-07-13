@@ -9,7 +9,7 @@ function HasItem(item_code)
 end
 
 local SHOW_OOL = HasItem('show_out_of_logic')
-local SHOW_HIGHER_DIFFICULTIES = HasItem('show_higher_difficulties')
+local SHOW_HIGHER_DIFFICULTIES = HasItem('harder_logic_vanilla')
 local VANILLA_DIFFICULTY_ITEM = 'logic_difficulty_vanilla'
 local DEVELOPER_DIFFICULTY_ENABLED = HasItem('logic_difficulty_developer')
 

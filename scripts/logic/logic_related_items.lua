@@ -1511,6 +1511,11 @@ LOGIC_RELATED_ITEMS = {
     "custom_red",
     "custom_purple",
 
+    "show_out_of_logic",
+    "harder_logic_vanilla",
+    "smart_keys",
+    "smart_gems",
+
     "carsanity",
     "roomsanity",
     "keysanity",
@@ -1522,12 +1527,6 @@ LOGIC_RELATED_ITEMS = {
     "split_interactables_per_level",
     "split_interactables_per_side",
     "split_interactables_per_level_and_side",
-
-    "show_out_of_logic",
-    "show_custom_logic",
-    "show_higher_difficulties",
-    "smart_keys",
-    "smart_gems",
 
     "forsakencitya-crossing",
     "forsakencitya-chasm",
