@@ -258,14 +258,14 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
         from_region = row['from']
         to_region = row['to']
         items = row['items']
-        note = row['note']
         difficulty = ["BAD","BAD","BAD","custom_green","custom_yellow","custom_red","custom_purple"][int(row['difficulty'])]
-        video_link = row['video_link']
         blockers = row['blockers']
-        multi_room = row['multiroom']
+        multi_room = row['multiroom'] == "TRUE"
         core_state = row['core_state']
-        dts = row['core_state']
-        assist_mode = row['assist_mode']
+        dts = row['dts'] == "TRUE"
+        assist_mode = row['assist_mode'] == "TRUE"
+        video_link = row['video_link']
+        note = row['note']
 
         rule = [difficulty] + (items.split(',') if len(items) else [])
         level = from_region.split(' - ')[0]
