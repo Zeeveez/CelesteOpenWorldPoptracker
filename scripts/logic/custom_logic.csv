@@ -94,7 +94,11 @@ Reflection A - Room 08b_west,Reflection A - Room 08b_east,"kevin_blocks,any_dash
 Reflection A - Room boss-05_west,Reflection A - Room boss-05_east,"r_climb,any_dash_u_ur_r",3,,FALSE,,FALSE,FALSE,,
 Reflection A - Room after-01_bottom,Reflection A - Room after-01_goal,"u_dash,r_dash,crouch,dl_dash",3,,FALSE,,FALSE,FALSE,,
 Reflection B - Room c-00_west,Reflection B - Room c-00_east,"ur_dash,crouch,l_climb",3,,FALSE,,FALSE,FALSE,,
+The Summit B - Room f-02_west,The Summit B - Room f-02_east,"springs,swap_blocks,ur_dash,r_climb",3,,FALSE,,FALSE,FALSE,,
+The Summit C - Room 02_west,The Summit C - Room 02_east,"springs,badeline_boosters,crouch,u_dash,r_dash",3,,FALSE,,FALSE,FALSE,,
 #,,,,,,,,,,
+
+
 The Summit A - Room a-01_west,The Summit A - Room a-01_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
 The Summit A - Room a-02_west,The Summit A - Room a-02_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
 The Summit A - Room a-04_west,The Summit A - Room a-04_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
@@ -118,7 +122,3 @@ The Summit A - Room f-07_south-east,The Summit A - 2500 M Key,"crouch,dr_dash,dl
 The Summit A - Room f-08b_west,The Summit A - Room f-08b_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
 The Summit A - Room f-08c_west,The Summit A - Room f-08c_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
 The Summit A - Room g-00b_c21,The Summit A - Room g-00b_top,"dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-The Summit B - Room f-02_west,The Summit B - Room f-02_east,"springs,swap_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-The Summit B - Room g-03_bottom,The Summit B - Room g-03_goal,"pink_cassette_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-The Summit B - Room g-03_bottom,The Summit B - Room g-03_goal,"blue_cassette_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-The Summit C - Room 02_west,The Summit C - Room 02_east,"springs,badeline_boosters,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
