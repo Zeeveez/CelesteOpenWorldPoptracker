@@ -81,21 +81,19 @@ Mirror Temple A - Room d-04_east,Mirror Temple A - Room d-04_west,"l_dash,ul_das
 Mirror Temple A - Room d-04_east,Mirror Temple A - Room d-04_west,"crouch,dl_dash,l_climb,ul_dash",3,,FALSE,,FALSE,FALSE,,
 Mirror Temple A - Room e-05_west,Mirror Temple A - Room e-05_east,"theo_crystal,coins,u_dash",3,,FALSE,,FALSE,FALSE,,
 Mirror Temple B - Room a-00_west,Mirror Temple B - Room a-00_east,"dash_switches,r_climb,u_dash",3,,FALSE,,FALSE,FALSE,,
-Mirror Temple B - Room b-03_main,Mirror Temple B - Room b-03_north,"red_boosters,crouch,r_dash",3,,FALSE,,FALSE,FALSE,,
-Mirror Temple B - Room b-03_main,Mirror Temple B - Room b-03_north,"red_boosters,crouch,l_dash,dr_dash,r_climb",3,,FALSE,,FALSE,FALSE,,
+Mirror Temple B - Room b-03_main,Mirror Temple B - Room b-03_north,"red_boosters,r_dash",3,,FALSE,,FALSE,FALSE,,
+Mirror Temple B - Room b-03_main,Mirror Temple B - Room b-03_north,"red_boosters,crouch,dr_dash,r_climb",3,,FALSE,,FALSE,FALSE,,
 Mirror Temple B - Room b-08_east,Mirror Temple B - Room b-08_north,"dash_switches,swap_blocks,u_dash,r_climb,ul_dash",3,,FALSE,,FALSE,FALSE,,
 Mirror Temple B - Room c-00_mirror,Mirror Temple B - Room c-00_bottom,"crouch,r_dash,l_dash",3,,FALSE,,FALSE,FALSE,,
 Mirror Temple B - Room c-02_west,Mirror Temple B - Room c-02_east,"dash_switches,any_dash_ur_r_dr,any_dash_ul_u_ur",3,,FALSE,,FALSE,FALSE,,
+Reflection A - Room 00_east,Reflection A - Room 00_west,"u_dash",3,,FALSE,,FALSE,FALSE,,
+Reflection A - Room 04e_east,Reflection A - Cassette,"kevin_blocks,crouch,dl_dash,any_dash_ul_l_dl,any_dash_ul_u_ur,r_dash,l_dash",3,,TRUE,,FALSE,FALSE,,
+Reflection A - Room 08a_west,Reflection A - Room 08a_east,"kevin_blocks,any_dash_ul_l_dl",3,,FALSE,,FALSE,FALSE,,
+Reflection A - Room 08a_west,Reflection A - Room 08a_east,"dash_refills,u_dash",3,,FALSE,,FALSE,FALSE,,
+Reflection A - Room 08b_west,Reflection A - Room 08b_east,"kevin_blocks,any_dash_dl_d_dr,r_dash,r_climb",3,,FALSE,,FALSE,FALSE,,
+Reflection A - Room boss-05_west,Reflection A - Room boss-05_east,"r_climb,any_dash_u_ur_r",3,,FALSE,,FALSE,FALSE,,
+Reflection A - Room after-01_bottom,Reflection A - Room after-01_goal,"u_dash,r_dash,crouch,dl_dash",3,,FALSE,,FALSE,FALSE,,
 #,,,,,,,,,,
-Reflection A - Room 00_east,Reflection A - Room 00_west,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Reflection A - Room 04e_east,Reflection A - Cassette,"kevin_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Reflection A - Room 08a_west,Reflection A - Room 08a_east,"kevin_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Reflection A - Room 08a_west,Reflection A - Room 08a_east,"dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Reflection A - Room 08b_west,Reflection A - Room 08b_east,"kevin_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Reflection A - Room 10a_west,Reflection A - Room 10a_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Reflection A - Room boss-05_west,Reflection A - Room boss-05_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Reflection A - Room boss-18_west,Reflection A - Room boss-18_east,"feathers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Reflection A - Room after-01_bottom,Reflection A - Room after-01_goal,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
 Reflection B - Room c-00_west,Reflection B - Room c-00_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
 Reflection B - Room d-01_west,Reflection B - Room d-01_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
 Reflection B - Room d-02_west,Reflection B - Room d-02_east,"bumpers,feathers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
@@ -126,38 +124,3 @@ The Summit B - Room f-02_west,The Summit B - Room f-02_east,"springs,swap_blocks
 The Summit B - Room g-03_bottom,The Summit B - Room g-03_goal,"pink_cassette_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
 The Summit B - Room g-03_bottom,The Summit B - Room g-03_goal,"blue_cassette_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
 The Summit C - Room 02_west,The Summit C - Room 02_east,"springs,badeline_boosters,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core A - Room a-02_west,Core A - Room a-02_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core A - Room b-03_west,Core A - Room b-03_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core A - Room b-04_west,Core A - Room b-04_east,"core_toggles,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core A - Room b-06_east,Core A - Room b-06 Strawberry,"core_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core A - Room b-06_east,Core A - Room b-06 Strawberry,"core_toggles,dash_refills,coins,bumpers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core A - Room b-07b_bottom,Core A - Room b-07b_top,"core_toggles,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core A - Room d-04_bottom,Core A - Room d-04_top,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,bumpers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core A - Room d-08_west,Core A - Room d-08_east,"core_blocks,core_toggles,fire_ice_balls,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core B - Room a-01_west,Core B - Room a-01_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core B - Room c-01_bottom,Core B - Room c-01_top,"dash_refills,core_blocks,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Core C - Room 02_west,Core C - Room 02_goal,"springs,traffic_blocks,dash_refills,core_toggles,dream_blocks,bumpers,pink_clouds,kevin_blocks,core_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Farewell - Room intro-01-future_west,Farewell - Room intro-02-launch_bottom,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS
-Farewell - Room intro-01-future_west,Farewell - Room intro-03-space_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS
-Farewell - Room a-00_west,Farewell - Room a-00_east,"crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS
-Farewell - Room a-01_west,Farewell - Room a-01_east,"DISABLED,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS?
-Farewell - Room a-01_west,Farewell - Room a-01_east,"double_dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Farewell - Room a-02_west,Farewell - Room a-02_east,"DISABLED,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS?
-Farewell - Room a-04_west,Farewell - Room a-04_east,"DISABLED,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS?
-Farewell - Room a-05_west,Farewell - Room a-05_east,"DISABLED,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS?
-Farewell - Room b-06_west,Farewell - Room b-06_east,"DISABLED,dream_blocks,pufferfish,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS?
-Farewell - Room b-07_west,Farewell - Room b-07_east,"double_dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Farewell - Room c-03_south,Farewell - Room c-03_north,"jellyfish,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Farewell - Room e-01_south,Farewell - Room e-01_north,"DISABLED,springs,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS?
-Farewell - Room e-02_west,Farewell - Room e-02_east,"DISABLED,jellyfish,springs,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS?
-Farewell - Room e-06_west,Farewell - Room e-06_east,"DISABLED,jellyfish,springs,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS?
-Farewell - Room f-07_west,Farewell - Room f-07_east,"DISABLED,traffic_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS?
-Farewell - Room f-08_west,Farewell - Room f-08_east,"move_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Farewell - Room g-00_bottom,Farewell - Room g-00_top,"DISABLED,dash_refills,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS
-Farewell - Room g-00_bottom,Farewell - Room g-00_top,"DISABLED,traffic_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS
-Farewell - Room h-00_west,Farewell - Room h-00_east,"swap_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
-Farewell - Room h-01_west,Farewell - Room h-01_east,"DISABLED,double_dash_refills,springs,move_blocks,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS?
-Farewell - Room h-06_west,Farewell - Room h-06_east,"DISABLED,springs,feathers,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS?
-Farewell - Room h-09_west,Farewell - Room h-09_east,"DISABLED,kevin_blocks,feathers,coins,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,DTS
-Farewell - Room j-00_west,Farewell - Room j-00_east,"breaker_boxes,bird,crouch,dr_dash,dl_dash,d_dash,r_dash,l_dash,u_dash,ul_dash,ur_dash,l_climb,r_climb",3,,FALSE,,FALSE,FALSE,,
