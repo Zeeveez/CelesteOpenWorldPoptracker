@@ -40,7 +40,7 @@ function onClear(slot_data)
     berry_farm_obj.Icon = "images/icons/collectables/empty.png"
     reachable_locations = {}
     reachable_items = {}
-    ResetRecentItemfeed()
+    ResetRecentItemFeed()
 end
 Archipelago:AddClearHandler("clear handler", onClear)
 
