@@ -67,6 +67,7 @@
 /.gitignore export-ignore
 *.py export-ignore
 *.csv export-ignore
+*.pdn export-ignore
 /versions.json export-ignore
 /images/maps/0/*.png export-ignore
 /images/maps/1/*.png export-ignore

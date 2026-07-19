@@ -1,0 +1,1819 @@
+[
+    {
+        "name": "Badeline Boosters",
+        "type": "static",
+        "img": "images/icons/items/boosters/badeline_boosters.png",
+        "codes": "badeline_boosters-icon"
+    },
+    {
+        "name": "Bird",
+        "type": "static",
+        "img": "images/icons/items/farewell/bird.png",
+        "codes": "bird-icon"
+    },
+    {
+        "name": "Blue Boosters",
+        "type": "static",
+        "img": "images/icons/items/boosters/blue_boosters.png",
+        "codes": "blue_boosters-icon"
+    },
+    {
+        "name": "Blue Cassette Blocks",
+        "type": "static",
+        "img": "images/icons/items/cassette_blocks/blue_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/blue_cassette_blocks_off.png",
+        "codes": "blue_cassette_blocks-icon"
+    },
+    {
+        "name": "Blue Clouds",
+        "type": "static",
+        "img": "images/icons/items/clouds/blue_clouds.png",
+        "codes": "blue_clouds-icon"
+    },
+    {
+        "name": "Breaker Boxes",
+        "type": "static",
+        "img": "images/icons/items/farewell/breaker_boxes.png",
+        "codes": "breaker_boxes-icon"
+    },
+    {
+        "name": "Bumpers",
+        "type": "static",
+        "img": "images/icons/items/bouncers/bumpers.png",
+        "codes": "bumpers-icon"
+    },
+    {
+        "name": "Coins",
+        "type": "static",
+        "img": "images/icons/items/switches/coins.png",
+        "codes": "coins-icon"
+    },
+    {
+        "name": "Core Blocks",
+        "type": "static",
+        "img": "images/icons/items/core/core_blocks.png",
+        "codes": "core_blocks-icon"
+    },
+    {
+        "name": "Core Toggles",
+        "type": "static",
+        "img": "images/icons/items/core/core_toggles.png",
+        "codes": "core_toggles-icon"
+    },
+    {
+        "name": "Dash Refills",
+        "type": "static",
+        "img": "images/icons/items/pickups/dash_refills.png",
+        "codes": "dash_refills-icon"
+    },
+    {
+        "name": "Dash Switches",
+        "type": "static",
+        "img": "images/icons/items/switches/dash_switches.png",
+        "codes": "dash_switches-icon"
+    },
+    {
+        "name": "Double Dash Refills",
+        "type": "static",
+        "img": "images/icons/items/pickups/double_dash_refills.png",
+        "codes": "double_dash_refills-icon"
+    },
+    {
+        "name": "Dream Blocks",
+        "type": "static",
+        "img": "images/icons/items/platforms_blocks/dream_blocks.png",
+        "codes": "dream_blocks-icon"
+    },
+    {
+        "name": "Feathers",
+        "type": "static",
+        "img": "images/icons/items/pickups/feathers.png",
+        "codes": "feathers-icon"
+    },
+    {
+        "name": "Fire and Ice Balls",
+        "type": "static",
+        "img": "images/icons/items/core/fire_ice_balls.png",
+        "codes": "fire_ice_balls-icon"
+    },
+    {
+        "name": "Green Cassette Blocks",
+        "type": "static",
+        "img": "images/icons/items/cassette_blocks/green_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/green_cassette_blocks_off.png",
+        "codes": "green_cassette_blocks-icon"
+    },
+    {
+        "name": "Jellyfish",
+        "type": "static",
+        "img": "images/icons/items/farewell/jellyfish.png",
+        "codes": "jellyfish-icon"
+    },
+    {
+        "name": "Kevins",
+        "type": "static",
+        "img": "images/icons/items/platforms_blocks/kevin_blocks.png",
+        "codes": "kevin_blocks-icon"
+    },
+    {
+        "name": "Move Blocks",
+        "type": "static",
+        "img": "images/icons/items/platforms_blocks/move_blocks.png",
+        "codes": "move_blocks-icon"
+    },
+    {
+        "name": "Moving Platforms",
+        "type": "static",
+        "img": "images/icons/items/platforms_blocks/moving_platforms.png",
+        "codes": "moving_platforms-icon"
+    },
+    {
+        "name": "Pink Cassette Blocks",
+        "type": "static",
+        "img": "images/icons/items/cassette_blocks/pink_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/pink_cassette_blocks_off.png",
+        "codes": "pink_cassette_blocks-icon"
+    },
+    {
+        "name": "Pink Clouds",
+        "type": "static",
+        "img": "images/icons/items/clouds/pink_clouds.png",
+        "codes": "pink_clouds-icon"
+    },
+    {
+        "name": "Pufferfish",
+        "type": "static",
+        "img": "images/icons/items/farewell/pufferfish.png",
+        "codes": "pufferfish-icon"
+    },
+    {
+        "name": "Red Boosters",
+        "type": "static",
+        "img": "images/icons/items/boosters/red_boosters.png",
+        "codes": "red_boosters-icon"
+    },
+    {
+        "name": "Seekers",
+        "type": "static",
+        "img": "images/icons/items/bouncers/seekers.png",
+        "codes": "seekers-icon"
+    },
+    {
+        "name": "Sinking Platforms",
+        "type": "static",
+        "img": "images/icons/items/platforms_blocks/sinking_platforms.png",
+        "codes": "sinking_platforms-icon"
+    },
+    {
+        "name": "Springs",
+        "type": "static",
+        "img": "images/icons/items/bouncers/springs.png",
+        "codes": "springs-icon"
+    },
+    {
+        "name": "Strawberry Seeds",
+        "type": "static",
+        "img": "images/icons/items/pickups/strawberry_seeds.png",
+        "codes": "strawberry_seeds-icon"
+    },
+    {
+        "name": "Swap Blocks",
+        "type": "static",
+        "img": "images/icons/items/platforms_blocks/swap_blocks.png",
+        "codes": "swap_blocks-icon"
+    },
+    {
+        "name": "Theo Crystal",
+        "type": "static",
+        "img": "images/icons/items/pickups/theo_crystal.png",
+        "codes": "theo_crystal-icon"
+    },
+    {
+        "name": "Traffic Blocks",
+        "type": "static",
+        "img": "images/icons/items/platforms_blocks/traffic_blocks.png",
+        "codes": "traffic_blocks-icon"
+    },
+    {
+        "name": "White Block",
+        "type": "static",
+        "img": "images/icons/items/platforms_blocks/white_block.png",
+        "codes": "white_block-icon"
+    },
+    {
+        "name": "Yellow Cassette Blocks",
+        "type": "static",
+        "img": "images/icons/items/cassette_blocks/yellow_cassette_blocks.png",
+        "disabled_img": "images/icons/items/cassette_blocks/yellow_cassette_blocks_off.png",
+        "codes": "yellow_cassette_blocks-icon"
+    },
+    {
+        "name": "Yellow Torches",
+        "type": "static",
+        "img": "images/icons/items/switches/yellow_torches.png",
+        "codes": "yellow_torches-icon"
+    },
+    {
+        "name": "Blue Torches",
+        "type": "static",
+        "img": "images/icons/items/switches/blue_torches.png",
+        "codes": "blue_torches-icon"
+    },
+
+    {
+        "name": "Logic Difficulty - Developer Intended",
+        "type": "static",
+        "img": "images/icons/madeline.png",
+        "codes": "logic_difficulty_developer-icon"
+    },
+    {
+        "name": "Logic Difficulty - Vanilla Movement",
+        "type": "static",
+        "img": "images/icons/badeline.png",
+        "codes": "logic_difficulty_vanilla-icon"
+    },
+    {
+        "name": "Logic Difficulty - Assist Mode",
+        "type": "static",
+        "img": "images/icons/granny.png",
+        "codes": "logic_difficulty_assist-icon"
+    },
+    {
+        "name": "Custom Logic - Green (Easy)",
+        "type": "static",
+        "img": "images/icons/items/tracker_settings/show-custom-logic.png",
+        "img_mods": "overlay|images/icons/items/tracker_settings/green_overlay.png",
+        "codes": "custom_green-icon"
+    },
+    {
+        "name": "Custom Logic - Yellow (Medium)",
+        "type": "static",
+        "img": "images/icons/items/tracker_settings/show-custom-logic.png",
+        "img_mods": "overlay|images/icons/items/tracker_settings/yellow_overlay.png",
+        "codes": "custom_yellow-icon"
+    },
+    {
+        "name": "Custom Logic - Red (Hard)",
+        "type": "static",
+        "img": "images/icons/items/tracker_settings/show-custom-logic.png",
+        "img_mods": "overlay|images/icons/items/tracker_settings/red_overlay.png",
+        "codes": "custom_red-icon"
+    },
+    {
+        "name": "Custom Logic - Purple (Brutal)",
+        "type": "static",
+        "img": "images/icons/items/tracker_settings/show-custom-logic.png",
+        "img_mods": "overlay|images/icons/items/tracker_settings/purple_overlay.png",
+        "codes": "custom_purple-icon"
+    },
+
+    {
+        "name": "Left Climb",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/l_climb.png",
+        "codes": "l_climb-icon"
+    },
+    {
+        "name": "Right Climb",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/r_climb.png",
+        "codes": "r_climb-icon"
+    },
+    {
+        "name": "Crouch",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/crouch.png",
+        "codes": "crouch-icon"
+    },
+
+    {
+        "name": "any_dash_d_dl",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl.png",
+        "codes": "any_dash_d_dl-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr.png",
+        "codes": "any_dash_d_dl_dr-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l.png",
+        "codes": "any_dash_d_dl_dr_l-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_r.png",
+        "codes": "any_dash_d_dl_dr_l_r-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_r_u.png",
+        "codes": "any_dash_d_dl_dr_l_r_u-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_r_u_ul.png",
+        "codes": "any_dash_d_dl_dr_l_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_r_u_ul_ur.png",
+        "codes": "any_dash_d_dl_dr_l_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_r_u_ur.png",
+        "codes": "any_dash_d_dl_dr_l_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_r_ul.png",
+        "codes": "any_dash_d_dl_dr_l_r_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_r_ul_ur.png",
+        "codes": "any_dash_d_dl_dr_l_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_r_ur.png",
+        "codes": "any_dash_d_dl_dr_l_r_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_u.png",
+        "codes": "any_dash_d_dl_dr_l_u-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_u_ul.png",
+        "codes": "any_dash_d_dl_dr_l_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_u_ul_ur.png",
+        "codes": "any_dash_d_dl_dr_l_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_u_ur.png",
+        "codes": "any_dash_d_dl_dr_l_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_ul.png",
+        "codes": "any_dash_d_dl_dr_l_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_ul_ur.png",
+        "codes": "any_dash_d_dl_dr_l_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_l_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_l_ur.png",
+        "codes": "any_dash_d_dl_dr_l_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_r.png",
+        "codes": "any_dash_d_dl_dr_r-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_r_u.png",
+        "codes": "any_dash_d_dl_dr_r_u-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_r_u_ul.png",
+        "codes": "any_dash_d_dl_dr_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_r_u_ul_ur.png",
+        "codes": "any_dash_d_dl_dr_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_r_u_ur.png",
+        "codes": "any_dash_d_dl_dr_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_r_ul.png",
+        "codes": "any_dash_d_dl_dr_r_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_r_ul_ur.png",
+        "codes": "any_dash_d_dl_dr_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_r_ur.png",
+        "codes": "any_dash_d_dl_dr_r_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_u.png",
+        "codes": "any_dash_d_dl_dr_u-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_u_ul.png",
+        "codes": "any_dash_d_dl_dr_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_u_ul_ur.png",
+        "codes": "any_dash_d_dl_dr_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_u_ur.png",
+        "codes": "any_dash_d_dl_dr_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_ul.png",
+        "codes": "any_dash_d_dl_dr_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_ul_ur.png",
+        "codes": "any_dash_d_dl_dr_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_dr_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_dr_ur.png",
+        "codes": "any_dash_d_dl_dr_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l.png",
+        "codes": "any_dash_d_dl_l-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_r.png",
+        "codes": "any_dash_d_dl_l_r-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_r_u.png",
+        "codes": "any_dash_d_dl_l_r_u-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_r_u_ul.png",
+        "codes": "any_dash_d_dl_l_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_r_u_ul_ur.png",
+        "codes": "any_dash_d_dl_l_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_r_u_ur.png",
+        "codes": "any_dash_d_dl_l_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_r_ul.png",
+        "codes": "any_dash_d_dl_l_r_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_r_ul_ur.png",
+        "codes": "any_dash_d_dl_l_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_r_ur.png",
+        "codes": "any_dash_d_dl_l_r_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_u.png",
+        "codes": "any_dash_d_dl_l_u-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_u_ul.png",
+        "codes": "any_dash_d_dl_l_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_u_ul_ur.png",
+        "codes": "any_dash_d_dl_l_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_u_ur.png",
+        "codes": "any_dash_d_dl_l_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_ul.png",
+        "codes": "any_dash_d_dl_l_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_ul_ur.png",
+        "codes": "any_dash_d_dl_l_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_l_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_l_ur.png",
+        "codes": "any_dash_d_dl_l_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_r.png",
+        "codes": "any_dash_d_dl_r-icon"
+    },
+    {
+        "name": "any_dash_d_dl_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_r_u.png",
+        "codes": "any_dash_d_dl_r_u-icon"
+    },
+    {
+        "name": "any_dash_d_dl_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_r_u_ul.png",
+        "codes": "any_dash_d_dl_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_r_u_ul_ur.png",
+        "codes": "any_dash_d_dl_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_r_u_ur.png",
+        "codes": "any_dash_d_dl_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_r_ul.png",
+        "codes": "any_dash_d_dl_r_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_r_ul_ur.png",
+        "codes": "any_dash_d_dl_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_r_ur.png",
+        "codes": "any_dash_d_dl_r_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_u.png",
+        "codes": "any_dash_d_dl_u-icon"
+    },
+    {
+        "name": "any_dash_d_dl_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_u_ul.png",
+        "codes": "any_dash_d_dl_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_u_ul_ur.png",
+        "codes": "any_dash_d_dl_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_u_ur.png",
+        "codes": "any_dash_d_dl_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_ul.png",
+        "codes": "any_dash_d_dl_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dl_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_ul_ur.png",
+        "codes": "any_dash_d_dl_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dl_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dl_ur.png",
+        "codes": "any_dash_d_dl_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr.png",
+        "codes": "any_dash_d_dr-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l.png",
+        "codes": "any_dash_d_dr_l-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_r.png",
+        "codes": "any_dash_d_dr_l_r-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_r_u.png",
+        "codes": "any_dash_d_dr_l_r_u-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_r_u_ul.png",
+        "codes": "any_dash_d_dr_l_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_r_u_ul_ur.png",
+        "codes": "any_dash_d_dr_l_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_r_u_ur.png",
+        "codes": "any_dash_d_dr_l_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_r_ul.png",
+        "codes": "any_dash_d_dr_l_r_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_r_ul_ur.png",
+        "codes": "any_dash_d_dr_l_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_r_ur.png",
+        "codes": "any_dash_d_dr_l_r_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_u.png",
+        "codes": "any_dash_d_dr_l_u-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_u_ul.png",
+        "codes": "any_dash_d_dr_l_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_u_ul_ur.png",
+        "codes": "any_dash_d_dr_l_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_u_ur.png",
+        "codes": "any_dash_d_dr_l_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_ul.png",
+        "codes": "any_dash_d_dr_l_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_ul_ur.png",
+        "codes": "any_dash_d_dr_l_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_l_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_l_ur.png",
+        "codes": "any_dash_d_dr_l_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_r.png",
+        "codes": "any_dash_d_dr_r-icon"
+    },
+    {
+        "name": "any_dash_d_dr_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_r_u.png",
+        "codes": "any_dash_d_dr_r_u-icon"
+    },
+    {
+        "name": "any_dash_d_dr_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_r_u_ul.png",
+        "codes": "any_dash_d_dr_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dr_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_r_u_ul_ur.png",
+        "codes": "any_dash_d_dr_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_r_u_ur.png",
+        "codes": "any_dash_d_dr_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_r_ul.png",
+        "codes": "any_dash_d_dr_r_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dr_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_r_ul_ur.png",
+        "codes": "any_dash_d_dr_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_r_ur.png",
+        "codes": "any_dash_d_dr_r_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_u.png",
+        "codes": "any_dash_d_dr_u-icon"
+    },
+    {
+        "name": "any_dash_d_dr_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_u_ul.png",
+        "codes": "any_dash_d_dr_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dr_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_u_ul_ur.png",
+        "codes": "any_dash_d_dr_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_u_ur.png",
+        "codes": "any_dash_d_dr_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_ul.png",
+        "codes": "any_dash_d_dr_ul-icon"
+    },
+    {
+        "name": "any_dash_d_dr_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_ul_ur.png",
+        "codes": "any_dash_d_dr_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_dr_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_dr_ur.png",
+        "codes": "any_dash_d_dr_ur-icon"
+    },
+    {
+        "name": "any_dash_d_l",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l.png",
+        "codes": "any_dash_d_l-icon"
+    },
+    {
+        "name": "any_dash_d_l_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_r.png",
+        "codes": "any_dash_d_l_r-icon"
+    },
+    {
+        "name": "any_dash_d_l_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_r_u.png",
+        "codes": "any_dash_d_l_r_u-icon"
+    },
+    {
+        "name": "any_dash_d_l_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_r_u_ul.png",
+        "codes": "any_dash_d_l_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_l_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_r_u_ul_ur.png",
+        "codes": "any_dash_d_l_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_l_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_r_u_ur.png",
+        "codes": "any_dash_d_l_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_l_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_r_ul.png",
+        "codes": "any_dash_d_l_r_ul-icon"
+    },
+    {
+        "name": "any_dash_d_l_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_r_ul_ur.png",
+        "codes": "any_dash_d_l_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_l_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_r_ur.png",
+        "codes": "any_dash_d_l_r_ur-icon"
+    },
+    {
+        "name": "any_dash_d_l_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_u.png",
+        "codes": "any_dash_d_l_u-icon"
+    },
+    {
+        "name": "any_dash_d_l_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_u_ul.png",
+        "codes": "any_dash_d_l_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_l_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_u_ul_ur.png",
+        "codes": "any_dash_d_l_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_l_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_u_ur.png",
+        "codes": "any_dash_d_l_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_l_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_ul.png",
+        "codes": "any_dash_d_l_ul-icon"
+    },
+    {
+        "name": "any_dash_d_l_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_ul_ur.png",
+        "codes": "any_dash_d_l_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_l_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_l_ur.png",
+        "codes": "any_dash_d_l_ur-icon"
+    },
+    {
+        "name": "any_dash_d_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_r.png",
+        "codes": "any_dash_d_r-icon"
+    },
+    {
+        "name": "any_dash_d_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_r_u.png",
+        "codes": "any_dash_d_r_u-icon"
+    },
+    {
+        "name": "any_dash_d_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_r_u_ul.png",
+        "codes": "any_dash_d_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_r_u_ul_ur.png",
+        "codes": "any_dash_d_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_r_u_ur.png",
+        "codes": "any_dash_d_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_r_ul.png",
+        "codes": "any_dash_d_r_ul-icon"
+    },
+    {
+        "name": "any_dash_d_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_r_ul_ur.png",
+        "codes": "any_dash_d_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_r_ur.png",
+        "codes": "any_dash_d_r_ur-icon"
+    },
+    {
+        "name": "any_dash_d_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_u.png",
+        "codes": "any_dash_d_u-icon"
+    },
+    {
+        "name": "any_dash_d_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_u_ul.png",
+        "codes": "any_dash_d_u_ul-icon"
+    },
+    {
+        "name": "any_dash_d_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_u_ul_ur.png",
+        "codes": "any_dash_d_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_u_ur.png",
+        "codes": "any_dash_d_u_ur-icon"
+    },
+    {
+        "name": "any_dash_d_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_ul.png",
+        "codes": "any_dash_d_ul-icon"
+    },
+    {
+        "name": "any_dash_d_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_ul_ur.png",
+        "codes": "any_dash_d_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_d_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_d_ur.png",
+        "codes": "any_dash_d_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr.png",
+        "codes": "any_dash_dl_dr-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l.png",
+        "codes": "any_dash_dl_dr_l-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_r.png",
+        "codes": "any_dash_dl_dr_l_r-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_r_u.png",
+        "codes": "any_dash_dl_dr_l_r_u-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_r_u_ul.png",
+        "codes": "any_dash_dl_dr_l_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_r_u_ul_ur.png",
+        "codes": "any_dash_dl_dr_l_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_r_u_ur.png",
+        "codes": "any_dash_dl_dr_l_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_r_ul.png",
+        "codes": "any_dash_dl_dr_l_r_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_r_ul_ur.png",
+        "codes": "any_dash_dl_dr_l_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_r_ur.png",
+        "codes": "any_dash_dl_dr_l_r_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_u.png",
+        "codes": "any_dash_dl_dr_l_u-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_u_ul.png",
+        "codes": "any_dash_dl_dr_l_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_u_ul_ur.png",
+        "codes": "any_dash_dl_dr_l_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_u_ur.png",
+        "codes": "any_dash_dl_dr_l_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_ul.png",
+        "codes": "any_dash_dl_dr_l_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_ul_ur.png",
+        "codes": "any_dash_dl_dr_l_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_l_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_l_ur.png",
+        "codes": "any_dash_dl_dr_l_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_r.png",
+        "codes": "any_dash_dl_dr_r-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_r_u.png",
+        "codes": "any_dash_dl_dr_r_u-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_r_u_ul.png",
+        "codes": "any_dash_dl_dr_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_r_u_ul_ur.png",
+        "codes": "any_dash_dl_dr_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_r_u_ur.png",
+        "codes": "any_dash_dl_dr_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_r_ul.png",
+        "codes": "any_dash_dl_dr_r_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_r_ul_ur.png",
+        "codes": "any_dash_dl_dr_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_r_ur.png",
+        "codes": "any_dash_dl_dr_r_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_u.png",
+        "codes": "any_dash_dl_dr_u-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_u_ul.png",
+        "codes": "any_dash_dl_dr_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_u_ul_ur.png",
+        "codes": "any_dash_dl_dr_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_u_ur.png",
+        "codes": "any_dash_dl_dr_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_ul.png",
+        "codes": "any_dash_dl_dr_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_ul_ur.png",
+        "codes": "any_dash_dl_dr_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_dr_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_dr_ur.png",
+        "codes": "any_dash_dl_dr_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_l",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l.png",
+        "codes": "any_dash_dl_l-icon"
+    },
+    {
+        "name": "any_dash_dl_l_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_r.png",
+        "codes": "any_dash_dl_l_r-icon"
+    },
+    {
+        "name": "any_dash_dl_l_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_r_u.png",
+        "codes": "any_dash_dl_l_r_u-icon"
+    },
+    {
+        "name": "any_dash_dl_l_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_r_u_ul.png",
+        "codes": "any_dash_dl_l_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_l_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_r_u_ul_ur.png",
+        "codes": "any_dash_dl_l_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_l_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_r_u_ur.png",
+        "codes": "any_dash_dl_l_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_l_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_r_ul.png",
+        "codes": "any_dash_dl_l_r_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_l_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_r_ul_ur.png",
+        "codes": "any_dash_dl_l_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_l_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_r_ur.png",
+        "codes": "any_dash_dl_l_r_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_l_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_u.png",
+        "codes": "any_dash_dl_l_u-icon"
+    },
+    {
+        "name": "any_dash_dl_l_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_u_ul.png",
+        "codes": "any_dash_dl_l_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_l_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_u_ul_ur.png",
+        "codes": "any_dash_dl_l_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_l_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_u_ur.png",
+        "codes": "any_dash_dl_l_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_l_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_ul.png",
+        "codes": "any_dash_dl_l_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_l_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_ul_ur.png",
+        "codes": "any_dash_dl_l_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_l_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_l_ur.png",
+        "codes": "any_dash_dl_l_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_r.png",
+        "codes": "any_dash_dl_r-icon"
+    },
+    {
+        "name": "any_dash_dl_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_r_u.png",
+        "codes": "any_dash_dl_r_u-icon"
+    },
+    {
+        "name": "any_dash_dl_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_r_u_ul.png",
+        "codes": "any_dash_dl_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_r_u_ul_ur.png",
+        "codes": "any_dash_dl_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_r_u_ur.png",
+        "codes": "any_dash_dl_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_r_ul.png",
+        "codes": "any_dash_dl_r_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_r_ul_ur.png",
+        "codes": "any_dash_dl_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_r_ur.png",
+        "codes": "any_dash_dl_r_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_u.png",
+        "codes": "any_dash_dl_u-icon"
+    },
+    {
+        "name": "any_dash_dl_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_u_ul.png",
+        "codes": "any_dash_dl_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_u_ul_ur.png",
+        "codes": "any_dash_dl_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_u_ur.png",
+        "codes": "any_dash_dl_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_ul.png",
+        "codes": "any_dash_dl_ul-icon"
+    },
+    {
+        "name": "any_dash_dl_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_ul_ur.png",
+        "codes": "any_dash_dl_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dl_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dl_ur.png",
+        "codes": "any_dash_dl_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_l",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l.png",
+        "codes": "any_dash_dr_l-icon"
+    },
+    {
+        "name": "any_dash_dr_l_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_r.png",
+        "codes": "any_dash_dr_l_r-icon"
+    },
+    {
+        "name": "any_dash_dr_l_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_r_u.png",
+        "codes": "any_dash_dr_l_r_u-icon"
+    },
+    {
+        "name": "any_dash_dr_l_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_r_u_ul.png",
+        "codes": "any_dash_dr_l_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dr_l_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_r_u_ul_ur.png",
+        "codes": "any_dash_dr_l_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_l_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_r_u_ur.png",
+        "codes": "any_dash_dr_l_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_l_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_r_ul.png",
+        "codes": "any_dash_dr_l_r_ul-icon"
+    },
+    {
+        "name": "any_dash_dr_l_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_r_ul_ur.png",
+        "codes": "any_dash_dr_l_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_l_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_r_ur.png",
+        "codes": "any_dash_dr_l_r_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_l_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_u.png",
+        "codes": "any_dash_dr_l_u-icon"
+    },
+    {
+        "name": "any_dash_dr_l_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_u_ul.png",
+        "codes": "any_dash_dr_l_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dr_l_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_u_ul_ur.png",
+        "codes": "any_dash_dr_l_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_l_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_u_ur.png",
+        "codes": "any_dash_dr_l_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_l_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_ul.png",
+        "codes": "any_dash_dr_l_ul-icon"
+    },
+    {
+        "name": "any_dash_dr_l_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_ul_ur.png",
+        "codes": "any_dash_dr_l_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_l_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_l_ur.png",
+        "codes": "any_dash_dr_l_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_r.png",
+        "codes": "any_dash_dr_r-icon"
+    },
+    {
+        "name": "any_dash_dr_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_r_u.png",
+        "codes": "any_dash_dr_r_u-icon"
+    },
+    {
+        "name": "any_dash_dr_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_r_u_ul.png",
+        "codes": "any_dash_dr_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dr_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_r_u_ul_ur.png",
+        "codes": "any_dash_dr_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_r_u_ur.png",
+        "codes": "any_dash_dr_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_r_ul.png",
+        "codes": "any_dash_dr_r_ul-icon"
+    },
+    {
+        "name": "any_dash_dr_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_r_ul_ur.png",
+        "codes": "any_dash_dr_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_r_ur.png",
+        "codes": "any_dash_dr_r_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_u.png",
+        "codes": "any_dash_dr_u-icon"
+    },
+    {
+        "name": "any_dash_dr_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_u_ul.png",
+        "codes": "any_dash_dr_u_ul-icon"
+    },
+    {
+        "name": "any_dash_dr_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_u_ul_ur.png",
+        "codes": "any_dash_dr_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_u_ur.png",
+        "codes": "any_dash_dr_u_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_ul.png",
+        "codes": "any_dash_dr_ul-icon"
+    },
+    {
+        "name": "any_dash_dr_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_ul_ur.png",
+        "codes": "any_dash_dr_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_dr_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_dr_ur.png",
+        "codes": "any_dash_dr_ur-icon"
+    },
+    {
+        "name": "any_dash_l_r",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_r.png",
+        "codes": "any_dash_l_r-icon"
+    },
+    {
+        "name": "any_dash_l_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_r_u.png",
+        "codes": "any_dash_l_r_u-icon"
+    },
+    {
+        "name": "any_dash_l_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_r_u_ul.png",
+        "codes": "any_dash_l_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_l_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_r_u_ul_ur.png",
+        "codes": "any_dash_l_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_l_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_r_u_ur.png",
+        "codes": "any_dash_l_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_l_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_r_ul.png",
+        "codes": "any_dash_l_r_ul-icon"
+    },
+    {
+        "name": "any_dash_l_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_r_ul_ur.png",
+        "codes": "any_dash_l_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_l_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_r_ur.png",
+        "codes": "any_dash_l_r_ur-icon"
+    },
+    {
+        "name": "any_dash_l_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_u.png",
+        "codes": "any_dash_l_u-icon"
+    },
+    {
+        "name": "any_dash_l_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_u_ul.png",
+        "codes": "any_dash_l_u_ul-icon"
+    },
+    {
+        "name": "any_dash_l_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_u_ul_ur.png",
+        "codes": "any_dash_l_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_l_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_u_ur.png",
+        "codes": "any_dash_l_u_ur-icon"
+    },
+    {
+        "name": "any_dash_l_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_ul.png",
+        "codes": "any_dash_l_ul-icon"
+    },
+    {
+        "name": "any_dash_l_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_ul_ur.png",
+        "codes": "any_dash_l_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_l_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_l_ur.png",
+        "codes": "any_dash_l_ur-icon"
+    },
+    {
+        "name": "any_dash_r_u",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_r_u.png",
+        "codes": "any_dash_r_u-icon"
+    },
+    {
+        "name": "any_dash_r_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_r_u_ul.png",
+        "codes": "any_dash_r_u_ul-icon"
+    },
+    {
+        "name": "any_dash_r_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_r_u_ul_ur.png",
+        "codes": "any_dash_r_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_r_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_r_u_ur.png",
+        "codes": "any_dash_r_u_ur-icon"
+    },
+    {
+        "name": "any_dash_r_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_r_ul.png",
+        "codes": "any_dash_r_ul-icon"
+    },
+    {
+        "name": "any_dash_r_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_r_ul_ur.png",
+        "codes": "any_dash_r_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_r_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_r_ur.png",
+        "codes": "any_dash_r_ur-icon"
+    },
+    {
+        "name": "any_dash_u_ul",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_u_ul.png",
+        "codes": "any_dash_u_ul-icon"
+    },
+    {
+        "name": "any_dash_u_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_u_ul_ur.png",
+        "codes": "any_dash_u_ul_ur-icon"
+    },
+    {
+        "name": "any_dash_u_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_u_ur.png",
+        "codes": "any_dash_u_ur-icon"
+    },
+    {
+        "name": "any_dash_ul_ur",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/any_dash_ul_ur.png",
+        "codes": "any_dash_ul_ur-icon"
+    },
+    {
+        "name": "d_dash",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/d_dash.png",
+        "codes": "d_dash-icon"
+    },
+    {
+        "name": "dl_dash",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/dl_dash.png",
+        "codes": "dl_dash-icon"
+    },
+    {
+        "name": "dr_dash",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/dr_dash.png",
+        "codes": "dr_dash-icon"
+    },
+    {
+        "name": "l_dash",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/l_dash.png",
+        "codes": "l_dash-icon"
+    },
+    {
+        "name": "r_dash",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/r_dash.png",
+        "codes": "r_dash-icon"
+    },
+    {
+        "name": "u_dash",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/u_dash.png",
+        "codes": "u_dash-icon"
+    },
+    {
+        "name": "ul_dash",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/ul_dash.png",
+        "codes": "ul_dash-icon"
+    },
+    {
+        "name": "ur_dash",
+        "type": "static",
+        "img": "images/icons/items/movement/all_movement/ur_dash.png",
+        "codes": "ur_dash-icon"
+    }
+]
