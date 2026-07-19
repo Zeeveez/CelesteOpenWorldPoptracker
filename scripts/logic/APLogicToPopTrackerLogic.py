@@ -1,5 +1,6 @@
 import json
 import requests
+import itertools
 
 ALL_ITEMS = [
     "blue_cassette_blocks", "pink_cassette_blocks", "green_cassette_blocks", "yellow_cassette_blocks", "strawberry_seeds", "white_block",
@@ -14,14 +15,14 @@ ALL_ITEMS = [
     "double_dash_refills", "pufferfish", "jellyfish", "bird", "breaker_boxes"
 ]
 
-def process_ruleset(level, rule, interactable_mode, rule_modifier = ['logic_difficulty_developer'], raw_level_name = None):
+def process_ruleset(level, rule, interactable_mode = None, rule_modifier = ['logic_difficulty_developer'], raw_level_name = None):
     level_name = raw_level_name or level.display_name
     rule_out = []
     for rule_part in rule:
         if rule_part.startswith('any_dash'):
             rule_out += ['any_dash_' + '_'.join(sorted(rule_part.split('_')[2:]))]
         elif rule_part in ALL_ITEMS:
-            if interactable_mode == 'none':
+            if interactable_mode == 'none' or interactable_mode == None:
                 rule_out += [rule_part]
             elif interactable_mode == 'per_level':
                 if level_name == 'Farewell':
@@ -39,7 +40,8 @@ def process_ruleset(level, rule, interactable_mode, rule_modifier = ['logic_diff
             rule_out += [f'{level_name} - {rule_part}'.lower().replace(' ', '')]
         else:
             rule_out += [rule_part]
-    rule_out = [f'split_interactables_{interactable_mode}'] + sorted(list(set(rule_out)))
+    if interactable_mode:
+        rule_out = [f'split_interactables_{interactable_mode}'] + sorted(list(set(rule_out)))
     if rule_modifier != None:
         rule_out = rule_modifier + rule_out
     return rule_out      
@@ -92,6 +94,22 @@ class RegionRegionConnection:
 
         return logic
 
+    def generate_rules(self):
+        level_name = self.room.level.display_name
+        side_name = 'A'
+        if level_name.endswith(' A') or level_name.endswith(' B') or level_name.endswith(' C'):
+            side_name = level_name[-1]
+            level_name = level_name[:-2]
+
+        rules = []
+        for difficulty in {'developer', 'vanilla', 'assist'}:
+            if difficulty in self.rules and len(self.rules[difficulty]):
+                for rule in self.rules[difficulty]:
+                    if 'cannot_access' in rule: continue
+                    rules += [[level_name, side_name, self.room.name, self.src_region.name, self.dest, process_ruleset(self.room.level, rule, None, [f'logic_difficulty_{difficulty}'])]]
+
+        return rules
+
 
 class Location:
     def __init__(self, region, json):
@@ -123,6 +141,28 @@ class Location:
 
         return logic
 
+    def generate_rules(self):
+        level_name = self.region.room.level.display_name
+        side_name = 'A'
+        if level_name.endswith(' A') or level_name.endswith(' B') or level_name.endswith(' C'):
+            side_name = level_name[-1]
+            level_name = level_name[:-2]
+
+        room_name = f'{self.region.room.level.display_name} - Room {self.region.room.name}'
+        region_name = f'{room_name}_{self.region.name}'
+        location_name = f'{self.region.room.level.display_name} - {self.display_name}'
+        if self.name.split('_')[0] in { 'strawberry', 'binoculars' }:
+            location_name = f'{room_name} {self.display_name}'
+
+        rules = []
+        for difficulty in {'developer', 'vanilla', 'assist'}:
+            if difficulty in self.rules and len(self.rules[difficulty]):
+                for rule in self.rules[difficulty]:
+                    if 'cannot_access' in rule: continue
+                    rules += [[level_name, side_name, self.region.room.name, self.region.name, self.display_name, process_ruleset(self.region.room.level, rule, None, [f'logic_difficulty_{difficulty}'])]]
+
+        return rules
+
 
 class Region:
     def __init__(self, room, json):
@@ -138,6 +178,12 @@ class Region:
         for location in self.locations: logic += location.generate_logic()
         for connection in self.connections: logic += connection.generate_logic()
         return logic
+
+    def generate_rules(self):
+        rules = []
+        for location in self.locations: rules += location.generate_rules()
+        for connection in self.connections: rules += connection.generate_rules()
+        return rules
 
 
 class Room:
@@ -171,6 +217,14 @@ class Room:
 
         return logic
 
+    def generate_rules(self):
+        rules = []
+
+        for region in self.regions:
+            rules += region.generate_rules()
+
+        return rules
+
 
 class Level:
     def __init__(self, json):
@@ -202,6 +256,13 @@ class Level:
             if connection_logic[2] not in logic[connection_logic[0]][connection_logic[1]]:
                 logic[connection_logic[0]][connection_logic[1]] += [connection_logic[2]]
         return logic
+
+    def generate_rules(self):
+        rules = []
+        for room in self.rooms:
+            for room_logic in room.generate_rules():
+                rules += [room_logic]
+        return rules
             
 
 class World:
@@ -217,6 +278,13 @@ class World:
                 else:
                     logic[key] = value
         return logic
+
+    def generate_rules(self):
+        rules = []
+        for level in self.levels:
+            for level_logic in level.generate_rules():
+                rules += [level_logic]
+        return rules
 
 raw_logic = json.loads(requests.get('https://raw.githubusercontent.com/PoryGoneDev/Pory_Archipelago/refs/heads/celeste-v1.1/worlds/celeste_open_world/data/CelesteLevelData.json').text)
 # with open('./scripts/logic/CelesteLevelData.json') as f:
@@ -236,6 +304,7 @@ def add_connection(logic, src_room, dst_room, access_rules = []):
 
 world = World(raw_logic)
 logic = world.generate_logic()
+rules = world.generate_rules()
 
 # Note no need to include access modifier from difficulty for these connections, as either they're just inherent to the apworld in general, or are custom and filtered elsewhere
 import csv
@@ -272,6 +341,16 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
         for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
             add_connection(logic, from_region, to_region, [process_ruleset(None, rule, interactable_mode, None, level)])
 
+        level_name = from_region.split(' - ')[0]
+        side_name = 'A'
+        if level_name.endswith(' A') or level_name.endswith(' B') or level_name.endswith(' C'):
+            side_name = level_name[-1]
+            level_name = level_name[:-2]
+        room_name = from_region.split(' Room ')[1].split('_')[0]
+        region_name = from_region.split(' Room ')[1].split('_')[1].split(' ')[0]
+
+        rules += [[level_name, side_name, room_name, region_name, "???", process_ruleset(None, rule, None, None, level_name)]]
+
 with open('./scripts/logic/access_logic.lua','w') as f:
     f.write('LOCATION_ACCESS_LOGIC = {\n')
     for room in logic:
@@ -285,3 +364,85 @@ with open('./scripts/logic/access_logic.lua','w') as f:
                 .replace('\' } }', '\' }\n\t\t}')} }},\n')
         f.write(f'\t}},\n')
     f.write(f'}}')
+
+rules_tree = {}
+for rule in rules:
+    if rule[0] not in rules_tree: rules_tree[rule[0]] = {}
+    if rule[1] not in rules_tree[rule[0]]: rules_tree[rule[0]][rule[1]] = {}
+    if rule[2] not in rules_tree[rule[0]][rule[1]]: rules_tree[rule[0]][rule[1]][rule[2]] = []
+    rules_tree[rule[0]][rule[1]][rule[2]] += [rule]
+
+level_tabs = []
+for level in rules_tree:
+    side_tabs = []
+    for side in rules_tree[level]:
+        room_tabs = []
+        for room in rules_tree[level][side]:
+            rules = rules_tree[level][side][room]
+            pages = []
+            for i in range((len(rules) - 1) // 10 + 1):
+                page_rules = []
+                for rule in rules_tree[level][side][room][i * 10:(i + 1)*10]:
+                    page_rules += [{
+                        "type": "group",
+                        "background": "#00000000",
+                        "header": f'{rule[3]} -> {rule[4]}',
+                        "content": {
+                            "type": "itemgrid",
+                            "h_alignment": "left",
+                            "item_margin": "1,1",
+                            "item_size": "3,3",
+                            "rows": [
+                                list(map(lambda item: f'{item}-icon',rule[5]))
+                            ]
+                        }
+                    }]
+
+                pages += [{
+                    'title': f'Page {i + 1}',
+                    'content': {
+                        'type': 'array',
+                        'content': page_rules
+                    }
+                }]
+
+            room_tabs += [{
+                'title': room,
+                'content': {
+                    'type': 'dock',
+                    'content': {
+                        'type': 'tabbed',
+                        'tabs': pages
+                    }
+                }
+            }]
+
+        side_tabs += [{
+            'title': side,
+            'content': {
+                'type': 'dock',
+                'content': {
+                    'type': 'tabbed',
+                    'tabs': room_tabs
+                }
+            }
+        }]
+    level_tabs += [{
+        'title': level,
+        'content': {
+            'type': 'dock',
+            'content': {
+                'type': 'tabbed',
+                'tabs': side_tabs
+            }
+        }
+    }]
+layout = {
+    'rule_list': {
+        "type": "tabbed",
+        "tabs": level_tabs
+    }
+}
+
+with open('./layouts/rule_list.json','w') as f:
+    f.write(json.dumps(layout, indent=4))

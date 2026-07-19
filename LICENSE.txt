@@ -2,7 +2,7 @@ All items in the /images/icons/collectables/location_chests/originals/ directory
 
 A selection of items in the /images/ directory including but not limited to all map images, chapter graphics, and character graphics include assets from the Celeste game, used under EXOK Games's modding policies allowing for non-commercial content. This application has not been made nor endorsed by the Celeste development team.
 
-All items in the /scripts/logic/logic/ directory are derived in their entirety from the Celeste (Open World) Archipelago "AP World" Copyright (c) 2025 PoryGone. Used with permission.
+A selection of items in the /scripts/logic/ directory are derived from the Celeste (Open World) Archipelago "AP World" Copyright (c) 2025 PoryGone. Used with permission.
 
 
 Copyright (c) 2026 Zeeveez

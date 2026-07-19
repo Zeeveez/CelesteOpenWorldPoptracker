@@ -6,14 +6,12 @@
             "type": "dock",
             "content": [
                 {
-                    "type": "dock",
+                    "type": "container",
                     "background": "#212121",
-                    "content": [
-                        {
-                            "type": "layout",
-                            "key": "tabbed_maps"
-                        }
-                    ]
+                    "content": {
+                        "type": "layout",
+                        "key": "tabbed_maps"
+                    }
                 },
                 {
                     "type": "layout",

@@ -3,7 +3,12 @@ Tracker:AddLayouts("layouts/settings/settings_popup.json")
 Tracker:AddLayouts("layouts/settings/tracker_slot_data.json")
 Tracker:AddLayouts("layouts/settings/tracker_settings.json")
 
-Tracker:AddLayouts("layouts/tracker.json")
+if Tracker.ActiveVariantUID == 'map_tracker' then
+	Tracker:AddLayouts("layouts/tracker.json")
+elseif Tracker.ActiveVariantUID == 'map_tracker_with_logic' then
+	Tracker:AddLayouts("layouts/tracker_with_logic.json")
+	Tracker:AddLayouts("layouts/rule_list.json")
+end
 Tracker:AddLayouts("layouts/tracker_bar_left.json")
 Tracker:AddLayouts("layouts/tracker_bar_right.json")
 

@@ -28,7 +28,7 @@ for i in range(raw_data['chapterCount']):
         for k in range(len(side['checkpoints'])):
             checkpoint = side['checkpoints'][k]
             for room in checkpoint['roomOrder']:
-                rooms[f'{i}_{j}_{room}'] = [[chapter['name'], side['name'], checkpoint['name']]]
+                rooms[f'{i}_{j}_{room}'] = [[chapter['name'], side['name'], checkpoint['name'], room]]
 
 for row in original_map_sizes:
     if row['Chapter'] == 'maps': continue

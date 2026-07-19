@@ -6,8 +6,14 @@
     "package_uid": "celeste_poptracker",
     "author": "Zeeveez",
     "variants": {
-        "var_0": {
+        "map_tracker": {
             "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "map_tracker_with_logic": {
+            "display_name": "Map Tracker with Logic Directory",
             "flags": [
                 "ap"
             ]
