@@ -12,7 +12,8 @@
                 [
                     "auto_tab",
                     "auto_where_am_i",
-                    "where_am_i"
+                    "where_am_i",
+                    "enable_explain"
                 ]
             ]
         }

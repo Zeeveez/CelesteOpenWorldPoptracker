@@ -81,6 +81,7 @@ end
 Archipelago:AddItemHandler("item handler", onItem)
 
 function onLocation(location_id, location_name)
+    Tracker:FindObjectForCode('enable_explain').Active = false
     local location = LOCATION_MAPPING[location_id]
     if not location then
         print(string.format("onLocation: could not find mapping for id %s", item_id))

@@ -20,4 +20,4 @@ end
 require("scripts/logic/logic")
 
 -- TODO: Re-enable (remember to add settings popup item and default setting in visibility item)
---require("scripts/triggers/triggers")
+require("scripts/triggers/triggers")

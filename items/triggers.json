@@ -8,6 +8,13 @@
         "codes": "trigger_hint_assist"
     },
     {
+        "name": "Explain",
+        "type": "toggle",
+        "img": "images/icons/digits/question_mark.png",
+        "initial_active_state": false,
+        "codes": "enable_explain"
+    },
+    {
         "name": "Auto-Tabbing",
         "type": "toggle",
         "img": "images/icons/auto-tab.png",

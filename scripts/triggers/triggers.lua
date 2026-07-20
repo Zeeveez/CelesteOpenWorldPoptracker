@@ -1,3 +1,16 @@
+ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (section)
+    if not Tracker:FindObjectForCode('enable_explain').Active then return end
+    Tracker:FindObjectForCode('enable_explain').Active = false
+    if section.AvailableChestCount == 0 then
+        section.AvailableChestCount = 1
+    elseif section.AvailableChestCount == 1 then
+        section.AvailableChestCount = 0
+    end
+    
+    local location = string.sub(section.FullID, 1, #section.FullID - 1)
+    print("Explain: '"..location.."'")
+end)
+
 function HintAssist()
     local trigger_obj = Tracker:FindObjectForCode('trigger_hint_assist')
     if not trigger_obj.Active then return end
