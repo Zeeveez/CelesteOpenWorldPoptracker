@@ -70,7 +70,7 @@ ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (sectio
             local room_label = room:match('.* - (.*)')
             if room_label == nil then room_label = room end
             
-            if next_room_no == room_no then
+            if next_room_no == room_no or next_room_no == nil or room_no == nil then
                 local explain_obj = Tracker:FindObjectForCode('explain_'..explain_id)
                 local video_link = ''
                 if VIDEO_LINKS[room] and VIDEO_LINKS[room][next_room] then
