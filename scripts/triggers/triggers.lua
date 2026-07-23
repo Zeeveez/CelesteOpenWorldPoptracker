@@ -6,10 +6,16 @@ function ExplainReset()
     for i = 0,19 do 
         local explain_obj = Tracker:FindObjectForCode('explain_'..i)
         explain_obj.Icon = "images/icons/collectables/empty.png"
-        explain_obj.BadgeText = ""
+        explain_obj:SetOverlayAlign("left")
+        if i == 0 then
+            explain_obj.BadgeText = "         ".."No explanation loaded"
+        else
+            explain_obj.BadgeText = "         "..""
+        end
         active_links['explain_'..i] = nil
     end
 end
+ExplainReset()
 
 function ExplainLinkClick(code)
     local explain_obj = Tracker:FindObjectForCode(code)
@@ -32,18 +38,20 @@ ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (sectio
     elseif section.AvailableChestCount == 1 then
         section.AvailableChestCount = 0
     end
-
+    
+    ExplainReset()
     if section.AccessibilityLevel == 0 then 
-        print("Not logically accessible")
+        Tracker:FindObjectForCode('explain_0').BadgeText = "         ".."Location not logically accessible"
+        Tracker:UiHint("ActivateTab", "Explanation")
         return
     end
 
     if not previous_locations then
-        print("Location access cache not populated")
+        Tracker:FindObjectForCode('explain_0').BadgeText = "         ".."Location access cache not populated"
+        Tracker:UiHint("ActivateTab", "Explanation")
         return
     end
     
-    ExplainReset()
     local location = string.sub(section.FullID, 1, #section.FullID - 1)
     print("Explain: '"..location.."'")
 
@@ -81,10 +89,22 @@ ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (sectio
                         end
                     end
                 end
-                explain_obj:SetOverlayAlign("left")
                 explain_obj.BadgeText = "         "..room_label.." -> "..next_room_label
                 explain_id = explain_id - 1
             end
+        end
+    end
+    
+    if explain_id > 0 then
+        for i = (explain_id + 1),19 do
+            local new_explain_obj = Tracker:FindObjectForCode('explain_'..(i - explain_id - 1))
+            local old_explain_obj = Tracker:FindObjectForCode('explain_'..i)
+            new_explain_obj.Icon = old_explain_obj.Icon
+            new_explain_obj.BadgeText = old_explain_obj.BadgeText
+            old_explain_obj.Icon = "images/icons/collectables/empty.png"
+            old_explain_obj.BadgeText = ""
+            active_links['explain_'..(i - explain_id)] = active_links['explain_'..i]
+            active_links['explain_'..i] = nil
         end
     end
     
