@@ -9,6 +9,7 @@ elseif Tracker.ActiveVariantUID == 'map_tracker_with_logic' then
 	Tracker:AddLayouts("layouts/tracker_with_logic.json")
 	Tracker:AddLayouts("layouts/rule_list.json")
 end
+Tracker:AddLayouts("layouts/explanation.json")
 Tracker:AddLayouts("layouts/tracker_bar_left.json")
 Tracker:AddLayouts("layouts/tracker_bar_right.json")
 

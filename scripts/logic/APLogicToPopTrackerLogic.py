@@ -320,6 +320,7 @@ with open('./scripts/logic/apworld_connections.csv', newline='') as csvfile:
         for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
             add_connection(logic, from_region, to_region, [process_ruleset(None, rule, interactable_mode, None, level)])
 
+video_links = {}
 with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
@@ -346,10 +347,25 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
         if level_name.endswith(' A') or level_name.endswith(' B') or level_name.endswith(' C'):
             side_name = level_name[-1]
             level_name = level_name[:-2]
-        room_name = from_region.split(' Room ')[1].split('_')[0]
-        region_name = from_region.split(' Room ')[1].split('_')[1].split(' ')[0]
+        from_room_name = from_region.split(' Room ')[1].split('_')[0]
+        from_region_name = from_region.split(' Room ')[1].split('_')[1].split(' ')[0]
+        try:
+            to_region_name = to_region.split(' Room ')[1].split('_')[1].split(' ')[0]
+        except:
+            if to_region[-1] == '1' or to_region[-1] == '2':
+                to_region_name = ' '.join(to_region.split(' ')[-2:])
+            else:
+                to_region_name = to_region.split(' ')[-1]
+            
 
-        rules += [[level_name, side_name, room_name, region_name, "???", process_ruleset(None, rule, None, None, level_name)]]
+        rules += [[level_name, side_name, from_room_name, from_region_name, to_region_name, process_ruleset(None, rule, None, None, level_name)]]
+
+        if from_region not in video_links: video_links[from_region] = {}
+        if to_region not in video_links[from_region]: video_links[from_region][to_region] = []
+        if video_link:
+            for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
+                video_links[from_region][to_region] += [[int(row['difficulty']), list(process_ruleset(None, rule, interactable_mode, None, level)), video_link]]
+                video_links[from_region][to_region] = sorted(video_links[from_region][to_region], key=lambda x: x[0])
 
 with open('./scripts/logic/access_logic.lua','w') as f:
     f.write('LOCATION_ACCESS_LOGIC = {\n')
@@ -365,6 +381,23 @@ with open('./scripts/logic/access_logic.lua','w') as f:
         f.write(f'\t}},\n')
     f.write(f'}}')
 
+with open('./scripts/logic/video_links.lua','w') as f:
+    f.write('VIDEO_LINKS = {\n')
+    for src in video_links:
+        f.write(f'\t["{src}"] = {{\n')
+        for dst in video_links[src]:
+            f.write(f'\t\t["{dst}"] = {{\n')
+            for route in video_links[src][dst]:
+                f.write(f'\t\t\t{str(route)
+                .replace('[','{ ')
+                .replace(']',' }')
+                .replace('{ { \'', '{\n\t\t\t\t{ \'')
+                .replace('}, {', '},\n\t\t\t\t{')
+                .replace('\' } }', '\' }\n\t\t\t\t}')},\n')
+            f.write(f'\t\t}},\n')
+        f.write(f'\t}},\n')
+    f.write(f'}}')
+
 rules_tree = {}
 for rule in rules:
     if rule[0] not in rules_tree: rules_tree[rule[0]] = {}
@@ -372,6 +405,7 @@ for rule in rules:
     if rule[2] not in rules_tree[rule[0]][rule[1]]: rules_tree[rule[0]][rule[1]][rule[2]] = []
     rules_tree[rule[0]][rule[1]][rule[2]] += [rule]
 
+PAGE_SIZE = 8
 level_tabs = []
 for level in rules_tree:
     side_tabs = []
@@ -380,9 +414,9 @@ for level in rules_tree:
         for room in rules_tree[level][side]:
             rules = rules_tree[level][side][room]
             pages = []
-            for i in range((len(rules) - 1) // 10 + 1):
+            for i in range((len(rules) - 1) // PAGE_SIZE + 1):
                 page_rules = []
-                for rule in rules_tree[level][side][room][i * 10:(i + 1)*10]:
+                for rule in rules_tree[level][side][room][i * PAGE_SIZE:(i + 1)*PAGE_SIZE]:
                     page_rules += [{
                         "type": "group",
                         "background": "#00000000",

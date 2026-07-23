@@ -24,6 +24,17 @@
                                 }
                             },
                             {
+                                "title": "Explanation",
+                                "content": {
+                                    "type": "container",
+                                    "background": "#212121",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "explanation"
+                                    }
+                                }
+                            },
+                            {
                                 "title": "Logic Directory",
                                 "content": {
                                     "type": "container",

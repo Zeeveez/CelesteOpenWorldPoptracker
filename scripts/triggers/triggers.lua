@@ -1,3 +1,29 @@
+require("scripts/logic/video_links")
+
+active_links = {}
+
+function ExplainReset()
+    for i = 0,19 do 
+        local explain_obj = Tracker:FindObjectForCode('explain_'..i)
+        explain_obj.Icon = "images/icons/collectables/empty.png"
+        explain_obj.BadgeText = ""
+        active_links['explain_'..i] = nil
+    end
+end
+
+function ExplainLinkClick(code)
+    local explain_obj = Tracker:FindObjectForCode(code)
+    if not explain_obj.Active then return end
+    explain_obj.Active = false
+    explain_obj.Icon = "images/icons/video.png"
+    if active_links[code] then
+        Tracker:OpenLink(active_links[code], "")
+    end
+end
+for i = 0,19 do 
+    ScriptHost:AddWatchForCode('ExplainLinkClick_'..i, 'explain_'..i, ExplainLinkClick)
+end
+
 ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (section)
     if not Tracker:FindObjectForCode('enable_explain').Active then return end
     Tracker:FindObjectForCode('enable_explain').Active = false
@@ -6,9 +32,63 @@ ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (sectio
     elseif section.AvailableChestCount == 1 then
         section.AvailableChestCount = 0
     end
+
+    if section.AccessibilityLevel == 0 then 
+        print("Not logically accessible")
+        return
+    end
+
+    if not previous_locations then
+        print("Location access cache not populated")
+        return
+    end
     
+    ExplainReset()
     local location = string.sub(section.FullID, 1, #section.FullID - 1)
     print("Explain: '"..location.."'")
+
+    local next_room = nil
+    local room = location
+    local explain_id = 19
+    while room ~= nil and explain_id >= 0 do
+        next_room = room
+        room = previous_locations[room]
+        
+        if room then
+            local next_room_no = next_room:match('.* Room ([%d%a-]*).*')
+            local room_no = room:match('.* Room ([%d%a-]*).*')
+            local next_room_label = next_room:match('.* - (.*)')
+            if next_room_label == nil then next_room_label = next_room end
+            local room_label = room:match('.* - (.*)')
+            if room_label == nil then room_label = room end
+            
+            if next_room_no == room_no then
+                local explain_obj = Tracker:FindObjectForCode('explain_'..explain_id)
+                local video_link = ''
+                if VIDEO_LINKS[room] and VIDEO_LINKS[room][next_room] then
+                    for _, video_link in ipairs(VIDEO_LINKS[room][next_room]) do
+                        local good = true
+                        for _, item_code in ipairs(video_link[2]) do
+                            if Tracker:ProviderCountForCode(item_code) == 0 then
+                                good = false
+                                break
+                            end
+                        end
+                        if good then
+                            explain_obj.Icon = "images/icons/video.png"
+                            active_links['explain_'..explain_id] = video_link[3]
+                            break
+                        end
+                    end
+                end
+                explain_obj:SetOverlayAlign("left")
+                explain_obj.BadgeText = "         "..room_label.." -> "..next_room_label
+                explain_id = explain_id - 1
+            end
+        end
+    end
+    
+    Tracker:UiHint("ActivateTab", "Explanation")
 end)
 
 function HintAssist()

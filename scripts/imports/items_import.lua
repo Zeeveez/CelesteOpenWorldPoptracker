@@ -9,6 +9,7 @@ Tracker:AddItems("items/tracker_settings.json")
 Tracker:AddItems("items/triggers.json")
 Tracker:AddItems("items/recent_items.json")
 Tracker:AddItems("items/berry_farm.json")
+Tracker:AddItems("items/explain.json")
 
 if Tracker.ActiveVariantUID == 'map_tracker_with_logic' then
 	Tracker:AddItems("items/rule-icons.json")

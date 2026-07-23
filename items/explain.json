@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Explain 1",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_0"
+    },
+    {
+        "name": "Explain 2",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_1"
+    },
+    {
+        "name": "Explain 3",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_2"
+    },
+    {
+        "name": "Explain 4",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_3"
+    },
+    {
+        "name": "Explain 5",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_4"
+    },
+    {
+        "name": "Explain 6",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_5"
+    },
+    {
+        "name": "Explain 7",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_6"
+    },
+    {
+        "name": "Explain 8",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_7"
+    },
+    {
+        "name": "Explain 9",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_8"
+    },
+    {
+        "name": "Explain 10",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_9"
+    },
+    {
+        "name": "Explain 11",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_10"
+    },
+    {
+        "name": "Explain 12",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_11"
+    },
+    {
+        "name": "Explain 13",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_12"
+    },
+    {
+        "name": "Explain 14",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_13"
+    },
+    {
+        "name": "Explain 15",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_14"
+    },
+    {
+        "name": "Explain 16",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_15"
+    },
+    {
+        "name": "Explain 17",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_16"
+    },
+    {
+        "name": "Explain 18",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_17"
+    },
+    {
+        "name": "Explain 19",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_18"
+    },
+    {
+        "name": "Explain 20",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_19"
+    }
+]

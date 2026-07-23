@@ -3,6 +3,7 @@ require("scripts/logic/derived_items")
 
 reachable_location_cache_stale = true
 reachable_locations = {}
+previous_locations = {}
 reachable_items = {}
 
 function InvalidateReachableLocationCache(code)
@@ -21,10 +22,11 @@ function CanAccess(location_name)
             ["provider_counts"] = provider_counts
         }, function(res)
             reachable_locations = res[1]
-            reachable_items = res[2]
+            previous_locations = res[2]
+            reachable_items = res[3]
             
-            local in_logic = res[3]["in_logic"]
-            local out_of_logic = res[3]["out_of_logic"]
+            local in_logic = res[4]["in_logic"]
+            local out_of_logic = res[4]["out_of_logic"]
             print("in_logic:"..in_logic)
             print("out_of_logic:"..out_of_logic)
 

@@ -39,16 +39,19 @@ function GetReachable()
     local reachable_items = {}
     
     ::restart::
+    local previous_rooms = {}
     local queue = {}
     local backlog = {}
-    table.insert(queue, { "<levelselect>", 1 } )
+    table.insert(queue, { "<levelselect>", nil, 1 } )
     local seen_rooms = {}
     
     while #queue ~= 0 do
         local next = table.remove(queue)
         local current_location = next[1]
-        local current_accessibility = next[2]
+        local previous_location = next[2]
+        local current_accessibility = next[3]
         if seen_rooms[current_location] == 1 or (seen_rooms[current_location] == 5 and current_accessibility == 5) then goto continue end
+        previous_rooms[current_location] = previous_location
         seen_rooms[current_location] = current_accessibility
 
         -- Region has item
@@ -62,14 +65,14 @@ function GetReachable()
                 local list_of_possible_requirements = possible_room_requirements[2]
                 local accessibility = MeetsAnyRequirements(list_of_possible_requirements, reachable_items)
                 if accessibility ~= 0 then
-                    table.insert(queue, { destination, math.max(current_accessibility, accessibility) })
+                    table.insert(queue, { destination, current_location, math.max(current_accessibility, accessibility) })
                 end
             end
         end
         ::continue::
     end
 
-    return { seen_rooms, reachable_items }
+    return { seen_rooms, previous_rooms, reachable_items }
 end
 
 function MeetsRequirements(possible_requirements, reachable_items)
@@ -103,7 +106,8 @@ end
 
 local res = GetReachable()
 reachable_locations = res[1]
-reachable_items = res[2]
+previous_locations = res[2]
+reachable_items = res[3]
 
 local in_logic = 0
 local out_of_logic = 0
@@ -120,6 +124,7 @@ end
 
 return {
     reachable_locations,
+    previous_locations,
     reachable_items,
     {
         ["in_logic"] = in_logic,

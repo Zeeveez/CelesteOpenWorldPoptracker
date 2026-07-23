@@ -10,7 +10,7 @@
     {
         "name": "Explain",
         "type": "toggle",
-        "img": "images/icons/digits/question_mark.png",
+        "img": "images/icons/explain.png",
         "initial_active_state": false,
         "codes": "enable_explain"
     },
