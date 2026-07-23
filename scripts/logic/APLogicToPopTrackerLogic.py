@@ -357,15 +357,15 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
             else:
                 to_region_name = to_region.split(' ')[-1]
             
-
-        rules += [[level_name, side_name, from_room_name, from_region_name, to_region_name, process_ruleset(None, rule, None, None, level_name)]]
+        if int(row['difficulty']) > 2:
+            rules += [[level_name, side_name, from_room_name, from_region_name, to_region_name, process_ruleset(None, rule, None, None, level_name)]]
 
         if from_region not in video_links: video_links[from_region] = {}
         if to_region not in video_links[from_region]: video_links[from_region][to_region] = []
         if video_link:
             for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
                 video_links[from_region][to_region] += [[int(row['difficulty']), list(process_ruleset(None, rule, interactable_mode, None, level)), video_link]]
-                video_links[from_region][to_region] = sorted(video_links[from_region][to_region], key=lambda x: x[0])
+                video_links[from_region][to_region] = sorted(video_links[from_region][to_region], key=lambda x: f'{x[0]}{x[1]}')
 
 with open('./scripts/logic/access_logic.lua','w') as f:
     f.write('LOCATION_ACCESS_LOGIC = {\n')

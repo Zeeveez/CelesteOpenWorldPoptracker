@@ -21,8 +21,8 @@ function ExplainLinkClick(code)
     local explain_obj = Tracker:FindObjectForCode(code)
     if not explain_obj.Active then return end
     explain_obj.Active = false
-    explain_obj.Icon = "images/icons/video.png"
     if active_links[code] then
+        explain_obj.Icon = "images/icons/video.png"
         Tracker:OpenLink(active_links[code], "")
     end
 end
@@ -103,7 +103,7 @@ ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (sectio
             new_explain_obj.BadgeText = old_explain_obj.BadgeText
             old_explain_obj.Icon = "images/icons/collectables/empty.png"
             old_explain_obj.BadgeText = ""
-            active_links['explain_'..(i - explain_id)] = active_links['explain_'..i]
+            active_links['explain_'..(i - explain_id - 1)] = active_links['explain_'..i]
             active_links['explain_'..i] = nil
         end
     end
