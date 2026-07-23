@@ -339,8 +339,9 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
 
         rule = [difficulty] + (items.split(',') if len(items) else [])
         level = from_region.split(' - ')[0]
-        for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
-            add_connection(logic, from_region, to_region, [process_ruleset(None, rule, interactable_mode, None, level)])
+        if int(row['difficulty']) > 2:
+            for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
+                add_connection(logic, from_region, to_region, [process_ruleset(None, rule, interactable_mode, None, level)])
 
         level_name = from_region.split(' - ')[0]
         side_name = 'A'
