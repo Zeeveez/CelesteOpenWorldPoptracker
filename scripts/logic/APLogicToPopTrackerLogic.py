@@ -15,36 +15,80 @@ ALL_ITEMS = [
     "double_dash_refills", "pufferfish", "jellyfish", "bird", "breaker_boxes"
 ]
 
+from functools import cmp_to_key
+def rule_cmp(a, b):
+    # Assumes only one logic difficulty present, sort that first
+    if a.startswith('logic_difficulty_'):
+        return -1
+    if b.startswith('logic_difficulty_'):
+        return 1
+    if a.startswith('custom_'):
+        return -1
+    if b.startswith('custom_'):
+        return 1
+
+    # Interactable type second
+    if a.startswith('split_interactables_'):
+        return -1
+    if b.startswith('split_interactables_'):
+        return 1
+
+    if a == b: return 0
+    if a < b: return -1
+    return 1
+rule_sort_key = cmp_to_key(rule_cmp)
+
+from json import dumps
+def rule_set_cmp(a, b):
+    if dumps(a) == dumps(b): return 0
+    if dumps(a) < dumps(b): return -1
+    return 1
+rule_set_sort_key = cmp_to_key(rule_set_cmp)
+
+def sort_logic(logic):
+    for from_region in logic:
+        for to_region in logic[from_region]:
+            logic[from_region][to_region].sort(key=rule_set_sort_key)
+
+def add_expanded_dash(rule, rule_part):
+    if rule_part.startswith('any_dash'): 
+        rule += ['any_dash_' + '_'.join(sorted(rule_part.split('_')[2:]))]
+        return True
+    return False
+
+def add_item(rule, rule_part, level_name, interactable_mode):
+    level_prefix = 'Farewell' if level_name == 'Farewell' else level_name[:-1]
+    side_prefix = 'A' if level_name == 'Farewell' else level_name[-1]
+
+    if rule_part in ALL_ITEMS:
+        if interactable_mode == 'none' or interactable_mode == None: rule += [rule_part]
+        elif interactable_mode == 'per_level': rule += [f'{level_prefix} - {rule_part}'.lower().replace(' ', '')]
+        elif interactable_mode == 'per_side': rule += [f'{side_prefix} - {rule_part}'.lower().replace(' ', '')]
+        elif interactable_mode == 'per_level_and_side': rule += [f'{level_name} - {rule_part}'.lower().replace(' ', '')]
+        return True
+    return False
+
+def add_checkpoint(rule, rule_part, level_name):
+    if rule_part[0].isupper() or rule_part[0].isdigit():
+        rule += [f'{level_name} - {rule_part}'.lower().replace(' ', '')]
+        return True
+    return False
+
+def add_rule_part(rule, rule_part, level_name, interactable_mode):
+    if add_expanded_dash(rule, rule_part): return
+    if add_item(rule, rule_part, level_name, interactable_mode): return
+    if add_checkpoint(rule, rule_part, level_name): return
+    rule += [rule_part]
+
 def process_ruleset(level, rule, interactable_mode = None, rule_modifier = ['logic_difficulty_developer'], raw_level_name = None):
     level_name = raw_level_name or level.display_name
     rule_out = []
-    for rule_part in rule:
-        if rule_part.startswith('any_dash'):
-            rule_out += ['any_dash_' + '_'.join(sorted(rule_part.split('_')[2:]))]
-        elif rule_part in ALL_ITEMS:
-            if interactable_mode == 'none' or interactable_mode == None:
-                rule_out += [rule_part]
-            elif interactable_mode == 'per_level':
-                if level_name == 'Farewell':
-                    rule_out += [f'Farewell - {rule_part}'.lower().replace(' ', '')]
-                else:
-                    rule_out += [f'{level_name[:-1]} - {rule_part}'.lower().replace(' ', '')]
-            elif interactable_mode == 'per_side':
-                if level_name == 'Farewell':
-                    rule_out += [f'A - {rule_part}'.lower().replace(' ', '')]
-                else:
-                    rule_out += [f'{level_name[-1]} - {rule_part}'.lower().replace(' ', '')]
-            elif interactable_mode == 'per_level_and_side':
-                rule_out += [f'{level_name} - {rule_part}'.lower().replace(' ', '')]
-        elif rule_part[0].isupper() or rule_part[0].isdigit():
-            rule_out += [f'{level_name} - {rule_part}'.lower().replace(' ', '')]
-        else:
-            rule_out += [rule_part]
-    if interactable_mode:
-        rule_out = [f'split_interactables_{interactable_mode}'] + sorted(list(set(rule_out)))
-    if rule_modifier != None:
-        rule_out = rule_modifier + rule_out
+    for rule_part in rule: add_rule_part(rule_out, rule_part, level_name, interactable_mode)
+    if interactable_mode: rule_out = [f'split_interactables_{interactable_mode}'] + sorted(list(set(rule_out)))
+    if rule_modifier != None: rule_out = rule_modifier + rule_out
+    rule_out.sort(key=rule_sort_key)
     return rule_out      
+
 
 class Door:
     def __init__(self, json):
@@ -367,6 +411,8 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
             for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
                 video_links[from_region][to_region] += [[int(row['difficulty']), list(process_ruleset(None, rule, interactable_mode, None, level)), video_link]]
                 video_links[from_region][to_region] = sorted(video_links[from_region][to_region], key=lambda x: f'{x[0]}{x[1]}')
+
+sort_logic(logic)
 
 with open('./scripts/logic/access_logic.lua','w') as f:
     f.write('LOCATION_ACCESS_LOGIC = {\n')
