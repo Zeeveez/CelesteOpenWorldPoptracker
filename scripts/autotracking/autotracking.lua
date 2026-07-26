@@ -21,7 +21,7 @@ function onClear(slot_data)
     
     local keys = {}
     RegisterOnHintNotify(keys)
-    RegisterOnStatusNotify(keys)
+    RegisterOnStatusNotify(keys, "@Epilogue - Level Clear/")
     RegisterOnRoomNotify(keys)
     Archipelago:SetNotify(keys)
     Archipelago:Get(keys)
@@ -92,4 +92,3 @@ end
 Archipelago:AddLocationHandler("location handler", onLocation)
 
 require("scripts/autotracking/autotabbing/autotabbing")
-require("scripts/autotracking/autostatus/autostatus")

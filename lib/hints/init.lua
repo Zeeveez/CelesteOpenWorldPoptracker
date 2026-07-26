@@ -21,6 +21,11 @@
 if Highlight then
     -- https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/network%20protocol.md#hintstatus
     HIGHLIGHT_LEVEL = {
+        -- Yellow - Priority
+        -- Red - Avoid
+        -- Blue - No Priority
+        -- Grey - Unspecified        
+        
         -- Status Based
         [0] = Highlight.Unspecified,
         [10] = Highlight.NoPriority,

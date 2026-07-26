@@ -1,5 +1,6 @@
-require("lib/recent_items/init")
+require("lib/autostatus/init")
 require("lib/hints/init")
+require("lib/recent_items/init")
 require("lib/slot_data/init")
 
 
