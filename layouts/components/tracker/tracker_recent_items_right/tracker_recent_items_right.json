@@ -1,6 +1,6 @@
 {
     "tracker_recent_items_right": {
         "type": "layout",
-        "key": "tracker_recent_items"
+        "key": "recent_items"
     }
 }

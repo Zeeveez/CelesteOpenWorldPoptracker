@@ -7,7 +7,6 @@ Tracker:AddItems("items/keys_gems.json")
 Tracker:AddItems("items/slot_data.json")
 Tracker:AddItems("items/tracker_settings.json")
 Tracker:AddItems("items/triggers.json")
-Tracker:AddItems("items/recent_items.json")
 Tracker:AddItems("items/berry_farm.json")
 Tracker:AddItems("items/explain.json")
 

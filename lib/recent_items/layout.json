@@ -1,5 +1,5 @@
 {
-    "tracker_recent_items": {
+    "recent_items": {
         "type": "group",
         "background": "#00000000",
         "header": "Recent Items (Most Recent at Top)",
@@ -9,12 +9,12 @@
             "item_margin": "2,2",
             "item_size": "3,3",
             "rows": [
-                [ "recent-item-0" ],
                 [ "recent-item-1" ],
                 [ "recent-item-2" ],
                 [ "recent-item-3" ],
                 [ "recent-item-4" ],
-                [ "recent-item-5" ]
+                [ "recent-item-5" ],
+                [ "recent-item-6" ]
             ]
         }
     }

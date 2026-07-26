@@ -1,3 +1,5 @@
+require("lib/recent_items/init")
+
 
 -- Items
 require("scripts/imports/items_import")

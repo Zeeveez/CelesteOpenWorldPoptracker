@@ -15,7 +15,6 @@ Tracker:AddLayouts("layouts/tracker_bar_right.json")
 
 Tracker:AddLayouts("layouts/components/tracker/_tracker_keys_gems/tracker_keys_gems.json")
 Tracker:AddLayouts("layouts/components/tracker/_tracker_checkpoints/tracker_checkpoints.json")
-Tracker:AddLayouts("layouts/components/tracker/_tracker_recent_items/tracker_recent_items.json")
 
 Tracker:AddLayouts("layouts/components/maps/berry_journal/berry_journal.json")
 

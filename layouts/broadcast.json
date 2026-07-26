@@ -7,7 +7,7 @@
             "content": [
                 {
                     "type": "layout",
-                    "key": "tracker_recent_items",
+                    "key": "recent_items",
                     "dock": "top"
                 },
                 {
