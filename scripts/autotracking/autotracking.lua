@@ -2,7 +2,7 @@
 require("scripts/autotracking/utils")
 require("scripts/autotracking/ap_mapping/item_mapping")
 require("scripts/autotracking/ap_mapping/location_mapping")
-require("scripts/autotracking/slot_data_fill/slot_data_fill")
+require("scripts/autotracking/ap_mapping/slot_data_mapping")
 
 BERRY_COUNT = 0
 CUR_INDEX = -1

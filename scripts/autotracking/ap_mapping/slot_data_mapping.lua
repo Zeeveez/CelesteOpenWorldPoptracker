@@ -53,3 +53,10 @@ SLOT_DATA_MAPPING = {
 
 	['death_link_amnesty'] = { { 'death_link_amnesty' }, { 'death_link' } }
 }
+
+SLOT_DATA_BADGES = {
+	-- ['item name'] = { { 'slot', 'data', 'path' } }
+	['trap_expiration_action'] = { { 'trap_expiration_amount' } },
+	['death_link_amnesty'] = { { 'death_link_amnesty' } },
+	['include_goldens'] = { { 'golden_amnesty' } },
+}

@@ -1,6 +1,5 @@
-require("scripts/autotracking/slot_data_fill/slot_data_mapping")
-
 function FillSlotData(slot_data)
+    if not SLOT_DATA_MAPPING then return end
     for item, slot_data_settings in pairs(SLOT_DATA_MAPPING) do
         local item_obj = Tracker:FindObjectForCode(item)
         if item_obj then
@@ -30,21 +29,18 @@ function FillSlotData(slot_data)
                 end
             end
         end
-        ::continue::
     end
-    ApplyBadgeTextData(slot_data)
-end
-
-function ApplyBadgeTextData(slot_data)
-    if slot_data["trap_expiration_amount"] ~= nil then
-        Tracker:FindObjectForCode("trap_expiration_action").BadgeText = slot_data["trap_expiration_amount"]
-    else
-        Tracker:FindObjectForCode("trap_expiration_action").BadgeText = ""
-    end
-    if slot_data["death_link_amnesty"] ~= nil then
-        Tracker:FindObjectForCode("include_goldens").BadgeText = slot_data["death_link_amnesty"]
-    else
-        Tracker:FindObjectForCode("include_goldens").BadgeText = ""
+    
+    if not SLOT_DATA_BADGES then return end
+    for item, slot_data_settings in pairs(SLOT_DATA_BADGES) do
+        local item_obj = Tracker:FindObjectForCode(item)
+        if item_obj then
+            local slot_value = GetSlotDataValue(slot_data, slot_data_settings[1])
+            if slot_value == nil then
+                slot_value = ''
+            end
+            item_obj.BadgeText = slot_value
+        end
     end
 end
 

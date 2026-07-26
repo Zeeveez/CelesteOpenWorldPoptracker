@@ -1,5 +1,6 @@
 require("lib/recent_items/init")
 require("lib/hints/init")
+require("lib/slot_data/init")
 
 
 -- Items

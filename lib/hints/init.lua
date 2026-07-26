@@ -48,15 +48,15 @@ if Highlight then
     end
 
     function ProcessHint(hint)
-        if not LOCATION_MAPPING then return end
         if hint.finding_player ~= Archipelago.PlayerNumber then return end
-
+        
+        if not LOCATION_MAPPING then return end
         local location = LOCATION_MAPPING[hint.location]
         if not location then return end
     
         local location_obj = Tracker:FindObjectForCode(location)
         if not location_obj then
-            print(string.format("No object found for code: %s", location))
+            print(string.format("ProcessHint: No location found for code: %s", location))
             return
         end
 
