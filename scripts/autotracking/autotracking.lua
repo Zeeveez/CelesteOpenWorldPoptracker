@@ -93,4 +93,3 @@ Archipelago:AddLocationHandler("location handler", onLocation)
 
 require("scripts/autotracking/autotabbing/autotabbing")
 require("scripts/autotracking/autostatus/autostatus")
-require("scripts/autotracking/hints/hints")

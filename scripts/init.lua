@@ -1,4 +1,5 @@
 require("lib/recent_items/init")
+require("lib/hints/init")
 
 
 -- Items
