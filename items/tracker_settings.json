@@ -516,5 +516,53 @@
         "img": "images/icons/items/tracker_settings/hint_assist.png",
         "initial_active_state": false,
         "codes": "show_tracker_triggers"
+    },
+
+    {
+        "name": "Tracker Slot ID",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/digits/0.png",
+                "codes": "tracker_slot_id"
+            },
+            {
+                "img": "images/icons/digits/1.png",
+                "codes": "tracker_slot_id"
+            },
+            {
+                "img": "images/icons/digits/2.png",
+                "codes": "tracker_slot_id"
+            },
+            {
+                "img": "images/icons/digits/3.png",
+                "codes": "tracker_slot_id"
+            },
+            {
+                "img": "images/icons/digits/4.png",
+                "codes": "tracker_slot_id"
+            },
+            {
+                "img": "images/icons/digits/5.png",
+                "codes": "tracker_slot_id"
+            },
+            {
+                "img": "images/icons/digits/6.png",
+                "codes": "tracker_slot_id"
+            },
+            {
+                "img": "images/icons/digits/7.png",
+                "codes": "tracker_slot_id"
+            },
+            {
+                "img": "images/icons/digits/8.png",
+                "codes": "tracker_slot_id"
+            },
+            {
+                "img": "images/icons/digits/9.png",
+                "codes": "tracker_slot_id"
+            }
+        ]
     }
 ]
