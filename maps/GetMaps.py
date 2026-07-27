@@ -14,6 +14,13 @@ for i in range(raw_data['chapterCount']):
     chapter_room_maps = []
     for j in range(len(chapter['sides'])):
         side = chapter['sides'][j]
+        # if i in { 1, 2, 3, 4, 5, 6, 7, 9 }:
+        #     chapter_maps.append({
+        #         'name': f'{i}_{side['id']}',
+        #         'location_size': 25,
+        #         'location_border_thickness': 2,
+        #         'img': f'images/maps/{i}/{i}_{side['id']}.jpg'
+        #     })
         for k in range(len(side['checkpoints'])):
             chapter_maps.append({
                 'name': f'{i}_{side['id']}_{k}',

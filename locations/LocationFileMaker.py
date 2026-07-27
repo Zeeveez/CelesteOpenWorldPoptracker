@@ -15,6 +15,73 @@ def write_file(data, path):
     with open(path, 'w') as f:
         f.write(json.dumps(data, indent=4))
 
+def get_item_size(item_type):
+    return {
+        'golden': 15,
+        'winged_golden': 15,
+        'checkpoint': 15,
+        'clear': 15,
+        'cassette': 15,
+        'heart': 15
+    }.get(item_type, 10)
+
+def add_item_shape_to_map_location(map_location, item_type):
+    shape = {
+        'checkpoint': 'diamond',
+        'room': 'diamond',
+        'key': 'trapezoid',
+        'gem': 'trapezoid',
+        'car': 'trapezoid',
+        'bino': 'trapezoid'
+    }.get(item_type, 'rect')
+
+    if shape != 'rect':
+        map_location['shape'] = shape
+
+def add_chest_images_to_location(location, item_type):
+    location['chest_unopened_img'] = f'images/icons/collectables/location_chests/{item_type}_unopened.png'
+    location['chest_opened_img'] = f'images/icons/collectables/location_chests/{item_type}_opened.png'
+
+def add_section_to_location(location, row):
+    access_rule = f'^$CanAccess|{row['Name']}'
+    if row['Chapter'] in ('7','9'):
+        access_rule = f'$HasChapterAccess|{row['Chapter']}{row['Side']},{access_rule}'
+    elif row['Chapter'] == '8':
+        access_rule = f'$HaveStrawberries,grannys_house_keys,{access_rule}'
+    elif row['Chapter'] == '10':
+        access_rule = f'$HasFarewellAccess,{access_rule}'
+    location['sections'] = [ { 'access_rules': [ access_rule ] } ]
+
+def get_sanity_visibility_rules(row):
+    if row['Type'] == 'room': return ['roomsanity']
+    if row['Type'] == 'car': return ['carsanity']
+    if row['Type'] == 'bino': return ['binosanity']
+    if row['Type'] == 'winged_golden': return ['include_goldens']
+    if row['Type'] == 'golden' and row['Chapter'] != '10': return ['include_goldens']
+    return []
+
+def get_access_visibility_rules(row):
+    if row['Chapter'] == '7' and row['Side'] == 'b': return ['include_b_sides', 'goal_area_the_summit_b_side']
+    elif row['Chapter'] == '7' and row['Side'] == 'c': return ['include_c_sides', 'goal_area_the_summit_c_side']
+    elif row['Chapter'] == '9' and row['Side'] == 'a': return ['include_core', 'goal_area_core_a_side']
+    elif row['Chapter'] == '9' and row['Side'] == 'b': return ['include_core,include_b_sides', 'goal_area_core_b_side']
+    elif row['Chapter'] == '9' and row['Side'] == 'c': return ['include_core,include_c_sides', 'goal_area_core_c_side']
+    elif row['Chapter'] == '10' and (row['Room'] == 'end-golden' or row['Type'] == 'golden'): return ['goal_area_farewell_golden']
+    elif row['Chapter'] == '10' and int(row['Checkpoint']) < 4: return ['include_empty_space', 'goal_area_empty_space', 'include_farewell', 'goal_area_farewell', 'goal_area_farewell_golden']
+    elif row['Chapter'] == '10' and row['Room'] != 'end-golden' and row['Type'] != 'golden': 
+        return ['include_farewell', 'goal_area_farewell', 'goal_area_farewell_golden']
+    elif row['Side'] == 'b': return ['include_b_sides']
+    elif row['Side'] == 'c': return ['include_c_sides']
+    return []
+
+def add_visibility_rules_to_location(location, row):
+    sanity_visibility_rules = get_sanity_visibility_rules(row)
+    visibility_rules = [','.join([rule] + sanity_visibility_rules) for rule in get_access_visibility_rules(row)]
+    if len(sanity_visibility_rules) and not len(visibility_rules):
+        visibility_rules = sanity_visibility_rules
+    if len(visibility_rules):
+        location['visibility_rules'] = visibility_rules
+
 TYPE_SETS = (
     ('berries',('berry','golden','winged_golden','moon_berry','seeded_berry','winged_berry')),
     ('checkpoints',('checkpoint')),
@@ -29,31 +96,6 @@ MAP_MARKER_ZOOM_THRESHOLD = 1500
 SUMMARY_CHAPTER_OFFSET = 135
 SUMMARY_CHECKPOINT_SIZE = 10
 SUMMARY_CHECKPOINT_GAP = 15
-SPECIFIC_SUMMARY_SIZES = {
-    'berry': 10,
-    'winged_berry': 10,
-    'seeded_berry': 10,
-    'moon_berry': 10,
-    'golden': 15,
-    'winged_golden': 15,
-    'checkpoint': 15,
-    'room': 10,
-    'clear': 15,
-    'cassette': 15,
-    'heart': 15,
-    'key': 10,
-    'gem': 10,
-    'car': 10,
-    'bino': 10
-}
-SHAPE_OVERRIDES = {
-    'checkpoint': 'diamond',
-    'room': 'diamond',
-    'key': 'trapezoid',
-    'gem': 'trapezoid',
-    'car': 'trapezoid',
-    'bino': 'trapezoid'
-}
 SPECIFIC_SUMMARY_GAP = 15
 SPECIFIC_SUMMARY_CHECKPOINT_GAP = SPECIFIC_SUMMARY_GAP + 15
 SPECIFIC_SUMMARY_CHAPTER_GAP = 50
@@ -224,117 +266,64 @@ def make_location_obj(row):
         room_x = int(room['x'])
         room_y = int(room['y'])
 
-    obj = {
-        'name': row['Name'],
-        'sections': [
-            {
-                'access_rules': [
-                    f'^$CanAccess|{row['Name']}'
-                ]
-            }
-        ],
-        'chest_unopened_img': f'images/icons/collectables/location_chests/{row['Type']}_unopened.png',
-        'chest_opened_img': f'images/icons/collectables/location_chests/{row['Type']}_opened.png',
-    }
+    location = { 'name': row['Name'] }
+    add_section_to_location(location, row)
+    add_chest_images_to_location(location, row['Type'])
+    add_visibility_rules_to_location(location, row)
 
-    if row['Chapter'] in ('7','9'):
-        obj['sections'][0]['access_rules'][0] = f'$HasChapterAccess|{row['Chapter']}{row['Side']},{obj['sections'][0]['access_rules'][0]}'
-    elif row['Chapter'] == '8':
-        obj['sections'][0]['access_rules'][0] = f'$HaveStrawberries,grannys_house_keys,{obj['sections'][0]['access_rules'][0]}'
-    elif row['Chapter'] == '10':
-        obj['sections'][0]['access_rules'][0] = f'$HasFarewellAccess,{obj['sections'][0]['access_rules'][0]}'
-
-    base_visibility_rules = []
-    if row['Type'] == 'room':
-        base_visibility_rules += ['roomsanity']
-    if (row['Type'] == 'golden' or row['Type'] == 'winged_golden') and row['Chapter'] != '10':
-        base_visibility_rules += ['include_goldens']
-    if row['Type'] == 'car':
-        base_visibility_rules += ['carsanity']
-    if row['Type'] == 'bino':
-        base_visibility_rules += ['binosanity']
-
-    visibility_rules = []
-
-    if row['Chapter'] == '7' and row['Side'] == 'b':
-        visibility_rules += [['include_b_sides'] + base_visibility_rules]
-        visibility_rules += [['goal_area_the_summit_b_side'] + base_visibility_rules]
-    elif row['Chapter'] == '7' and row['Side'] == 'c':
-        visibility_rules += [['include_c_sides'] + base_visibility_rules]
-        visibility_rules += [['goal_area_the_summit_c_side'] + base_visibility_rules]
-
-    elif row['Chapter'] == '9' and row['Side'] == 'a':
-        visibility_rules += [['include_core'] + base_visibility_rules]
-        visibility_rules += [['goal_area_core_a_side'] + base_visibility_rules]
-    elif row['Chapter'] == '9' and row['Side'] == 'b':
-        visibility_rules += [['include_core,include_b_sides'] + base_visibility_rules]
-        visibility_rules += [['goal_area_core_b_side'] + base_visibility_rules]
-    elif row['Chapter'] == '9' and row['Side'] == 'c':
-        visibility_rules += [['include_core,include_c_sides'] + base_visibility_rules]
-        visibility_rules += [['goal_area_core_c_side'] + base_visibility_rules]
-
-    elif row['Chapter'] == '10' and (row['Room'] == 'end-golden' or row['Type'] == 'golden'):
-        visibility_rules += [['goal_area_farewell_golden'] + base_visibility_rules]
-    elif row['Chapter'] == '10' and int(row['Checkpoint']) < 4:
-        visibility_rules += [['include_empty_space'] + base_visibility_rules]
-        visibility_rules += [['goal_area_empty_space'] + base_visibility_rules]
-        visibility_rules += [['include_farewell'] + base_visibility_rules]
-        visibility_rules += [['goal_area_farewell'] + base_visibility_rules]
-        visibility_rules += [['goal_area_farewell_golden'] + base_visibility_rules]
-    elif row['Chapter'] == '10' and row['Room'] != 'end-golden' and row['Type'] != 'golden':
-        visibility_rules += [['include_farewell'] + base_visibility_rules]
-        visibility_rules += [['goal_area_farewell'] + base_visibility_rules]
-        visibility_rules += [['goal_area_farewell_golden'] + base_visibility_rules]
-
-    elif row['Side'] == 'b':
-        visibility_rules += [['include_b_sides'] + base_visibility_rules]
-    elif row['Side'] == 'c':
-        visibility_rules += [['include_c_sides'] + base_visibility_rules]
-
-    elif len(base_visibility_rules):
-        visibility_rules += [base_visibility_rules]
-
-    if len(visibility_rules):
-        obj['visibility_rules'] = list(map(lambda vis_rule: ','.join(vis_rule), visibility_rules))
+    level_map = f'{row['Chapter']}_{row['Side']}'
+    if level_map in MAP_SIZES:
+        level_map_size = MAP_SIZES[level_map]
+        largest_level_map_dim = max(map(int, [level_map_size["Width"], level_map_size["Height"]]))
+        level_map_scale_factor = 1 if largest_level_map_dim < MAX_MAP_DIMENSION else MAX_MAP_DIMENSION / largest_level_map_dim
+        largest_level_map_dim_post_scale = largest_level_map_dim * level_map_scale_factor
+        level_map_zoom_factor = 1 if largest_level_map_dim_post_scale < MAP_MARKER_ZOOM_THRESHOLD else largest_level_map_dim_post_scale / MAP_MARKER_ZOOM_THRESHOLD
 
     checkpoint_map = f'{row['Chapter']}_{row['Side']}_{row['Checkpoint']}'
     checkpoint_map_size = MAP_SIZES[checkpoint_map]
     largest_checkpoint_map_dim = max(map(int, [checkpoint_map_size["Width"], checkpoint_map_size["Height"]]))
     checkpoint_map_scale_factor = 1 if largest_checkpoint_map_dim < MAX_MAP_DIMENSION else MAX_MAP_DIMENSION / largest_checkpoint_map_dim
     largest_checkpoint_map_dim_post_scale = largest_checkpoint_map_dim * checkpoint_map_scale_factor
+    checkpoint_map_zoom_factor = 1 if largest_checkpoint_map_dim_post_scale < MAP_MARKER_ZOOM_THRESHOLD else largest_checkpoint_map_dim_post_scale / MAP_MARKER_ZOOM_THRESHOLD
+
     room_map = f'{row['Chapter']}_{row['Side']}_{row['Checkpoint']}_{row['Room']}'
     room_map_size = MAP_SIZES[room_map]
     largest_room_map_dim = max(map(int, [room_map_size["Width"], room_map_size["Height"]]))
     room_map_scale_factor = 1 if largest_room_map_dim < MAX_MAP_DIMENSION else MAX_MAP_DIMENSION / largest_room_map_dim
     largest_room_map_dim_post_scale = largest_room_map_dim * room_map_scale_factor
-
-    checkpoint_map_zoom_factor = 1 if largest_checkpoint_map_dim_post_scale < MAP_MARKER_ZOOM_THRESHOLD else largest_checkpoint_map_dim_post_scale / MAP_MARKER_ZOOM_THRESHOLD
     room_map_zoom_factor = 1 if largest_room_map_dim_post_scale < MAP_MARKER_ZOOM_THRESHOLD else largest_room_map_dim_post_scale / MAP_MARKER_ZOOM_THRESHOLD
+
 
     marker_size = 20 if row['Type'] == 'room' else 25
     marker_offset = marker_size / 2 if row['Type'] == 'room' else 0
     checkpoint_room_marker_offset = marker_offset * checkpoint_map_zoom_factor
     room_room_marker_offset = marker_offset * room_map_zoom_factor
-    obj['map_locations'] = [
-        {
-            'map': checkpoint_map,
-            'x': int((int(row['x']) + checkpoint_room_marker_offset + room_x) * checkpoint_map_scale_factor),
-            'y': int((int(row['y']) + checkpoint_room_marker_offset + room_y) * checkpoint_map_scale_factor),
-            'size': int(marker_size * checkpoint_map_zoom_factor)
-        },
+    location['map_locations'] = [{
+        'map': checkpoint_map,
+        'x': int((int(row['x']) + checkpoint_room_marker_offset + room_x) * checkpoint_map_scale_factor),
+        'y': int((int(row['y']) + checkpoint_room_marker_offset + room_y) * checkpoint_map_scale_factor),
+        'size': int(marker_size * checkpoint_map_zoom_factor)
+    }]
+
+    if level_map in MAP_SIZES:
+        level_room_marker_offset = marker_offset * level_map_zoom_factor
+        # location['map_locations'] += [{
+        #     'map': level_map,
+        #     'x': int((int(row['x']) + level_room_marker_offset + room_x + checkpoint_x) * level_map_scale_factor),
+        #     'y': int((int(row['y']) + level_room_marker_offset + room_y + checkpoint_y) * level_map_scale_factor),
+        #     'size': int(marker_size * level_map_zoom_factor)
+        # }]
         # {
         #     'map': room_map,
         #     'x': int((int(row['x']) + room_room_marker_offset) * room_map_scale_factor),
         #     'y': int((int(row['y']) + room_room_marker_offset) * room_map_scale_factor),
         #     'size': int(marker_size * room_map_zoom_factor)
         # }
-    ]
 
-    for i in range(len(obj['map_locations'])):
-        if row['Type'] in SHAPE_OVERRIDES:
-            obj['map_locations'][i]['shape'] = SHAPE_OVERRIDES[row['Type']]
+    for i in range(len(location['map_locations'])):
+        add_item_shape_to_map_location(location['map_locations'][i], row['Type'])
 
-    return obj
+    return location
 
 def make_true_locations(data, _chapter, _side, _types):
     out = []
@@ -476,15 +465,14 @@ def make_specific_summary_obj(data, item_types, map_name, side_groups, specific_
                             'map': map_name,
                             'x': x,
                             'y': y,
-                            'size': SPECIFIC_SUMMARY_SIZES[item['Type']],
+                            'size': get_item_size(item['Type']),
                         }],
                         'sections': [{
                             'name': item['Name'],
                             'ref': f'{item['Name']}/'
                         }]
                     }]
-                    if item['Type'] in SHAPE_OVERRIDES:
-                        res[-1]['map_locations'][0]['shape'] = SHAPE_OVERRIDES[item['Type']]
+                    add_item_shape_to_map_location(res[-1]['map_locations'][0], item['Type'])
 
             checkpoint_x = max(max_xs) + SPECIFIC_SUMMARY_CHECKPOINT_GAP
         chapter_y += SPECIFIC_SUMMARY_CHAPTER_GAP
