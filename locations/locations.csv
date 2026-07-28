@@ -656,10 +656,10 @@ Chapter,Side,Checkpoint,Room,Name,Type,x,y
 5,a,1,b-05,Mirror Temple A - Room b-05 Strawberry,berry,288,96
 5,a,1,b-10,Mirror Temple A - Room b-10 Strawberry,berry,40,80
 5,a,1,b-12,Mirror Temple A - Room b-12 Strawberry,berry,160,120
-5,a,1,b-17,Mirror Temple A - Room b-17 Strawberry 2,berry,272,216
+5,a,1,b-17,Mirror Temple A - Room b-17 Strawberry 2,seeded_berry,272,216
 5,a,1,b-17,Mirror Temple A - Room b-17 Strawberry 1,berry,152,40
 5,a,2,c-08,Mirror Temple A - Room c-08 Strawberry,berry,336,128
-5,a,3,d-04,Mirror Temple A - Room d-04 Strawberry 2,seeded_berry,392,216
+5,a,3,d-04,Mirror Temple A - Room d-04 Strawberry 2,berry,392,216
 5,a,3,d-04,Mirror Temple A - Room d-04 Strawberry 1,berry,368,32
 5,a,3,d-15,Mirror Temple A - Room d-15 Strawberry 2,berry,400,328
 5,a,3,d-15,Mirror Temple A - Room d-15 Strawberry 1,berry,56,352
