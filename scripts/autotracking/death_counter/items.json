@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Deaths",
+		"type": "static",
+		"img": "images/icons/death_trap_link/death.png",
+		"codes": "death_counter",
+		"overlay_font_size": 16
+	}
+]

@@ -5,10 +5,24 @@
             {
                 "title": "Summary",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "summary"
-                    ]
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "itemgrid",
+                            "dock": "top",
+                            "item_margin": "2,2",
+                            "item_size": "3,3",
+                            "rows": [
+                                [ "death_counter" ]
+                            ]
+                        },
+                        {
+                            "type": "map",
+                            "maps": [
+                                "summary"
+                            ]
+                        }
+                    ],
                 }
             },
             {

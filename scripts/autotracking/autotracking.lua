@@ -23,6 +23,7 @@ function onClear(slot_data)
     RegisterOnHintNotify(keys)
     RegisterOnStatusNotify(keys, "@Epilogue - Level Clear/")
     RegisterOnRoomNotify(keys)
+    RegisterOnDeathNotify(keys)
     Archipelago:SetNotify(keys)
     Archipelago:Get(keys)
 
@@ -92,3 +93,4 @@ end
 Archipelago:AddLocationHandler("location handler", onLocation)
 
 require("scripts/autotracking/autotabbing/autotabbing")
+require("scripts/autotracking/death_counter/init")
