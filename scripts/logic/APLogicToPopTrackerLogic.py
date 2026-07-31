@@ -151,6 +151,8 @@ class RegionRegionConnection:
                 for rule in self.rules[difficulty]:
                     if 'cannot_access' in rule: continue
                     rules += [[level_name, side_name, self.room.name, self.src_region.name, self.dest, process_ruleset(self.room.level, rule, None, [f'logic_difficulty_{difficulty}'])]]
+            else:
+                rules += [[level_name, side_name, self.room.name, self.src_region.name, self.dest, [f'logic_difficulty_{difficulty}']]]                
 
         return rules
 
@@ -204,6 +206,8 @@ class Location:
                 for rule in self.rules[difficulty]:
                     if 'cannot_access' in rule: continue
                     rules += [[level_name, side_name, self.region.room.name, self.region.name, self.display_name, process_ruleset(self.region.room.level, rule, None, [f'logic_difficulty_{difficulty}'])]]
+            else:
+                rules += [[level_name, side_name, self.region.room.name, self.region.name, self.display_name, [f'logic_difficulty_{difficulty}']]]                
 
         return rules
 
