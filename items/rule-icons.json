@@ -1979,5 +1979,11 @@
         "type": "static",
         "img": "images/icons/items/switches/pink_clutter.png",
         "codes": "pink_clutter-icon"
+    },
+    {
+        "name": "Power Source Breaker",
+        "type": "static",
+        "img": "images/icons/items/farewell/breaker_boxes.png",
+        "codes": "power_source_breaker-icon"
     }
 ]

@@ -2,7 +2,7 @@
     "name": "Celeste (Open World) - Archipelago Tracker",
     "game_name": "Celeste (Open World)",
     "platform": "PC",
-    "package_version": "2.0.3",
+    "package_version": "2.1.0",
     "package_uid": "celeste_poptracker",
     "author": "Zeeveez",
     "variants": {
@@ -20,6 +20,6 @@
         }
     },
     "versions_url": "https://raw.githubusercontent.com/Zeeveez/CelesteOpenWorldPoptracker/master/versions.json",
-    "min_poptracker_version": "0.35.2",
-    "target_poptracker_version": "0.35.2"
+    "min_poptracker_version": "0.35.4",
+    "target_poptracker_version": "0.35.4"
 }

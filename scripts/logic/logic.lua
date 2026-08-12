@@ -5,6 +5,9 @@ reachable_location_cache_stale = true
 reachable_locations = {}
 previous_locations = {}
 reachable_items = {}
+reachable_locations_from_level_start = {}
+previous_locations_from_level_start = {}
+reachable_items_from_level_start = {}
 
 function InvalidateReachableLocationCache(code)
     if code == "access_trigger" then return end
@@ -24,11 +27,18 @@ function CanAccess(location_name)
             reachable_locations = res[1]
             previous_locations = res[2]
             reachable_items = res[3]
+            reachable_locations_from_level_start = res[4]
+            previous_locations_from_level_start = res[5]
+            reachable_items_from_level_start = res[6]
             
-            local in_logic = res[4]["in_logic"]
-            local out_of_logic = res[4]["out_of_logic"]
+            local in_logic = res[7]["in_logic"]
+            local out_of_logic = res[7]["out_of_logic"]
+            local in_logic_from_level_start = res[7]["in_logic_from_level_start"]
+            local out_of_logic_from_level_start = res[7]["out_of_logic_from_level_start"]
             print("in_logic:"..in_logic)
             print("out_of_logic:"..out_of_logic)
+            print("in_logic_from_level_start:"..in_logic_from_level_start)
+            print("out_of_logic_from_level_start:"..out_of_logic_from_level_start)
 
             Tracker:FindObjectForCode("access_trigger").Active = false
             Tracker:FindObjectForCode("access_trigger").Active = true
@@ -54,6 +64,9 @@ function CanAccess(location_name)
         end)
     end
 
+    if reachable_locations[location_name] == nil or reachable_locations[location_name] == 0 then
+        return reachable_locations_from_level_start[location_name]
+    end
     return reachable_locations[location_name]
 end
 

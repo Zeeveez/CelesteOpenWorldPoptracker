@@ -3,6 +3,68 @@ require("scripts/logic/access_logic")
 require("scripts/autotracking/ap_mapping/location_mapping")
 
 local PROVIDER_COUNTS = arg['provider_counts']
+local CHECKPOINTS = {
+    'forsakencitya-crossing',
+    'forsakencitya-chasm',
+    'forsakencityb-contraption',
+    'forsakencityb-scrappit',
+    'oldsitea-intervention',
+    'oldsitea-awake',
+    'oldsiteb-combinationlock',
+    'oldsiteb-dreamaltar',
+    'celestialresorta-hugemess',
+    'celestialresorta-elevatorshaft',
+    'celestialresorta-presidentialsuite',
+    'celestialresortb-staffquarters',
+    'celestialresortb-library',
+    'celestialresortb-rooftop',
+    'goldenridgea-shrine',
+    'goldenridgea-oldtrail',
+    'goldenridgea-cliffface',
+    'goldenridgeb-steppingstones',
+    'goldenridgeb-gustycanyon',
+    'goldenridgeb-eyeofthestorm',
+    'mirrortemplea-depths',
+    'mirrortemplea-unravelling',
+    'mirrortemplea-search',
+    'mirrortemplea-rescue',
+    'mirrortempleb-centralchamber',
+    'mirrortempleb-throughthemirror',
+    'mirrortempleb-mixmaster',
+    'reflectiona-hollows',
+    'reflectiona-reflection',
+    'reflectiona-rockbottom',
+    'reflectiona-resolution',
+    'reflectionb-reflection',
+    'reflectionb-rockbottom',
+    'reflectionb-reprieve',
+    'thesummita-500m',
+    'thesummita-1000m',
+    'thesummita-1500m',
+    'thesummita-2000m',
+    'thesummita-2500m',
+    'thesummita-3000m',
+    'thesummitb-500m',
+    'thesummitb-1000m',
+    'thesummitb-1500m',
+    'thesummitb-2000m',
+    'thesummitb-2500m',
+    'thesummitb-3000m',
+    'corea-intothecore',
+    'corea-hotandcold',
+    'corea-heartofthemountain',
+    'coreb-intothecore',
+    'coreb-burningorfreezing',
+    'coreb-heartbeat',
+    'farewell-singular',
+    'farewell-powersource',
+    'farewell-remembered',
+    'farewell-eventhorizon',
+    'farewell-determination',
+    'farewell-stubbornness',
+    'farewell-reconciliation',
+    'farewell-farewell',
+}
 
 function HasItem(item_code)
     return PROVIDER_COUNTS[item_code] and PROVIDER_COUNTS[item_code] ~= 0
@@ -122,12 +184,41 @@ for _, location in pairs(LOCATION_MAPPING) do
     end
 end
 
+
+for _, checkpoint_code in ipairs(CHECKPOINTS) do
+    PROVIDER_COUNTS[checkpoint_code] = 0
+end
+PROVIDER_COUNTS['dts'] = 1
+PROVIDER_COUNTS['entered_at_start'] = 1
+local res = GetReachable()
+reachable_locations_from_level_start = res[1]
+previous_locations_from_level_start = res[2]
+reachable_items_from_level_start = res[3]
+
+local in_logic_from_level_start = 0
+local out_of_logic_from_level_start = 0
+for _, location in pairs(LOCATION_MAPPING) do 
+    local accessibility = reachable_locations_from_level_start[string.sub(location, 2, -2)]
+    if accessibility then
+        if accessibility == 1 then
+            in_logic_from_level_start = in_logic_from_level_start + 1
+        elseif accessibility == 5 then
+            out_of_logic_from_level_start = out_of_logic_from_level_start + 1
+        end
+    end
+end
+
 return {
     reachable_locations,
     previous_locations,
     reachable_items,
+    reachable_locations_from_level_start,
+    previous_locations_from_level_start,
+    reachable_items_from_level_start,
     {
         ["in_logic"] = in_logic,
-        ["out_of_logic"] = out_of_logic
+        ["out_of_logic"] = out_of_logic,
+        ["in_logic_from_level_start"] = in_logic_from_level_start,
+        ["out_of_logic_from_level_start"] = out_of_logic_from_level_start
     }
 }
