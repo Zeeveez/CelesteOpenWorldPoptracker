@@ -49017,9 +49017,28 @@
                                                                                 "rows": [
                                                                                     [
                                                                                         "custom_green-icon",
+                                                                                        "any_dash_r_u_ur-icon",
                                                                                         "crouch-icon",
                                                                                         "dr_dash-icon",
                                                                                         "r_climb-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_green-icon",
+                                                                                        "r_climb-icon",
+                                                                                        "r_dash-icon"
                                                                                     ]
                                                                                 ]
                                                                             }
@@ -49039,7 +49058,15 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        },
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            },
+                                                            {
+                                                                "title": "Page 2",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -49057,15 +49084,7 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 2",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",

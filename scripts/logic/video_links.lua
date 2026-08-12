@@ -549,10 +549,10 @@ VIDEO_LINKS = {
 	},
 	["Celestial Resort B - Room 01_west"] = {
 		["Celestial Resort B - Room 01_east"] = {
-			{ 3, { 'custom_green', 'split_interactables_none', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=gHBg97LQdds' },
-			{ 3, { 'custom_green', 'split_interactables_per_level', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=gHBg97LQdds' },
-			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=gHBg97LQdds' },
-			{ 3, { 'custom_green', 'split_interactables_per_side', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=gHBg97LQdds' },
+			{ 3, { 'custom_green', 'split_interactables_none', 'any_dash_r_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=gHBg97LQdds' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', 'any_dash_r_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=gHBg97LQdds' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'any_dash_r_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=gHBg97LQdds' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'any_dash_r_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=gHBg97LQdds' },
 		},
 	},
 	["Celestial Resort B - Room 04_west"] = {

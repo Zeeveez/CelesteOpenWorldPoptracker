@@ -10567,10 +10567,14 @@ LOCATION_ACCESS_LOGIC = {
 	["Celestial Resort B - Room 01_west"] = {
 		{ "Celestial Resort B - Room 01", { {  } } },
 		{ "Celestial Resort B - Room 01_east", {
-			{ 'custom_green', 'split_interactables_none', 'crouch', 'dr_dash', 'r_climb' },
-			{ 'custom_green', 'split_interactables_per_level', 'crouch', 'dr_dash', 'r_climb' },
-			{ 'custom_green', 'split_interactables_per_level_and_side', 'crouch', 'dr_dash', 'r_climb' },
-			{ 'custom_green', 'split_interactables_per_side', 'crouch', 'dr_dash', 'r_climb' },
+			{ 'custom_green', 'split_interactables_none', 'any_dash_r_u_ur', 'crouch', 'dr_dash', 'r_climb' },
+			{ 'custom_green', 'split_interactables_none', 'r_climb', 'r_dash' },
+			{ 'custom_green', 'split_interactables_per_level', 'any_dash_r_u_ur', 'crouch', 'dr_dash', 'r_climb' },
+			{ 'custom_green', 'split_interactables_per_level', 'r_climb', 'r_dash' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'any_dash_r_u_ur', 'crouch', 'dr_dash', 'r_climb' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'r_climb', 'r_dash' },
+			{ 'custom_green', 'split_interactables_per_side', 'any_dash_r_u_ur', 'crouch', 'dr_dash', 'r_climb' },
+			{ 'custom_green', 'split_interactables_per_side', 'r_climb', 'r_dash' },
 			{ 'logic_difficulty_assist' },
 			{ 'logic_difficulty_developer', 'split_interactables_none', 'dash_refills', 'ur_dash' },
 			{ 'logic_difficulty_developer', 'split_interactables_per_level', 'celestialresort-dash_refills', 'ur_dash' },
