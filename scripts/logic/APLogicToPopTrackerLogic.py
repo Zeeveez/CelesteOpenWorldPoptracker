@@ -2,7 +2,9 @@ import json
 import requests
 import itertools
 
-ALL_ITEMS = [
+DIFFICULTIES = {'developer', 'vanilla', 'assist'}
+INTERACTABLE_MODES = { 'none', 'per_level', 'per_side', 'per_level_and_side' }
+ALL_ITEMS = {
     "blue_cassette_blocks", "pink_cassette_blocks", "green_cassette_blocks", "yellow_cassette_blocks", "strawberry_seeds", "white_block",
     "traffic_blocks", "dash_refills", "springs", 
     "dream_blocks", "coins",
@@ -13,7 +15,40 @@ ALL_ITEMS = [
     "feathers", "kevin_blocks", "bumpers", "badeline_boosters", 
     "core_toggles", "core_blocks", "fire_ice_balls",
     "double_dash_refills", "pufferfish", "jellyfish", "bird", "breaker_boxes"
-]
+}
+FULL_LEVEL_NAMES = {
+    '1A': 'Forsaken City A', '1B': 'Forsaken City B', '1C': 'Forsaken City C',
+    '2A': 'Old Site A', '2B': 'Old Site B', '2C': 'Old Site C',
+    '3A': 'Celestial Resort A', '3B': 'Celestial Resort B', '3C': 'Celestial Resort C',
+    '4A': 'Golden Ridge A', '4B': 'Golden Ridge B', '4C': 'Golden Ridge C',
+    '5A': 'Mirror Temple A', '5B': 'Mirror Temple B', '5C': 'Mirror Temple C',
+    '6A': 'Reflection A', '6B': 'Reflection B', '6C': 'Reflection C',
+    '7A': 'The Summit A', '7B': 'The Summit B', '7C': 'The Summit C',
+    '8A': 'Core A', '8B': 'Core B', '8C': 'Core C',
+    '9': 'Farewell', '9A': 'Farewell', '9B': 'Farewell', '9C': 'Farewell',
+}
+LEVEL_SIDE_NAMES = {
+    '1A': ('Forsaken City', 'A'), '1B': ('Forsaken City', 'B'), '1C': ('Forsaken City', 'C'),
+    '2A': ('Old Site', 'A'), '2B': ('Old Site', 'B'), '2C': ('Old Site', 'C'),
+    '3A': ('Celestial Resort', 'A'), '3B': ('Celestial Resort', 'B'), '3C': ('Celestial Resort', 'C'),
+    '4A': ('Golden Ridge', 'A'), '4B': ('Golden Ridge', 'B'), '4C': ('Golden Ridge', 'C'),
+    '5A': ('Mirror Temple', 'A'), '5B': ('Mirror Temple', 'B'), '5C': ('Mirror Temple', 'C'),
+    '6A': ('Reflection', 'A'), '6B': ('Reflection', 'B'), '6C': ('Reflection', 'C'),
+    '7A': ('The Summit', 'A'), '7B': ('The Summit', 'B'), '7C': ('The Summit', 'C'),
+    '8A': ('Core', 'A'), '8B': ('Core', 'B'), '8C': ('Core', 'C'),
+    '9': ('Farewell', 'A'), '9A': ('Farewell', 'A'), '9B': ('Farewell', 'A'), '9C': ('Farewell', 'A'),
+}
+
+def expand_item(item, interactable_mode, level_name):
+    if item in ALL_ITEMS:
+        level_prefix = 'Farewell' if level_name == 'Farewell' else level_name[:-1]
+        side_prefix = 'A' if level_name == 'Farewell' else level_name[-1]
+
+        if interactable_mode == 'none' or interactable_mode == None: return item
+        elif interactable_mode == 'per_level': return f'{level_prefix} - {item}'.lower().replace(' ', '')
+        elif interactable_mode == 'per_side': return f'{side_prefix} - {item}'.lower().replace(' ', '')
+        elif interactable_mode == 'per_level_and_side': return f'{level_name} - {item}'.lower().replace(' ', '')
+    return item
 
 from functools import cmp_to_key
 def rule_cmp(a, b):
@@ -57,14 +92,8 @@ def add_expanded_dash(rule, rule_part):
     return False
 
 def add_item(rule, rule_part, level_name, interactable_mode):
-    level_prefix = 'Farewell' if level_name == 'Farewell' else level_name[:-1]
-    side_prefix = 'A' if level_name == 'Farewell' else level_name[-1]
-
     if rule_part in ALL_ITEMS:
-        if interactable_mode == 'none' or interactable_mode == None: rule += [rule_part]
-        elif interactable_mode == 'per_level': rule += [f'{level_prefix} - {rule_part}'.lower().replace(' ', '')]
-        elif interactable_mode == 'per_side': rule += [f'{side_prefix} - {rule_part}'.lower().replace(' ', '')]
-        elif interactable_mode == 'per_level_and_side': rule += [f'{level_name} - {rule_part}'.lower().replace(' ', '')]
+        rule += [expand_item(rule_part, interactable_mode, level_name)]
         return True
     return False
 
@@ -117,6 +146,7 @@ class RegionRegionConnection:
         self.dest = json['dest']
         self.rules = { 'developer': json['rule'] }
         if 'vm_rule' in json: self.rules['vanilla'] = json['vm_rule']
+        #else: print(f'{room.level.name} - Room {room.name}_{src_region.name} -> {room.level.name} - Room {room.name}_{json['dest']}')
         if 'assist_rule' in json: self.rules['assist'] = json['assist_rule']
 
     def generate_logic(self):
@@ -131,7 +161,7 @@ class RegionRegionConnection:
             elif len(self.rules[difficulty]):
                 for rule in self.rules[difficulty]:
                     if 'cannot_access' in rule: continue
-                    for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
+                    for interactable_mode in INTERACTABLE_MODES:
                         logic += [[src, dst, process_ruleset(self.room.level, rule, interactable_mode, [f'logic_difficulty_{difficulty}'])]]
             else:
                 logic += [[src, dst, [f'logic_difficulty_{difficulty}']]]
@@ -146,7 +176,7 @@ class RegionRegionConnection:
             level_name = level_name[:-2]
 
         rules = []
-        for difficulty in {'developer', 'vanilla', 'assist'}:
+        for difficulty in DIFFICULTIES:
             if difficulty in self.rules and len(self.rules[difficulty]):
                 for rule in self.rules[difficulty]:
                     if 'cannot_access' in rule: continue
@@ -164,6 +194,7 @@ class Location:
         self.display_name = json['display_name']
         self.rules = { 'developer': json['rule'] }
         if 'vm_rule' in json: self.rules['vanilla'] = json['vm_rule']
+        #else: print(f'{region.room.level.name} - Room {region.room.name}_{region.name} -> {self.name}')
         if 'assist_rule' in json: self.rules['assist'] = json['assist_rule']
 
     def generate_logic(self):
@@ -174,13 +205,13 @@ class Location:
             location_name = f'{room_name} {self.display_name}'
 
         logic = []
-        for difficulty in {'developer', 'vanilla', 'assist'}:
+        for difficulty in DIFFICULTIES:
             if difficulty not in self.rules:
                 logic += [[region_name, location_name, [f'logic_difficulty_{difficulty}']]]
             elif len(self.rules[difficulty]):
                 for rule in self.rules[difficulty]:
                     if 'cannot_access' in rule: continue
-                    for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
+                    for interactable_mode in INTERACTABLE_MODES:
                         logic += [[region_name, location_name, process_ruleset(self.region.room.level, rule, interactable_mode, [f'logic_difficulty_{difficulty}'])]]
             else:
                 logic += [[region_name, location_name, [f'logic_difficulty_{difficulty}']]]
@@ -201,7 +232,7 @@ class Location:
             location_name = f'{room_name} {self.display_name}'
 
         rules = []
-        for difficulty in {'developer', 'vanilla', 'assist'}:
+        for difficulty in DIFFICULTIES:
             if difficulty in self.rules and len(self.rules[difficulty]):
                 for rule in self.rules[difficulty]:
                     if 'cannot_access' in rule: continue
@@ -228,10 +259,8 @@ class Region:
         return logic
 
     def generate_rules(self):
-        rules = []
-        for location in self.locations: rules += location.generate_rules()
-        for connection in self.connections: rules += connection.generate_rules()
-        return rules
+        return list(itertools.chain.from_iterable([location.generate_rules() for location in self.locations])) \
+            + list(itertools.chain.from_iterable([connection.generate_rules() for connection in self.connections]))
 
 
 class Room:
@@ -266,12 +295,7 @@ class Room:
         return logic
 
     def generate_rules(self):
-        rules = []
-
-        for region in self.regions:
-            rules += region.generate_rules()
-
-        return rules
+        return list(itertools.chain.from_iterable([region.generate_rules() for region in self.regions]))
 
 
 class Level:
@@ -306,11 +330,7 @@ class Level:
         return logic
 
     def generate_rules(self):
-        rules = []
-        for room in self.rooms:
-            for room_logic in room.generate_rules():
-                rules += [room_logic]
-        return rules
+        return list(itertools.chain.from_iterable([room.generate_rules() for room in self.rooms]))
             
 
 class World:
@@ -328,11 +348,7 @@ class World:
         return logic
 
     def generate_rules(self):
-        rules = []
-        for level in self.levels:
-            for level_logic in level.generate_rules():
-                rules += [level_logic]
-        return rules
+        return list(itertools.chain.from_iterable([level.generate_rules() for level in self.levels]))
 
 raw_logic = json.loads(requests.get('https://raw.githubusercontent.com/PoryGoneDev/Pory_Archipelago/refs/heads/celeste-v1.1/worlds/celeste_open_world/data/CelesteLevelData.json').text)
 # with open('./scripts/logic/CelesteLevelData.json') as f:
@@ -365,19 +381,24 @@ with open('./scripts/logic/apworld_connections.csv', newline='') as csvfile:
 
         rule = items.split(',') if len(items) else []
         level = from_region.split(' - ')[0]
-        for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
+        for interactable_mode in INTERACTABLE_MODES:
             add_connection(logic, from_region, to_region, [process_ruleset(None, rule, interactable_mode, None, level)])
 
 video_links = {}
 with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        if row['from'] == '#': break
-        from_region = row['from']
-        to_region = row['to']
+        if row['level'] == '#': break
+        level = row['level']
+        full_level_name = FULL_LEVEL_NAMES[level]
+        from_room = row['from_room']
+        from_region = row['from_region']
+        to_room = row['to_room']
+        to_region = row['to_region']
         items = row['items']
         difficulty = ["BAD","BAD","BAD","custom_green","custom_yellow","custom_red","custom_purple"][int(row['difficulty'])]
         blockers = row['blockers']
+        blockers = row['dangerous']
         multi_room = row['multiroom'] == "TRUE"
         core_state = row['core_state']
         dts = row['dts'] == "TRUE"
@@ -385,36 +406,26 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
         video_link = row['video_link']
         note = row['note']
 
+        from_full_name = f'{full_level_name} - Room {from_room}_{from_region}'
+        to_full_name = f'{full_level_name} - Room {to_room}_{to_region}'
+        if to_region == 'Cassette' or to_region == 'Crystal Heart' or to_region.endswith('Key'):
+            to_full_name = f'{full_level_name} - {to_region}'
+        elif 'Strawberry' in to_region or 'Binoculars' in to_region :
+            to_full_name = f'{full_level_name} - Room {to_room} {to_region}'
         rule = [difficulty] + (items.split(',') if len(items) else [])
-        level = from_region.split(' - ')[0]
         if int(row['difficulty']) > 2:
-            for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
-                add_connection(logic, from_region, to_region, [process_ruleset(None, rule, interactable_mode, None, level)])
-
-        level_name = from_region.split(' - ')[0]
-        side_name = 'A'
-        if level_name.endswith(' A') or level_name.endswith(' B') or level_name.endswith(' C'):
-            side_name = level_name[-1]
-            level_name = level_name[:-2]
-        from_room_name = from_region.split(' Room ')[1].split('_')[0]
-        from_region_name = from_region.split(' Room ')[1].split('_')[1].split(' ')[0]
-        try:
-            to_region_name = to_region.split(' Room ')[1].split('_')[1].split(' ')[0]
-        except:
-            if to_region[-1] == '1' or to_region[-1] == '2':
-                to_region_name = ' '.join(to_region.split(' ')[-2:])
-            else:
-                to_region_name = to_region.split(' ')[-1]
-            
+            for interactable_mode in INTERACTABLE_MODES:
+                add_connection(logic, from_full_name, to_full_name, [process_ruleset(None, rule, interactable_mode, None, full_level_name)])
+        
         if int(row['difficulty']) > 2:
-            rules += [[level_name, side_name, from_room_name, from_region_name, to_region_name, process_ruleset(None, rule, None, None, level_name)]]
+            rules += [[LEVEL_SIDE_NAMES[level][0], LEVEL_SIDE_NAMES[level][1], from_room, from_region, to_region, process_ruleset(None, rule, None, None, LEVEL_SIDE_NAMES[level][0])]]
 
-        if from_region not in video_links: video_links[from_region] = {}
-        if to_region not in video_links[from_region]: video_links[from_region][to_region] = []
+        if from_full_name not in video_links: video_links[from_full_name] = {}
+        if to_full_name not in video_links[from_full_name]: video_links[from_full_name][to_full_name] = []
         if video_link:
-            for interactable_mode in { 'none', 'per_level', 'per_side', 'per_level_and_side' }:
-                video_links[from_region][to_region] += [[int(row['difficulty']), list(process_ruleset(None, rule, interactable_mode, None, level)), video_link]]
-                video_links[from_region][to_region] = sorted(video_links[from_region][to_region], key=lambda x: f'{x[0]}{x[1]}')
+            for interactable_mode in INTERACTABLE_MODES:
+                video_links[from_full_name][to_full_name] += [[int(row['difficulty']), list(process_ruleset(None, rule, interactable_mode, None, level)), video_link]]
+                video_links[from_full_name][to_full_name] = sorted(video_links[from_full_name][to_full_name], key=lambda x: f'{x[0]}{x[1]}')
 
 sort_logic(logic)
 
@@ -455,6 +466,7 @@ for rule in rules:
     if rule[1] not in rules_tree[rule[0]]: rules_tree[rule[0]][rule[1]] = {}
     if rule[2] not in rules_tree[rule[0]][rule[1]]: rules_tree[rule[0]][rule[1]][rule[2]] = []
     rules_tree[rule[0]][rule[1]][rule[2]] += [rule]
+    rules_tree[rule[0]][rule[1]][rule[2]].sort(key=rule_set_sort_key)
 
 PAGE_SIZE = 8
 level_tabs = []
@@ -496,6 +508,7 @@ for level in rules_tree:
                 'content': {
                     'type': 'dock',
                     'content': {
+                        'dock': 'top',
                         'type': 'tabbed',
                         'tabs': pages
                     }
@@ -507,6 +520,7 @@ for level in rules_tree:
             'content': {
                 'type': 'dock',
                 'content': {
+                    'dock': 'top',
                     'type': 'tabbed',
                     'tabs': room_tabs
                 }
@@ -517,6 +531,7 @@ for level in rules_tree:
         'content': {
             'type': 'dock',
             'content': {
+                'dock': 'top',
                 'type': 'tabbed',
                 'tabs': side_tabs
             }
