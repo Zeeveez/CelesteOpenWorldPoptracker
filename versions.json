@@ -1,6 +1,19 @@
 {
     "versions": [
         {
+            "package_version": "2.1.0",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v2.1.0.zip",
+            "sha256": "4660837EBABCAA4CB4755357211170E013D5145D254347F94CC423B5A47FAEB7",
+            "changelog": [
+                "Separate apworld logic adjustments (e.g. 10a -> 10b connection) from OOL for easier management",
+                "Add OOL difficulty selection",
+                "Add selection of OOL routes",
+                "Add new variant which allows viewing the logic of each room",
+                "Add Explain trigger",
+                "Added death counter to summary"
+            ]
+        },
+        {
             "package_version": "2.0.2",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v2.0.2.zip",
             "sha256": "5DABD463A67B9797D576ED1623AB8D2A7222BF828E3C7E3F1C82876199CAF56A",
