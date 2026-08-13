@@ -84,7 +84,7 @@ level,from_room,from_region,to_room,to_region,items,difficulty,blockers,dangerou
 3A,01-c,east,01-c,Cassette,"blue_cassette_blocks,crouch,dl_dash,l_climb",4,,FALSE,FALSE,,FALSE,FALSE,https://www.youtube.com/watch?v=3aqjku9HRQI,
 3B,back,east,back,Binoculars,l_dash,3,,FALSE,FALSE,,FALSE,FALSE,https://www.youtube.com/watch?v=HH8NkvAB2BM,
 3B,01,west,01,east,"crouch,dr_dash,r_climb,any_dash_ur_u_r",3,,FALSE,TRUE,,FALSE,FALSE,https://www.youtube.com/watch?v=gHBg97LQdds,
-3B,01,west,01,east,"r_climb,r_dash",3,,FALSE,TRUE,,FALSE,FALSE,,
+3B,01,west,01,east,"r_climb,r_dash",3,,FALSE,TRUE,,FALSE,FALSE,https://www.youtube.com/watch?v=MYdvvTxn_lE,
 3B,04,west,04,east,"r_climb,any_dash_ur_r",4,,FALSE,FALSE,,FALSE,FALSE,https://www.youtube.com/watch?v=LjHrTlYj5aY,
 3B,04,west,04,east,"r_climb,any_dash_u",5,,FALSE,FALSE,,FALSE,FALSE,https://www.youtube.com/watch?v=LjHrTlYj5aY,
 3B,08,bottom,08,top,"r_climb,any_dash_u_ul",5,,FALSE,FALSE,,FALSE,FALSE,https://www.youtube.com/watch?v=QA7toFfqISQ,
