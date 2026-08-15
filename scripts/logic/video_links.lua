@@ -6,6 +6,16 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'r_climb' }, 'https://www.youtube.com/watch?v=jpL9giRsNkc' },
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'r_climb' }, 'https://www.youtube.com/watch?v=jpL9giRsNkc' },
 		},
+		["Forsaken City A - Room 2 Strawberry"] = {
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'crouch', 'l_climb', 'l_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=bhmPEw_e68E' },
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'crouch', 'l_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=acLA1Twey1I' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'crouch', 'l_climb', 'l_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=bhmPEw_e68E' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'crouch', 'l_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=acLA1Twey1I' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'crouch', 'l_climb', 'l_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=bhmPEw_e68E' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'crouch', 'l_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=acLA1Twey1I' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'crouch', 'l_climb', 'l_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=bhmPEw_e68E' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'crouch', 'l_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=acLA1Twey1I' },
+		},
 	},
 	["Forsaken City A - Room 3_west"] = {
 		["Forsaken City A - Room 3_east"] = {
@@ -49,6 +59,16 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'any_dash_u_ur', 'crouch', 'dr_dash' }, 'https://www.youtube.com/watch?v=UInJbjSha2Y' },
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'r_climb' }, 'https://www.youtube.com/watch?v=uimlVyRtWy8' },
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'r_dash' }, 'https://www.youtube.com/watch?v=eXocLajRCJE' },
+			{ 6, { 'custom_purple', 'split_interactables_none', 'dash_refills', 'dr_dash', 'l_climb' }, 'https://www.youtube.com/watch?v=1Ps8iqnGd8c' },
+			{ 6, { 'custom_purple', 'split_interactables_per_level', '1-dash_refills', 'dr_dash', 'l_climb' }, 'https://www.youtube.com/watch?v=1Ps8iqnGd8c' },
+			{ 6, { 'custom_purple', 'split_interactables_per_level_and_side', '1a-dash_refills', 'dr_dash', 'l_climb' }, 'https://www.youtube.com/watch?v=1Ps8iqnGd8c' },
+			{ 6, { 'custom_purple', 'split_interactables_per_side', 'a-dash_refills', 'dr_dash', 'l_climb' }, 'https://www.youtube.com/watch?v=1Ps8iqnGd8c' },
+		},
+		["Forsaken City A - Room 6 Strawberry"] = {
+			{ 6, { 'custom_purple', 'split_interactables_none', 'dash_refills', 'dr_dash', 'l_climb' }, 'https://www.youtube.com/watch?v=1Ps8iqnGd8c' },
+			{ 6, { 'custom_purple', 'split_interactables_per_level', '1-dash_refills', 'dr_dash', 'l_climb' }, 'https://www.youtube.com/watch?v=1Ps8iqnGd8c' },
+			{ 6, { 'custom_purple', 'split_interactables_per_level_and_side', '1a-dash_refills', 'dr_dash', 'l_climb' }, 'https://www.youtube.com/watch?v=1Ps8iqnGd8c' },
+			{ 6, { 'custom_purple', 'split_interactables_per_side', 'a-dash_refills', 'dr_dash', 'l_climb' }, 'https://www.youtube.com/watch?v=1Ps8iqnGd8c' },
 		},
 	},
 	["Forsaken City A - Room 6z_east"] = {
@@ -57,6 +77,12 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_level', 'u_dash' }, 'https://www.youtube.com/watch?v=ihovKKPw_TA' },
 			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'u_dash' }, 'https://www.youtube.com/watch?v=ihovKKPw_TA' },
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'u_dash' }, 'https://www.youtube.com/watch?v=ihovKKPw_TA' },
+		},
+		["Forsaken City A - Room 6z_north-west"] = {
+			{ 3, { 'custom_green', 'split_interactables_none', 'u_dash' }, 'https://www.youtube.com/watch?v=dia4jEn_ELU' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', 'u_dash' }, 'https://www.youtube.com/watch?v=dia4jEn_ELU' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'u_dash' }, 'https://www.youtube.com/watch?v=dia4jEn_ELU' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'u_dash' }, 'https://www.youtube.com/watch?v=dia4jEn_ELU' },
 		},
 	},
 	["Forsaken City A - Room 6a_west"] = {
@@ -82,13 +108,27 @@ VIDEO_LINKS = {
 	["Forsaken City A - Room 7z_bottom"] = {
 		["Forsaken City A - Room 7z Strawberry"] = {
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'crouch', 'dl_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=yP2c8VnRivo' },
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=oxl7GAiw16g' },
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'l_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=LEmjY6o3ufI' },
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=Pl4BJHLzIMQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'crouch', 'dl_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=yP2c8VnRivo' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=oxl7GAiw16g' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'l_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=LEmjY6o3ufI' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=Pl4BJHLzIMQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'crouch', 'dl_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=yP2c8VnRivo' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=oxl7GAiw16g' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'l_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=LEmjY6o3ufI' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=Pl4BJHLzIMQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'crouch', 'dl_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=yP2c8VnRivo' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=oxl7GAiw16g' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'l_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=LEmjY6o3ufI' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=Pl4BJHLzIMQ' },
+		},
+		["Forsaken City A - Room 7z_top"] = {
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=oxl7GAiw16g' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=oxl7GAiw16g' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=oxl7GAiw16g' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=oxl7GAiw16g' },
 		},
 	},
 	["Forsaken City A - Room 8_south-west"] = {
@@ -101,10 +141,6 @@ VIDEO_LINKS = {
 	},
 	["Forsaken City A - Room 9_west"] = {
 		["Forsaken City A - Room 9 Strawberry"] = {
-			{ 3, { 'custom_green', 'split_interactables_none', 'crouch', 'dr_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=iTgFrJoqzAQ' },
-			{ 3, { 'custom_green', 'split_interactables_per_level', 'crouch', 'dr_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=iTgFrJoqzAQ' },
-			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'crouch', 'dr_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=iTgFrJoqzAQ' },
-			{ 3, { 'custom_green', 'split_interactables_per_side', 'crouch', 'dr_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=iTgFrJoqzAQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'crouch', 'dr_dash', 'l_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=OYbE0S1yzgU' },
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=VwkewbVH5b0' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'crouch', 'dr_dash', 'l_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=OYbE0S1yzgU' },
@@ -123,13 +159,13 @@ VIDEO_LINKS = {
 	},
 	["Forsaken City A - Room 9_east"] = {
 		["Forsaken City A - Room 9 Strawberry"] = {
-			{ 3, { 'custom_green', 'split_interactables_none', 'u_dash' }, 'https://www.youtube.com/watch?v=3d6hbaVQcJw' },
-			{ 3, { 'custom_green', 'split_interactables_per_level', 'u_dash' }, 'https://www.youtube.com/watch?v=3d6hbaVQcJw' },
-			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'u_dash' }, 'https://www.youtube.com/watch?v=3d6hbaVQcJw' },
-			{ 3, { 'custom_green', 'split_interactables_per_side', 'u_dash' }, 'https://www.youtube.com/watch?v=3d6hbaVQcJw' },
+			{ 3, { 'custom_green', 'split_interactables_none', 'u_dash' }, 'https://www.youtube.com/watch?v=Wkws1OJxfQA' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', 'u_dash' }, 'https://www.youtube.com/watch?v=Wkws1OJxfQA' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'u_dash' }, 'https://www.youtube.com/watch?v=Wkws1OJxfQA' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'u_dash' }, 'https://www.youtube.com/watch?v=Wkws1OJxfQA' },
 		},
 	},
-	["Forsaken City A - Room 9b_west"] = {
+	["Forsaken City A - Room 9b_south-west"] = {
 		["Forsaken City A - Room 9b_east"] = {
 			{ 3, { 'custom_green', 'split_interactables_none', 'r_dash' }, 'https://www.youtube.com/watch?v=DAsPZFEJ758' },
 			{ 3, { 'custom_green', 'split_interactables_per_level', 'r_dash' }, 'https://www.youtube.com/watch?v=DAsPZFEJ758' },
@@ -165,14 +201,22 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'r_dash' }, 'https://www.youtube.com/watch?v=AXykBKmCBCY' },
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'crouch', 'dr_dash' }, 'https://www.youtube.com/watch?v=aRuOHZxJgb8' },
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'r_dash' }, 'https://www.youtube.com/watch?v=AXykBKmCBCY' },
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'r_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=pUNuARbocyE' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'r_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=pUNuARbocyE' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'r_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=pUNuARbocyE' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'r_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=pUNuARbocyE' },
 		},
 	},
 	["Forsaken City A - Room 10a_bottom"] = {
 		["Forsaken City A - Room 10a_top"] = {
 			{ 3, { 'custom_green', 'split_interactables_none', 'l_climb', 'r_climb' }, 'https://www.youtube.com/watch?v=glrrdxs-SSU' },
+			{ 3, { 'custom_green', 'split_interactables_none', 'u_dash' }, 'https://www.youtube.com/watch?v=Y_zbmNUGknw' },
 			{ 3, { 'custom_green', 'split_interactables_per_level', 'l_climb', 'r_climb' }, 'https://www.youtube.com/watch?v=glrrdxs-SSU' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', 'u_dash' }, 'https://www.youtube.com/watch?v=Y_zbmNUGknw' },
 			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'l_climb', 'r_climb' }, 'https://www.youtube.com/watch?v=glrrdxs-SSU' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'u_dash' }, 'https://www.youtube.com/watch?v=Y_zbmNUGknw' },
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'l_climb', 'r_climb' }, 'https://www.youtube.com/watch?v=glrrdxs-SSU' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'u_dash' }, 'https://www.youtube.com/watch?v=Y_zbmNUGknw' },
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=UjlIo2fUK1w' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=UjlIo2fUK1w' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=UjlIo2fUK1w' },
@@ -189,6 +233,16 @@ VIDEO_LINKS = {
 			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'ur_dash' }, 'https://www.youtube.com/watch?v=dlFHXvBnW5w' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'r_climb', 'u_dash' }, 'https://www.youtube.com/watch?v=JI8lWuQ30do' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'ur_dash' }, 'https://www.youtube.com/watch?v=dlFHXvBnW5w' },
+			{ 5, { 'custom_red', 'split_interactables_none', 'crouch', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=6Pk8JgbDiNA' },
+			{ 5, { 'custom_red', 'split_interactables_per_level', 'crouch', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=6Pk8JgbDiNA' },
+			{ 5, { 'custom_red', 'split_interactables_per_level_and_side', 'crouch', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=6Pk8JgbDiNA' },
+			{ 5, { 'custom_red', 'split_interactables_per_side', 'crouch', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=6Pk8JgbDiNA' },
+		},
+		["Forsaken City A - Room 11 Strawberry"] = {
+			{ 5, { 'custom_red', 'split_interactables_none', 'crouch', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=6Pk8JgbDiNA' },
+			{ 5, { 'custom_red', 'split_interactables_per_level', 'crouch', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=6Pk8JgbDiNA' },
+			{ 5, { 'custom_red', 'split_interactables_per_level_and_side', 'crouch', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=6Pk8JgbDiNA' },
+			{ 5, { 'custom_red', 'split_interactables_per_side', 'crouch', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=6Pk8JgbDiNA' },
 		},
 	},
 	["Forsaken City A - Room 11_south-east"] = {
@@ -207,15 +261,19 @@ VIDEO_LINKS = {
 		["Forsaken City A - Cassette"] = {
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'any_dash_u_ur', 'crouch', 'dl_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=UBnXvV5jmyQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'crouch', 'r_climb', 'ul_dash' }, 'https://www.youtube.com/watch?v=x_4wfIZQc3s' },
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'u_dash' }, 'https://www.youtube.com/watch?v=sFwPo8wKluQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'ul_dash' }, 'https://www.youtube.com/watch?v=KHoWoKh3Qu0' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'any_dash_u_ur', 'crouch', 'dl_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=UBnXvV5jmyQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'crouch', 'r_climb', 'ul_dash' }, 'https://www.youtube.com/watch?v=x_4wfIZQc3s' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'u_dash' }, 'https://www.youtube.com/watch?v=sFwPo8wKluQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'ul_dash' }, 'https://www.youtube.com/watch?v=KHoWoKh3Qu0' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'any_dash_u_ur', 'crouch', 'dl_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=UBnXvV5jmyQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'crouch', 'r_climb', 'ul_dash' }, 'https://www.youtube.com/watch?v=x_4wfIZQc3s' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'u_dash' }, 'https://www.youtube.com/watch?v=sFwPo8wKluQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'ul_dash' }, 'https://www.youtube.com/watch?v=KHoWoKh3Qu0' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'any_dash_u_ur', 'crouch', 'dl_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=UBnXvV5jmyQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'crouch', 'r_climb', 'ul_dash' }, 'https://www.youtube.com/watch?v=x_4wfIZQc3s' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'u_dash' }, 'https://www.youtube.com/watch?v=sFwPo8wKluQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'ul_dash' }, 'https://www.youtube.com/watch?v=KHoWoKh3Qu0' },
 		},
 	},
@@ -347,6 +405,20 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_level', 'crouch', 'dl_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=Dg2o9Gp90ZU' },
 			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'crouch', 'dl_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=Dg2o9Gp90ZU' },
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'crouch', 'dl_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=Dg2o9Gp90ZU' },
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'crouch', 'ul_dash' }, 'https://www.youtube.com/watch?v=boRg3JxbM9s' },
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'crouch', 'ur_dash' }, 'https://www.youtube.com/watch?v=l6NXrW6Zo9Y' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'crouch', 'ul_dash' }, 'https://www.youtube.com/watch?v=boRg3JxbM9s' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'crouch', 'ur_dash' }, 'https://www.youtube.com/watch?v=l6NXrW6Zo9Y' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'crouch', 'ul_dash' }, 'https://www.youtube.com/watch?v=boRg3JxbM9s' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'crouch', 'ur_dash' }, 'https://www.youtube.com/watch?v=l6NXrW6Zo9Y' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'crouch', 'ul_dash' }, 'https://www.youtube.com/watch?v=boRg3JxbM9s' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'crouch', 'ur_dash' }, 'https://www.youtube.com/watch?v=l6NXrW6Zo9Y' },
+		},
+		["Old Site A - Room d0_north"] = {
+			{ 3, { 'custom_green', 'split_interactables_none', 'crouch', 'l_dash' }, 'https://www.youtube.com/watch?v=euY1qG7OvzE' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', 'crouch', 'l_dash' }, 'https://www.youtube.com/watch?v=euY1qG7OvzE' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'crouch', 'l_dash' }, 'https://www.youtube.com/watch?v=euY1qG7OvzE' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'crouch', 'l_dash' }, 'https://www.youtube.com/watch?v=euY1qG7OvzE' },
 		},
 	},
 	["Old Site A - Room d6_east"] = {
@@ -355,6 +427,12 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_level', 'ul_dash' }, 'https://www.youtube.com/watch?v=UsZ38mJr_Hg' },
 			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'ul_dash' }, 'https://www.youtube.com/watch?v=UsZ38mJr_Hg' },
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'ul_dash' }, 'https://www.youtube.com/watch?v=UsZ38mJr_Hg' },
+		},
+		["Old Site A - Room d6 Strawberry"] = {
+			{ 3, { 'custom_green', 'split_interactables_none', 'u_dash' }, 'https://www.youtube.com/watch?v=fTPTwcDCnuc' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', 'u_dash' }, 'https://www.youtube.com/watch?v=fTPTwcDCnuc' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'u_dash' }, 'https://www.youtube.com/watch?v=fTPTwcDCnuc' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'u_dash' }, 'https://www.youtube.com/watch?v=fTPTwcDCnuc' },
 		},
 	},
 	["Old Site A - Room d7_west"] = {
@@ -838,9 +916,13 @@ VIDEO_LINKS = {
 	["Golden Ridge A - Room c-09_west"] = {
 		["Golden Ridge A - Room c-09_east"] = {
 			{ 5, { 'custom_red', 'split_interactables_none', 'any_dash_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=85lJR0m8Sh4' },
+			{ 5, { 'custom_red', 'split_interactables_none', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=qtRSYEVhaxY' },
 			{ 5, { 'custom_red', 'split_interactables_per_level', 'any_dash_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=85lJR0m8Sh4' },
+			{ 5, { 'custom_red', 'split_interactables_per_level', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=qtRSYEVhaxY' },
 			{ 5, { 'custom_red', 'split_interactables_per_level_and_side', 'any_dash_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=85lJR0m8Sh4' },
+			{ 5, { 'custom_red', 'split_interactables_per_level_and_side', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=qtRSYEVhaxY' },
 			{ 5, { 'custom_red', 'split_interactables_per_side', 'any_dash_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=85lJR0m8Sh4' },
+			{ 5, { 'custom_red', 'split_interactables_per_side', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=qtRSYEVhaxY' },
 		},
 	},
 	["Golden Ridge B - Room a-00_west"] = {
@@ -1235,6 +1317,90 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_level', '7-badeline_boosters', '7-springs', 'crouch', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=FR7Guqx-iLc' },
 			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', '7c-badeline_boosters', '7c-springs', 'crouch', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=FR7Guqx-iLc' },
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'c-badeline_boosters', 'c-springs', 'crouch', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=FR7Guqx-iLc' },
+		},
+	},
+	["Forsaken City A - Room 5_bottom"] = {
+		["Forsaken City A - Room 5 Strawberry"] = {
+			{ 3, { 'custom_green', 'split_interactables_none', 'u_dash' }, 'https://www.youtube.com/watch?v=uwW7uufUPck' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', 'u_dash' }, 'https://www.youtube.com/watch?v=uwW7uufUPck' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'u_dash' }, 'https://www.youtube.com/watch?v=uwW7uufUPck' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'u_dash' }, 'https://www.youtube.com/watch?v=uwW7uufUPck' },
+		},
+	},
+	["Forsaken City A - Room 8b_east"] = {
+		["Forsaken City A - Room 8_north"] = {
+			{ 3, { 'custom_green', 'split_interactables_none', 'crouch', 'dl_dash' }, 'https://www.youtube.com/watch?v=fGo1UobSBE4' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', 'crouch', 'dl_dash' }, 'https://www.youtube.com/watch?v=fGo1UobSBE4' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'crouch', 'dl_dash' }, 'https://www.youtube.com/watch?v=fGo1UobSBE4' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'crouch', 'dl_dash' }, 'https://www.youtube.com/watch?v=fGo1UobSBE4' },
+		},
+	},
+	["Forsaken City A - Room 8_north-east"] = {
+		["Forsaken City A - Room 8_north"] = {
+			{ 3, { 'custom_green', 'split_interactables_none', 'crouch', 'l_dash' }, 'https://www.youtube.com/watch?v=VVLBM7jyUis' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', 'crouch', 'l_dash' }, 'https://www.youtube.com/watch?v=VVLBM7jyUis' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'crouch', 'l_dash' }, 'https://www.youtube.com/watch?v=VVLBM7jyUis' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'crouch', 'l_dash' }, 'https://www.youtube.com/watch?v=VVLBM7jyUis' },
+		},
+	},
+	["Forsaken City A - Room 11_west"] = {
+		["Forsaken City A - Cassette"] = {
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'crouch', 'dl_dash', 'r_climb', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=B4eNJv3YTzo' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', '1-traffic_blocks', 'crouch', 'dl_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=B4eNJv3YTzo' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', '1a-traffic_blocks', 'crouch', 'dl_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=B4eNJv3YTzo' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'a-traffic_blocks', 'crouch', 'dl_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=B4eNJv3YTzo' },
+		},
+	},
+	["Mirror Temple A - Room d-20_west"] = {
+		["Mirror Temple A - Room d-20_east"] = {
+			{ 2, { 'split_interactables_none', '5a-bad', 'coins', 'seekers' }, 'https://www.youtube.com/watch?v=Ir1pY1EKHSw' },
+			{ 2, { 'split_interactables_per_level', '5-coins', '5-seekers', '5a-bad' }, 'https://www.youtube.com/watch?v=Ir1pY1EKHSw' },
+			{ 2, { 'split_interactables_per_level_and_side', '5a-bad', '5a-coins', '5a-seekers' }, 'https://www.youtube.com/watch?v=Ir1pY1EKHSw' },
+			{ 2, { 'split_interactables_per_side', '5a-bad', 'a-coins', 'a-seekers' }, 'https://www.youtube.com/watch?v=Ir1pY1EKHSw' },
+		},
+	},
+	["Old Site A - Room 0_south-west"] = {
+		["Old Site A - Room 0_north-west"] = {
+			{ 3, { 'custom_green', 'split_interactables_none', 'dream_blocks', 'l_dash' }, 'https://www.youtube.com/watch?v=3tW1_xKf2Dk' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', '2-dream_blocks', 'l_dash' }, 'https://www.youtube.com/watch?v=3tW1_xKf2Dk' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', '2a-dream_blocks', 'l_dash' }, 'https://www.youtube.com/watch?v=3tW1_xKf2Dk' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'a-dream_blocks', 'l_dash' }, 'https://www.youtube.com/watch?v=3tW1_xKf2Dk' },
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'crouch', 'r_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=Mma8elQw6-o' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'crouch', 'r_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=Mma8elQw6-o' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'crouch', 'r_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=Mma8elQw6-o' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'crouch', 'r_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=Mma8elQw6-o' },
+		},
+	},
+	["Old Site A - Room 6_bottom"] = {
+		["Old Site A - Room 6_top"] = {
+			{ 3, { 'custom_green', 'split_interactables_none', 'coins', 'dream_blocks', 'l_dash' }, 'https://www.youtube.com/watch?v=BFoA4UeQ-l0' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', '2-coins', '2-dream_blocks', 'l_dash' }, 'https://www.youtube.com/watch?v=BFoA4UeQ-l0' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', '2a-coins', '2a-dream_blocks', 'l_dash' }, 'https://www.youtube.com/watch?v=BFoA4UeQ-l0' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'a-coins', 'a-dream_blocks', 'l_dash' }, 'https://www.youtube.com/watch?v=BFoA4UeQ-l0' },
+		},
+	},
+	["Old Site A - Room 9_west"] = {
+		["Old Site A - Room 9_north"] = {
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'u_dash' }, 'https://www.youtube.com/watch?v=KptUTWTG6BI' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'u_dash' }, 'https://www.youtube.com/watch?v=KptUTWTG6BI' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'u_dash' }, 'https://www.youtube.com/watch?v=KptUTWTG6BI' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'u_dash' }, 'https://www.youtube.com/watch?v=KptUTWTG6BI' },
+		},
+	},
+	["Old Site A - Room end_3c_bottom"] = {
+		["Old Site A - Room end_3c Strawberry"] = {
+			{ 4, { 'custom_yellow', 'split_interactables_none', 'springs', 'ur_dash' }, 'https://www.youtube.com/watch?v=EZWwTDFWFr0' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level', '2-springs', 'ur_dash' }, 'https://www.youtube.com/watch?v=EZWwTDFWFr0' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', '2a-springs', 'ur_dash' }, 'https://www.youtube.com/watch?v=EZWwTDFWFr0' },
+			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'a-springs', 'ur_dash' }, 'https://www.youtube.com/watch?v=EZWwTDFWFr0' },
+		},
+	},
+	["Old Site A - Room d0_north"] = {
+		["Old Site A - Room d0_north-east"] = {
+			{ 3, { 'custom_green', 'split_interactables_none', 'crouch', 'l_dash', 'r_dash' }, 'https://www.youtube.com/watch?v=KjdWiWscDsA' },
+			{ 3, { 'custom_green', 'split_interactables_per_level', 'crouch', 'l_dash', 'r_dash' }, 'https://www.youtube.com/watch?v=KjdWiWscDsA' },
+			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'crouch', 'l_dash', 'r_dash' }, 'https://www.youtube.com/watch?v=KjdWiWscDsA' },
+			{ 3, { 'custom_green', 'split_interactables_per_side', 'crouch', 'l_dash', 'r_dash' }, 'https://www.youtube.com/watch?v=KjdWiWscDsA' },
 		},
 	},
 }
