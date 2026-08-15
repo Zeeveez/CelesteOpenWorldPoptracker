@@ -1,6 +1,17 @@
 {
     "versions": [
         {
+            "package_version": "2.1.1",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v2.1.1.zip",
+            "sha256": "28A525A8375E30F9403B37DE4961B018BC8E263F5D02CF27DBE3930BDD2D04C3",
+            "changelog": [
+                "OOL Golden Strawberry Support",
+                "Add hints tab for uncollected hinted locations",
+                "Update logic to v1.1.3",
+                "Pull latest OOL"
+            ]
+        },
+        {
             "package_version": "2.1.0",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v2.1.0.zip",
             "sha256": "4660837EBABCAA4CB4755357211170E013D5145D254347F94CC423B5A47FAEB7",
