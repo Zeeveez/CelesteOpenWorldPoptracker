@@ -396,9 +396,10 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
         to_room = row['to_room']
         to_region = row['to_region']
         items = row['items']
+        # TODO: handle video links for apworld logics
         difficulty = ["BAD","BAD","BAD","custom_green","custom_yellow","custom_red","custom_purple"][int(row['difficulty'])]
         blockers = row['blockers']
-        blockers = row['dangerous']
+        dangerous = row['dangerous'] == "TRUE"
         multi_room = row['multiroom'] == "TRUE"
         core_state = row['core_state']
         dts = row['dts'] == "TRUE"
@@ -406,6 +407,13 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
         vid_variant = row['vid_variant'] == "TRUE"
         video_link = row['video_link']
         note = row['note']
+
+        if len(blockers):
+            # TODO: handle blockers
+            continue
+        if dangerous:
+            # TODO: handle dangerous skips in goldens
+            continue
 
         from_full_name = f'{full_level_name} - Room {from_room}_{from_region}'
         to_full_name = f'{full_level_name} - Room {to_room}_{to_region}'
