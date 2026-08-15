@@ -403,6 +403,7 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
         core_state = row['core_state']
         dts = row['dts'] == "TRUE"
         assist_mode = row['assist_mode'] == "TRUE"
+        vid_variant = row['vid_variant'] == "TRUE"
         video_link = row['video_link']
         note = row['note']
 
