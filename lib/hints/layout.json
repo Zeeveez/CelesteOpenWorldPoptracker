@@ -1,0 +1,30 @@
+{
+    "hints": {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_size": "3,3",
+        "rows": [
+            [ "hint_0" ],
+            [ "hint_1" ],
+            [ "hint_2" ],
+            [ "hint_3" ],
+            [ "hint_4" ],
+            [ "hint_5" ],
+            [ "hint_6" ],
+            [ "hint_7" ],
+            [ "hint_8" ],
+            [ "hint_9" ],
+            [ "hint_10" ],
+            [ "hint_11" ],
+            [ "hint_12" ],
+            [ "hint_13" ],
+            [ "hint_14" ],
+            [ "hint_15" ],
+            [ "hint_16" ],
+            [ "hint_17" ],
+            [ "hint_18" ],
+            [ "hint_19" ]
+        ]
+    }
+}
