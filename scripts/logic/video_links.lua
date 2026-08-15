@@ -1121,10 +1121,6 @@ VIDEO_LINKS = {
 	},
 	["The Summit A - Room a-02_west"] = {
 		["The Summit A - Room a-02_east"] = {
-			{ 3, { 'custom_green', 'split_interactables_none', 'any_dash_u_ur' }, 'https://www.youtube.com/watch?v=crs9h8VDQew' },
-			{ 3, { 'custom_green', 'split_interactables_per_level', 'any_dash_u_ur' }, 'https://www.youtube.com/watch?v=crs9h8VDQew' },
-			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'any_dash_u_ur' }, 'https://www.youtube.com/watch?v=crs9h8VDQew' },
-			{ 3, { 'custom_green', 'split_interactables_per_side', 'any_dash_u_ur' }, 'https://www.youtube.com/watch?v=crs9h8VDQew' },
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'crouch', 'dr_dash', 'l_climb', 'u_dash' }, 'https://www.youtube.com/watch?v=YfKwyInRtp4' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'crouch', 'dr_dash', 'l_climb', 'u_dash' }, 'https://www.youtube.com/watch?v=YfKwyInRtp4' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'crouch', 'dr_dash', 'l_climb', 'u_dash' }, 'https://www.youtube.com/watch?v=YfKwyInRtp4' },
