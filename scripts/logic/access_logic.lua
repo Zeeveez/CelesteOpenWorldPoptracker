@@ -2913,6 +2913,12 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_developer' },
 			{ 'logic_difficulty_vanilla' }
 		} },
+		{ "Forsaken City A - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
 	},
 	["Forsaken City A - Room end_main"] = {
 		{ "Forsaken City A - Room end", { {  } } },
@@ -5820,6 +5826,12 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla' }
 		} },
 		{ "Old Site A - Room 12_east", { {  } } },
+		{ "Old Site A - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
 	},
 	["Old Site A - Room 13_phone"] = {
 		{ "Old Site A - Room 13", { {  } } },
@@ -10432,6 +10444,10 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla' }
 		} },
 		{ "Celestial Resort A - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'any_dash_l_ul', 'celestialresorta-frontdoorkey', 'celestialresorta-hallwaykey1', 'celestialresorta-hallwaykey2', 'celestialresorta-hugemesskey', 'coins', 'ur_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'any_dash_r_ur', 'celestialresorta-frontdoorkey', 'celestialresorta-hallwaykey1', 'celestialresorta-hallwaykey2', 'celestialresorta-hugemesskey', 'coins', 'ul_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'celestialresorta-frontdoorkey', 'celestialresorta-hallwaykey1', 'celestialresorta-hallwaykey2', 'celestialresorta-hugemesskey', 'coins', 'l_climb', 'ur_dash' },
@@ -14500,6 +14516,10 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla' }
 		} },
 		{ "Golden Ridge A - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'blue_boosters', 'coins', 'l_climb', 'l_dash', 'move_blocks', 'r_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'coins', 'r_dash', 'u_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'coins', 'u_dash', 'ur_dash' },
@@ -20482,6 +20502,12 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'mirrortemplea-theo_crystal' },
 			{ 'logic_difficulty_vanilla', 'split_interactables_per_side', 'a-theo_crystal' }
 		} },
+		{ "Mirror Temple A - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
 	},
 	["Mirror Temple A - Room e-11_goal"] = {
 		{ "Mirror Temple A - Room e-11", { {  } } },
@@ -24634,6 +24660,12 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla' }
 		} },
 		{ "Reflection A - Room boss-19_east", { {  } } },
+		{ "Reflection A - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
 	},
 	["Reflection A - Room boss-20_center"] = {
 		{ "Reflection A - Room boss-20", { {  } } },
@@ -32525,6 +32557,10 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla' }
 		} },
 		{ "The Summit A - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'badeline_boosters', 'coins', 'dream_blocks', 'l_climb', 'l_dash', 'r_dash', 'thesummita-2500mkey', 'traffic_blocks', 'u_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'badeline_boosters', 'coins', 'dream_blocks', 'l_climb', 'r_climb', 'r_dash', 'thesummita-2500mkey', 'traffic_blocks', 'ul_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'badeline_boosters', 'coins', 'dream_blocks', 'l_dash', 'r_climb', 'r_dash', 'thesummita-2500mkey', 'traffic_blocks', 'u_dash' },
@@ -35686,6 +35722,12 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_assist' },
 			{ 'logic_difficulty_developer' },
 			{ 'logic_difficulty_vanilla' }
+		} },
+		{ "Core A - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
 		} },
 	},
 	["Core A - Room space_goal"] = {
@@ -41793,10 +41835,10 @@ LOCATION_ACCESS_LOGIC = {
 		} },
 		{ "Farewell - Room GOAL_main", { {  } } },
 		{ "Farewell - Room end-golden_bottom", {
-			{ 'split_interactables_none', 'badeline_boosters', 'bird', 'blue_boosters', 'blue_cassette_blocks', 'breaker_boxes', 'coins', 'core_blocks', 'crouch', 'd_dash', 'dash_refills', 'dl_dash', 'double_dash_refills', 'dr_dash', 'dream_blocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'feathers', 'fire_ice_balls', 'green_cassette_blocks', 'jellyfish', 'kevin_blocks', 'l_climb', 'l_dash', 'move_blocks', 'pink_cassette_blocks', 'pufferfish', 'r_climb', 'r_dash', 'red_boosters', 'springs', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ul_dash', 'ur_dash', 'yellow_cassette_blocks' },
-			{ 'split_interactables_per_level', 'crouch', 'd_dash', 'dl_dash', 'dr_dash', 'farewell-badeline_boosters', 'farewell-bird', 'farewell-blue_boosters', 'farewell-blue_cassette_blocks', 'farewell-breaker_boxes', 'farewell-coins', 'farewell-core_blocks', 'farewell-dash_refills', 'farewell-double_dash_refills', 'farewell-dream_blocks', 'farewell-feathers', 'farewell-fire_ice_balls', 'farewell-green_cassette_blocks', 'farewell-jellyfish', 'farewell-kevin_blocks', 'farewell-move_blocks', 'farewell-pink_cassette_blocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'farewell-pufferfish', 'farewell-red_boosters', 'farewell-springs', 'farewell-swap_blocks', 'farewell-traffic_blocks', 'farewell-yellow_cassette_blocks', 'l_climb', 'l_dash', 'r_climb', 'r_dash', 'u_dash', 'ul_dash', 'ur_dash' },
-			{ 'split_interactables_per_level_and_side', 'crouch', 'd_dash', 'dl_dash', 'dr_dash', 'farewell-badeline_boosters', 'farewell-bird', 'farewell-blue_boosters', 'farewell-blue_cassette_blocks', 'farewell-breaker_boxes', 'farewell-coins', 'farewell-core_blocks', 'farewell-dash_refills', 'farewell-double_dash_refills', 'farewell-dream_blocks', 'farewell-feathers', 'farewell-fire_ice_balls', 'farewell-green_cassette_blocks', 'farewell-jellyfish', 'farewell-kevin_blocks', 'farewell-move_blocks', 'farewell-pink_cassette_blocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'farewell-pufferfish', 'farewell-red_boosters', 'farewell-springs', 'farewell-swap_blocks', 'farewell-traffic_blocks', 'farewell-yellow_cassette_blocks', 'l_climb', 'l_dash', 'r_climb', 'r_dash', 'u_dash', 'ul_dash', 'ur_dash' },
-			{ 'split_interactables_per_side', 'a-badeline_boosters', 'a-bird', 'a-blue_boosters', 'a-blue_cassette_blocks', 'a-breaker_boxes', 'a-coins', 'a-core_blocks', 'a-dash_refills', 'a-double_dash_refills', 'a-dream_blocks', 'a-feathers', 'a-fire_ice_balls', 'a-green_cassette_blocks', 'a-jellyfish', 'a-kevin_blocks', 'a-move_blocks', 'a-pink_cassette_blocks', 'a-pufferfish', 'a-red_boosters', 'a-springs', 'a-swap_blocks', 'a-traffic_blocks', 'a-yellow_cassette_blocks', 'crouch', 'd_dash', 'dl_dash', 'dr_dash', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'l_climb', 'l_dash', 'r_climb', 'r_dash', 'u_dash', 'ul_dash', 'ur_dash' }
+			{ 'split_interactables_none', 'entered_at_start' },
+			{ 'split_interactables_per_level', 'entered_at_start' },
+			{ 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'split_interactables_per_side', 'entered_at_start' }
 		} },
 	},
 	["Farewell - Room j-17_south"] = {
@@ -41917,10 +41959,10 @@ LOCATION_ACCESS_LOGIC = {
 		{ "Farewell - Room j-19", { {  } } },
 		{ "Farewell - Room GOAL_moon", { {  } } },
 		{ "Farewell - Room end-golden_bottom", {
-			{ 'split_interactables_none', 'badeline_boosters', 'bird', 'blue_boosters', 'blue_cassette_blocks', 'breaker_boxes', 'coins', 'core_blocks', 'crouch', 'd_dash', 'dash_refills', 'dl_dash', 'double_dash_refills', 'dr_dash', 'dream_blocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'feathers', 'fire_ice_balls', 'green_cassette_blocks', 'jellyfish', 'kevin_blocks', 'l_climb', 'l_dash', 'move_blocks', 'pink_cassette_blocks', 'pufferfish', 'r_climb', 'r_dash', 'red_boosters', 'springs', 'swap_blocks', 'traffic_blocks', 'u_dash', 'ul_dash', 'ur_dash', 'yellow_cassette_blocks' },
-			{ 'split_interactables_per_level', 'crouch', 'd_dash', 'dl_dash', 'dr_dash', 'farewell-badeline_boosters', 'farewell-bird', 'farewell-blue_boosters', 'farewell-blue_cassette_blocks', 'farewell-breaker_boxes', 'farewell-coins', 'farewell-core_blocks', 'farewell-dash_refills', 'farewell-double_dash_refills', 'farewell-dream_blocks', 'farewell-feathers', 'farewell-fire_ice_balls', 'farewell-green_cassette_blocks', 'farewell-jellyfish', 'farewell-kevin_blocks', 'farewell-move_blocks', 'farewell-pink_cassette_blocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'farewell-pufferfish', 'farewell-red_boosters', 'farewell-springs', 'farewell-swap_blocks', 'farewell-traffic_blocks', 'farewell-yellow_cassette_blocks', 'l_climb', 'l_dash', 'r_climb', 'r_dash', 'u_dash', 'ul_dash', 'ur_dash' },
-			{ 'split_interactables_per_level_and_side', 'crouch', 'd_dash', 'dl_dash', 'dr_dash', 'farewell-badeline_boosters', 'farewell-bird', 'farewell-blue_boosters', 'farewell-blue_cassette_blocks', 'farewell-breaker_boxes', 'farewell-coins', 'farewell-core_blocks', 'farewell-dash_refills', 'farewell-double_dash_refills', 'farewell-dream_blocks', 'farewell-feathers', 'farewell-fire_ice_balls', 'farewell-green_cassette_blocks', 'farewell-jellyfish', 'farewell-kevin_blocks', 'farewell-move_blocks', 'farewell-pink_cassette_blocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'farewell-pufferfish', 'farewell-red_boosters', 'farewell-springs', 'farewell-swap_blocks', 'farewell-traffic_blocks', 'farewell-yellow_cassette_blocks', 'l_climb', 'l_dash', 'r_climb', 'r_dash', 'u_dash', 'ul_dash', 'ur_dash' },
-			{ 'split_interactables_per_side', 'a-badeline_boosters', 'a-bird', 'a-blue_boosters', 'a-blue_cassette_blocks', 'a-breaker_boxes', 'a-coins', 'a-core_blocks', 'a-dash_refills', 'a-double_dash_refills', 'a-dream_blocks', 'a-feathers', 'a-fire_ice_balls', 'a-green_cassette_blocks', 'a-jellyfish', 'a-kevin_blocks', 'a-move_blocks', 'a-pink_cassette_blocks', 'a-pufferfish', 'a-red_boosters', 'a-springs', 'a-swap_blocks', 'a-traffic_blocks', 'a-yellow_cassette_blocks', 'crouch', 'd_dash', 'dl_dash', 'dr_dash', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'l_climb', 'l_dash', 'r_climb', 'r_dash', 'u_dash', 'ul_dash', 'ur_dash' }
+			{ 'split_interactables_none', 'entered_at_start' },
+			{ 'split_interactables_per_level', 'entered_at_start' },
+			{ 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'split_interactables_per_side', 'entered_at_start' }
 		} },
 	},
 	["Farewell - Room GOAL_main"] = {
@@ -42021,6 +42063,10 @@ LOCATION_ACCESS_LOGIC = {
 	["Farewell - Room end-golden_top"] = {
 		{ "Farewell - Room end-golden", { {  } } },
 		{ "Farewell - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'badeline_boosters', 'coins', 'd_dash', 'dream_blocks', 'l_climb', 'r_dash', 'u_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'badeline_boosters', 'coins', 'd_dash', 'dream_blocks', 'r_climb', 'r_dash', 'u_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level', 'd_dash', 'farewell-badeline_boosters', 'farewell-coins', 'farewell-dream_blocks', 'l_climb', 'r_dash', 'u_dash' },
@@ -42037,6 +42083,134 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla', 'split_interactables_per_level', 'crouch', 'd_dash', 'dl_dash', 'dr_dash', 'farewell-badeline_boosters', 'farewell-bird', 'farewell-blue_boosters', 'farewell-blue_cassette_blocks', 'farewell-blue_clouds', 'farewell-breaker_boxes', 'farewell-coins', 'farewell-core_blocks', 'farewell-dash_refills', 'farewell-double_dash_refills', 'farewell-dream_blocks', 'farewell-feathers', 'farewell-fire_ice_balls', 'farewell-green_cassette_blocks', 'farewell-jellyfish', 'farewell-kevin_blocks', 'farewell-move_blocks', 'farewell-pink_cassette_blocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'farewell-pufferfish', 'farewell-red_boosters', 'farewell-springs', 'farewell-swap_blocks', 'farewell-traffic_blocks', 'farewell-yellow_cassette_blocks', 'l_climb', 'l_dash', 'r_climb', 'r_dash', 'u_dash', 'ur_dash' },
 			{ 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'crouch', 'd_dash', 'dl_dash', 'dr_dash', 'farewell-badeline_boosters', 'farewell-bird', 'farewell-blue_boosters', 'farewell-blue_cassette_blocks', 'farewell-blue_clouds', 'farewell-breaker_boxes', 'farewell-coins', 'farewell-core_blocks', 'farewell-dash_refills', 'farewell-double_dash_refills', 'farewell-dream_blocks', 'farewell-feathers', 'farewell-fire_ice_balls', 'farewell-green_cassette_blocks', 'farewell-jellyfish', 'farewell-kevin_blocks', 'farewell-move_blocks', 'farewell-pink_cassette_blocks', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'farewell-pufferfish', 'farewell-red_boosters', 'farewell-springs', 'farewell-swap_blocks', 'farewell-traffic_blocks', 'farewell-yellow_cassette_blocks', 'l_climb', 'l_dash', 'r_climb', 'r_dash', 'u_dash', 'ur_dash' },
 			{ 'logic_difficulty_vanilla', 'split_interactables_per_side', 'a-badeline_boosters', 'a-bird', 'a-blue_boosters', 'a-blue_cassette_blocks', 'a-blue_clouds', 'a-breaker_boxes', 'a-coins', 'a-core_blocks', 'a-dash_refills', 'a-double_dash_refills', 'a-dream_blocks', 'a-feathers', 'a-fire_ice_balls', 'a-green_cassette_blocks', 'a-jellyfish', 'a-kevin_blocks', 'a-move_blocks', 'a-pink_cassette_blocks', 'a-pufferfish', 'a-red_boosters', 'a-springs', 'a-swap_blocks', 'a-traffic_blocks', 'a-yellow_cassette_blocks', 'crouch', 'd_dash', 'dl_dash', 'dr_dash', 'farewell-powersourcekey1', 'farewell-powersourcekey2', 'farewell-powersourcekey3', 'farewell-powersourcekey4', 'farewell-powersourcekey5', 'l_climb', 'l_dash', 'r_climb', 'r_dash', 'u_dash', 'ur_dash' }
+		} },
+	},
+	["Forsaken City B - Level Clear"] = {
+		{ "Forsaken City B - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Forsaken City C - Level Clear"] = {
+		{ "Forsaken City C - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Old Site B - Level Clear"] = {
+		{ "Old Site B - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Old Site C - Level Clear"] = {
+		{ "Old Site C - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Celestial Resort B - Level Clear"] = {
+		{ "Celestial Resort B - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Celestial Resort C - Level Clear"] = {
+		{ "Celestial Resort C - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Golden Ridge B - Level Clear"] = {
+		{ "Golden Ridge B - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Golden Ridge C - Level Clear"] = {
+		{ "Golden Ridge C - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Mirror Temple B - Level Clear"] = {
+		{ "Mirror Temple B - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Mirror Temple C - Level Clear"] = {
+		{ "Mirror Temple C - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Reflection B - Level Clear"] = {
+		{ "Reflection B - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Reflection C - Level Clear"] = {
+		{ "Reflection C - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["The Summit B - Level Clear"] = {
+		{ "The Summit B - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["The Summit C - Level Clear"] = {
+		{ "The Summit C - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Core B - Level Clear"] = {
+		{ "Core B - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
+		} },
+	},
+	["Core C - Level Clear"] = {
+		{ "Core C - Golden Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'entered_at_start' },
+			{ 'custom_green', 'split_interactables_per_side', 'entered_at_start' }
 		} },
 	},
 	["Epilogue - Room outside"] = {
