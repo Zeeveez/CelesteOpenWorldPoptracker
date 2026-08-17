@@ -15,7 +15,7 @@ local function PopulateStatusBar(slot_data)
     local seed = Archipelago.Seed
     seed = "Seed: "..seed
     
-    local status = game_version.."    "..locations.."    "..seed
+    local status = game_version.."        "..locations.."        "..seed
 
     local status_bar = Tracker:FindObjectForCode("status_bar")
     status_bar.BadgeText = status
