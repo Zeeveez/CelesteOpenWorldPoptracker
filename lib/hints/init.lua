@@ -93,8 +93,8 @@ function DisplayHints()
         end
     end
     for j = i,19 do
-        local hint_obj = Tracker:FindObjectForCode("hint_"..i)
-        if i == 0 then
+        local hint_obj = Tracker:FindObjectForCode("hint_"..j)
+        if j == 0 then
             hint_obj.BadgeText = "No uncollected hinted locations"
         else
             hint_obj.BadgeText = ""
@@ -161,6 +161,7 @@ function RegisterOnHintNotify(notify_keys)
         hint_obj:SetOverlayAlign("left")
         hint_obj:SetOverlayFontSize(14)
         hint_obj.BadgeTextColor = "#ffffff"
+        hint_obj.BadgeText = ""
     end
     DisplayHints()
 end
