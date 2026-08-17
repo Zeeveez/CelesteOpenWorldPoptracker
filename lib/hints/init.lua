@@ -76,14 +76,10 @@ function DisplayHints()
     for location_id, hint in pairs(all_hints) do
         local location = LOCATION_MAPPING[hint.location]
         local location_obj = Tracker:FindObjectForCode(location)
-        print(location_obj)
         if location_obj.AvailableChestCount ~= 0 then
             local hint_obj = Tracker:FindObjectForCode("hint_"..i)
             i = i + 1
             hint_obj.BadgeText = hint.receiving_player_name.."'s "..hint.item_name.." is at "..location:sub(2, -2)
-            print(hint_obj.BadgeText)
-            print(hint.item_flags)
-            print(hint.status)
             if hint.found then
                 hint_obj.BadgeTextColor = HINT_TEXT_COLORS[40]
             elseif hint.status == 0 then
@@ -164,6 +160,7 @@ function RegisterOnHintNotify(notify_keys)
         local hint_obj = Tracker:FindObjectForCode("hint_"..i)
         hint_obj:SetOverlayAlign("left")
         hint_obj:SetOverlayFontSize(14)
+        hint_obj.BadgeTextColor = "#ffffff"
     end
     DisplayHints()
 end

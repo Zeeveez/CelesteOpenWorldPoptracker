@@ -2,6 +2,7 @@ require("lib/autostatus/init")
 require("lib/hints/init")
 require("lib/recent_items/init")
 require("lib/slot_data/init")
+require("lib/status_bar/init")
 
 
 -- Items

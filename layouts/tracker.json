@@ -7,6 +7,16 @@
             "content": [
                 {
                     "type": "container",
+                    "background": "#101010",
+                    "dock": "top",
+                    "content": {
+                        "type": "item",
+                        "item": "status_bar",
+                        "max_height": 16
+                    }
+                },
+                {
+                    "type": "container",
                     "background": "#212121",
                     "content": {
                         "type": "tabbed",
