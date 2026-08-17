@@ -7,7 +7,7 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 
 ## Requirements
 
-- [PopTracker](https://poptracker.github.io/) (0.35.2 minimum, latest recommended)
+- [PopTracker](https://poptracker.github.io/) (0.35.4 minimum, latest recommended)
 
 
 ## Installation and Usage
@@ -22,7 +22,7 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 
 - Archipelago autotracking support
 - Backwards compatibility with Celeste (Open World) v1.0
-    - Uses v1.1 logic, manually set Vanilla Movement Logic Difficulty for a collection of out of logic locations due to its nature of including harder movement
+    - Uses v1.1 logic
 - Summary views of all locations in the game
 - Individual map views of all levels (by checkpoint)
 - Dynamic layout to only show information relevant to your active session
@@ -36,12 +36,30 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 - Toggleable auto-tabbing and "Where am I?" (pans/zooms the map to centre the room that you're currently in)
 - Access Logic:
 	- Randomiser Logic (Shown in green)
-	- Custom Logic/Sequence Breaks (Shown in yellow; See Notes for scope)
+	- Custom Logic/Sequence Breaks (Shown in yellow)
+        - Split into multiple difficulties: Green, Yellow, Red, and Purple
+	    - The sequence breaks implemented into the tracker are captured in the [OOL Sheet](https://docs.google.com/spreadsheets/d/1oAd9AermZXqerfXkCMwffkq7jkMnc5tY_arYFZ3xfOE).
+        - Additions can be requested using [the web form](https://docs.google.com/forms/d/e/1FAIpQLSc-_ia_77PShmiE3Lbnc4gOV64R2GZRiBCTVhV9cSa9zYb5tA/viewform)
 - Quality of Life: 
 	- Smart Keys/Gems indicate what's possible when collecting these items with the relevant *-sanity disabled
-	- GO Mode indicator shown on Granny's House Keys when strawberry requirement is met and required items to clear goal level are unlocked
+	- GO Mode indicator shown on Granny's House Keys when the strawberry requirement is met and required items to clear goal level are unlocked
 	- Progress Graph that displays all locations in a single small summary
     - Recent item feed shows a selection of your most recently received items
+    - Hint tab to provide quick access to hints
+    - Logic Directory variant lists all logic by room for querying/debugging (1080p screen minimum recommended)
+    - Explain feature highlights routes to locations and provides videos to show required tricks (see How to use Explain)
+
+### How to use Explain
+- Click on the Explain button under Map Controls
+- Mouse over a location on the map
+- In the section list tooltip, click on an individual location's icon
+- PopTracker will automatically navigate to the Explanation tab showing the route to the given location (max the last 20 steps), the last step is the step at the bottom of the list
+- A video link may be provided that can be clicked on to open a youtube (or similar) video to show the lowest difficulty trick that you have all required items to perform
+
+#### Caveats
+
+- Explain will always try to provide a video if it has one available, note that because of this there may be easier routes (for example, developer intended or vanilla movement logic difficulty routes), however there simply isn't another video available. This is primarily intended for less obvious tricks and so the assumption is that videos of clear routes are likely not needed.
+
 
 ## Tracker Views
 
@@ -82,8 +100,8 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
   <tr>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/chapters/7a.png"/>, etc.</td>
     <td>Goal</td>
-    <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/show-custom-logic.png"/></td>
-    <td>Show Custom Logic</td>
+    <td>Various</td>
+    <td>Show Custom Logic: <ul><li>Badeline: Vanilla Movement</li><li>Green: Easy</li><li>Yellow: Medium</li><li>Red: Hard</li><li>Purple: Brutal</li></td>
   </tr>
   <tr>
     <td><img width="50" src="https://github.com/Zeeveez/CelesteOpenWorldPoptracker/blob/master/images/icons/locked_door.png"/></td>
@@ -260,9 +278,6 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 	    - void does not trigger auto-tabbing as there is no notification for it from AP
 	- 9A-8 (Reconciliation) is so wide that it had to be sliced; rows are traversed left to right, top to bottom
 	- end-golden is so far away in 9A-9 that it had to be adjusted to appear much closer than it actually is for the map to be useful
-- Custom logic/sequence breaks:
-    - **Currently disabled**
-	- The sequence breaks implemented into the tracker is a non-exhaustive list and does not capture everything from the min-items worksheet
 
 
 ## Thanks
@@ -273,4 +288,5 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 - [StripesOO7](https://github.com/StripesOO7) for [Poptracker Packbuilder-Script](https://github.com/StripesOO7/poptracker-pack-builder) which generated the basis of the location and item lists
 - [ArchipelagoMW](https://github.com/ArchipelagoMW) for [Archipelago](https://github.com/ArchipelagoMW/Archipelago)
 - @Sterlia for custom AP item sprites used by locations
+- @Seemmetor for the [OOL route collection sheet](https://docs.google.com/spreadsheets/d/1oAd9AermZXqerfXkCMwffkq7jkMnc5tY_arYFZ3xfOE)
 
