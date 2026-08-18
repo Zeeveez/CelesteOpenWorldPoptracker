@@ -59,6 +59,7 @@ A PopTracker pack for the [Celeste (Open World) Archipelago Randomizer](https://
 #### Caveats
 
 - Explain will always try to provide a video if it has one available, note that because of this there may be easier routes (for example, developer intended or vanilla movement logic difficulty routes), however there simply isn't another video available. This is primarily intended for less obvious tricks and so the assumption is that videos of clear routes are likely not needed.
+- Does not take into account Smart Keys or Smart Gems. In those cases, as keys/gems persist, you can use explain on the key locations to get the items before using explain to get any item that requires them.
 
 
 ## Tracker Views
