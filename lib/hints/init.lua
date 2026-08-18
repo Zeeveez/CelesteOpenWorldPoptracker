@@ -133,8 +133,8 @@ function ProcessHint(hint)
         location_obj.Highlight = HIGHLIGHT_LEVEL[hint.status]
     end
     
-    hint.receiving_player_name = Archipelago:GetPlayerAlias(hint.finding_player)
-    hint.receiving_player_game = Archipelago:GetPlayerGame(hint.finding_player)
+    hint.receiving_player_name = Archipelago:GetPlayerAlias(hint.receiving_player)
+    hint.receiving_player_game = Archipelago:GetPlayerGame(hint.receiving_player)
     hint.item_name = Archipelago:GetItemName(hint.item, hint.receiving_player_game)
     all_hints[hint.location] = hint
 end
