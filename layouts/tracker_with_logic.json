@@ -7,56 +7,82 @@
             "content": [
                 {
                     "type": "container",
-                    "background": "#212121",
+                    "background": "#101010",
+                    "dock": "top",
                     "content": {
-                        "type": "tabbed",
-                        "background": "#212121",
-                        "tabs": [
-                            {
-                                "title": "Maps",
-                                "content": {
-                                    "type": "container",
-                                    "background": "#212121",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "tabbed_maps"
-                                    }
-                                }
-                            },
-                            {
-                                "title": "Explanation",
-                                "content": {
-                                    "type": "container",
-                                    "background": "#212121",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "explanation"
-                                    }
-                                }
-                            },
-                            {
-                                "title": "Logic Directory",
-                                "content": {
-                                    "type": "container",
-                                    "background": "#212121",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "rule_list"
-                                    }
-                                }
-                            }
-                        ]
+                        "type": "item",
+                        "item": "status_bar",
+                        "max_height": 16
                     }
                 },
                 {
-                    "type": "layout",
-                    "dock": "left",
-                    "key": "tracker_bar_left"
-                },
-                {
-                    "type": "layout",
-                    "dock": "right",
-                    "key": "tracker_bar_right"
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "container",
+                            "background": "#212121",
+                            "content": {
+                                "type": "tabbed",
+                                "background": "#212121",
+                                "tabs": [
+                                    {
+                                        "title": "Maps",
+                                        "content": {
+                                            "type": "container",
+                                            "background": "#212121",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "tabbed_maps"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "title": "Hints",
+                                        "content": {
+                                            "type": "container",
+                                            "background": "#212121",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "hints"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "title": "Explanation",
+                                        "content": {
+                                            "type": "container",
+                                            "background": "#212121",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "explanation"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "title": "Logic Directory",
+                                        "content": {
+                                            "type": "container",
+                                            "background": "#212121",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "rule_list"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "layout",
+                            "dock": "left",
+                            "key": "tracker_bar_left"
+                        },
+                        {
+                            "type": "layout",
+                            "dock": "right",
+                            "key": "tracker_bar_right"
+                        }
+                    ]
                 }
             ]
         }
