@@ -2094,12 +2094,6 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla', 'split_interactables_per_side', 'any_dash_dl_l_u_ul' }
 		} },
 		{ "Forsaken City A - Room 9_west", { {  } } },
-		{ "Forsaken City A - Room 8_north", {
-			{ 'custom_green', 'split_interactables_none', 'crouch', 'dl_dash' },
-			{ 'custom_green', 'split_interactables_per_level', 'crouch', 'dl_dash' },
-			{ 'custom_green', 'split_interactables_per_level_and_side', 'crouch', 'dl_dash' },
-			{ 'custom_green', 'split_interactables_per_side', 'crouch', 'dl_dash' }
-		} },
 	},
 	["Forsaken City A - Room 8b_west"] = {
 		{ "Forsaken City A - Room 8b", { {  } } },
@@ -2123,10 +2117,6 @@ LOCATION_ACCESS_LOGIC = {
 	["Forsaken City A - Room 9_east"] = {
 		{ "Forsaken City A - Room 9", { {  } } },
 		{ "Forsaken City A - Room 9 Strawberry", {
-			{ 'custom_green', 'split_interactables_none', 'u_dash' },
-			{ 'custom_green', 'split_interactables_per_level', 'u_dash' },
-			{ 'custom_green', 'split_interactables_per_level_and_side', 'u_dash' },
-			{ 'custom_green', 'split_interactables_per_side', 'u_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'any_dash_r_u_ur' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'crouch', 'r_climb', 'traffic_blocks' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'l_climb', 'traffic_blocks' },
@@ -2168,10 +2158,6 @@ LOCATION_ACCESS_LOGIC = {
 	["Forsaken City A - Room 9_west"] = {
 		{ "Forsaken City A - Room 9", { {  } } },
 		{ "Forsaken City A - Room 9_east", {
-			{ 'custom_green', 'split_interactables_none', 'u_dash' },
-			{ 'custom_green', 'split_interactables_per_level', 'u_dash' },
-			{ 'custom_green', 'split_interactables_per_level_and_side', 'u_dash' },
-			{ 'custom_green', 'split_interactables_per_side', 'u_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'any_dash_u_ul_ur' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'l_climb', 'traffic_blocks' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'r_climb', 'traffic_blocks' },
@@ -2746,13 +2732,9 @@ LOCATION_ACCESS_LOGIC = {
 		{ "Forsaken City A - Room 10a", { {  } } },
 		{ "Forsaken City A - Room 10a_top", {
 			{ 'custom_green', 'split_interactables_none', 'l_climb', 'r_climb' },
-			{ 'custom_green', 'split_interactables_none', 'u_dash' },
 			{ 'custom_green', 'split_interactables_per_level', 'l_climb', 'r_climb' },
-			{ 'custom_green', 'split_interactables_per_level', 'u_dash' },
 			{ 'custom_green', 'split_interactables_per_level_and_side', 'l_climb', 'r_climb' },
-			{ 'custom_green', 'split_interactables_per_level_and_side', 'u_dash' },
 			{ 'custom_green', 'split_interactables_per_side', 'l_climb', 'r_climb' },
-			{ 'custom_green', 'split_interactables_per_side', 'u_dash' },
 			{ 'custom_yellow', 'split_interactables_none', 'l_climb', 'ur_dash' },
 			{ 'custom_yellow', 'split_interactables_per_level', 'l_climb', 'ur_dash' },
 			{ 'custom_yellow', 'split_interactables_per_level_and_side', 'l_climb', 'ur_dash' },
@@ -4024,6 +4006,10 @@ LOCATION_ACCESS_LOGIC = {
 	["Old Site A - Room s1_bottom"] = {
 		{ "Old Site A - Room s1", { {  } } },
 		{ "Old Site A - Room s1_top", {
+			{ 'custom_green', 'split_interactables_none', 'ul_dash' },
+			{ 'custom_green', 'split_interactables_per_level', 'ul_dash' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'ul_dash' },
+			{ 'custom_green', 'split_interactables_per_side', 'ul_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'any_dash_u_ul_ur' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level', 'any_dash_u_ul_ur' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level_and_side', 'any_dash_u_ul_ur' },
@@ -4051,6 +4037,10 @@ LOCATION_ACCESS_LOGIC = {
 	["Old Site A - Room s2_bottom"] = {
 		{ "Old Site A - Room s2", { {  } } },
 		{ "Old Site A - Crystal Heart", {
+			{ 'custom_green', 'split_interactables_none' },
+			{ 'custom_green', 'split_interactables_per_level' },
+			{ 'custom_green', 'split_interactables_per_level_and_side' },
+			{ 'custom_green', 'split_interactables_per_side' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'any_dash_dl_dr_l_r_u_ul_ur' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level', 'any_dash_dl_dr_l_r_u_ul_ur' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level_and_side', 'any_dash_dl_dr_l_r_u_ul_ur' },
@@ -4359,6 +4349,10 @@ LOCATION_ACCESS_LOGIC = {
 	["Old Site A - Room d0_north-west"] = {
 		{ "Old Site A - Room d0", { {  } } },
 		{ "Old Site A - Room d0_north", {
+			{ 'custom_green', 'split_interactables_none' },
+			{ 'custom_green', 'split_interactables_per_level' },
+			{ 'custom_green', 'split_interactables_per_level_and_side' },
+			{ 'custom_green', 'split_interactables_per_side' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'any_dash_r_u_ur' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'r_climb' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level', 'any_dash_r_u_ur' },
@@ -4497,6 +4491,10 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla' }
 		} },
 		{ "Old Site A - Room d0_east", {
+			{ 'custom_green', 'split_interactables_none', 'ul_dash' },
+			{ 'custom_green', 'split_interactables_per_level', 'ul_dash' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'ul_dash' },
+			{ 'custom_green', 'split_interactables_per_side', 'ul_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'any_dash_u_ul_ur' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level', 'any_dash_u_ul_ur' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level_and_side', 'any_dash_u_ul_ur' },
@@ -4663,6 +4661,10 @@ LOCATION_ACCESS_LOGIC = {
 	["Old Site A - Room d7_east"] = {
 		{ "Old Site A - Room d7", { {  } } },
 		{ "Old Site A - Room d7_west", {
+			{ 'custom_green', 'split_interactables_none', 'crouch', 'dl_dash', 'l_climb', 'r_climb', 'u_dash' },
+			{ 'custom_green', 'split_interactables_per_level', 'crouch', 'dl_dash', 'l_climb', 'r_climb', 'u_dash' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'crouch', 'dl_dash', 'l_climb', 'r_climb', 'u_dash' },
+			{ 'custom_green', 'split_interactables_per_side', 'crouch', 'dl_dash', 'l_climb', 'r_climb', 'u_dash' },
 			{ 'logic_difficulty_assist' },
 			{ 'logic_difficulty_vanilla', 'split_interactables_none', 'crouch', 'dash_refills', 'dl_dash', 'u_dash' },
 			{ 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'ul_dash' },
@@ -4717,6 +4719,12 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla' }
 		} },
 		{ "Old Site A - Room d3_south", { {  } } },
+		{ "Old Site A - Room e8_west", {
+			{ 'custom_green', 'split_interactables_none', 'l_climb' },
+			{ 'custom_green', 'split_interactables_per_level', 'l_climb' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'l_climb' },
+			{ 'custom_green', 'split_interactables_per_side', 'l_climb' }
+		} },
 	},
 	["Old Site A - Room d8_north-east"] = {
 		{ "Old Site A - Room d8", { {  } } },
@@ -4862,6 +4870,10 @@ LOCATION_ACCESS_LOGIC = {
 	["Old Site A - Room d1_south-east"] = {
 		{ "Old Site A - Room d1", { {  } } },
 		{ "Old Site A - Room d1 Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'dream_blocks', 'l_dash', 'strawberry_seeds' },
+			{ 'custom_green', 'split_interactables_per_level', 'l_dash', 'oldsite-dream_blocks', 'oldsite-strawberry_seeds' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'l_dash', 'oldsitea-dream_blocks', 'oldsitea-strawberry_seeds' },
+			{ 'custom_green', 'split_interactables_per_side', 'a-dream_blocks', 'a-strawberry_seeds', 'l_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'any_dash_l_ul', 'any_dash_r_ur', 'dream_blocks', 'strawberry_seeds' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'dream_blocks', 'strawberry_seeds', 'u_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level', 'any_dash_l_ul', 'any_dash_r_ur', 'oldsite-dream_blocks', 'oldsite-strawberry_seeds' },
@@ -4946,6 +4958,14 @@ LOCATION_ACCESS_LOGIC = {
 	["Old Site A - Room d6_east"] = {
 		{ "Old Site A - Room d6", { {  } } },
 		{ "Old Site A - Room d6_center", {
+			{ 'custom_green', 'split_interactables_none', 'l_climb' },
+			{ 'custom_green', 'split_interactables_none', 'l_dash' },
+			{ 'custom_green', 'split_interactables_per_level', 'l_climb' },
+			{ 'custom_green', 'split_interactables_per_level', 'l_dash' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'l_climb' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'l_dash' },
+			{ 'custom_green', 'split_interactables_per_side', 'l_climb' },
+			{ 'custom_green', 'split_interactables_per_side', 'l_dash' },
 			{ 'logic_difficulty_assist' },
 			{ 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_l_ul', 'crouch', 'dl_dash' },
 			{ 'logic_difficulty_vanilla', 'split_interactables_none', 'u_dash' },
@@ -4963,16 +4983,14 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'custom_green', 'split_interactables_per_level_and_side', 'ul_dash' },
 			{ 'custom_green', 'split_interactables_per_side', 'ul_dash' }
 		} },
-		{ "Old Site A - Room d6 Strawberry", {
-			{ 'custom_green', 'split_interactables_none', 'u_dash' },
-			{ 'custom_green', 'split_interactables_per_level', 'u_dash' },
-			{ 'custom_green', 'split_interactables_per_level_and_side', 'u_dash' },
-			{ 'custom_green', 'split_interactables_per_side', 'u_dash' }
-		} },
 	},
 	["Old Site A - Room d4_west"] = {
 		{ "Old Site A - Room d4", { {  } } },
 		{ "Old Site A - Room d4 Strawberry", {
+			{ 'custom_green', 'split_interactables_none', 'ur_dash' },
+			{ 'custom_green', 'split_interactables_per_level', 'ur_dash' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'ur_dash' },
+			{ 'custom_green', 'split_interactables_per_side', 'ur_dash' },
 			{ 'logic_difficulty_assist' },
 			{ 'logic_difficulty_developer', 'split_interactables_none', 'any_dash_r_ur', 'dream_blocks', 'traffic_blocks' },
 			{ 'logic_difficulty_developer', 'split_interactables_per_level', 'any_dash_r_ur', 'oldsite-dream_blocks', 'oldsite-traffic_blocks' },
@@ -5350,10 +5368,6 @@ LOCATION_ACCESS_LOGIC = {
 	["Old Site A - Room 6_bottom"] = {
 		{ "Old Site A - Room 6", { {  } } },
 		{ "Old Site A - Room 6_top", {
-			{ 'custom_green', 'split_interactables_none', 'coins', 'dream_blocks', 'l_dash' },
-			{ 'custom_green', 'split_interactables_per_level', 'l_dash', 'oldsite-coins', 'oldsite-dream_blocks' },
-			{ 'custom_green', 'split_interactables_per_level_and_side', 'l_dash', 'oldsitea-coins', 'oldsitea-dream_blocks' },
-			{ 'custom_green', 'split_interactables_per_side', 'a-coins', 'a-dream_blocks', 'l_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'any_dash_u_ul_ur', 'coins', 'dream_blocks', 'l_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level', 'any_dash_u_ul_ur', 'l_dash', 'oldsite-coins', 'oldsite-dream_blocks' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level_and_side', 'any_dash_u_ul_ur', 'l_dash', 'oldsitea-coins', 'oldsitea-dream_blocks' },
@@ -22634,10 +22648,10 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla', 'split_interactables_per_side', 'any_dash_u_ul_ur' }
 		} },
 		{ "Reflection A - Cassette", {
-			{ 'custom_red', 'split_interactables_none', 'any_dash_dr_r', 'crouch', 'dash_ul', 'dl_dash', 'kevin_blocks' },
-			{ 'custom_red', 'split_interactables_per_level', 'any_dash_dr_r', 'crouch', 'dash_ul', 'dl_dash', 'reflection-kevin_blocks' },
-			{ 'custom_red', 'split_interactables_per_level_and_side', 'any_dash_dr_r', 'crouch', 'dash_ul', 'dl_dash', 'reflectiona-kevin_blocks' },
-			{ 'custom_red', 'split_interactables_per_side', 'a-kevin_blocks', 'any_dash_dr_r', 'crouch', 'dash_ul', 'dl_dash' },
+			{ 'custom_red', 'split_interactables_none', 'any_dash_dr_r', 'crouch', 'dl_dash', 'kevin_blocks', 'ul_dash' },
+			{ 'custom_red', 'split_interactables_per_level', 'any_dash_dr_r', 'crouch', 'dl_dash', 'reflection-kevin_blocks', 'ul_dash' },
+			{ 'custom_red', 'split_interactables_per_level_and_side', 'any_dash_dr_r', 'crouch', 'dl_dash', 'reflectiona-kevin_blocks', 'ul_dash' },
+			{ 'custom_red', 'split_interactables_per_side', 'a-kevin_blocks', 'any_dash_dr_r', 'crouch', 'dl_dash', 'ul_dash' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'any_dash_l_u_ul' },
 			{ 'logic_difficulty_assist', 'split_interactables_none', 'l_climb' },
 			{ 'logic_difficulty_assist', 'split_interactables_per_level', 'any_dash_l_u_ul' },
@@ -42496,6 +42510,14 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'split_interactables_per_level' },
 			{ 'split_interactables_per_level_and_side' },
 			{ 'split_interactables_per_side' }
+		} },
+	},
+	["Forsaken City A - Room 8_east"] = {
+		{ "Forsaken City A - Room 8_north", {
+			{ 'custom_green', 'split_interactables_none', 'crouch', 'dl_dash' },
+			{ 'custom_green', 'split_interactables_per_level', 'crouch', 'dl_dash' },
+			{ 'custom_green', 'split_interactables_per_level_and_side', 'crouch', 'dl_dash' },
+			{ 'custom_green', 'split_interactables_per_side', 'crouch', 'dl_dash' }
 		} },
 	},
 }

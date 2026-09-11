@@ -38,6 +38,19 @@ LEVEL_SIDE_NAMES = {
     '8A': ('Core', 'A'), '8B': ('Core', 'B'), '8C': ('Core', 'C'),
     '9': ('Farewell', 'A'), '9A': ('Farewell', 'A'), '9B': ('Farewell', 'A'), '9C': ('Farewell', 'A'),
 }
+LEVEL_NAME_TO_ID = {
+    'Prologue': 0,
+    'Forsaken City': 1,
+    'Old Site': 2,
+    'Celestial Resort': 3,
+    'Golden Ridge': 4,
+    'Mirror Temple': 5,
+    'Reflection': 6,
+    'The Summit': 7,
+    'Epilogue': 8,
+    'Core': 9,
+    'Farewell': 10,
+}
 
 def expand_item(item, interactable_mode, level_name):
     if item in ALL_ITEMS:
@@ -369,6 +382,9 @@ def add_connection(logic, src_room, dst_room, access_rules = []):
 world = World(raw_logic)
 logic = world.generate_logic()
 rules = world.generate_rules()
+for rule in rules:
+    if 'logic_difficulty_vanilla' in rule[5]:
+        print(f'{LEVEL_NAME_TO_ID[rule[0]]}{rule[1]},{rule[2]},{rule[3]},{rule[2]},{rule[4]},"{','.join(rule[5][1:])}",2')
 
 # Note no need to include access modifier from difficulty for these connections, as either they're just inherent to the apworld in general, or are custom and filtered elsewhere
 import csv
@@ -397,7 +413,7 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
         to_region = row['to_region']
         items = row['items']
         # TODO: handle video links for apworld logics
-        difficulty = ["BAD","BAD","BAD","custom_green","custom_yellow","custom_red","custom_purple"][int(row['difficulty'])]
+        difficulty = ["BAD","BAD","logic_difficulty_vanilla","custom_green","custom_yellow","custom_red","custom_purple"][int(row['difficulty'])]
         blockers = row['blockers']
         dangerous = row['dangerous'] == "TRUE"
         multi_room = row['multiroom'] == "TRUE"
@@ -413,6 +429,12 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
             continue
         if dangerous:
             # TODO: handle dangerous skips in goldens
+            continue
+        if assist_mode:
+            # TODO: handle assist mode
+            continue
+        if level[0] == '8':
+            # TODO: Handle Core
             continue
 
         from_full_name = f'{full_level_name} - Room {from_room}_{from_region}'
