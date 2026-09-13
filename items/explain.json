@@ -158,5 +158,13 @@
         "disabled_img_mods": "",
         "initial_active_state": false,
         "codes": "explain_19"
+    },
+    {
+        "name": "Explain Playlist",
+        "type": "toggle",
+        "img": "images/icons/collectables/empty.png",
+        "disabled_img_mods": "",
+        "initial_active_state": false,
+        "codes": "explain_playlist"
     }
 ]

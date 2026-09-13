@@ -5,6 +5,7 @@
         "item_margin": "1,1",
         "item_size": "3,3",
         "rows": [
+            [ "explain_playlist" ],
             [ "explain_0" ],
             [ "explain_1" ],
             [ "explain_2" ],
@@ -24,7 +25,7 @@
             [ "explain_16" ],
             [ "explain_17" ],
             [ "explain_18" ],
-            [ "explain_19" ],
+            [ "explain_19" ]
         ]
     }
 }

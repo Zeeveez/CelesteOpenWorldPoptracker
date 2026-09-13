@@ -14,6 +14,10 @@ function ExplainReset()
         end
         active_links['explain_'..i] = nil
     end
+    local playlist_obj = Tracker:FindObjectForCode('explain_playlist')
+    playlist_obj.Icon = "images/icons/collectables/empty.png"
+    playlist_obj:SetOverlayAlign("left")
+    active_links['explain_playlist'] = nil
 end
 ExplainReset()
 
@@ -26,9 +30,10 @@ function ExplainLinkClick(code)
         Tracker:OpenLink(active_links[code], "")
     end
 end
-for i = 0,19 do 
+for i = 0,19 do
     ScriptHost:AddWatchForCode('ExplainLinkClick_'..i, 'explain_'..i, ExplainLinkClick)
 end
+ScriptHost:AddWatchForCode('ExplainLinkClick_explain_playlist', 'explain_playlist', ExplainLinkClick)
 
 ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (section)
     if not Tracker:FindObjectForCode('enable_explain').Active then return end
@@ -41,24 +46,24 @@ ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (sectio
     
     ExplainReset()
     if section.AccessibilityLevel == 0 then 
-        Tracker:FindObjectForCode('explain_0').BadgeText = "         ".."Location not logically accessible"
+        Tracker:FindObjectForCode('explain_playlist').BadgeText = "         ".."Location not logically accessible"
         Tracker:UiHint("ActivateTab", "Explanation")
         return
     end
 
     if not previous_locations then
-        Tracker:FindObjectForCode('explain_0').BadgeText = "         ".."Location access cache not populated"
+        Tracker:FindObjectForCode('explain_playlist').BadgeText = "         ".."Location access cache not populated"
         Tracker:UiHint("ActivateTab", "Explanation")
         return
     end
     
     local location = string.sub(section.FullID, 1, #section.FullID - 1)
-    print("Explain: '"..location.."'")
 
     local next_room = nil
     local room = location
     local explain_id = 19
-    while room ~= nil and explain_id >= 0 do
+    local explain_playlist_links = ''
+    while room ~= nil do
         next_room = room
         room = previous_locations[room]
         
@@ -71,26 +76,34 @@ ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (sectio
             if room_label == nil then room_label = room end
             
             if next_room_no == room_no or next_room_no == nil or room_no == nil then
-                local explain_obj = Tracker:FindObjectForCode('explain_'..explain_id)
-                local video_link = ''
+                local video_link = nil
                 if VIDEO_LINKS[room] and VIDEO_LINKS[room][next_room] then
-                    for _, video_link in ipairs(VIDEO_LINKS[room][next_room]) do
+                    for _, current_link in ipairs(VIDEO_LINKS[room][next_room]) do
                         local good = true
-                        for _, item_code in ipairs(video_link[2]) do
+                        for _, item_code in ipairs(current_link[2]) do
                             if Tracker:ProviderCountForCode(item_code) == 0 then
                                 good = false
                                 break
                             end
                         end
                         if good then
-                            explain_obj.Icon = "images/icons/video.png"
-                            active_links['explain_'..explain_id] = video_link[3]
+                            video_link = current_link[3]
                             break
                         end
                     end
                 end
-                explain_obj.BadgeText = "         "..room_label.." -> "..next_room_label
-                explain_id = explain_id - 1
+                if explain_id >= 0 then
+                    local explain_obj = Tracker:FindObjectForCode('explain_'..explain_id)
+                    if video_link then
+                        explain_obj.Icon = "images/icons/video.png"
+                        active_links['explain_'..explain_id] = video_link
+                    end
+                    explain_obj.BadgeText = "         "..room_label.." -> "..next_room_label
+                    explain_id = explain_id - 1
+                end
+                if video_link then
+                    explain_playlist_links = video_link:match('%?v=(.*)')..','..explain_playlist_links
+                end
             end
         end
     end
@@ -106,6 +119,14 @@ ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (sectio
             active_links['explain_'..(i - explain_id - 1)] = active_links['explain_'..i]
             active_links['explain_'..i] = nil
         end
+    end
+
+    if #explain_playlist_links then
+        local playlist_obj = Tracker:FindObjectForCode('explain_playlist')
+        playlist_obj.Icon = "images/icons/video.png"
+        playlist_obj.BadgeText = "         "..'Playlist'
+        active_links['explain_playlist'] = 'https://www.youtube.com/watch_videos?video_ids='..string.sub(explain_playlist_links, 1, #explain_playlist_links - 1)
+        print(active_links['explain_playlist'])
     end
     
     Tracker:UiHint("ActivateTab", "Explanation")
