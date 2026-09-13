@@ -124,7 +124,7 @@ ScriptHost:AddOnLocationSectionChangedHandler("ExplainHandler", function (sectio
     if #explain_playlist_links then
         local playlist_obj = Tracker:FindObjectForCode('explain_playlist')
         playlist_obj.Icon = "images/icons/video.png"
-        playlist_obj.BadgeText = "         "..'Playlist'
+        playlist_obj.BadgeText = "         "..'Playlist (Note: because each link requires a subset of available items, some rooms may have alternate routes to those shown)'
         active_links['explain_playlist'] = 'https://www.youtube.com/watch_videos?video_ids='..string.sub(explain_playlist_links, 1, #explain_playlist_links - 1)
         print(active_links['explain_playlist'])
     end
