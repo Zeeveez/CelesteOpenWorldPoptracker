@@ -1,6 +1,20 @@
 {
     "versions": [
         {
+            "package_version": "2.1.2",
+            "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v2.1.2.zip",
+            "sha256": "852E50BFFE9C9A6AB608CCF44C9729F942F692234F6FE6EC6A7B59A3A3605C49",
+            "changelog": [
+                "Add status bar for connection details",
+                "Fix hints not clearing correctly/showing correct names",
+                "Add hints tab to Tracker with Logic Directory variant",
+                "Add minimum screen size warning to logic directory variant",
+                "Pull latest OOL",
+                "Add clips for 1A, 1B, 1C, and 2A",
+                "Add explain playlist generation"
+            ]
+        },
+        {
             "package_version": "2.1.1",
             "download_url": "https://github.com/Zeeveez/CelesteOpenWorldPoptracker/archive/refs/tags/v2.1.1.zip",
             "sha256": "28A525A8375E30F9403B37DE4961B018BC8E263F5D02CF27DBE3930BDD2D04C3",
