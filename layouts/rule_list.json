@@ -37174,23 +37174,6 @@
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
-                                                                            "header": "east -> Strawberry",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
-                                                                                        "custom_green-icon",
-                                                                                        "l_climb-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
                                                                             "header": "east -> strawberry",
                                                                             "content": {
                                                                                 "type": "itemgrid",
@@ -37306,15 +37289,7 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 2",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -37331,7 +37306,15 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        },
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            },
+                                                            {
+                                                                "title": "Page 2",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -37451,15 +37434,7 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 3",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -37477,7 +37452,15 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        },
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            },
+                                                            {
+                                                                "title": "Page 3",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -37596,15 +37579,7 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 4",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -37620,7 +37595,15 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        },
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            },
+                                                            {
+                                                                "title": "Page 4",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",

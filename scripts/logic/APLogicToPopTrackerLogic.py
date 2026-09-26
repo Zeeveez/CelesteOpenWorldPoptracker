@@ -455,7 +455,7 @@ with open('./scripts/logic/custom_logic.csv', newline='') as csvfile:
         if to_full_name not in video_links[from_full_name]: video_links[from_full_name][to_full_name] = []
         if video_link:
             for interactable_mode in INTERACTABLE_MODES:
-                video_links[from_full_name][to_full_name] += [[int(row['difficulty']), list(process_ruleset(None, rule, interactable_mode, None, level)), video_link]]
+                video_links[from_full_name][to_full_name] += [[int(row['difficulty']), list(process_ruleset(None, rule, interactable_mode, None, full_level_name)), video_link]]
                 video_links[from_full_name][to_full_name] = sorted(video_links[from_full_name][to_full_name], key=lambda x: f'{x[0]}{x[1]}')
 
 sort_logic(logic)

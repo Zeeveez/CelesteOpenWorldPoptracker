@@ -8172,12 +8172,6 @@ LOCATION_ACCESS_LOGIC = {
 			{ 'logic_difficulty_vanilla', 'split_interactables_per_side', 'l_climb' }
 		} },
 		{ "Celestial Resort A - Room 07-b_west", { {  } } },
-		{ "Celestial Resort A - Room 06-b Strawberry", {
-			{ 'custom_green', 'split_interactables_none', 'l_climb' },
-			{ 'custom_green', 'split_interactables_per_level', 'l_climb' },
-			{ 'custom_green', 'split_interactables_per_level_and_side', 'l_climb' },
-			{ 'custom_green', 'split_interactables_per_side', 'l_climb' }
-		} },
 	},
 	["Celestial Resort A - Room 06-c_south-west"] = {
 		{ "Celestial Resort A - Room 06-c", { {  } } },
