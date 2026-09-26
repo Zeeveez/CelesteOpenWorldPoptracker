@@ -170,7 +170,7 @@ level,from_room,from_region,to_room,to_region,items,difficulty,blockers,dangerou
 4A,c-06b,east,c-06b,Strawberry,any_dash_l_ul_u,3,,FALSE,FALSE,,,FALSE,TRUE,https://www.youtube.com/watch?v=WNr_Jwx2baE,,,
 4A,c-06b,east,c-06b,Strawberry,"dl_dash,crouch",3,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=WNr_Jwx2baE,,,
 4A,c-09,west,c-09,east,"crouch,dr_dash,r_climb,any_dash_u_ur",5,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=85lJR0m8Sh4,,,
-4A,c-09,west,c-09,east,"r_dash,r_climb",5,,FALSE,FALSE,,,FALSE,FALSE,https://youtu.be/qtRSYEVhaxY,Description of the video has the pause-buffered version where it's easier to see the inputs for the corner jump on the bottom left block,BlueRed,Seemmetor
+4A,c-09,west,c-09,east,"r_dash,r_climb",5,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=qtRSYEVhaxY,Description of the video has the pause-buffered version where it's easier to see the inputs for the corner jump on the bottom left block,BlueRed,Seemmetor
 4B,a-00,west,a-00,east,"any_dash_ur_r,blue_boosters",3,,FALSE,FALSE,,,FALSE,TRUE,https://www.youtube.com/watch?v=J_wYWg3hNgg,,,
 4B,b-03,west,b-03,east,"coins,moving_platforms,crouch,u_dash,dl_dash,l_climb",3,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=xtM-O7-7QWg,,,
 4B,d-02,west,d-02,east,"blue_boosters,coins,u_dash,r_climb",4,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=z-xyUwc_ZKY,,,
@@ -193,7 +193,7 @@ level,from_room,from_region,to_room,to_region,items,difficulty,blockers,dangerou
 5A,d-04,east,d-04,west,"crouch,dl_dash,l_climb,any_dash_ul_l",3,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=zl5oOHwJjJY,,,
 5A,d-04,east,d-04,west,"crouch,dl_dash,l_climb",4,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=hjqGd5e9I-0,,,
 5A,e-05,west,e-05,east,"theo_crystal,coins,u_dash",3,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=ydLjwhBn2SE,,,
-5A,d-20,west,d-20,east,"coins,seekers",2,,FALSE,FALSE,,,FALSE,FALSE,https://youtu.be/Ir1pY1EKHSw,,Nitrodon,Seemmetor
+5A,d-20,west,d-20,east,"coins,seekers",2,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=Ir1pY1EKHSw,,Nitrodon,Seemmetor
 5B,a-00,west,a-00,east,"dash_switches,r_climb,u_dash",5,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=QAdirjENFO4,,,
 5B,b-03,main,b-03,north,"red_boosters,r_dash",3,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=GPBTVeUpN7Q,,,
 5B,b-03,main,b-03,north,"red_boosters,crouch,dr_dash,r_climb",5,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=Jk7_IruCLkI,,,
@@ -230,7 +230,7 @@ level,from_room,from_region,to_room,to_region,items,difficulty,blockers,dangerou
 7B,f-02,west,f-02,east,"springs,swap_blocks,ur_dash,r_climb",3,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=em0OfsctcTA,,,
 7C,01,west,01,Binoculars,,3,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=9qFT96O4q48,,,
 7C,02,west,02,east,"springs,badeline_boosters,crouch,u_dash,r_dash",3,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=FR7Guqx-iLc,,,
-8A,c-00,east,c-01,east,"ur_dash,dr_dash,l_dash,r_climb,crouch,core_blocks,dash_refills",6,,FALSE,TRUE,Cold,,FALSE,FALSE,https://youtube.com/watch?v=6XTKTQzf68Q,,NameB,Seemmetor
+8A,c-00,east,c-01,east,"ur_dash,dr_dash,l_dash,r_climb,crouch,core_blocks,dash_refills",6,,FALSE,TRUE,Cold,,FALSE,FALSE,https://www.youtube.com/watch?v=6XTKTQzf68Q,,NameB,Seemmetor
 2A,s2,bottom,s2,Crystal Heart,,3,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=UQhZIXBMUKQ,Dash attack still happens with failed dash,0xDEAFC0DE,LeebyDeeby
 2A,s1,bottom,s1,top,ul_dash,3,,FALSE,TRUE,,,FALSE,FALSE,https://www.youtube.com/watch?v=nYkU0k9g5BA,Cornerkick,0xDEAFC0DE,Seemmetor
 2A,d0,north-west,d0,north,,3,,FALSE,FALSE,,,FALSE,FALSE,https://www.youtube.com/watch?v=ACVgR_-p5vA,Tight neutral,0xDEAFC0DE,Seemmetor

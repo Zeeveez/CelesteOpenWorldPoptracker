@@ -1734,13 +1734,13 @@ VIDEO_LINKS = {
 	["Golden Ridge A - Room c-09_west"] = {
 		["Golden Ridge A - Room c-09_east"] = {
 			{ 5, { 'custom_red', 'split_interactables_none', 'any_dash_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=85lJR0m8Sh4' },
-			{ 5, { 'custom_red', 'split_interactables_none', 'r_climb', 'r_dash' }, 'https://youtu.be/qtRSYEVhaxY' },
+			{ 5, { 'custom_red', 'split_interactables_none', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=qtRSYEVhaxY' },
 			{ 5, { 'custom_red', 'split_interactables_per_level', 'any_dash_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=85lJR0m8Sh4' },
-			{ 5, { 'custom_red', 'split_interactables_per_level', 'r_climb', 'r_dash' }, 'https://youtu.be/qtRSYEVhaxY' },
+			{ 5, { 'custom_red', 'split_interactables_per_level', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=qtRSYEVhaxY' },
 			{ 5, { 'custom_red', 'split_interactables_per_level_and_side', 'any_dash_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=85lJR0m8Sh4' },
-			{ 5, { 'custom_red', 'split_interactables_per_level_and_side', 'r_climb', 'r_dash' }, 'https://youtu.be/qtRSYEVhaxY' },
+			{ 5, { 'custom_red', 'split_interactables_per_level_and_side', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=qtRSYEVhaxY' },
 			{ 5, { 'custom_red', 'split_interactables_per_side', 'any_dash_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=85lJR0m8Sh4' },
-			{ 5, { 'custom_red', 'split_interactables_per_side', 'r_climb', 'r_dash' }, 'https://youtu.be/qtRSYEVhaxY' },
+			{ 5, { 'custom_red', 'split_interactables_per_side', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=qtRSYEVhaxY' },
 		},
 	},
 	["Golden Ridge B - Room a-00_west"] = {
@@ -1889,10 +1889,10 @@ VIDEO_LINKS = {
 	},
 	["Mirror Temple A - Room d-20_west"] = {
 		["Mirror Temple A - Room d-20_east"] = {
-			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'coins', 'seekers' }, 'https://youtu.be/Ir1pY1EKHSw' },
-			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'mirrortemple-coins', 'mirrortemple-seekers' }, 'https://youtu.be/Ir1pY1EKHSw' },
-			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'mirrortemplea-coins', 'mirrortemplea-seekers' }, 'https://youtu.be/Ir1pY1EKHSw' },
-			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'a-coins', 'a-seekers' }, 'https://youtu.be/Ir1pY1EKHSw' },
+			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'coins', 'seekers' }, 'https://www.youtube.com/watch?v=Ir1pY1EKHSw' },
+			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'mirrortemple-coins', 'mirrortemple-seekers' }, 'https://www.youtube.com/watch?v=Ir1pY1EKHSw' },
+			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'mirrortemplea-coins', 'mirrortemplea-seekers' }, 'https://www.youtube.com/watch?v=Ir1pY1EKHSw' },
+			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'a-coins', 'a-seekers' }, 'https://www.youtube.com/watch?v=Ir1pY1EKHSw' },
 		},
 	},
 	["Mirror Temple B - Room a-00_west"] = {
