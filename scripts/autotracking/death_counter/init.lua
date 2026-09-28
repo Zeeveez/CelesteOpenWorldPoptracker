@@ -16,7 +16,7 @@ function ProcessDeaths(key, value)
 end
 
 function OnDeathsNotify(key, value, old_value)
-    if string.find(key, DEATHS_KEY_PREFIX) ~= 1 then return end
+    if string.find(key, DEATHS_KEY_PREFIX, 1, true) ~= 1 then return end
     if value ~= old_value then
         ProcessDeaths(key, value)
     end
