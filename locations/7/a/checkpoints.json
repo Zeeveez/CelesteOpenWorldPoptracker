@@ -10,6 +10,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@The Summit A - 500 M/"
+        ],
         "map_locations": [
             {
                 "map": "7_a_1",
@@ -31,6 +34,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@The Summit A - 1000 M/"
+        ],
         "map_locations": [
             {
                 "map": "7_a_2",
@@ -52,6 +58,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@The Summit A - 1500 M/"
+        ],
         "map_locations": [
             {
                 "map": "7_a_3",
@@ -73,6 +82,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@The Summit A - 2000 M/"
+        ],
         "map_locations": [
             {
                 "map": "7_a_4",
@@ -94,6 +106,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@The Summit A - 2500 M/"
+        ],
         "map_locations": [
             {
                 "map": "7_a_5",
@@ -115,6 +130,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@The Summit A - 3000 M/"
+        ],
         "map_locations": [
             {
                 "map": "7_a_6",

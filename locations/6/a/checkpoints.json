@@ -10,6 +10,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Reflection A - Hollows/"
+        ],
         "map_locations": [
             {
                 "map": "6_a_2",
@@ -31,6 +34,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Reflection A - Reflection/"
+        ],
         "map_locations": [
             {
                 "map": "6_a_3",
@@ -52,6 +58,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Reflection A - Rock Bottom/"
+        ],
         "map_locations": [
             {
                 "map": "6_a_4",
@@ -73,6 +82,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Reflection A - Resolution/"
+        ],
         "map_locations": [
             {
                 "map": "6_a_5",

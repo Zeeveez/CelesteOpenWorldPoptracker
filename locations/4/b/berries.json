@@ -11,7 +11,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/golden_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/golden_opened.png",
         "visibility_rules": [
-            "include_b_sides,include_goldens"
+            "include_b_sides,include_goldens,$UnclearedAndHideCleared|@Golden Ridge B - Golden Strawberry/"
         ],
         "map_locations": [
             {

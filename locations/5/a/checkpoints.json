@@ -10,6 +10,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Depths/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -31,6 +34,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Unravelling/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_2",
@@ -52,6 +58,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Search/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_3",
@@ -73,6 +82,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Rescue/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_4",

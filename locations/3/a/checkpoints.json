@@ -10,6 +10,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Huge Mess/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_1",
@@ -31,6 +34,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Elevator Shaft/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_2",
@@ -52,6 +58,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Presidential Suite/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_3",

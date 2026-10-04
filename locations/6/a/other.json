@@ -10,6 +10,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/cassette_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/cassette_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Reflection A - Cassette/"
+        ],
         "map_locations": [
             {
                 "map": "6_a_2",
@@ -30,6 +33,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/heart_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/heart_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Reflection A - Crystal Heart/"
+        ],
         "map_locations": [
             {
                 "map": "6_a_2",
@@ -50,6 +56,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Reflection A - Level Clear/"
+        ],
         "map_locations": [
             {
                 "map": "6_a_5",

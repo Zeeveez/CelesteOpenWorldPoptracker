@@ -11,11 +11,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room a-04 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room a-04 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room a-04 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room a-04 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room a-04 Binoculars/"
         ],
         "map_locations": [
             {
@@ -39,11 +39,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room b-06 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room b-06 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room b-06 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room b-06 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room b-06 Binoculars/"
         ],
         "map_locations": [
             {
@@ -67,11 +67,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-00 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-00 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-00 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-00 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-00 Binoculars/"
         ],
         "map_locations": [
             {
@@ -95,11 +95,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-04 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-04 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-04 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-04 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-04 Binoculars/"
         ],
         "map_locations": [
             {
@@ -123,11 +123,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-03 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-03 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-03 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-03 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-03 Binoculars/"
         ],
         "map_locations": [
             {
@@ -151,11 +151,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-01 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-01 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-01 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-01 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-01 Binoculars/"
         ],
         "map_locations": [
             {
@@ -179,11 +179,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-02 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-02 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-02 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-02 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-02 Binoculars/"
         ],
         "map_locations": [
             {
@@ -207,11 +207,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-05 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-05 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-05 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-05 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room d-05 Binoculars/"
         ],
         "map_locations": [
             {
@@ -235,11 +235,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-00yb Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-00yb Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-00yb Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-00yb Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-00yb Binoculars/"
         ],
         "map_locations": [
             {
@@ -263,11 +263,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-00b Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-00b Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-00b Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-00b Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-00b Binoculars/"
         ],
         "map_locations": [
             {
@@ -291,11 +291,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-01 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-01 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-01 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-01 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-01 Binoculars/"
         ],
         "map_locations": [
             {
@@ -319,11 +319,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-02 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-02 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-02 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-02 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-02 Binoculars/"
         ],
         "map_locations": [
             {
@@ -347,11 +347,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-04 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-04 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-04 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-04 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-04 Binoculars/"
         ],
         "map_locations": [
             {
@@ -375,11 +375,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_empty_space,binosanity",
-            "goal_area_empty_space,binosanity",
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-08 Binoculars/",
+            "goal_area_empty_space,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-08 Binoculars/",
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-08 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-08 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room e-08 Binoculars/"
         ],
         "map_locations": [
             {
@@ -403,9 +403,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-06 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-06 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-06 Binoculars/"
         ],
         "map_locations": [
             {
@@ -429,9 +429,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-07 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-07 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-07 Binoculars/"
         ],
         "map_locations": [
             {
@@ -455,9 +455,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-08 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-08 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-08 Binoculars/"
         ],
         "map_locations": [
             {
@@ -481,9 +481,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-09 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-09 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room f-09 Binoculars/"
         ],
         "map_locations": [
             {
@@ -507,9 +507,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room g-00 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room g-00 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room g-00 Binoculars/"
         ],
         "map_locations": [
             {
@@ -533,9 +533,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room g-04 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room g-04 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room g-04 Binoculars/"
         ],
         "map_locations": [
             {
@@ -559,9 +559,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room g-06 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room g-06 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room g-06 Binoculars/"
         ],
         "map_locations": [
             {
@@ -585,9 +585,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-01 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-01 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-01 Binoculars/"
         ],
         "map_locations": [
             {
@@ -611,9 +611,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-02 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-02 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-02 Binoculars/"
         ],
         "map_locations": [
             {
@@ -637,9 +637,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-03b Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-03b Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-03b Binoculars/"
         ],
         "map_locations": [
             {
@@ -663,9 +663,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-04 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-04 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-04 Binoculars/"
         ],
         "map_locations": [
             {
@@ -689,9 +689,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-05 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-05 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-05 Binoculars/"
         ],
         "map_locations": [
             {
@@ -715,9 +715,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-06b Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-06b Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-06b Binoculars/"
         ],
         "map_locations": [
             {
@@ -741,9 +741,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-07 Binoculars 1/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-07 Binoculars 1/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-07 Binoculars 1/"
         ],
         "map_locations": [
             {
@@ -767,9 +767,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-07 Binoculars 2/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-07 Binoculars 2/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-07 Binoculars 2/"
         ],
         "map_locations": [
             {
@@ -793,9 +793,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-08 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-08 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-08 Binoculars/"
         ],
         "map_locations": [
             {
@@ -819,9 +819,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-09 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-09 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room h-09 Binoculars/"
         ],
         "map_locations": [
             {
@@ -845,9 +845,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-00b Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-00b Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-00b Binoculars/"
         ],
         "map_locations": [
             {
@@ -871,9 +871,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-02 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-02 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-02 Binoculars/"
         ],
         "map_locations": [
             {
@@ -897,9 +897,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-04 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-04 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-04 Binoculars/"
         ],
         "map_locations": [
             {
@@ -923,9 +923,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-05 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-05 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room i-05 Binoculars/"
         ],
         "map_locations": [
             {
@@ -949,9 +949,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room j-16 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room j-16 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room j-16 Binoculars/"
         ],
         "map_locations": [
             {
@@ -975,9 +975,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_farewell,binosanity",
-            "goal_area_farewell,binosanity",
-            "goal_area_farewell_golden,binosanity"
+            "include_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room j-19 Binoculars/",
+            "goal_area_farewell,binosanity,$UnclearedAndHideCleared|@Farewell - Room j-19 Binoculars/",
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room j-19 Binoculars/"
         ],
         "map_locations": [
             {
@@ -1001,7 +1001,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "goal_area_farewell_golden,binosanity"
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room end-golden Binoculars 1/"
         ],
         "map_locations": [
             {
@@ -1025,7 +1025,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "goal_area_farewell_golden,binosanity"
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room end-golden Binoculars 2/"
         ],
         "map_locations": [
             {
@@ -1049,7 +1049,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "goal_area_farewell_golden,binosanity"
+            "goal_area_farewell_golden,binosanity,$UnclearedAndHideCleared|@Farewell - Room end-golden Binoculars 3/"
         ],
         "map_locations": [
             {

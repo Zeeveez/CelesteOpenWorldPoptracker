@@ -11,8 +11,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/car_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/car_opened.png",
         "visibility_rules": [
-            "include_core,carsanity",
-            "goal_area_core_a_side,carsanity"
+            "include_core,carsanity,$UnclearedAndHideCleared|@Core A - Car/",
+            "goal_area_core_a_side,carsanity,$UnclearedAndHideCleared|@Core A - Car/"
         ],
         "map_locations": [
             {
@@ -36,8 +36,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
         "visibility_rules": [
-            "include_core",
-            "goal_area_core_a_side"
+            "include_core,$UnclearedAndHideCleared|@Core A - Level Clear/",
+            "goal_area_core_a_side,$UnclearedAndHideCleared|@Core A - Level Clear/"
         ],
         "map_locations": [
             {
@@ -60,8 +60,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/cassette_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/cassette_opened.png",
         "visibility_rules": [
-            "include_core",
-            "goal_area_core_a_side"
+            "include_core,$UnclearedAndHideCleared|@Core A - Cassette/",
+            "goal_area_core_a_side,$UnclearedAndHideCleared|@Core A - Cassette/"
         ],
         "map_locations": [
             {

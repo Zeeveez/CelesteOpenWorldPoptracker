@@ -11,8 +11,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_c_sides,roomsanity",
-            "goal_area_the_summit_c_side,roomsanity"
+            "include_c_sides,roomsanity,$UnclearedAndHideCleared|@The Summit C - Room 01/",
+            "goal_area_the_summit_c_side,roomsanity,$UnclearedAndHideCleared|@The Summit C - Room 01/"
         ],
         "map_locations": [
             {
@@ -36,8 +36,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_c_sides,roomsanity",
-            "goal_area_the_summit_c_side,roomsanity"
+            "include_c_sides,roomsanity,$UnclearedAndHideCleared|@The Summit C - Room 02/",
+            "goal_area_the_summit_c_side,roomsanity,$UnclearedAndHideCleared|@The Summit C - Room 02/"
         ],
         "map_locations": [
             {
@@ -61,8 +61,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_c_sides,roomsanity",
-            "goal_area_the_summit_c_side,roomsanity"
+            "include_c_sides,roomsanity,$UnclearedAndHideCleared|@The Summit C - Room 03/",
+            "goal_area_the_summit_c_side,roomsanity,$UnclearedAndHideCleared|@The Summit C - Room 03/"
         ],
         "map_locations": [
             {

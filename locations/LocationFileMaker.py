@@ -80,7 +80,10 @@ def add_visibility_rules_to_location(location, row):
     if len(sanity_visibility_rules) and not len(visibility_rules):
         visibility_rules = sanity_visibility_rules
     if len(visibility_rules):
-        location['visibility_rules'] = visibility_rules
+        visibility_rules = [rule + f',$UnclearedAndHideCleared|@{row['Name']}/' for rule in visibility_rules]
+    else:
+        visibility_rules = [f'$UnclearedAndHideCleared|@{row['Name']}/']
+    location['visibility_rules'] = visibility_rules
 
 TYPE_SETS = (
     ('berries',('berry','golden','winged_golden','moon_berry','seeded_berry','winged_berry')),

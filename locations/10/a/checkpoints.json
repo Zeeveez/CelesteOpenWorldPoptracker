@@ -11,11 +11,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_empty_space",
-            "goal_area_empty_space",
-            "include_farewell",
-            "goal_area_farewell",
-            "goal_area_farewell_golden"
+            "include_empty_space,$UnclearedAndHideCleared|@Farewell - Singular/",
+            "goal_area_empty_space,$UnclearedAndHideCleared|@Farewell - Singular/",
+            "include_farewell,$UnclearedAndHideCleared|@Farewell - Singular/",
+            "goal_area_farewell,$UnclearedAndHideCleared|@Farewell - Singular/",
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Singular/"
         ],
         "map_locations": [
             {
@@ -39,11 +39,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_empty_space",
-            "goal_area_empty_space",
-            "include_farewell",
-            "goal_area_farewell",
-            "goal_area_farewell_golden"
+            "include_empty_space,$UnclearedAndHideCleared|@Farewell - Power Source/",
+            "goal_area_empty_space,$UnclearedAndHideCleared|@Farewell - Power Source/",
+            "include_farewell,$UnclearedAndHideCleared|@Farewell - Power Source/",
+            "goal_area_farewell,$UnclearedAndHideCleared|@Farewell - Power Source/",
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Power Source/"
         ],
         "map_locations": [
             {
@@ -67,11 +67,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_empty_space",
-            "goal_area_empty_space",
-            "include_farewell",
-            "goal_area_farewell",
-            "goal_area_farewell_golden"
+            "include_empty_space,$UnclearedAndHideCleared|@Farewell - Remembered/",
+            "goal_area_empty_space,$UnclearedAndHideCleared|@Farewell - Remembered/",
+            "include_farewell,$UnclearedAndHideCleared|@Farewell - Remembered/",
+            "goal_area_farewell,$UnclearedAndHideCleared|@Farewell - Remembered/",
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Remembered/"
         ],
         "map_locations": [
             {
@@ -95,9 +95,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_farewell",
-            "goal_area_farewell",
-            "goal_area_farewell_golden"
+            "include_farewell,$UnclearedAndHideCleared|@Farewell - Event Horizon/",
+            "goal_area_farewell,$UnclearedAndHideCleared|@Farewell - Event Horizon/",
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Event Horizon/"
         ],
         "map_locations": [
             {
@@ -121,9 +121,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_farewell",
-            "goal_area_farewell",
-            "goal_area_farewell_golden"
+            "include_farewell,$UnclearedAndHideCleared|@Farewell - Determination/",
+            "goal_area_farewell,$UnclearedAndHideCleared|@Farewell - Determination/",
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Determination/"
         ],
         "map_locations": [
             {
@@ -147,9 +147,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_farewell",
-            "goal_area_farewell",
-            "goal_area_farewell_golden"
+            "include_farewell,$UnclearedAndHideCleared|@Farewell - Stubbornness/",
+            "goal_area_farewell,$UnclearedAndHideCleared|@Farewell - Stubbornness/",
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Stubbornness/"
         ],
         "map_locations": [
             {
@@ -173,9 +173,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_farewell",
-            "goal_area_farewell",
-            "goal_area_farewell_golden"
+            "include_farewell,$UnclearedAndHideCleared|@Farewell - Reconciliation/",
+            "goal_area_farewell,$UnclearedAndHideCleared|@Farewell - Reconciliation/",
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Reconciliation/"
         ],
         "map_locations": [
             {
@@ -199,9 +199,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_farewell",
-            "goal_area_farewell",
-            "goal_area_farewell_golden"
+            "include_farewell,$UnclearedAndHideCleared|@Farewell - Farewell/",
+            "goal_area_farewell,$UnclearedAndHideCleared|@Farewell - Farewell/",
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Farewell/"
         ],
         "map_locations": [
             {

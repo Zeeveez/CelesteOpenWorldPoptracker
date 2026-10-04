@@ -11,8 +11,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_b_sides,binosanity",
-            "goal_area_the_summit_b_side,binosanity"
+            "include_b_sides,binosanity,$UnclearedAndHideCleared|@The Summit B - Room b-01 Binoculars/",
+            "goal_area_the_summit_b_side,binosanity,$UnclearedAndHideCleared|@The Summit B - Room b-01 Binoculars/"
         ],
         "map_locations": [
             {
@@ -36,8 +36,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/bino_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/bino_opened.png",
         "visibility_rules": [
-            "include_b_sides,binosanity",
-            "goal_area_the_summit_b_side,binosanity"
+            "include_b_sides,binosanity,$UnclearedAndHideCleared|@The Summit B - Room b-02 Binoculars/",
+            "goal_area_the_summit_b_side,binosanity,$UnclearedAndHideCleared|@The Summit B - Room b-02 Binoculars/"
         ],
         "map_locations": [
             {

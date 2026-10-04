@@ -11,7 +11,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room start/"
         ],
         "map_locations": [
             {
@@ -35,7 +35,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room s0/"
         ],
         "map_locations": [
             {
@@ -59,7 +59,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room s1/"
         ],
         "map_locations": [
             {
@@ -83,7 +83,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room s2/"
         ],
         "map_locations": [
             {
@@ -107,7 +107,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 0/"
         ],
         "map_locations": [
             {
@@ -131,7 +131,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 1/"
         ],
         "map_locations": [
             {
@@ -155,7 +155,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room d0/"
         ],
         "map_locations": [
             {
@@ -179,7 +179,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room d7/"
         ],
         "map_locations": [
             {
@@ -203,7 +203,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room d8/"
         ],
         "map_locations": [
             {
@@ -227,7 +227,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room d3/"
         ],
         "map_locations": [
             {
@@ -251,7 +251,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room d2/"
         ],
         "map_locations": [
             {
@@ -275,7 +275,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room d9/"
         ],
         "map_locations": [
             {
@@ -299,7 +299,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room d1/"
         ],
         "map_locations": [
             {
@@ -323,7 +323,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room d6/"
         ],
         "map_locations": [
             {
@@ -347,7 +347,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room d4/"
         ],
         "map_locations": [
             {
@@ -371,7 +371,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room d5/"
         ],
         "map_locations": [
             {
@@ -395,7 +395,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 3x/"
         ],
         "map_locations": [
             {
@@ -419,7 +419,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 2/"
         ],
         "map_locations": [
             {
@@ -450,7 +450,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 3/"
         ],
         "map_locations": [
             {
@@ -474,7 +474,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 4/"
         ],
         "map_locations": [
             {
@@ -498,7 +498,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 5/"
         ],
         "map_locations": [
             {
@@ -522,7 +522,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 6/"
         ],
         "map_locations": [
             {
@@ -546,7 +546,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 7/"
         ],
         "map_locations": [
             {
@@ -570,7 +570,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 8/"
         ],
         "map_locations": [
             {
@@ -594,7 +594,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 9/"
         ],
         "map_locations": [
             {
@@ -618,7 +618,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 9b/"
         ],
         "map_locations": [
             {
@@ -642,7 +642,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 10/"
         ],
         "map_locations": [
             {
@@ -666,7 +666,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 11/"
         ],
         "map_locations": [
             {
@@ -690,7 +690,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 12b/"
         ],
         "map_locations": [
             {
@@ -714,7 +714,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 12c/"
         ],
         "map_locations": [
             {
@@ -738,7 +738,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 12d/"
         ],
         "map_locations": [
             {
@@ -762,7 +762,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 12/"
         ],
         "map_locations": [
             {
@@ -786,7 +786,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room 13/"
         ],
         "map_locations": [
             {
@@ -810,7 +810,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_0/"
         ],
         "map_locations": [
             {
@@ -834,7 +834,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_s0/"
         ],
         "map_locations": [
             {
@@ -858,7 +858,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_s1/"
         ],
         "map_locations": [
             {
@@ -882,7 +882,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_1/"
         ],
         "map_locations": [
             {
@@ -906,7 +906,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_2/"
         ],
         "map_locations": [
             {
@@ -930,7 +930,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_3/"
         ],
         "map_locations": [
             {
@@ -954,7 +954,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_4/"
         ],
         "map_locations": [
             {
@@ -978,7 +978,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_3b/"
         ],
         "map_locations": [
             {
@@ -1002,7 +1002,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_3cb/"
         ],
         "map_locations": [
             {
@@ -1026,7 +1026,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_3c/"
         ],
         "map_locations": [
             {
@@ -1050,7 +1050,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_5/"
         ],
         "map_locations": [
             {
@@ -1074,7 +1074,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Old Site A - Room end_6/"
         ],
         "map_locations": [
             {

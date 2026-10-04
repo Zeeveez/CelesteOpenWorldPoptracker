@@ -11,8 +11,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_b_sides",
-            "goal_area_the_summit_b_side"
+            "include_b_sides,$UnclearedAndHideCleared|@The Summit B - 500 M/",
+            "goal_area_the_summit_b_side,$UnclearedAndHideCleared|@The Summit B - 500 M/"
         ],
         "map_locations": [
             {
@@ -36,8 +36,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_b_sides",
-            "goal_area_the_summit_b_side"
+            "include_b_sides,$UnclearedAndHideCleared|@The Summit B - 1000 M/",
+            "goal_area_the_summit_b_side,$UnclearedAndHideCleared|@The Summit B - 1000 M/"
         ],
         "map_locations": [
             {
@@ -61,8 +61,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_b_sides",
-            "goal_area_the_summit_b_side"
+            "include_b_sides,$UnclearedAndHideCleared|@The Summit B - 1500 M/",
+            "goal_area_the_summit_b_side,$UnclearedAndHideCleared|@The Summit B - 1500 M/"
         ],
         "map_locations": [
             {
@@ -86,8 +86,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_b_sides",
-            "goal_area_the_summit_b_side"
+            "include_b_sides,$UnclearedAndHideCleared|@The Summit B - 2000 M/",
+            "goal_area_the_summit_b_side,$UnclearedAndHideCleared|@The Summit B - 2000 M/"
         ],
         "map_locations": [
             {
@@ -111,8 +111,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_b_sides",
-            "goal_area_the_summit_b_side"
+            "include_b_sides,$UnclearedAndHideCleared|@The Summit B - 2500 M/",
+            "goal_area_the_summit_b_side,$UnclearedAndHideCleared|@The Summit B - 2500 M/"
         ],
         "map_locations": [
             {
@@ -136,8 +136,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_b_sides",
-            "goal_area_the_summit_b_side"
+            "include_b_sides,$UnclearedAndHideCleared|@The Summit B - 3000 M/",
+            "goal_area_the_summit_b_side,$UnclearedAndHideCleared|@The Summit B - 3000 M/"
         ],
         "map_locations": [
             {

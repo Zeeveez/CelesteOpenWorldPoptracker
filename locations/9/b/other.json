@@ -11,8 +11,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
         "visibility_rules": [
-            "include_core,include_b_sides",
-            "goal_area_core_b_side"
+            "include_core,include_b_sides,$UnclearedAndHideCleared|@Core B - Level Clear/",
+            "goal_area_core_b_side,$UnclearedAndHideCleared|@Core B - Level Clear/"
         ],
         "map_locations": [
             {

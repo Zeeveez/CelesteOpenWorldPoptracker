@@ -10,6 +10,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Prologue - Level Clear/"
+        ],
         "map_locations": [
             {
                 "map": "0_a_0",
@@ -31,7 +34,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/car_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/car_opened.png",
         "visibility_rules": [
-            "carsanity"
+            "carsanity,$UnclearedAndHideCleared|@Prologue - Car/"
         ],
         "map_locations": [
             {

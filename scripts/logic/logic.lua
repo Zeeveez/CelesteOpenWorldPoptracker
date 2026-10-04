@@ -101,3 +101,17 @@ end
 function HasFarewellAccess()
     return not (not HasChapterAccess("10a") or not HasChapterAccess("10b") or not HasChapterAccess("10c"))
 end
+
+function UnclearedAndHideCleared(location)
+    if not Tracker:FindObjectForCode("hide_cleared").Active then return true end
+    local location_obj = Tracker:FindObjectForCode(location)
+    if not location_obj then
+        print(string.format("UnclearedAndHideCleared: could not find object for code %s", location))
+        return
+    end
+    if location:sub(1, 1) == "@" then
+        return location_obj.AvailableChestCount ~= 0
+    else
+        return location_obj.Active
+    end
+end

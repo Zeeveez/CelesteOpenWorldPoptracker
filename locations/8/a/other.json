@@ -10,6 +10,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Epilogue - Level Clear/"
+        ],
         "map_locations": [
             {
                 "map": "8_a_0",

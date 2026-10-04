@@ -11,7 +11,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/golden_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/golden_opened.png",
         "visibility_rules": [
-            "include_goldens"
+            "include_goldens,$UnclearedAndHideCleared|@Forsaken City A - Golden Strawberry/"
         ],
         "map_locations": [
             {
@@ -33,6 +33,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 2 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_0",
@@ -53,6 +56,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 3 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_0",
@@ -73,6 +79,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/winged_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/winged_berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 3b Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_0",
@@ -93,6 +102,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 5 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_0",
@@ -113,6 +125,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 5z Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_0",
@@ -133,6 +148,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 5a Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_0",
@@ -153,6 +171,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 6 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_1",
@@ -173,6 +194,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 7zb Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_1",
@@ -193,6 +217,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room s1 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_1",
@@ -213,6 +240,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 7z Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_1",
@@ -233,6 +263,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 8zb Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_1",
@@ -253,6 +286,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 7a Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_1",
@@ -273,6 +309,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 9z Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_1",
@@ -293,6 +332,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 8b Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_1",
@@ -313,6 +355,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 9 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_1",
@@ -334,7 +379,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/winged_golden_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/winged_golden_opened.png",
         "visibility_rules": [
-            "include_goldens"
+            "include_goldens,$UnclearedAndHideCleared|@Forsaken City A - Winged Golden Strawberry/"
         ],
         "map_locations": [
             {
@@ -356,6 +401,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 9b Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_2",
@@ -376,6 +424,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 9c Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_2",
@@ -396,6 +447,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 10zb Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_2",
@@ -416,6 +470,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 11 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_2",
@@ -436,6 +493,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Forsaken City A - Room 12z Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "1_a_2",

@@ -11,7 +11,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/golden_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/golden_opened.png",
         "visibility_rules": [
-            "goal_area_farewell_golden"
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Golden Strawberry/"
         ],
         "map_locations": [
             {
@@ -34,9 +34,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/moon_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/moon_berry_opened.png",
         "visibility_rules": [
-            "include_farewell",
-            "goal_area_farewell",
-            "goal_area_farewell_golden"
+            "include_farewell,$UnclearedAndHideCleared|@Farewell - Moon Berry/",
+            "goal_area_farewell,$UnclearedAndHideCleared|@Farewell - Moon Berry/",
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Moon Berry/"
         ],
         "map_locations": [
             {

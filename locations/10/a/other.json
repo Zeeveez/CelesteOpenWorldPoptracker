@@ -11,11 +11,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/heart_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/heart_opened.png",
         "visibility_rules": [
-            "include_empty_space",
-            "goal_area_empty_space",
-            "include_farewell",
-            "goal_area_farewell",
-            "goal_area_farewell_golden"
+            "include_empty_space,$UnclearedAndHideCleared|@Farewell - Crystal Heart?/",
+            "goal_area_empty_space,$UnclearedAndHideCleared|@Farewell - Crystal Heart?/",
+            "include_farewell,$UnclearedAndHideCleared|@Farewell - Crystal Heart?/",
+            "goal_area_farewell,$UnclearedAndHideCleared|@Farewell - Crystal Heart?/",
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Crystal Heart?/"
         ],
         "map_locations": [
             {
@@ -38,11 +38,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/car_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/car_opened.png",
         "visibility_rules": [
-            "include_empty_space,carsanity",
-            "goal_area_empty_space,carsanity",
-            "include_farewell,carsanity",
-            "goal_area_farewell,carsanity",
-            "goal_area_farewell_golden,carsanity"
+            "include_empty_space,carsanity,$UnclearedAndHideCleared|@Farewell - Secret Car/",
+            "goal_area_empty_space,carsanity,$UnclearedAndHideCleared|@Farewell - Secret Car/",
+            "include_farewell,carsanity,$UnclearedAndHideCleared|@Farewell - Secret Car/",
+            "goal_area_farewell,carsanity,$UnclearedAndHideCleared|@Farewell - Secret Car/",
+            "goal_area_farewell_golden,carsanity,$UnclearedAndHideCleared|@Farewell - Secret Car/"
         ],
         "map_locations": [
             {
@@ -66,9 +66,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/car_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/car_opened.png",
         "visibility_rules": [
-            "include_farewell,carsanity",
-            "goal_area_farewell,carsanity",
-            "goal_area_farewell_golden,carsanity"
+            "include_farewell,carsanity,$UnclearedAndHideCleared|@Farewell - Internet Car/",
+            "goal_area_farewell,carsanity,$UnclearedAndHideCleared|@Farewell - Internet Car/",
+            "goal_area_farewell_golden,carsanity,$UnclearedAndHideCleared|@Farewell - Internet Car/"
         ],
         "map_locations": [
             {
@@ -92,9 +92,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/clear_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/clear_opened.png",
         "visibility_rules": [
-            "include_farewell",
-            "goal_area_farewell",
-            "goal_area_farewell_golden"
+            "include_farewell,$UnclearedAndHideCleared|@Farewell - Level Clear/",
+            "goal_area_farewell,$UnclearedAndHideCleared|@Farewell - Level Clear/",
+            "goal_area_farewell_golden,$UnclearedAndHideCleared|@Farewell - Level Clear/"
         ],
         "map_locations": [
             {

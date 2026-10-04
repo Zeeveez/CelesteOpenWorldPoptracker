@@ -11,7 +11,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room a-00/"
         ],
         "map_locations": [
             {
@@ -35,7 +35,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room a-01/"
         ],
         "map_locations": [
             {
@@ -59,7 +59,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room a-02/"
         ],
         "map_locations": [
             {
@@ -83,7 +83,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room a-03/"
         ],
         "map_locations": [
             {
@@ -107,7 +107,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room a-04/"
         ],
         "map_locations": [
             {
@@ -131,7 +131,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room b-00/"
         ],
         "map_locations": [
             {
@@ -155,7 +155,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room b-01/"
         ],
         "map_locations": [
             {
@@ -179,7 +179,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room b-02/"
         ],
         "map_locations": [
             {
@@ -203,7 +203,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room b-03/"
         ],
         "map_locations": [
             {
@@ -227,7 +227,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room b-04/"
         ],
         "map_locations": [
             {
@@ -251,7 +251,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room c-00/"
         ],
         "map_locations": [
             {
@@ -275,7 +275,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room c-01/"
         ],
         "map_locations": [
             {
@@ -299,7 +299,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room c-02/"
         ],
         "map_locations": [
             {
@@ -323,7 +323,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room c-03/"
         ],
         "map_locations": [
             {
@@ -347,7 +347,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room c-04/"
         ],
         "map_locations": [
             {
@@ -371,7 +371,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room d-00/"
         ],
         "map_locations": [
             {
@@ -395,7 +395,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room d-01/"
         ],
         "map_locations": [
             {
@@ -419,7 +419,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room d-02/"
         ],
         "map_locations": [
             {
@@ -443,7 +443,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room d-03/"
         ],
         "map_locations": [
             {
@@ -467,7 +467,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_b_sides,roomsanity"
+            "include_b_sides,roomsanity,$UnclearedAndHideCleared|@Golden Ridge B - Room end/"
         ],
         "map_locations": [
             {

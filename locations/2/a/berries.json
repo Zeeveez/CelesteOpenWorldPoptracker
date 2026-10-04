@@ -11,7 +11,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/golden_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/golden_opened.png",
         "visibility_rules": [
-            "include_goldens"
+            "include_goldens,$UnclearedAndHideCleared|@Old Site A - Golden Strawberry/"
         ],
         "map_locations": [
             {
@@ -33,6 +33,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room 1 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_0",
@@ -53,6 +56,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room d0 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_0",
@@ -73,6 +79,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room d3 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_0",
@@ -93,6 +102,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room d2 Strawberry 1/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_0",
@@ -113,6 +125,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room d2 Strawberry 2/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_0",
@@ -133,6 +148,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/seeded_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/seeded_berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room d1 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_0",
@@ -153,6 +171,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room d6 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_0",
@@ -173,6 +194,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room d4 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_0",
@@ -193,6 +217,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room d5 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_0",
@@ -213,6 +240,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room 4 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_1",
@@ -233,6 +263,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room 5 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_1",
@@ -253,6 +286,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room 8 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_1",
@@ -273,6 +309,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room 9 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_1",
@@ -293,6 +332,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room 9b Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_1",
@@ -313,6 +355,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room 10 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_1",
@@ -333,6 +378,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room 12c Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_1",
@@ -353,6 +401,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room 12d Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_1",
@@ -373,6 +424,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/winged_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/winged_berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Room end_3c Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_2",

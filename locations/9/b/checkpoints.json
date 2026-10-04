@@ -11,8 +11,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_core,include_b_sides",
-            "goal_area_core_b_side"
+            "include_core,include_b_sides,$UnclearedAndHideCleared|@Core B - Into the Core/",
+            "goal_area_core_b_side,$UnclearedAndHideCleared|@Core B - Into the Core/"
         ],
         "map_locations": [
             {
@@ -36,8 +36,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_core,include_b_sides",
-            "goal_area_core_b_side"
+            "include_core,include_b_sides,$UnclearedAndHideCleared|@Core B - Burning or Freezing/",
+            "goal_area_core_b_side,$UnclearedAndHideCleared|@Core B - Burning or Freezing/"
         ],
         "map_locations": [
             {
@@ -61,8 +61,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_core,include_b_sides",
-            "goal_area_core_b_side"
+            "include_core,include_b_sides,$UnclearedAndHideCleared|@Core B - Heartbeat/",
+            "goal_area_core_b_side,$UnclearedAndHideCleared|@Core B - Heartbeat/"
         ],
         "map_locations": [
             {

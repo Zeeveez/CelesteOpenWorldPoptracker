@@ -66,7 +66,7 @@ end
 function ResetLocation(location)
     local location_obj = Tracker:FindObjectForCode(location)
     if not location_obj then
-        print(string.format("ResetLocation: could not find object for code %s", item_code))
+        print(string.format("ResetLocation: could not find object for code %s", location))
         return
     end
 

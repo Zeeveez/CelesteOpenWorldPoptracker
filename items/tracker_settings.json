@@ -71,6 +71,14 @@
     },
 
     {
+        "name": "Hide Cleared",
+        "type": "toggle",
+        "img": "images/icons/items/tracker_settings/hide_cleared.png",
+        "initial_active_state": false,
+        "codes": "hide_cleared"
+    },
+
+    {
         "name": "Show Movement (Left)",
         "type": "toggle",
         "img": "images/icons/items/tracker_settings/movement/movement_left.png",

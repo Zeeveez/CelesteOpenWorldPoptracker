@@ -11,7 +11,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/golden_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/golden_opened.png",
         "visibility_rules": [
-            "include_goldens"
+            "include_goldens,$UnclearedAndHideCleared|@Mirror Temple A - Golden Strawberry/"
         ],
         "map_locations": [
             {
@@ -33,6 +33,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-00x Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -53,6 +56,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-01 Strawberry 1/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -73,6 +79,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-01 Strawberry 2/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -93,6 +102,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-02 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -113,6 +125,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-03 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -133,6 +148,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-04 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -153,6 +171,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-05 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -173,6 +194,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-06 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -193,6 +217,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-07 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -213,6 +240,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-11 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -233,6 +263,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-15 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -253,6 +286,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room a-14 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_0",
@@ -273,6 +309,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room b-18 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -293,6 +332,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room b-01c Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -313,6 +355,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room b-20 Strawberry 1/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -333,6 +378,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room b-20 Strawberry 2/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -353,6 +401,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/winged_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/winged_berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room b-21 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -373,6 +424,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room b-03 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -393,6 +447,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room b-05 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -413,6 +470,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room b-10 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -433,6 +493,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room b-12 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -453,6 +516,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/seeded_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/seeded_berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room b-17 Strawberry 2/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -473,6 +539,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room b-17 Strawberry 1/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_1",
@@ -493,6 +562,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room c-08 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_2",
@@ -513,6 +585,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room d-04 Strawberry 2/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_3",
@@ -533,6 +608,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room d-04 Strawberry 1/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_3",
@@ -553,6 +631,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room d-15 Strawberry 2/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_3",
@@ -573,6 +654,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room d-15 Strawberry 1/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_3",
@@ -593,6 +677,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room d-13 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_3",
@@ -613,6 +700,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room d-19 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_3",
@@ -633,6 +723,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Mirror Temple A - Room e-06 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "5_a_4",

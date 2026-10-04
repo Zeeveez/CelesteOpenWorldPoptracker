@@ -11,7 +11,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Epilogue - Room outside/"
         ],
         "map_locations": [
             {
@@ -35,7 +35,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Epilogue - Room bridge/"
         ],
         "map_locations": [
             {
@@ -59,7 +59,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "roomsanity"
+            "roomsanity,$UnclearedAndHideCleared|@Epilogue - Room secret/"
         ],
         "map_locations": [
             {

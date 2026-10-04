@@ -10,6 +10,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Intervention/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_1",
@@ -31,6 +34,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Old Site A - Awake/"
+        ],
         "map_locations": [
             {
                 "map": "2_a_2",

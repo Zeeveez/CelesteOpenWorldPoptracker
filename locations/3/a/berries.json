@@ -11,7 +11,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/golden_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/golden_opened.png",
         "visibility_rules": [
-            "include_goldens"
+            "include_goldens,$UnclearedAndHideCleared|@Celestial Resort A - Golden Strawberry/"
         ],
         "map_locations": [
             {
@@ -33,6 +33,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room s2 Strawberry 1/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -53,6 +56,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room s2 Strawberry 2/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -73,6 +79,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room s3 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -93,6 +102,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 00-a Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -113,6 +125,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 00-b Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -133,6 +148,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 04-b Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -153,6 +171,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/winged_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/winged_berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 06-a Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -173,6 +194,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 07-b Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -193,6 +217,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 06-b Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -213,6 +240,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 06-c Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -233,6 +263,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 05-c Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_0",
@@ -253,6 +286,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 12-y Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_1",
@@ -273,6 +309,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 10-y Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_1",
@@ -293,6 +332,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 12-c Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_1",
@@ -313,6 +355,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 11-d Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_1",
@@ -333,6 +378,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/winged_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/winged_berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 13-b Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_1",
@@ -353,6 +401,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 13-x Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_1",
@@ -373,6 +424,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 08-x Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_1",
@@ -393,6 +447,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 06-d Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_2",
@@ -413,6 +470,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 04-c Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_2",
@@ -433,6 +493,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 03-b Strawberry 1/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_2",
@@ -453,6 +516,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room 03-b Strawberry 2/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_2",
@@ -473,6 +539,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room roof03 Strawberry/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_3",
@@ -493,6 +562,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room roof06 Strawberry 1/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_3",
@@ -513,6 +585,9 @@
         ],
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
+        "visibility_rules": [
+            "$UnclearedAndHideCleared|@Celestial Resort A - Room roof06 Strawberry 2/"
+        ],
         "map_locations": [
             {
                 "map": "3_a_3",

@@ -11,8 +11,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_core",
-            "goal_area_core_a_side"
+            "include_core,$UnclearedAndHideCleared|@Core A - Into the Core/",
+            "goal_area_core_a_side,$UnclearedAndHideCleared|@Core A - Into the Core/"
         ],
         "map_locations": [
             {
@@ -36,8 +36,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_core",
-            "goal_area_core_a_side"
+            "include_core,$UnclearedAndHideCleared|@Core A - Hot and Cold/",
+            "goal_area_core_a_side,$UnclearedAndHideCleared|@Core A - Hot and Cold/"
         ],
         "map_locations": [
             {
@@ -61,8 +61,8 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/checkpoint_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/checkpoint_opened.png",
         "visibility_rules": [
-            "include_core",
-            "goal_area_core_a_side"
+            "include_core,$UnclearedAndHideCleared|@Core A - Heart of the Mountain/",
+            "goal_area_core_a_side,$UnclearedAndHideCleared|@Core A - Heart of the Mountain/"
         ],
         "map_locations": [
             {

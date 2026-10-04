@@ -11,11 +11,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-00-past/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-00-past/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-00-past/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-00-past/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-00-past/"
         ],
         "map_locations": [
             {
@@ -39,11 +39,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-01-future/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-01-future/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-01-future/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-01-future/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-01-future/"
         ],
         "map_locations": [
             {
@@ -67,11 +67,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-02-launch/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-02-launch/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-02-launch/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-02-launch/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-02-launch/"
         ],
         "map_locations": [
             {
@@ -95,11 +95,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-03-space/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-03-space/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-03-space/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-03-space/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room intro-03-space/"
         ],
         "map_locations": [
             {
@@ -123,11 +123,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-00/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-00/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-00/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-00/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-00/"
         ],
         "map_locations": [
             {
@@ -151,11 +151,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-01/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-01/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-01/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-01/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-01/"
         ],
         "map_locations": [
             {
@@ -179,11 +179,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-02/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-02/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-02/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-02/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-02/"
         ],
         "map_locations": [
             {
@@ -207,11 +207,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-03/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-03/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-03/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-03/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-03/"
         ],
         "map_locations": [
             {
@@ -235,11 +235,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-04/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-04/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-04/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-04/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-04/"
         ],
         "map_locations": [
             {
@@ -263,11 +263,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-05/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-05/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-05/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-05/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room a-05/"
         ],
         "map_locations": [
             {
@@ -291,11 +291,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-00/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-00/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-00/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-00/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-00/"
         ],
         "map_locations": [
             {
@@ -319,11 +319,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-01/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-01/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-01/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-01/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-01/"
         ],
         "map_locations": [
             {
@@ -347,11 +347,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-02/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-02/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-02/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-02/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-02/"
         ],
         "map_locations": [
             {
@@ -375,11 +375,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-03/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-03/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-03/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-03/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-03/"
         ],
         "map_locations": [
             {
@@ -403,11 +403,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-04/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-04/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-04/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-04/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-04/"
         ],
         "map_locations": [
             {
@@ -431,11 +431,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-05/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-05/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-05/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-05/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-05/"
         ],
         "map_locations": [
             {
@@ -459,11 +459,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-06/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-06/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-06/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-06/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-06/"
         ],
         "map_locations": [
             {
@@ -487,11 +487,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-07/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-07/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-07/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-07/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room b-07/"
         ],
         "map_locations": [
             {
@@ -515,11 +515,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-00/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-00/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-00/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-00/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-00/"
         ],
         "map_locations": [
             {
@@ -543,11 +543,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-alt-00/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-alt-00/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-alt-00/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-alt-00/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-alt-00/"
         ],
         "map_locations": [
             {
@@ -571,11 +571,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-alt-01/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-alt-01/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-alt-01/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-alt-01/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-alt-01/"
         ],
         "map_locations": [
             {
@@ -599,11 +599,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-00b/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-00b/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-00b/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-00b/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-00b/"
         ],
         "map_locations": [
             {
@@ -627,11 +627,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-01/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-01/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-01/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-01/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-01/"
         ],
         "map_locations": [
             {
@@ -655,11 +655,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-02/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-02/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-02/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-02/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-02/"
         ],
         "map_locations": [
             {
@@ -683,11 +683,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-03/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-03/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-03/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-03/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room c-03/"
         ],
         "map_locations": [
             {
@@ -711,11 +711,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-00/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-00/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-00/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-00/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-00/"
         ],
         "map_locations": [
             {
@@ -739,11 +739,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-01/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-01/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-01/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-01/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-01/"
         ],
         "map_locations": [
             {
@@ -767,11 +767,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-02/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-02/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-02/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-02/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-02/"
         ],
         "map_locations": [
             {
@@ -795,11 +795,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-03/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-03/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-03/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-03/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-03/"
         ],
         "map_locations": [
             {
@@ -823,11 +823,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-04/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-04/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-04/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-04/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-04/"
         ],
         "map_locations": [
             {
@@ -851,11 +851,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-05/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-05/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-05/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-05/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room d-05/"
         ],
         "map_locations": [
             {
@@ -879,11 +879,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00y/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00y/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00y/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00y/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00y/"
         ],
         "map_locations": [
             {
@@ -907,11 +907,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00yb/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00yb/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00yb/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00yb/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00yb/"
         ],
         "map_locations": [
             {
@@ -935,11 +935,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00z/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00z/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00z/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00z/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00z/"
         ],
         "map_locations": [
             {
@@ -963,11 +963,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00/"
         ],
         "map_locations": [
             {
@@ -991,11 +991,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00b/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00b/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00b/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00b/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-00b/"
         ],
         "map_locations": [
             {
@@ -1019,11 +1019,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-01/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-01/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-01/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-01/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-01/"
         ],
         "map_locations": [
             {
@@ -1047,11 +1047,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-02/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-02/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-02/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-02/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-02/"
         ],
         "map_locations": [
             {
@@ -1075,11 +1075,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-03/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-03/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-03/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-03/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-03/"
         ],
         "map_locations": [
             {
@@ -1103,11 +1103,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-04/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-04/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-04/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-04/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-04/"
         ],
         "map_locations": [
             {
@@ -1131,11 +1131,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05/"
         ],
         "map_locations": [
             {
@@ -1159,11 +1159,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05b/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05b/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05b/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05b/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05b/"
         ],
         "map_locations": [
             {
@@ -1187,11 +1187,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05c/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05c/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05c/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05c/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-05c/"
         ],
         "map_locations": [
             {
@@ -1215,11 +1215,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-06/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-06/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-06/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-06/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-06/"
         ],
         "map_locations": [
             {
@@ -1243,11 +1243,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-07/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-07/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-07/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-07/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-07/"
         ],
         "map_locations": [
             {
@@ -1271,11 +1271,11 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_empty_space,roomsanity",
-            "goal_area_empty_space,roomsanity",
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-08/",
+            "goal_area_empty_space,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-08/",
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-08/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-08/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room e-08/"
         ],
         "map_locations": [
             {
@@ -1299,9 +1299,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-door/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-door/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-door/"
         ],
         "map_locations": [
             {
@@ -1325,9 +1325,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-00/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-00/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-00/"
         ],
         "map_locations": [
             {
@@ -1351,9 +1351,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-01/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-01/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-01/"
         ],
         "map_locations": [
             {
@@ -1377,9 +1377,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-02/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-02/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-02/"
         ],
         "map_locations": [
             {
@@ -1403,9 +1403,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-03/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-03/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-03/"
         ],
         "map_locations": [
             {
@@ -1429,9 +1429,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-04/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-04/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-04/"
         ],
         "map_locations": [
             {
@@ -1455,9 +1455,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-05/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-05/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-05/"
         ],
         "map_locations": [
             {
@@ -1481,9 +1481,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-06/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-06/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-06/"
         ],
         "map_locations": [
             {
@@ -1507,9 +1507,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-07/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-07/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-07/"
         ],
         "map_locations": [
             {
@@ -1533,9 +1533,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-08/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-08/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-08/"
         ],
         "map_locations": [
             {
@@ -1559,9 +1559,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-09/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-09/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room f-09/"
         ],
         "map_locations": [
             {
@@ -1585,9 +1585,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-00/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-00/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-00/"
         ],
         "map_locations": [
             {
@@ -1611,9 +1611,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-01/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-01/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-01/"
         ],
         "map_locations": [
             {
@@ -1637,9 +1637,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-03/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-03/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-03/"
         ],
         "map_locations": [
             {
@@ -1663,9 +1663,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-02/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-02/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-02/"
         ],
         "map_locations": [
             {
@@ -1689,9 +1689,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-04/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-04/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-04/"
         ],
         "map_locations": [
             {
@@ -1715,9 +1715,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-05/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-05/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-05/"
         ],
         "map_locations": [
             {
@@ -1741,9 +1741,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-06/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-06/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room g-06/"
         ],
         "map_locations": [
             {
@@ -1767,9 +1767,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-00b/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-00b/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-00b/"
         ],
         "map_locations": [
             {
@@ -1793,9 +1793,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-00/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-00/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-00/"
         ],
         "map_locations": [
             {
@@ -1819,9 +1819,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-01/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-01/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-01/"
         ],
         "map_locations": [
             {
@@ -1845,9 +1845,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-02/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-02/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-02/"
         ],
         "map_locations": [
             {
@@ -1871,9 +1871,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-03/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-03/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-03/"
         ],
         "map_locations": [
             {
@@ -1897,9 +1897,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-03b/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-03b/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-03b/"
         ],
         "map_locations": [
             {
@@ -1923,9 +1923,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-04/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-04/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-04/"
         ],
         "map_locations": [
             {
@@ -1949,9 +1949,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-04b/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-04b/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-04b/"
         ],
         "map_locations": [
             {
@@ -1975,9 +1975,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-05/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-05/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-05/"
         ],
         "map_locations": [
             {
@@ -2001,9 +2001,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-06/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-06/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-06/"
         ],
         "map_locations": [
             {
@@ -2027,9 +2027,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-06b/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-06b/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-06b/"
         ],
         "map_locations": [
             {
@@ -2053,9 +2053,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-07/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-07/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-07/"
         ],
         "map_locations": [
             {
@@ -2079,9 +2079,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-08/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-08/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-08/"
         ],
         "map_locations": [
             {
@@ -2105,9 +2105,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-09/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-09/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-09/"
         ],
         "map_locations": [
             {
@@ -2131,9 +2131,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-10/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-10/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room h-10/"
         ],
         "map_locations": [
             {
@@ -2157,9 +2157,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-00/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-00/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-00/"
         ],
         "map_locations": [
             {
@@ -2183,9 +2183,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-00b/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-00b/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-00b/"
         ],
         "map_locations": [
             {
@@ -2209,9 +2209,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-01/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-01/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-01/"
         ],
         "map_locations": [
             {
@@ -2235,9 +2235,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-02/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-02/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-02/"
         ],
         "map_locations": [
             {
@@ -2261,9 +2261,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-03/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-03/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-03/"
         ],
         "map_locations": [
             {
@@ -2287,9 +2287,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-04/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-04/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-04/"
         ],
         "map_locations": [
             {
@@ -2313,9 +2313,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-05/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-05/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room i-05/"
         ],
         "map_locations": [
             {
@@ -2339,9 +2339,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-00/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-00/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-00/"
         ],
         "map_locations": [
             {
@@ -2365,9 +2365,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-00b/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-00b/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-00b/"
         ],
         "map_locations": [
             {
@@ -2391,9 +2391,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-01/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-01/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-01/"
         ],
         "map_locations": [
             {
@@ -2417,9 +2417,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-02/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-02/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-02/"
         ],
         "map_locations": [
             {
@@ -2443,9 +2443,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-03/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-03/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-03/"
         ],
         "map_locations": [
             {
@@ -2469,9 +2469,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-04/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-04/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-04/"
         ],
         "map_locations": [
             {
@@ -2495,9 +2495,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-05/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-05/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-05/"
         ],
         "map_locations": [
             {
@@ -2521,9 +2521,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-06/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-06/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-06/"
         ],
         "map_locations": [
             {
@@ -2547,9 +2547,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-07/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-07/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-07/"
         ],
         "map_locations": [
             {
@@ -2573,9 +2573,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-08/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-08/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-08/"
         ],
         "map_locations": [
             {
@@ -2599,9 +2599,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-09/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-09/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-09/"
         ],
         "map_locations": [
             {
@@ -2625,9 +2625,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-10/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-10/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-10/"
         ],
         "map_locations": [
             {
@@ -2651,9 +2651,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-11/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-11/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-11/"
         ],
         "map_locations": [
             {
@@ -2677,9 +2677,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-12/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-12/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-12/"
         ],
         "map_locations": [
             {
@@ -2703,9 +2703,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-13/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-13/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-13/"
         ],
         "map_locations": [
             {
@@ -2729,9 +2729,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-14/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-14/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-14/"
         ],
         "map_locations": [
             {
@@ -2755,9 +2755,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-14b/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-14b/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-14b/"
         ],
         "map_locations": [
             {
@@ -2781,9 +2781,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-15/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-15/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-15/"
         ],
         "map_locations": [
             {
@@ -2807,9 +2807,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-16/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-16/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-16/"
         ],
         "map_locations": [
             {
@@ -2833,9 +2833,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-17/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-17/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-17/"
         ],
         "map_locations": [
             {
@@ -2859,9 +2859,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-18/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-18/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-18/"
         ],
         "map_locations": [
             {
@@ -2885,9 +2885,9 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "include_farewell,roomsanity",
-            "goal_area_farewell,roomsanity",
-            "goal_area_farewell_golden,roomsanity"
+            "include_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-19/",
+            "goal_area_farewell,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-19/",
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room j-19/"
         ],
         "map_locations": [
             {
@@ -2911,7 +2911,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/room_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/room_opened.png",
         "visibility_rules": [
-            "goal_area_farewell_golden,roomsanity"
+            "goal_area_farewell_golden,roomsanity,$UnclearedAndHideCleared|@Farewell - Room end-golden/"
         ],
         "map_locations": [
             {
