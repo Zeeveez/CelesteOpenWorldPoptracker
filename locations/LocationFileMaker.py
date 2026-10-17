@@ -83,7 +83,7 @@ def add_visibility_rules_to_location(location, row):
         visibility_rules = [rule + f',$UnclearedAndHideCleared|@{row['Name']}/' for rule in visibility_rules]
     else:
         visibility_rules = [f'$UnclearedAndHideCleared|@{row['Name']}/']
-    if row['Chapter'] >= '1' and row['Chapter'] <= '7':
+    if int(row['Chapter']) >= 1 and int(row['Chapter']) <= 7:
         visibility_rules = [f'show_{row['Chapter']}{row['Side']},' + rule for rule in visibility_rules]
     location['visibility_rules'] = visibility_rules
 
