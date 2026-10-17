@@ -11,7 +11,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/golden_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/golden_opened.png",
         "visibility_rules": [
-            "include_goldens,$UnclearedAndHideCleared|@The Summit A - Golden Strawberry/"
+            "show_7a,include_goldens,$UnclearedAndHideCleared|@The Summit A - Golden Strawberry/"
         ],
         "map_locations": [
             {
@@ -34,7 +34,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room a-02b Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room a-02b Strawberry/"
         ],
         "map_locations": [
             {
@@ -57,7 +57,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room a-04b Strawberry 1/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room a-04b Strawberry 1/"
         ],
         "map_locations": [
             {
@@ -80,7 +80,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room a-04b Strawberry 2/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room a-04b Strawberry 2/"
         ],
         "map_locations": [
             {
@@ -103,7 +103,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room a-05 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room a-05 Strawberry/"
         ],
         "map_locations": [
             {
@@ -126,7 +126,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room b-02 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room b-02 Strawberry/"
         ],
         "map_locations": [
             {
@@ -149,7 +149,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room b-02b Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room b-02b Strawberry/"
         ],
         "map_locations": [
             {
@@ -172,7 +172,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room b-02e Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room b-02e Strawberry/"
         ],
         "map_locations": [
             {
@@ -195,7 +195,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/winged_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/winged_berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room b-04 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room b-04 Strawberry/"
         ],
         "map_locations": [
             {
@@ -218,7 +218,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room b-08 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room b-08 Strawberry/"
         ],
         "map_locations": [
             {
@@ -241,7 +241,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room b-09 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room b-09 Strawberry/"
         ],
         "map_locations": [
             {
@@ -264,7 +264,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room c-03b Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room c-03b Strawberry/"
         ],
         "map_locations": [
             {
@@ -287,7 +287,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room c-05 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room c-05 Strawberry/"
         ],
         "map_locations": [
             {
@@ -310,7 +310,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room c-06b Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room c-06b Strawberry/"
         ],
         "map_locations": [
             {
@@ -333,7 +333,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room c-07b Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room c-07b Strawberry/"
         ],
         "map_locations": [
             {
@@ -356,7 +356,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room c-08 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room c-08 Strawberry/"
         ],
         "map_locations": [
             {
@@ -379,7 +379,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room c-09 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room c-09 Strawberry/"
         ],
         "map_locations": [
             {
@@ -402,7 +402,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room d-00 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room d-00 Strawberry/"
         ],
         "map_locations": [
             {
@@ -425,7 +425,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room d-01c Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room d-01c Strawberry/"
         ],
         "map_locations": [
             {
@@ -448,7 +448,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room d-01d Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room d-01d Strawberry/"
         ],
         "map_locations": [
             {
@@ -471,7 +471,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room d-03 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room d-03 Strawberry/"
         ],
         "map_locations": [
             {
@@ -494,7 +494,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room d-04 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room d-04 Strawberry/"
         ],
         "map_locations": [
             {
@@ -517,7 +517,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room d-07 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room d-07 Strawberry/"
         ],
         "map_locations": [
             {
@@ -540,7 +540,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room d-08 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room d-08 Strawberry/"
         ],
         "map_locations": [
             {
@@ -563,7 +563,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/winged_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/winged_berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room d-10b Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room d-10b Strawberry/"
         ],
         "map_locations": [
             {
@@ -586,7 +586,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room e-02 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room e-02 Strawberry/"
         ],
         "map_locations": [
             {
@@ -609,7 +609,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room e-05 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room e-05 Strawberry/"
         ],
         "map_locations": [
             {
@@ -632,7 +632,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room e-07 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room e-07 Strawberry/"
         ],
         "map_locations": [
             {
@@ -655,7 +655,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/winged_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/winged_berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room e-09 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room e-09 Strawberry/"
         ],
         "map_locations": [
             {
@@ -678,7 +678,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room e-11 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room e-11 Strawberry/"
         ],
         "map_locations": [
             {
@@ -701,7 +701,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/seeded_berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/seeded_berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room e-12 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room e-12 Strawberry/"
         ],
         "map_locations": [
             {
@@ -724,7 +724,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room e-10 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room e-10 Strawberry/"
         ],
         "map_locations": [
             {
@@ -747,7 +747,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room e-13 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room e-13 Strawberry/"
         ],
         "map_locations": [
             {
@@ -770,7 +770,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room f-00 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room f-00 Strawberry/"
         ],
         "map_locations": [
             {
@@ -793,7 +793,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room f-01 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room f-01 Strawberry/"
         ],
         "map_locations": [
             {
@@ -816,7 +816,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room f-07 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room f-07 Strawberry/"
         ],
         "map_locations": [
             {
@@ -839,7 +839,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room f-08b Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room f-08b Strawberry/"
         ],
         "map_locations": [
             {
@@ -862,7 +862,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room f-08c Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room f-08c Strawberry/"
         ],
         "map_locations": [
             {
@@ -885,7 +885,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room f-11 Strawberry 1/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room f-11 Strawberry 1/"
         ],
         "map_locations": [
             {
@@ -908,7 +908,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room f-11 Strawberry 2/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room f-11 Strawberry 2/"
         ],
         "map_locations": [
             {
@@ -931,7 +931,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room f-11 Strawberry 3/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room f-11 Strawberry 3/"
         ],
         "map_locations": [
             {
@@ -954,7 +954,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room g-00b Strawberry 1/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room g-00b Strawberry 1/"
         ],
         "map_locations": [
             {
@@ -977,7 +977,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room g-00b Strawberry 2/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room g-00b Strawberry 2/"
         ],
         "map_locations": [
             {
@@ -1000,7 +1000,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room g-00b Strawberry 3/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room g-00b Strawberry 3/"
         ],
         "map_locations": [
             {
@@ -1023,7 +1023,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room g-01 Strawberry 1/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room g-01 Strawberry 1/"
         ],
         "map_locations": [
             {
@@ -1046,7 +1046,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room g-01 Strawberry 2/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room g-01 Strawberry 2/"
         ],
         "map_locations": [
             {
@@ -1069,7 +1069,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room g-01 Strawberry 3/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room g-01 Strawberry 3/"
         ],
         "map_locations": [
             {
@@ -1092,7 +1092,7 @@
         "chest_unopened_img": "images/icons/collectables/location_chests/berry_unopened.png",
         "chest_opened_img": "images/icons/collectables/location_chests/berry_opened.png",
         "visibility_rules": [
-            "$UnclearedAndHideCleared|@The Summit A - Room g-03 Strawberry/"
+            "show_7a,$UnclearedAndHideCleared|@The Summit A - Room g-03 Strawberry/"
         ],
         "map_locations": [
             {

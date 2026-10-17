@@ -519,11 +519,193 @@
     },
 
     {
-        "name": "Show Triggers",
+        "name": "Show 1A",
         "type": "toggle",
-        "img": "images/icons/items/tracker_settings/hint_assist.png",
-        "initial_active_state": false,
-        "codes": "show_tracker_triggers"
+        "img": "images/icons/chapters/1a.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_1a.png",
+        "initial_active_state": true,
+        "codes": "show_1a"
+    },
+    {
+        "name": "Show 1B",
+        "type": "toggle",
+        "img": "images/icons/chapters/1b.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_1b.png",
+        "initial_active_state": true,
+        "codes": "show_1b"
+    },
+    {
+        "name": "Show 1C",
+        "type": "toggle",
+        "img": "images/icons/chapters/1c.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_1c.png",
+        "initial_active_state": true,
+        "codes": "show_1c"
+    },
+    {
+        "name": "Show 2A",
+        "type": "toggle",
+        "img": "images/icons/chapters/2a.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_2a.png",
+        "initial_active_state": true,
+        "codes": "show_2a"
+    },
+    {
+        "name": "Show 2B",
+        "type": "toggle",
+        "img": "images/icons/chapters/2b.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_2b.png",
+        "initial_active_state": true,
+        "codes": "show_2b"
+    },
+    {
+        "name": "Show 2C",
+        "type": "toggle",
+        "img": "images/icons/chapters/2c.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_2c.png",
+        "initial_active_state": true,
+        "codes": "show_2c"
+    },
+    {
+        "name": "Show 3A",
+        "type": "toggle",
+        "img": "images/icons/chapters/3a.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_3a.png",
+        "initial_active_state": true,
+        "codes": "show_3a"
+    },
+    {
+        "name": "Show 3B",
+        "type": "toggle",
+        "img": "images/icons/chapters/3b.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_3b.png",
+        "initial_active_state": true,
+        "codes": "show_3b"
+    },
+    {
+        "name": "Show 3C",
+        "type": "toggle",
+        "img": "images/icons/chapters/3c.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_3c.png",
+        "initial_active_state": true,
+        "codes": "show_3c"
+    },
+    {
+        "name": "Show 4A",
+        "type": "toggle",
+        "img": "images/icons/chapters/4a.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_4a.png",
+        "initial_active_state": true,
+        "codes": "show_4a"
+    },
+    {
+        "name": "Show 4B",
+        "type": "toggle",
+        "img": "images/icons/chapters/4b.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_4b.png",
+        "initial_active_state": true,
+        "codes": "show_4b"
+    },
+    {
+        "name": "Show 4C",
+        "type": "toggle",
+        "img": "images/icons/chapters/4c.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_4c.png",
+        "initial_active_state": true,
+        "codes": "show_4c"
+    },
+    {
+        "name": "Show 5A",
+        "type": "toggle",
+        "img": "images/icons/chapters/5a.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_5a.png",
+        "initial_active_state": true,
+        "codes": "show_5a"
+    },
+    {
+        "name": "Show 5B",
+        "type": "toggle",
+        "img": "images/icons/chapters/5b.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_5b.png",
+        "initial_active_state": true,
+        "codes": "show_5b"
+    },
+    {
+        "name": "Show 5C",
+        "type": "toggle",
+        "img": "images/icons/chapters/5c.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_5c.png",
+        "initial_active_state": true,
+        "codes": "show_5c"
+    },
+    {
+        "name": "Show 6A",
+        "type": "toggle",
+        "img": "images/icons/chapters/6a.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_6a.png",
+        "initial_active_state": true,
+        "codes": "show_6a"
+    },
+    {
+        "name": "Show 6B",
+        "type": "toggle",
+        "img": "images/icons/chapters/6b.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_6b.png",
+        "initial_active_state": true,
+        "codes": "show_6b"
+    },
+    {
+        "name": "Show 6C",
+        "type": "toggle",
+        "img": "images/icons/chapters/6c.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_6c.png",
+        "initial_active_state": true,
+        "codes": "show_6c"
+    },
+    {
+        "name": "Show 7A",
+        "type": "toggle",
+        "img": "images/icons/chapters/7a.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_7a.png",
+        "initial_active_state": true,
+        "codes": "show_7a"
+    },
+    {
+        "name": "Show 7B",
+        "type": "toggle",
+        "img": "images/icons/chapters/7b.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_7b.png",
+        "initial_active_state": true,
+        "codes": "show_7b"
+    },
+    {
+        "name": "Show 7C",
+        "type": "toggle",
+        "img": "images/icons/chapters/7c.png",
+        "disabled_img_mods": "",
+        "disabled_img": "images/icons/chapters/exclude_7c.png",
+        "initial_active_state": true,
+        "codes": "show_7c"
     },
 
     {
