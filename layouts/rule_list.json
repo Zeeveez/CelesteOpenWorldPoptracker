@@ -13996,23 +13996,6 @@
                                                                                 "item_size": "3,3",
                                                                                 "rows": [
                                                                                     [
-                                                                                        "custom_yellow-icon",
-                                                                                        "any_dash_r_u_ur-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
                                                                                         "logic_difficulty_assist-icon",
                                                                                         "any_dash_r_u_ur-icon"
                                                                                     ]
@@ -14074,15 +14057,7 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 2",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -14102,7 +14077,15 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        },
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            },
+                                                            {
+                                                                "title": "Page 2",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -14171,24 +14154,6 @@
                                                                                         "logic_difficulty_vanilla-icon",
                                                                                         "l_climb-icon",
                                                                                         "ul_dash-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
-                                                                                        "custom_yellow-icon",
-                                                                                        "crouch-icon",
-                                                                                        "r_dash-icon"
                                                                                     ]
                                                                                 ]
                                                                             }
@@ -14605,59 +14570,12 @@
                                                                                 "item_size": "3,3",
                                                                                 "rows": [
                                                                                     [
-                                                                                        "custom_red-icon",
-                                                                                        "l_climb-icon",
-                                                                                        "r_climb-icon",
-                                                                                        "traffic_blocks-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
-                                                                                        "custom_yellow-icon",
-                                                                                        "any_dash_u_ul_ur-icon",
-                                                                                        "l_climb-icon",
-                                                                                        "r_climb-icon",
-                                                                                        "traffic_blocks-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
                                                                                         "logic_difficulty_assist-icon",
                                                                                         "any_dash_r_u_ul_ur-icon"
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 2",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -14693,7 +14611,15 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        },
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            },
+                                                            {
+                                                                "title": "Page 2",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -14796,42 +14722,6 @@
                                                                                 "item_size": "3,3",
                                                                                 "rows": [
                                                                                     [
-                                                                                        "custom_green-icon",
-                                                                                        "traffic_blocks-icon",
-                                                                                        "ur_dash-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
-                                                                                        "custom_yellow-icon",
-                                                                                        "r_climb-icon",
-                                                                                        "ur_dash-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
                                                                                         "logic_difficulty_assist-icon",
                                                                                         "any_dash_r_u_ur-icon"
                                                                                     ]
@@ -14875,15 +14765,7 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 2",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -14923,7 +14805,15 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        },
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            },
+                                                            {
+                                                                "title": "Page 2",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -16740,6 +16630,196 @@
                                                                                         "blue_cassette_blocks-icon",
                                                                                         "pink_cassette_blocks-icon",
                                                                                         "r_climb-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "1",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_yellow-icon",
+                                                                                        "any_dash_r_u_ur-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "2",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_yellow-icon",
+                                                                                        "crouch-icon",
+                                                                                        "r_dash-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "3",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_red-icon",
+                                                                                        "l_climb-icon",
+                                                                                        "r_climb-icon",
+                                                                                        "traffic_blocks-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_yellow-icon",
+                                                                                        "any_dash_u_ul_ur-icon",
+                                                                                        "l_climb-icon",
+                                                                                        "r_climb-icon",
+                                                                                        "traffic_blocks-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "4",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_green-icon",
+                                                                                        "traffic_blocks-icon",
+                                                                                        "ur_dash-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_yellow-icon",
+                                                                                        "r_climb-icon",
+                                                                                        "ur_dash-icon"
                                                                                     ]
                                                                                 ]
                                                                             }
@@ -30510,27 +30590,6 @@
                                                                                 "item_size": "3,3",
                                                                                 "rows": [
                                                                                     [
-                                                                                        "custom_green-icon",
-                                                                                        "dr_dash-icon",
-                                                                                        "dream_blocks-icon",
-                                                                                        "l_dash-icon",
-                                                                                        "u_dash-icon",
-                                                                                        "ur_dash-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "bottom -> top",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
                                                                                         "logic_difficulty_assist-icon",
                                                                                         "dream_blocks-icon",
                                                                                         "l_dash-icon"
@@ -30904,27 +30963,6 @@
                                                                                 "item_size": "3,3",
                                                                                 "rows": [
                                                                                     [
-                                                                                        "custom_yellow-icon",
-                                                                                        "crouch-icon",
-                                                                                        "dream_blocks-icon",
-                                                                                        "r_dash-icon",
-                                                                                        "u_dash-icon",
-                                                                                        "ul_dash-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "bottom -> top",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
                                                                                         "logic_difficulty_assist-icon",
                                                                                         "dream_blocks-icon",
                                                                                         "r_dash-icon",
@@ -31128,25 +31166,6 @@
                                                                                         "d_dash-icon",
                                                                                         "dream_blocks-icon",
                                                                                         "l_dash-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
-                                                                                        "custom_yellow-icon",
-                                                                                        "dream_blocks-icon",
-                                                                                        "r_dash-icon",
-                                                                                        "u_dash-icon"
                                                                                     ]
                                                                                 ]
                                                                             }
@@ -31948,6 +31967,127 @@
                                                                                         "any_dash_u_ul_ur-icon",
                                                                                         "blue_cassette_blocks-icon",
                                                                                         "dash_refills-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "4",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "bottom -> top",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_green-icon",
+                                                                                        "dr_dash-icon",
+                                                                                        "dream_blocks-icon",
+                                                                                        "l_dash-icon",
+                                                                                        "u_dash-icon",
+                                                                                        "ur_dash-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "7",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "bottom -> top",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_yellow-icon",
+                                                                                        "crouch-icon",
+                                                                                        "dream_blocks-icon",
+                                                                                        "r_dash-icon",
+                                                                                        "u_dash-icon",
+                                                                                        "ul_dash-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "8",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_yellow-icon",
+                                                                                        "dream_blocks-icon",
+                                                                                        "r_dash-icon",
+                                                                                        "u_dash-icon"
                                                                                     ]
                                                                                 ]
                                                                             }
@@ -49540,57 +49680,11 @@
                                                                                 "item_size": "3,3",
                                                                                 "rows": [
                                                                                     [
-                                                                                        "custom_green-icon",
-                                                                                        "any_dash_r_u_ur-icon",
-                                                                                        "crouch-icon",
-                                                                                        "dr_dash-icon",
-                                                                                        "r_climb-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
-                                                                                        "custom_green-icon",
-                                                                                        "r_climb-icon",
-                                                                                        "r_dash-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
                                                                                         "logic_difficulty_assist-icon"
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 2",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -49626,7 +49720,15 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        },
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            },
+                                                            {
+                                                                "title": "Page 2",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -50050,42 +50152,6 @@
                                                                                 "item_size": "3,3",
                                                                                 "rows": [
                                                                                     [
-                                                                                        "custom_red-icon",
-                                                                                        "any_dash_u-icon",
-                                                                                        "r_climb-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
-                                                                                        "custom_yellow-icon",
-                                                                                        "any_dash_r_ur-icon",
-                                                                                        "r_climb-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
                                                                                         "logic_difficulty_assist-icon"
                                                                                     ]
                                                                                 ]
@@ -50109,15 +50175,7 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 2",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -50643,24 +50701,6 @@
                                                                                 "item_size": "3,3",
                                                                                 "rows": [
                                                                                     [
-                                                                                        "custom_red-icon",
-                                                                                        "any_dash_u_ul-icon",
-                                                                                        "r_climb-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "bottom -> top",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
                                                                                         "logic_difficulty_assist-icon",
                                                                                         "any_dash_l_u_ul_ur-icon"
                                                                                     ]
@@ -50775,15 +50815,7 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 2",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -53270,6 +53302,158 @@
                                                                                         "pink_cassette_blocks-icon",
                                                                                         "springs-icon",
                                                                                         "ur_dash-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "1",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_green-icon",
+                                                                                        "any_dash_r_u_ur-icon",
+                                                                                        "crouch-icon",
+                                                                                        "dr_dash-icon",
+                                                                                        "r_climb-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_green-icon",
+                                                                                        "r_climb-icon",
+                                                                                        "r_dash-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "4",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_red-icon",
+                                                                                        "any_dash_u-icon",
+                                                                                        "r_climb-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_yellow-icon",
+                                                                                        "any_dash_r_ur-icon",
+                                                                                        "r_climb-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "8",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "bottom -> top",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_red-icon",
+                                                                                        "any_dash_u_ul-icon",
+                                                                                        "r_climb-icon"
                                                                                     ]
                                                                                 ]
                                                                             }
@@ -62618,6 +62802,24 @@
                                                                 "content": {
                                                                     "type": "array",
                                                                     "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_yellow-icon",
+                                                                                        "l_climb-icon",
+                                                                                        "ur_dash-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -72661,7 +72863,7 @@
                                                                                 "rows": [
                                                                                     [
                                                                                         "custom_yellow-icon",
-                                                                                        "any_dash_r_ur-icon",
+                                                                                        "any_dash_r_u_ur-icon",
                                                                                         "crouch-icon",
                                                                                         "dash_switches-icon",
                                                                                         "dr_dash-icon",
@@ -100047,25 +100249,6 @@
                                                                                 "item_size": "3,3",
                                                                                 "rows": [
                                                                                     [
-                                                                                        "custom_yellow-icon",
-                                                                                        "dash_refills-icon",
-                                                                                        "swap_blocks-icon",
-                                                                                        "ur_dash-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
                                                                                         "logic_difficulty_assist-icon",
                                                                                         "any_dash_r_u_ur-icon"
                                                                                     ]
@@ -100106,15 +100289,7 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 2",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -100133,7 +100308,15 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        },
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            },
+                                                            {
+                                                                "title": "Page 2",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -100861,6 +101044,45 @@
                                                         ]
                                                     }
                                                 }
+                                            },
+                                            {
+                                                "title": "0",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_yellow-icon",
+                                                                                        "dash_refills-icon",
+                                                                                        "swap_blocks-icon",
+                                                                                        "ur_dash-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
                                             }
                                         ]
                                     }
@@ -100899,23 +101121,6 @@
                                                                 "content": {
                                                                     "type": "array",
                                                                     "content": [
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "east -> west",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
-                                                                                        "custom_yellow-icon",
-                                                                                        "u_dash-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -113853,6 +114058,43 @@
                                                                                 "rows": [
                                                                                     [
                                                                                         "logic_difficulty_vanilla-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "0",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "east -> west",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_yellow-icon",
+                                                                                        "u_dash-icon"
                                                                                     ]
                                                                                 ]
                                                                             }
@@ -153725,22 +153967,6 @@
                                                                                 "item_size": "3,3",
                                                                                 "rows": [
                                                                                     [
-                                                                                        "custom_green-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> Binoculars",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
                                                                                         "logic_difficulty_assist-icon"
                                                                                     ]
                                                                                 ]
@@ -153834,15 +154060,7 @@
                                                                                     ]
                                                                                 ]
                                                                             }
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            },
-                                                            {
-                                                                "title": "Page 2",
-                                                                "content": {
-                                                                    "type": "array",
-                                                                    "content": [
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -153882,27 +154100,6 @@
                                                                 "content": {
                                                                     "type": "array",
                                                                     "content": [
-                                                                        {
-                                                                            "type": "group",
-                                                                            "background": "#00000000",
-                                                                            "header": "west -> east",
-                                                                            "content": {
-                                                                                "type": "itemgrid",
-                                                                                "h_alignment": "left",
-                                                                                "item_margin": "1,1",
-                                                                                "item_size": "3,3",
-                                                                                "rows": [
-                                                                                    [
-                                                                                        "custom_green-icon",
-                                                                                        "badeline_boosters-icon",
-                                                                                        "crouch-icon",
-                                                                                        "r_dash-icon",
-                                                                                        "springs-icon",
-                                                                                        "u_dash-icon"
-                                                                                    ]
-                                                                                ]
-                                                                            }
-                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
@@ -154269,6 +154466,83 @@
                                                                                         "springs-icon",
                                                                                         "u_dash-icon",
                                                                                         "ur_dash-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "1",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> Binoculars",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_green-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "title": "2",
+                                                "content": {
+                                                    "type": "dock",
+                                                    "content": {
+                                                        "dock": "top",
+                                                        "type": "tabbed",
+                                                        "tabs": [
+                                                            {
+                                                                "title": "Page 1",
+                                                                "content": {
+                                                                    "type": "array",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_green-icon",
+                                                                                        "badeline_boosters-icon",
+                                                                                        "crouch-icon",
+                                                                                        "r_dash-icon",
+                                                                                        "springs-icon",
+                                                                                        "u_dash-icon"
                                                                                     ]
                                                                                 ]
                                                                             }
@@ -169068,6 +169342,26 @@
                                                                 "content": {
                                                                     "type": "array",
                                                                     "content": [
+                                                                        {
+                                                                            "type": "group",
+                                                                            "background": "#00000000",
+                                                                            "header": "west -> east",
+                                                                            "content": {
+                                                                                "type": "itemgrid",
+                                                                                "h_alignment": "left",
+                                                                                "item_margin": "1,1",
+                                                                                "item_size": "3,3",
+                                                                                "rows": [
+                                                                                    [
+                                                                                        "custom_yellow-icon",
+                                                                                        "any_dash_l_ul-icon",
+                                                                                        "double_dash_refills-icon",
+                                                                                        "springs-icon",
+                                                                                        "ur_dash-icon"
+                                                                                    ]
+                                                                                ]
+                                                                            }
+                                                                        },
                                                                         {
                                                                             "type": "group",
                                                                             "background": "#00000000",
