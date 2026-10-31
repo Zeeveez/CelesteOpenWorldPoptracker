@@ -79,13 +79,24 @@ function DisplayHints()
         if location_obj.AvailableChestCount ~= 0 then
             local hint_obj = Tracker:FindObjectForCode("hint_"..i)
             i = i + 1
-            hint_obj.BadgeText = hint.receiving_player_name.."'s "..hint.item_name.." is at "..location:sub(2, -2)
+            hint_obj.BadgeText = "        "..hint.receiving_player_name.."'s "..hint.item_name.." is at "..location:sub(2, -2)
             if hint.found then
                 hint_obj.BadgeTextColor = HINT_TEXT_COLORS[40]
             elseif hint.status == 0 then
                 hint_obj.BadgeTextColor = HINT_TEXT_COLORS[100 + hint.item_flags]
             else
                 hint_obj.BadgeTextColor = HINT_TEXT_COLORS[hint.status]
+            end
+            if reachable_locations and reachable_locations[location:sub(2, -2)] ~= nil then
+                if reachable_locations[location:sub(2, -2)] == 1 then
+                    hint_obj.Icon = "images/icons/accessibility/accessible.png"
+                elseif reachable_locations[location:sub(2, -2)] == 5 then
+                    hint_obj.Icon = "images/icons/accessibility/outoflogic.png"
+                else
+                    hint_obj.Icon = "images/icons/accessibility/inaccessible.png"
+                end
+            else
+                hint_obj.Icon = "images/icons/accessibility/inaccessible.png"
             end
         end
         if i == 20 then
@@ -99,6 +110,7 @@ function DisplayHints()
         else
             hint_obj.BadgeText = ""
         end
+        hint_obj.Icon = "images/icons/accessibility/empty.png"
     end
 end
 ScriptHost:AddOnLocationSectionChangedHandler("UpdateHintDisplay", DisplayHints)
@@ -155,6 +167,12 @@ function RegisterOnHintNotify(notify_keys)
     local TEAM_NUMBER = Archipelago.TeamNumber or 0
     HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
     table.insert(notify_keys, HINTS_ID)
+    
+    local hint_info_obj = Tracker:FindObjectForCode("hint_info")
+    hint_info_obj:SetOverlayAlign("left")
+    hint_info_obj:SetOverlayFontSize(14)
+    hint_info_obj.BadgeTextColor = "#ffffff"
+    hint_info_obj.BadgeText = "Note: Hint accessibility assumes level is accessible, see maps for true accessibility"
 
     for i = 0,19 do
         local hint_obj = Tracker:FindObjectForCode("hint_"..i)

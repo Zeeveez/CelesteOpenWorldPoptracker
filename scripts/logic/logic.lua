@@ -61,6 +61,8 @@ function CanAccess(location_name)
                 local keys = Tracker:FindObjectForCode("grannys_house_keys")
                 keys.BadgeText = ""
             end
+
+            DisplayHints()
         end)
     end
 

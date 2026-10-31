@@ -10,7 +10,6 @@ function ProcessDeaths(key, value)
             total = total + v
         end
     end
-    print(dump_table(death_counts))
     local deaths_obj = Tracker:FindObjectForCode("death_counter")
     deaths_obj.BadgeText = "      ".."x"..total
 end
