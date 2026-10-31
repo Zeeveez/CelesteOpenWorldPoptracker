@@ -991,8 +991,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'any_dash_r_u_ur', 'l_climb' }, 'https://www.youtube.com/watch?v=5YxgsepHoqM' },
 		},
 	},
-	["Forsaken City B - Room 1_west"] = {
-		["Forsaken City B - Room 1_east"] = {
+	["Forsaken City B - Room 01_west"] = {
+		["Forsaken City B - Room 01_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_u_ur', 'crouch', 'dr_dash', 'l_climb', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=LCRbM6HnoEk' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'crouch', 'l_climb', 'r_dash', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=MUoa1fNbfBg' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'r_climb', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=vPN61hvGeVU' },
@@ -1011,8 +1011,8 @@ VIDEO_LINKS = {
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'any_dash_r_u_ur' }, 'https://www.youtube.com/watch?v=HNLB_JyLbdc' },
 		},
 	},
-	["Forsaken City B - Room 2_west"] = {
-		["Forsaken City B - Room 2_east"] = {
+	["Forsaken City B - Room 02_west"] = {
+		["Forsaken City B - Room 02_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_u_ul_ur', 'r_climb', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=s-rg9tT-HcE' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_u_ur', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=Ijo4FNmoQy8' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_r_u_ul_ur', 'forsakencity-traffic_blocks', 'r_climb' }, 'https://www.youtube.com/watch?v=s-rg9tT-HcE' },
@@ -1047,8 +1047,8 @@ VIDEO_LINKS = {
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'crouch', 'dr_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=6uP5QRmihF0' },
 		},
 	},
-	["Forsaken City B - Room 3_west"] = {
-		["Forsaken City B - Room 3_east"] = {
+	["Forsaken City B - Room 03_west"] = {
+		["Forsaken City B - Room 03_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'l_climb', 'traffic_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=S19qd-L1Zrg' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'forsakencity-dash_refills', 'forsakencity-traffic_blocks', 'l_climb', 'u_dash' }, 'https://www.youtube.com/watch?v=S19qd-L1Zrg' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'forsakencityb-dash_refills', 'forsakencityb-traffic_blocks', 'l_climb', 'u_dash' }, 'https://www.youtube.com/watch?v=S19qd-L1Zrg' },
@@ -1063,8 +1063,8 @@ VIDEO_LINKS = {
 			{ 5, { 'custom_red', 'split_interactables_per_side', 'b-traffic_blocks', 'l_climb', 'r_climb' }, 'https://www.youtube.com/watch?v=vXARFAZvxTY' },
 		},
 	},
-	["Forsaken City B - Room 4_west"] = {
-		["Forsaken City B - Room 4_east"] = {
+	["Forsaken City B - Room 04_west"] = {
+		["Forsaken City B - Room 04_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'crouch', 'r_climb', 'traffic_blocks', 'ur_dash' }, 'https://www.youtube.com/watch?v=aEO8ieDInqE' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'crouch', 'springs', 'traffic_blocks', 'ur_dash' }, 'https://www.youtube.com/watch?v=cifQsn4nw8g' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'crouch', 'traffic_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=50Psw_3hgRA' },
@@ -1099,8 +1099,8 @@ VIDEO_LINKS = {
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'b-traffic_blocks', 'r_dash' }, 'https://www.youtube.com/watch?v=wfqeHdzaVbA' },
 		},
 	},
-	["Forsaken City B - Room 0_west"] = {
-		["Forsaken City B - Room 0_east"] = {
+	["Forsaken City B - Room 00_west"] = {
+		["Forsaken City B - Room 00_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_u_ur' }, 'https://www.youtube.com/watch?v=uQ8XDK9NjBs' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'r_climb' }, 'https://www.youtube.com/watch?v=jDCgbjdPnuY' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_u_ur' }, 'https://www.youtube.com/watch?v=uQ8XDK9NjBs' },
@@ -1111,8 +1111,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'r_climb' }, 'https://www.youtube.com/watch?v=jDCgbjdPnuY' },
 		},
 	},
-	["Forsaken City B - Room 5_west"] = {
-		["Forsaken City B - Room 5_east"] = {
+	["Forsaken City B - Room 05_west"] = {
+		["Forsaken City B - Room 05_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_u_ur', 'r_climb', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=06AC2uNzo3U' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_r_u_ur', 'forsakencity-traffic_blocks', 'r_climb' }, 'https://www.youtube.com/watch?v=06AC2uNzo3U' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'any_dash_r_u_ur', 'forsakencityb-traffic_blocks', 'r_climb' }, 'https://www.youtube.com/watch?v=06AC2uNzo3U' },
@@ -1127,8 +1127,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'any_dash_u_ur', 'b-dash_refills' }, 'https://www.youtube.com/watch?v=BV8MkmlTVuY' },
 		},
 	},
-	["Forsaken City B - Room 6_west"] = {
-		["Forsaken City B - Room 6_east"] = {
+	["Forsaken City B - Room 06_west"] = {
+		["Forsaken City B - Room 06_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_ur', 'dash_refills', 'u_dash' }, 'https://www.youtube.com/watch?v=Vl8Lrv36wBU' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'r_dash', 'springs', 'ul_dash' }, 'https://www.youtube.com/watch?v=uq-EBg5H-BE' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'springs', 'ur_dash' }, 'https://www.youtube.com/watch?v=d20vEG0NyoA' },
@@ -1143,8 +1143,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'b-dash_refills', 'b-springs', 'ur_dash' }, 'https://www.youtube.com/watch?v=d20vEG0NyoA' },
 		},
 	},
-	["Forsaken City B - Room 7_bottom"] = {
-		["Forsaken City B - Room 7_top"] = {
+	["Forsaken City B - Room 07_bottom"] = {
+		["Forsaken City B - Room 07_top"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_l_ul', 'r_climb', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=t0OaFNJj6vE' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'l_climb', 'r_climb', 'traffic_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=s3WolmTafM4' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_l_ul', 'forsakencity-traffic_blocks', 'r_climb' }, 'https://www.youtube.com/watch?v=t0OaFNJj6vE' },
@@ -1155,8 +1155,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'b-traffic_blocks', 'l_climb', 'r_climb', 'u_dash' }, 'https://www.youtube.com/watch?v=s3WolmTafM4' },
 		},
 	},
-	["Forsaken City B - Room 8_west"] = {
-		["Forsaken City B - Room 8_east"] = {
+	["Forsaken City B - Room 08_west"] = {
+		["Forsaken City B - Room 08_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_ur', 'l_climb', 'r_climb', 'traffic_blocks', 'ul_dash' }, 'https://www.youtube.com/watch?v=JK7A-EBxxGY' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'l_climb', 'r_climb', 'traffic_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=HTEo-SmAQ-U' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_r_ur', 'forsakencity-traffic_blocks', 'l_climb', 'r_climb', 'ul_dash' }, 'https://www.youtube.com/watch?v=JK7A-EBxxGY' },
@@ -1175,8 +1175,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'any_dash_r_u_ur', 'b-traffic_blocks', 'l_climb', 'r_climb' }, 'https://www.youtube.com/watch?v=RYbgAmW_UJ0' },
 		},
 	},
-	["Forsaken City B - Room 9_west"] = {
-		["Forsaken City B - Room 9_east"] = {
+	["Forsaken City B - Room 09_west"] = {
+		["Forsaken City B - Room 09_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_u_ul', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=kUjo0XSlR3k' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'l_climb', 'r_climb', 'ul_dash' }, 'https://www.youtube.com/watch?v=f9KVycOq1Iw' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'l_climb', 'traffic_blocks', 'ur_dash' }, 'https://www.youtube.com/watch?v=A25FZdhSA4Q' },
@@ -1215,8 +1215,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'any_dash_l_u_ul', 'b-blue_cassette_blocks', 'b-pink_cassette_blocks', 'r_climb' }, 'https://www.youtube.com/watch?v=DjoZo0EuypI' },
 		},
 	},
-	["Forsaken City C - Room 0_west"] = {
-		["Forsaken City C - Room 0_east"] = {
+	["Forsaken City C - Room 00_west"] = {
+		["Forsaken City C - Room 00_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_u_ur', 'dash_refills', 'r_climb', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=xqLGK0iE68A' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'l_climb', 'r_climb', 'r_dash', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=yykRr9Eah-8' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_u_ur', 'forsakencity-dash_refills', 'forsakencity-traffic_blocks', 'r_climb' }, 'https://www.youtube.com/watch?v=xqLGK0iE68A' },
@@ -1227,8 +1227,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-dash_refills', 'c-traffic_blocks', 'l_climb', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=yykRr9Eah-8' },
 		},
 	},
-	["Forsaken City C - Room 1_west"] = {
-		["Forsaken City C - Room 1_east"] = {
+	["Forsaken City C - Room 01_west"] = {
+		["Forsaken City C - Room 01_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_u_ur', 'l_climb', 'r_climb', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=Zeg8XuvTO54' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'crouch', 'dr_dash', 'l_climb', 'r_climb', 'traffic_blocks' }, 'https://www.youtube.com/watch?v=5JD0qpaNr94' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_r_u_ur', 'forsakencity-traffic_blocks', 'l_climb', 'r_climb' }, 'https://www.youtube.com/watch?v=Zeg8XuvTO54' },
@@ -1239,8 +1239,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-traffic_blocks', 'crouch', 'dr_dash', 'l_climb', 'r_climb' }, 'https://www.youtube.com/watch?v=5JD0qpaNr94' },
 		},
 	},
-	["Forsaken City C - Room 2_west"] = {
-		["Forsaken City C - Room 2_goal"] = {
+	["Forsaken City C - Room 02_west"] = {
+		["Forsaken City C - Room 02_goal"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_ul', 'coins', 'l_climb', 'r_climb', 'traffic_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=uudEmmXM-_o' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_ul', 'crouch', 'dr_dash', 'l_climb', 'r_climb', 'traffic_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=sC2cba7QaRE' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'coins', 'l_climb', 'r_climb', 'traffic_blocks', 'ul_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=IvO-5Kycgp0' },
@@ -3087,24 +3087,24 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'b-dream_blocks', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=y9CnAHmKoYk' },
 		},
 	},
-	["Old Site B - Room 4_bottom"] = {
-		["Old Site B - Room 4_top"] = {
+	["Old Site B - Room 04_bottom"] = {
+		["Old Site B - Room 04_top"] = {
 			{ 3, { 'custom_green', 'split_interactables_none', 'dr_dash', 'dream_blocks', 'l_dash', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=TpubhlVwFJY' },
 			{ 3, { 'custom_green', 'split_interactables_per_level', 'dr_dash', 'l_dash', 'oldsite-dream_blocks', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=TpubhlVwFJY' },
 			{ 3, { 'custom_green', 'split_interactables_per_level_and_side', 'dr_dash', 'l_dash', 'oldsiteb-dream_blocks', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=TpubhlVwFJY' },
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'b-dream_blocks', 'dr_dash', 'l_dash', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=TpubhlVwFJY' },
 		},
 	},
-	["Old Site B - Room 7_bottom"] = {
-		["Old Site B - Room 7_top"] = {
+	["Old Site B - Room 07_bottom"] = {
+		["Old Site B - Room 07_top"] = {
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'crouch', 'dream_blocks', 'r_dash', 'u_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=d5wylfF5QsQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'crouch', 'oldsite-dream_blocks', 'r_dash', 'u_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=d5wylfF5QsQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'crouch', 'oldsiteb-dream_blocks', 'r_dash', 'u_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=d5wylfF5QsQ' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'b-dream_blocks', 'crouch', 'r_dash', 'u_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=d5wylfF5QsQ' },
 		},
 	},
-	["Old Site B - Room 8_west"] = {
-		["Old Site B - Room 8_east"] = {
+	["Old Site B - Room 08_west"] = {
+		["Old Site B - Room 08_east"] = {
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'dream_blocks', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=XuScDZo2QnY' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'oldsite-dream_blocks', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=XuScDZo2QnY' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'oldsiteb-dream_blocks', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=XuScDZo2QnY' },
@@ -3119,16 +3119,16 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'b-dream_blocks', 'crouch', 'r_dash', 'ul_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=UR39grav4Sw' },
 		},
 	},
-	["Old Site C - Room 0_west"] = {
-		["Old Site C - Room 0_east"] = {
+	["Old Site C - Room 00_west"] = {
+		["Old Site C - Room 00_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dream_blocks', 'l_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=AMrHUnRBA38' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'l_climb', 'oldsite-dream_blocks', 'r_dash' }, 'https://www.youtube.com/watch?v=AMrHUnRBA38' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'l_climb', 'oldsitec-dream_blocks', 'r_dash' }, 'https://www.youtube.com/watch?v=AMrHUnRBA38' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-dream_blocks', 'l_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=AMrHUnRBA38' },
 		},
 	},
-	["Old Site C - Room 1_west"] = {
-		["Old Site C - Room 1_east"] = {
+	["Old Site C - Room 01_west"] = {
+		["Old Site C - Room 01_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_dl_ul', 'coins', 'dream_blocks', 'r_climb' }, 'https://www.youtube.com/watch?v=gzhM40XsWbk' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_dl_ul', 'coins', 'dream_blocks', 'r_dash' }, 'https://www.youtube.com/watch?v=uTuRClRfwzk' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_u_ur', 'coins', 'dream_blocks' }, 'https://www.youtube.com/watch?v=rOBR0wivZRM' },
@@ -3147,8 +3147,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-coins', 'c-dream_blocks', 'dr_dash' }, 'https://www.youtube.com/watch?v=LlyEeEGgJe4' },
 		},
 	},
-	["Old Site C - Room 2_west"] = {
-		["Old Site C - Room 2_goal"] = {
+	["Old Site C - Room 02_west"] = {
+		["Old Site C - Room 02_goal"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'dream_blocks', 'l_climb', 'l_dash', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=TzK6uUd9A0A' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'dream_blocks', 'l_climb', 'l_dash', 'r_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=gR5AbaVo8ek' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'l_climb', 'l_dash', 'oldsite-dash_refills', 'oldsite-dream_blocks', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=TzK6uUd9A0A' },
@@ -4165,8 +4165,8 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'l_dash' }, 'https://www.youtube.com/watch?v=HH8NkvAB2BM' },
 		},
 	},
-	["Celestial Resort B - Room 1_west"] = {
-		["Celestial Resort B - Room 1_east"] = {
+	["Celestial Resort B - Room 01_west"] = {
+		["Celestial Resort B - Room 01_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_u_ur', 'dash_refills' }, 'https://www.youtube.com/watch?v=G-NXLj8j-yU' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=fI-Yg1UZW2o' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_u_ur', 'celestialresort-dash_refills' }, 'https://www.youtube.com/watch?v=G-NXLj8j-yU' },
@@ -4185,8 +4185,8 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=MYdvvTxn_lE' },
 		},
 	},
-	["Celestial Resort B - Room 4_west"] = {
-		["Celestial Resort B - Room 4_east"] = {
+	["Celestial Resort B - Room 04_west"] = {
+		["Celestial Resort B - Room 04_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'r_climb', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=iewIiItFHIU' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'r_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=4FQTQXre8Uk' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'celestialresort-dash_refills', 'r_climb', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=iewIiItFHIU' },
@@ -4205,8 +4205,8 @@ VIDEO_LINKS = {
 			{ 5, { 'custom_red', 'split_interactables_per_side', 'any_dash_u', 'r_climb' }, 'https://www.youtube.com/watch?v=LjHrTlYj5aY' },
 		},
 	},
-	["Celestial Resort B - Room 8_bottom"] = {
-		["Celestial Resort B - Room 8_top"] = {
+	["Celestial Resort B - Room 08_bottom"] = {
+		["Celestial Resort B - Room 08_top"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_ur', 'dash_refills', 'l_climb', 'ul_dash' }, 'https://www.youtube.com/watch?v=9vAA9aI0Mv0' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'l_climb', 'u_dash' }, 'https://www.youtube.com/watch?v=bFLqrT6jt7A' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_r_ur', 'celestialresort-dash_refills', 'l_climb', 'ul_dash' }, 'https://www.youtube.com/watch?v=9vAA9aI0Mv0' },
@@ -4281,16 +4281,16 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'any_dash_u_ul_ur', 'crouch', 'r_dash' }, 'https://www.youtube.com/watch?v=jb6OE1sKb0Q' },
 		},
 	},
-	["Celestial Resort B - Room 0_west"] = {
-		["Celestial Resort B - Room 0_east"] = {
+	["Celestial Resort B - Room 00_west"] = {
+		["Celestial Resort B - Room 00_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_u_ur' }, 'https://www.youtube.com/watch?v=E5D_nukAQXM' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_r_u_ur' }, 'https://www.youtube.com/watch?v=E5D_nukAQXM' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'any_dash_r_u_ur' }, 'https://www.youtube.com/watch?v=E5D_nukAQXM' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'any_dash_r_u_ur' }, 'https://www.youtube.com/watch?v=E5D_nukAQXM' },
 		},
 	},
-	["Celestial Resort B - Room 2_west"] = {
-		["Celestial Resort B - Room 2_east"] = {
+	["Celestial Resort B - Room 02_west"] = {
+		["Celestial Resort B - Room 02_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_u_ur', 'r_climb' }, 'https://www.youtube.com/watch?v=dqodjrg_uWo' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'crouch', 'dr_dash', 'r_climb', 'r_dash' }, 'https://www.youtube.com/watch?v=PP1j8FJJeKI' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'crouch', 'dr_dash', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=8b6LxmEsG5Q' },
@@ -4305,8 +4305,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'crouch', 'dr_dash', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=8b6LxmEsG5Q' },
 		},
 	},
-	["Celestial Resort B - Room 3_west"] = {
-		["Celestial Resort B - Room 3_east"] = {
+	["Celestial Resort B - Room 03_west"] = {
+		["Celestial Resort B - Room 03_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'u_dash' }, 'https://www.youtube.com/watch?v=arzidkMx5Hs' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'ur_dash' }, 'https://www.youtube.com/watch?v=l1H7C9d-TlI' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'celestialresort-dash_refills', 'u_dash' }, 'https://www.youtube.com/watch?v=arzidkMx5Hs' },
@@ -4317,8 +4317,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'ur_dash' }, 'https://www.youtube.com/watch?v=l1H7C9d-TlI' },
 		},
 	},
-	["Celestial Resort B - Room 5_west"] = {
-		["Celestial Resort B - Room 5_east"] = {
+	["Celestial Resort B - Room 05_west"] = {
+		["Celestial Resort B - Room 05_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_l_ul', 'coins', 'r_climb', 'springs' }, 'https://www.youtube.com/watch?v=nG_wVtuVa3w' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_u_ul_ur', 'coins', 'moving_platforms', 'r_climb' }, 'https://www.youtube.com/watch?v=NpPUCZOP26A' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'coins', 'r_dash', 'springs' }, 'https://www.youtube.com/watch?v=jh0RuN9vNgY' },
@@ -4341,8 +4341,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'b-coins', 'b-springs', 'ur_dash' }, 'https://www.youtube.com/watch?v=_cCIDh7fs2I' },
 		},
 	},
-	["Celestial Resort B - Room 6_west"] = {
-		["Celestial Resort B - Room 6_east"] = {
+	["Celestial Resort B - Room 06_west"] = {
+		["Celestial Resort B - Room 06_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'r_climb', 'sinking_platforms', 'ur_dash' }, 'https://www.youtube.com/watch?v=4mpH7yKGSw0' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'sinking_platforms', 'u_dash' }, 'https://www.youtube.com/watch?v=OVPj1YAgJkc' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'celestialresort-sinking_platforms', 'r_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=4mpH7yKGSw0' },
@@ -4353,8 +4353,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'b-sinking_platforms', 'u_dash' }, 'https://www.youtube.com/watch?v=OVPj1YAgJkc' },
 		},
 	},
-	["Celestial Resort B - Room 7_west"] = {
-		["Celestial Resort B - Room 7_east"] = {
+	["Celestial Resort B - Room 07_west"] = {
+		["Celestial Resort B - Room 07_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'r_climb', 'u_dash' }, 'https://www.youtube.com/watch?v=OZXNAt4ciaw' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'r_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=3utGSQmARQQ' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'r_climb', 'u_dash' }, 'https://www.youtube.com/watch?v=OZXNAt4ciaw' },
@@ -4365,8 +4365,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'r_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=3utGSQmARQQ' },
 		},
 	},
-	["Celestial Resort B - Room 9_west"] = {
-		["Celestial Resort B - Room 9_east"] = {
+	["Celestial Resort B - Room 09_west"] = {
+		["Celestial Resort B - Room 09_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_ur' }, 'https://www.youtube.com/watch?v=0p1EZoklOtI' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'crouch', 'dr_dash', 'r_climb' }, 'https://www.youtube.com/watch?v=4yFS4ZSnBfQ' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'r_climb', 'u_dash' }, 'https://www.youtube.com/watch?v=ZIWfNS7VuQ0' },
@@ -4503,8 +4503,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'b-coins', 'ur_dash' }, 'https://www.youtube.com/watch?v=JX89BTgKG-U' },
 		},
 	},
-	["Celestial Resort C - Room 0_west"] = {
-		["Celestial Resort C - Room 0_east"] = {
+	["Celestial Resort C - Room 00_west"] = {
+		["Celestial Resort C - Room 00_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'u_dash' }, 'https://www.youtube.com/watch?v=Dor47S2CsRg' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'ul_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=EcGBsKzHSFo' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'celestialresort-dash_refills', 'u_dash' }, 'https://www.youtube.com/watch?v=Dor47S2CsRg' },
@@ -4515,16 +4515,16 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-dash_refills', 'ul_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=EcGBsKzHSFo' },
 		},
 	},
-	["Celestial Resort C - Room 1_west"] = {
-		["Celestial Resort C - Room 1_east"] = {
+	["Celestial Resort C - Room 01_west"] = {
+		["Celestial Resort C - Room 01_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'sinking_platforms', 'u_dash' }, 'https://www.youtube.com/watch?v=l4rjNZ-XSXs' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'celestialresort-sinking_platforms', 'u_dash' }, 'https://www.youtube.com/watch?v=l4rjNZ-XSXs' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'celestialresortc-sinking_platforms', 'u_dash' }, 'https://www.youtube.com/watch?v=l4rjNZ-XSXs' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-sinking_platforms', 'u_dash' }, 'https://www.youtube.com/watch?v=l4rjNZ-XSXs' },
 		},
 	},
-	["Celestial Resort C - Room 2_west"] = {
-		["Celestial Resort C - Room 2_goal"] = {
+	["Celestial Resort C - Room 02_west"] = {
+		["Celestial Resort C - Room 02_goal"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'coins', 'r_dash' }, 'https://www.youtube.com/watch?v=VDBWN6YKAic' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'coins', 'u_dash' }, 'https://www.youtube.com/watch?v=pYOynpkC64s' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'coins', 'ur_dash' }, 'https://www.youtube.com/watch?v=p5wkKSvM6PM' },
@@ -4847,24 +4847,24 @@ VIDEO_LINKS = {
 			{ 5, { 'custom_red', 'split_interactables_per_side', 'b-blue_boosters', 'u_dash', 'ul_dash' }, 'https://www.youtube.com/watch?v=lrNacX1-yE4' },
 		},
 	},
-	["Golden Ridge C - Room 0_west"] = {
-		["Golden Ridge C - Room 0_east"] = {
+	["Golden Ridge C - Room 00_west"] = {
+		["Golden Ridge C - Room 00_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_u_ur', 'blue_boosters' }, 'https://www.youtube.com/watch?v=heG1QgSeITQ' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_r_u_ur', 'goldenridge-blue_boosters' }, 'https://www.youtube.com/watch?v=heG1QgSeITQ' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'any_dash_r_u_ur', 'goldenridgec-blue_boosters' }, 'https://www.youtube.com/watch?v=heG1QgSeITQ' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'any_dash_r_u_ur', 'c-blue_boosters' }, 'https://www.youtube.com/watch?v=heG1QgSeITQ' },
 		},
 	},
-	["Golden Ridge C - Room 1_west"] = {
-		["Golden Ridge C - Room 1_east"] = {
+	["Golden Ridge C - Room 01_west"] = {
+		["Golden Ridge C - Room 01_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_u_ur', 'l_climb', 'move_blocks', 'r_climb' }, 'https://www.youtube.com/watch?v=k5s7LCOcaNQ' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_r_u_ur', 'goldenridge-move_blocks', 'l_climb', 'r_climb' }, 'https://www.youtube.com/watch?v=k5s7LCOcaNQ' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'any_dash_r_u_ur', 'goldenridgec-move_blocks', 'l_climb', 'r_climb' }, 'https://www.youtube.com/watch?v=k5s7LCOcaNQ' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'any_dash_r_u_ur', 'c-move_blocks', 'l_climb', 'r_climb' }, 'https://www.youtube.com/watch?v=k5s7LCOcaNQ' },
 		},
 	},
-	["Golden Ridge C - Room 2_west"] = {
-		["Golden Ridge C - Room 2_goal"] = {
+	["Golden Ridge C - Room 02_west"] = {
+		["Golden Ridge C - Room 02_goal"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'blue_boosters', 'pink_clouds', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=cpa2TTbBgBI' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'goldenridge-blue_boosters', 'goldenridge-pink_clouds', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=cpa2TTbBgBI' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'goldenridgec-blue_boosters', 'goldenridgec-pink_clouds', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=cpa2TTbBgBI' },
@@ -5071,8 +5071,8 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'any_dash_dr_r_ur', 'any_dash_u_ul_ur', 'b-dash_switches', 'r_climb' }, 'https://www.youtube.com/watch?v=Jsc8Cbo8gG0' },
 		},
 	},
-	["Mirror Temple C - Room 0_west"] = {
-		["Mirror Temple C - Room 0_east"] = {
+	["Mirror Temple C - Room 00_west"] = {
+		["Mirror Temple C - Room 00_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'swap_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=3kerR7loiTY' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'mirrortemple-dash_refills', 'mirrortemple-swap_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=3kerR7loiTY' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'mirrortemplec-dash_refills', 'mirrortemplec-swap_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=3kerR7loiTY' },
@@ -5083,16 +5083,16 @@ VIDEO_LINKS = {
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'c-dash_refills', 'c-swap_blocks', 'ur_dash' }, 'https://www.youtube.com/watch?v=JyB573Ai5ng' },
 		},
 	},
-	["Mirror Temple C - Room 1_west"] = {
-		["Mirror Temple C - Room 1_east"] = {
+	["Mirror Temple C - Room 01_west"] = {
+		["Mirror Temple C - Room 01_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'swap_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=8gbgJjNk8NU' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'mirrortemple-swap_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=8gbgJjNk8NU' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'mirrortemplec-swap_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=8gbgJjNk8NU' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-swap_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=8gbgJjNk8NU' },
 		},
 	},
-	["Mirror Temple C - Room 2_west"] = {
-		["Mirror Temple C - Room 2_goal"] = {
+	["Mirror Temple C - Room 02_west"] = {
+		["Mirror Temple C - Room 02_goal"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'dash_switches', 'r_dash', 'red_boosters', 'swap_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=C-o_9RSYNVE' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'dash_switches', 'red_boosters', 'swap_blocks', 'u_dash', 'ul_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=W4Kiv55og4U' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'mirrortemple-dash_refills', 'mirrortemple-dash_switches', 'mirrortemple-red_boosters', 'mirrortemple-swap_blocks', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=C-o_9RSYNVE' },
@@ -5103,8 +5103,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-dash_refills', 'c-dash_switches', 'c-red_boosters', 'c-swap_blocks', 'u_dash', 'ul_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=W4Kiv55og4U' },
 		},
 	},
-	["Reflection A - Room 0_east"] = {
-		["Reflection A - Room 0_west"] = {
+	["Reflection A - Room 00_east"] = {
+		["Reflection A - Room 00_west"] = {
 			{ 4, { 'custom_yellow', 'split_interactables_none', 'u_dash' }, 'https://www.youtube.com/watch?v=gIdfPJZjmrw' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level', 'u_dash' }, 'https://www.youtube.com/watch?v=gIdfPJZjmrw' },
 			{ 4, { 'custom_yellow', 'split_interactables_per_level_and_side', 'u_dash' }, 'https://www.youtube.com/watch?v=gIdfPJZjmrw' },
@@ -5167,16 +5167,16 @@ VIDEO_LINKS = {
 			{ 4, { 'custom_yellow', 'split_interactables_per_side', 'crouch', 'l_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=wTeRBbK1zPU' },
 		},
 	},
-	["Reflection C - Room 0_west"] = {
-		["Reflection C - Room 0_east"] = {
+	["Reflection C - Room 00_west"] = {
+		["Reflection C - Room 00_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'bumpers', 'u_dash' }, 'https://www.youtube.com/watch?v=laIiWVf6cxw' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'reflection-bumpers', 'u_dash' }, 'https://www.youtube.com/watch?v=laIiWVf6cxw' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'reflectionc-bumpers', 'u_dash' }, 'https://www.youtube.com/watch?v=laIiWVf6cxw' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-bumpers', 'u_dash' }, 'https://www.youtube.com/watch?v=laIiWVf6cxw' },
 		},
 	},
-	["Reflection C - Room 1_west"] = {
-		["Reflection C - Room 1_east"] = {
+	["Reflection C - Room 01_west"] = {
+		["Reflection C - Room 01_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'crouch', 'dr_dash', 'feathers', 'r_dash' }, 'https://www.youtube.com/watch?v=wysmJRtA29E' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'feathers', 'r_dash' }, 'https://www.youtube.com/watch?v=h0487VJLJQQ' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'crouch', 'dr_dash', 'r_dash', 'reflection-feathers' }, 'https://www.youtube.com/watch?v=wysmJRtA29E' },
@@ -5187,8 +5187,8 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-feathers', 'crouch', 'dr_dash', 'r_dash' }, 'https://www.youtube.com/watch?v=wysmJRtA29E' },
 		},
 	},
-	["Reflection C - Room 2_west"] = {
-		["Reflection C - Room 2 Binoculars 2"] = {
+	["Reflection C - Room 02_west"] = {
+		["Reflection C - Room 02 Binoculars 2"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_u_ul', 'dash_refills', 'kevin_blocks', 'l_dash', 'r_dash' }, 'https://www.youtube.com/watch?v=Hx6PpuyCKw8' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'kevin_blocks', 'l_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=es7naPESSws' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_u_ul', 'l_dash', 'r_dash', 'reflection-dash_refills', 'reflection-kevin_blocks' }, 'https://www.youtube.com/watch?v=Hx6PpuyCKw8' },
@@ -5198,7 +5198,7 @@ VIDEO_LINKS = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'any_dash_u_ul', 'c-dash_refills', 'c-kevin_blocks', 'l_dash', 'r_dash' }, 'https://www.youtube.com/watch?v=Hx6PpuyCKw8' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-dash_refills', 'c-kevin_blocks', 'l_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=es7naPESSws' },
 		},
-		["Reflection C - Room 2_goal"] = {
+		["Reflection C - Room 02_goal"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_r_ur', 'bumpers', 'dash_refills', 'kevin_blocks', 'l_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=R83Wg7K_4AY' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_r_ur', 'l_dash', 'reflection-bumpers', 'reflection-dash_refills', 'reflection-kevin_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=R83Wg7K_4AY' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'any_dash_r_ur', 'l_dash', 'reflectionc-bumpers', 'reflectionc-dash_refills', 'reflectionc-kevin_blocks', 'u_dash' }, 'https://www.youtube.com/watch?v=R83Wg7K_4AY' },
@@ -5323,8 +5323,8 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'b-springs', 'b-swap_blocks', 'r_climb', 'ur_dash' }, 'https://www.youtube.com/watch?v=em0OfsctcTA' },
 		},
 	},
-	["The Summit C - Room 1_west"] = {
-		["The Summit C - Room 1 Binoculars"] = {
+	["The Summit C - Room 01_west"] = {
+		["The Summit C - Room 01 Binoculars"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'any_dash_dr_r_u_ur' }, 'https://www.youtube.com/watch?v=3CKajVE3Ojg' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'any_dash_dr_r_u_ur' }, 'https://www.youtube.com/watch?v=3CKajVE3Ojg' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'any_dash_dr_r_u_ur' }, 'https://www.youtube.com/watch?v=3CKajVE3Ojg' },
@@ -5334,15 +5334,15 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_level_and_side' }, 'https://www.youtube.com/watch?v=9qFT96O4q48' },
 			{ 3, { 'custom_green', 'split_interactables_per_side' }, 'https://www.youtube.com/watch?v=9qFT96O4q48' },
 		},
-		["The Summit C - Room 1_east"] = {
+		["The Summit C - Room 01_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'badeline_boosters', 'dash_refills', 'u_dash' }, 'https://www.youtube.com/watch?v=gdKrE9MYZ9Y' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'thesummit-badeline_boosters', 'thesummit-dash_refills', 'u_dash' }, 'https://www.youtube.com/watch?v=gdKrE9MYZ9Y' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'thesummitc-badeline_boosters', 'thesummitc-dash_refills', 'u_dash' }, 'https://www.youtube.com/watch?v=gdKrE9MYZ9Y' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_side', 'c-badeline_boosters', 'c-dash_refills', 'u_dash' }, 'https://www.youtube.com/watch?v=gdKrE9MYZ9Y' },
 		},
 	},
-	["The Summit C - Room 2_west"] = {
-		["The Summit C - Room 2_east"] = {
+	["The Summit C - Room 02_west"] = {
+		["The Summit C - Room 02_east"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'badeline_boosters', 'coins', 'd_dash', 'springs', 'u_dash' }, 'https://www.youtube.com/watch?v=YZ5bArEzr1g' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'badeline_boosters', 'coins', 'dl_dash', 'springs', 'u_dash' }, 'https://www.youtube.com/watch?v=urzK0k2aa64' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'badeline_boosters', 'coins', 'l_dash', 'springs', 'u_dash' }, 'https://www.youtube.com/watch?v=6cQ4wX5lqc8' },
@@ -5365,8 +5365,8 @@ VIDEO_LINKS = {
 			{ 3, { 'custom_green', 'split_interactables_per_side', 'c-badeline_boosters', 'c-springs', 'crouch', 'r_dash', 'u_dash' }, 'https://www.youtube.com/watch?v=FR7Guqx-iLc' },
 		},
 	},
-	["The Summit C - Room 3_west"] = {
-		["The Summit C - Room 3_goal"] = {
+	["The Summit C - Room 03_west"] = {
+		["The Summit C - Room 03_goal"] = {
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_none', 'dash_refills', 'pink_clouds', 'r_dash', 'springs', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=Vzk9G_CtQvY' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level', 'r_dash', 'thesummit-dash_refills', 'thesummit-pink_clouds', 'thesummit-springs', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=Vzk9G_CtQvY' },
 			{ 2, { 'logic_difficulty_vanilla', 'split_interactables_per_level_and_side', 'r_dash', 'thesummitc-dash_refills', 'thesummitc-pink_clouds', 'thesummitc-springs', 'u_dash', 'ur_dash' }, 'https://www.youtube.com/watch?v=Vzk9G_CtQvY' },
