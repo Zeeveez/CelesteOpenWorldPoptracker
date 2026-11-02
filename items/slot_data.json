@@ -527,5 +527,48 @@
         "codes": "madeline_feather_hair_color",
         "overlay_align": "left",
         "overlay_font_size": 20
+    },
+    {
+        "name": "Madeline Hair Length",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/icons/very_short.png",
+                "name": "Madeline Hair Length - Very Short",
+                "inherit_codes": false,
+                "codes": "madeline_hair_length,madeline_hair_length_very_short"
+            },
+            {
+                "img": "images/icons/short.png",
+                "name": "Madeline Hair Length - Short",
+                "inherit_codes": false,
+                "codes": "madeline_hair_length,madeline_hair_length_short"
+            },
+            {
+                "img": "images/icons/default.png",
+                "name": "Madeline Hair Length - Default",
+                "inherit_codes": false,
+                "codes": "madeline_hair_length,madeline_hair_length_default"
+            },
+            {
+                "img": "images/icons/long.png",
+                "name": "Madeline Hair Length - Long",
+                "inherit_codes": false,
+                "codes": "madeline_hair_length,madeline_hair_length_long"
+            },
+            {
+                "img": "images/icons/very_long.png",
+                "name": "Madeline Hair Length - Very Long",
+                "inherit_codes": false,
+                "codes": "madeline_hair_length,madeline_hair_length_very_long"
+            },
+            {
+                "img": "images/icons/absurd.png",
+                "name": "Madeline Hair Length - Absurd",
+                "inherit_codes": false,
+                "codes": "madeline_hair_length,madeline_hair_length_absurd"
+            }
+        ]
     }
 ]

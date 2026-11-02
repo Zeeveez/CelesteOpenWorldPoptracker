@@ -52,6 +52,16 @@ SLOT_DATA_MAPPING = {
 	['hiccuptrap'] = { { 'active_traps', '43' } },
 	['zoomtrap'] = { { 'active_traps', '44' } },
 	['tinytrap'] = { { 'active_traps', '45' } },
+	
+	['madeline_hair_length'] = { { 'madeline_hair_length' }, {
+            [1] = 0,
+            [2] = 1,
+            [4] = 2,
+            [7] = 3,
+            [10] = 4,
+            [20] = 5
+        }
+	},
 
 	['death_link_amnesty'] = { { 'death_link_amnesty' }, { 'death_link' } }
 }
