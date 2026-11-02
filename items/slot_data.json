@@ -151,7 +151,8 @@
         "name": "Include Goldens (and Golden Amnesty)",
         "type": "toggle",
         "img": "images/icons/collectables/golden_strawberry.png",
-        "codes": "include_goldens"
+        "codes": "include_goldens",
+        "overlay_font_size": 16
     },
 
 
@@ -368,6 +369,7 @@
         "name": "Trap Expiration Action",
         "type": "progressive",
         "allow_disabled": false,
+        "overlay_font_size": 16,
         "stages": [
             {
                 "img": "images/icons/death_trap_link/return_to_menu.png",

@@ -35,6 +35,8 @@ SLOT_DATA_MAPPING = {
 	['climb_shuffle'] = { { 'climb_shuffle' } },
 	['crouch_shuffle'] = { { 'crouch_shuffle' } },
 	
+	['trap_expiration_action'] = { { 'trap_expiration_action' } },
+	
 	['trap_link'] = { { 'trap_link' } },
 	['baldtrap'] = { { 'active_traps', '32' } },
 	['literaturetrap'] = { { 'active_traps', '33' } },
