@@ -54,9 +54,30 @@ SLOT_DATA_MAPPING = {
 	['death_link_amnesty'] = { { 'death_link_amnesty' }, { 'death_link' } }
 }
 
+local function HairColorColor(color_int)
+	local b = string.format("%x", color_int % 256)
+	color_int = color_int // 256
+	local g = string.format("%x", color_int % 256)
+	local r = string.format("%x", color_int // 256)
+
+	if #r < 2 then r = '0'..r end
+	if #g < 2 then g = '0'..g end
+	if #b < 2 then b = '0'..b end
+	
+	return '#'..r..g..b
+end
+
+local function HairColorConvert(color_int)
+	return '     '..HairColorColor(color_int)
+end
+
 SLOT_DATA_BADGES = {
-	-- ['item name'] = { { 'slot', 'data', 'path' } }
-	['trap_expiration_action'] = { { 'trap_expiration_amount' } },
-	['death_link_amnesty'] = { { 'death_link_amnesty' } },
-	['include_goldens'] = { { 'golden_amnesty' } },
+	-- ['item name'] = { { 'slot', 'data', 'path' }, convert_func, color_func }
+	['trap_expiration_action'] = { { 'trap_expiration_amount' }, nil },
+	['death_link_amnesty'] = { { 'death_link_amnesty' }, nil },
+	['include_goldens'] = { { 'golden_amnesty' }, nil },
+	['madeline_no_dash_hair_color'] = { { 'madeline_no_dash_hair_color' }, HairColorConvert, HairColorColor },
+	['madeline_one_dash_hair_color'] = { { 'madeline_one_dash_hair_color' }, HairColorConvert, HairColorColor },
+	['madeline_two_dash_hair_color'] = { { 'madeline_two_dash_hair_color' }, HairColorConvert, HairColorColor },
+	['madeline_feather_hair_color'] = { { 'madeline_feather_hair_color' }, HairColorConvert, HairColorColor }
 }

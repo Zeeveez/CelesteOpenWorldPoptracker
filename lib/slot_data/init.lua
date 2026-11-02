@@ -36,7 +36,14 @@ function FillSlotData(slot_data)
         local item_obj = Tracker:FindObjectForCode(item)
         if item_obj then
             local slot_value = GetSlotDataValue(slot_data, slot_data_settings[1])
-            if slot_value == nil then
+            local convert_func = slot_data_settings[2]
+            local color_func = slot_data_settings[3]
+            if color_func ~= nil then
+                item_obj.BadgeTextColor = color_func(slot_value)
+            end
+            if convert_func ~= nil then
+                slot_value = convert_func(slot_value)
+            elseif slot_value == nil then
                 slot_value = ''
             end
             item_obj.BadgeText = slot_value

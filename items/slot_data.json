@@ -492,5 +492,38 @@
         "codes": "tinytrap",
         "max_quantity": 4,
         "overlay_font_size": 16
+    },
+
+    {
+        "name": "Madeline No Dash Hair Colour",
+        "type": "static",
+        "img": "images/icons/madeline_no_dash.png",
+        "codes": "madeline_no_dash_hair_color",
+        "overlay_align": "left",
+        "overlay_font_size": 20
+    },
+    {
+        "name": "Madeline One Dash Hair Colour",
+        "type": "static",
+        "img": "images/icons/madeline_one_dash.png",
+        "codes": "madeline_one_dash_hair_color",
+        "overlay_align": "left",
+        "overlay_font_size": 20
+    },
+    {
+        "name": "Madeline Two Dash Hair Colour",
+        "type": "static",
+        "img": "images/icons/madeline_two_dash.png",
+        "codes": "madeline_two_dash_hair_color",
+        "overlay_align": "left",
+        "overlay_font_size": 20
+    },
+    {
+        "name": "Madeline Feather Hair Colour",
+        "type": "static",
+        "img": "images/icons/madeline_feather.png",
+        "codes": "madeline_feather_hair_color",
+        "overlay_align": "left",
+        "overlay_font_size": 20
     }
 ]
